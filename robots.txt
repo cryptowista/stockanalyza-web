@@ -1,4 +1,50 @@
+# robots.txt for stockanalyza.com
+# Curated overview for AI: /llms.txt
+
 User-agent: *
 Allow: /
+
+# Explicit permission for the main AI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Content Signals (contentsignals.org)
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
 Sitemap: https://stockanalyza.com/sitemap.xml

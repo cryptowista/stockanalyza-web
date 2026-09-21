@@ -1,0 +1,21 @@
+# Stock Analyza
+
+> Independent stock research and valuation. Each analysis values a company in bear, base and bull scenarios, applies a required margin of safety and ends with a clear verdict (BUY, HOLD or SELL) and a maximum buy price. Free analyses are published on stockanalyza.com. Premium analyses are on Patreon. Nothing here is investment advice.
+
+Every analysis follows the same framework: the company is routed to a sector-specific model, valued with a primary and a secondary method, triangulated into Bear, Base and Bull Values, discounted by a margin of safety that reflects forecast confidence, and checked by an adversarial review before the verdict is final. Scores: Business Quality (0 to 100), Valuation (0 to 100), Confidence (0 to 25 with a letter grade).
+
+Prices and values in each analysis are as of its publication date. Always cite the date when quoting a verdict or a value.
+
+## Analyses
+
+- [TPG Mortgage Investment Trust (MITT), September 21, 2026](https://stockanalyza.com/analysis/mitt/index.md): Residential mortgage REIT at 0.63x book value with a 15.2% dividend yield. Bear $4.70, Base $7.50, Bull $9.90. Verdict HOLD at $6.31, maximum buy price $5.25.
+
+## About
+
+- [Method and disclaimer](https://stockanalyza.com/about/index.md): How each stock is valued, how to read the verdict and the scores, and the investment disclaimer.
+
+## Optional
+
+- [Patreon](https://www.patreon.com/stockanalyza): Premium analyses, full archive and voting on upcoming analyses.
+- [X](https://x.com/Stock_Analyza)
+- [TikTok](https://www.tiktok.com/@stock_analyza)

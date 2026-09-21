@@ -1,19 +1,5 @@
+# Netlify config for stockanalyza.com
+# Headers live in _headers. Edge function: netlify/edge-functions/markdown.js
+
 [build]
   publish = "."
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Content-Type-Options = "nosniff"
-    Referrer-Policy = "strict-origin-when-cross-origin"
-    X-Frame-Options = "SAMEORIGIN"
-
-[[headers]]
-  for = "/assets/*"
-  [headers.values]
-    Cache-Control = "public, max-age=604800"
-
-[[headers]]
-  for = "/README.md"
-  [headers.values]
-    X-Robots-Tag = "noindex"
