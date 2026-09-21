@@ -102,28 +102,44 @@
     <p class="small" style="margin:0"><a href="/analysis/amd/">Read the full AMD analysis</a></p>
   </section>
 
-  <h2>All analyses</h2>
+  <h2 id="all">All analyses</h2>
+  <div class="filter" data-filter hidden>
+    <label class="filter-search">
+      <span class="sr-only">Search by ticker or company</span>
+      <input type="search" placeholder="Search ticker or company" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+      <kbd class="filter-key" aria-hidden="true">/</kbd>
+    </label>
+    <div class="filter-verdicts" role="group" aria-label="Filter by verdict">
+      <button type="button" data-v="all" aria-pressed="true">All <span class="count"></span></button>
+      <button type="button" data-v="buy" aria-pressed="false">Buy <span class="count"></span></button>
+      <button type="button" data-v="hold" aria-pressed="false">Hold <span class="count"></span></button>
+      <button type="button" data-v="sell" aria-pressed="false">Sell <span class="count"></span></button>
+    </div>
+    <p class="filter-status small" aria-live="polite"></p>
+  </div>
   <div class="table-scroll list-table">
-    <table>
+    <table data-list>
       <thead>
-        <tr><th>Company</th><th>Date</th><th>Verdict</th><th class="num">Price</th><th class="num">Base value</th><th class="num">Max buy</th></tr>
+        <tr><th data-sort="ticker">Company</th><th data-sort="date" aria-sort="descending">Date</th><th>Verdict</th><th class="num">Price</th><th class="num">Base value</th><th class="num" data-sort="upside">vs Base</th><th class="num">Max buy</th></tr>
       </thead>
       <tbody>
-        <!-- New rows go on top -->
-        <tr>
+        <!-- New rows go on top. Keep the data attributes: ticker, company, date (YYYY-MM-DD), verdict (buy/hold/sell), upside (% to Base, number) -->
+        <tr data-ticker="AMD" data-company="Advanced Micro Devices" data-date="2026-09-21" data-verdict="sell" data-upside="-59.4">
           <td><a href="/analysis/amd/">AMD</a> <span class="small">Advanced Micro Devices</span></td>
           <td>Sep 21, 2026</td>
           <td><span class="v v-sell">Sell</span></td>
           <td class="num">$615.53</td>
           <td class="num">$250.00</td>
+          <td class="num">-59.4%</td>
           <td class="num">$125.00</td>
         </tr>
-        <tr>
+        <tr data-ticker="MITT" data-company="TPG Mortgage Investment Trust" data-date="2026-09-21" data-verdict="hold" data-upside="18.9">
           <td><a href="/analysis/mitt/">MITT</a> <span class="small">TPG Mortgage Investment Trust</span></td>
           <td>Sep 21, 2026</td>
           <td><span class="v v-hold">Hold</span></td>
           <td class="num">$6.31</td>
           <td class="num">$7.50</td>
+          <td class="num">+18.9%</td>
           <td class="num">$5.25</td>
         </tr>
       </tbody>
@@ -152,5 +168,6 @@
 </footer>
 
 <script src="/assets/ruler.js" defer></script>
+<script src="/assets/filter.js" defer></script>
 </body>
 </html>
