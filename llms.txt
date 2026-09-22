@@ -8,6 +8,7 @@ Prices and values in each analysis are as of its publication date. Always cite t
 
 ## Analyses
 
+- [Accenture (ACN), September 22, 2026](https://stockanalyza.com/analysis/acn/index.md): Diversified IT consulting and managed services firm near fair value. Bear $137, Base $195, Bull $285. Verdict HOLD at $186.11, maximum buy price $127.
 - [Advanced Micro Devices (AMD), September 21, 2026](https://stockanalyza.com/analysis/amd/index.md): AI chip and server CPU maker at 131x trailing free cash flow, with up to 320 million OpenAI and Meta warrant shares. Bear $77, Base $250, Bull $466. Verdict SELL at $615.53, maximum buy price $125.
 - [TPG Mortgage Investment Trust (MITT), September 21, 2026](https://stockanalyza.com/analysis/mitt/index.md): Residential mortgage REIT at 0.63x book value with a 15.2% dividend yield. Bear $4.70, Base $7.50, Bull $9.90. Verdict HOLD at $6.31, maximum buy price $5.25.
 
