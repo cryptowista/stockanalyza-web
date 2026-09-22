@@ -23,7 +23,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css">
+<link rel="stylesheet" href="/assets/styles.css?v=2">
 
 <script type="application/ld+json">
 {
@@ -79,33 +79,33 @@
   <!-- LATEST: replace this block with the newest analysis -->
   <p class="latest-label">Latest analysis, September 22, 2026</p>
   <section class="verdict latest" data-verdict="hold">
-    <h2><a href="/analysis/acn/">Accenture (ACN)</a></h2>
-    <p class="verdict-note">A durable consulting and managed-services franchise trading close to fair value, with limited protection if AI reduces billable work faster than it creates new demand.</p>
-    <p class="verdict-call"><span class="call">Hold</span> at $186.11</p>
+    <h2><a href="/analysis/trox/">Tronox (TROX)</a></h2>
+    <p class="verdict-note">A titanium dioxide recovery could pay off, but equity is a thin residual behind $3.2 billion of financing and cash conversion is unproven. Watchlist, no new buy, no buy price issued.</p>
+    <p class="verdict-call"><span class="call">Hold</span> at $4.40</p>
 
-    <figure class="ruler" aria-label="Bear $137, base $195, bull $285, price $186.11, maximum buy price $127">
+    <figure class="ruler" aria-label="Bear $0 (equity wiped out), base $3.45, bull $10.61, price $4.40, no buy zone">
       <div class="ruler-track">
-        <span class="ruler-range" data-from="137" data-to="285"></span>
-        <span class="ruler-zone" data-from="start" data-to="127"></span>
-        <span class="ruler-tick" data-value="137"></span>
-        <span class="ruler-tick" data-value="195"></span>
-        <span class="ruler-tick" data-value="285"></span>
-        <span class="ruler-price" data-value="186.11"><span>Price $186.11</span></span>
+        <span class="ruler-range" data-from="0" data-to="10.61"></span>
+        <span class="ruler-tick" data-value="0"></span>
+        <span class="ruler-tick" data-value="3.45"></span>
+        <span class="ruler-tick" data-value="10.61"></span>
+        <span class="ruler-price" data-value="4.40"><span>Price $4.40</span></span>
       </div>
       <div class="ruler-labels" aria-hidden="true">
-        <span data-value="137">Bear<b>$137</b></span>
-        <span data-value="195">Base<b>$195</b></span>
-        <span data-value="285">Bull<b>$285</b></span>
+        <span data-value="0">Bear<i class="ruler-extra">, equity wiped out</i><b>$0</b></span>
+        <span data-value="3.45">Base<b>$3.45</b></span>
+        <span data-value="10.61">Bull<b>$10.61</b></span>
       </div>
-      <figcaption>Hatched area: buy zone at or below $127.</figcaption>
+      <figcaption>Bear $0: equity wiped out in the stress case. No buy zone: the required margin of safety exceeds the framework's ceiling.</figcaption>
     </figure>
-    <p class="small" style="margin:0"><a href="/analysis/acn/">Read the full ACN analysis</a></p>
+    <p class="small" style="margin:0"><a href="/analysis/trox/">Read the full TROX analysis</a></p>
   </section>
 
   <h2 id="all">All analyses</h2>
   <div class="filter" data-filter hidden>
     <label class="filter-search">
       <span class="sr-only">Search by ticker or company</span>
+      <svg class="filter-icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m13 13 4 4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
       <input type="search" placeholder="Search ticker or company" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
       <kbd class="filter-key" aria-hidden="true">/</kbd>
     </label>
@@ -124,6 +124,42 @@
       </thead>
       <tbody>
         <!-- New rows go on top. Keep the data attributes: ticker, company, date (YYYY-MM-DD), verdict (buy/hold/sell), upside (% to Base, number) -->
+        <tr data-ticker="TROX" data-company="Tronox Holdings" data-date="2026-09-22" data-verdict="hold" data-upside="-21.7">
+          <td><a href="/analysis/trox/">TROX</a> <span class="small">Tronox Holdings</span></td>
+          <td>Sep 22, 2026</td>
+          <td><span class="v v-hold">Hold</span></td>
+          <td class="num">$4.40</td>
+          <td class="num">$3.45</td>
+          <td class="num">-21.7%</td>
+          <td class="num">None</td>
+        </tr>
+        <tr data-ticker="KGF" data-company="Kingfisher" data-date="2026-09-22" data-verdict="hold" data-upside="-13.9">
+          <td><a href="/analysis/kgf/">KGF</a> <span class="small">Kingfisher</span></td>
+          <td>Sep 22, 2026</td>
+          <td><span class="v v-hold">Hold</span></td>
+          <td class="num">343.70p</td>
+          <td class="num">295.77p</td>
+          <td class="num">-13.9%</td>
+          <td class="num">177p</td>
+        </tr>
+        <tr data-ticker="SOFI" data-company="SoFi Technologies" data-date="2026-09-22" data-verdict="hold" data-upside="-13.5">
+          <td><a href="/analysis/sofi/">SOFI</a> <span class="small">SoFi Technologies</span></td>
+          <td>Sep 22, 2026</td>
+          <td><span class="v v-hold">Hold</span></td>
+          <td class="num">$17.16</td>
+          <td class="num">$14.84</td>
+          <td class="num">-13.5%</td>
+          <td class="num">$8.16</td>
+        </tr>
+        <tr data-ticker="RPAY" data-company="Repay Holdings" data-date="2026-09-22" data-verdict="hold" data-upside="18.7">
+          <td><a href="/analysis/rpay/">RPAY</a> <span class="small">Repay Holdings</span></td>
+          <td>Sep 22, 2026</td>
+          <td><span class="v v-hold">Hold</span></td>
+          <td class="num">$3.84</td>
+          <td class="num">$4.56</td>
+          <td class="num">+18.7%</td>
+          <td class="num">$2.05</td>
+        </tr>
         <tr data-ticker="ACN" data-company="Accenture" data-date="2026-09-22" data-verdict="hold" data-upside="5.0">
           <td><a href="/analysis/acn/">ACN</a> <span class="small">Accenture</span></td>
           <td>Sep 22, 2026</td>
@@ -176,7 +212,7 @@
   </div>
 </footer>
 
-<script src="/assets/ruler.js" defer></script>
-<script src="/assets/filter.js" defer></script>
+<script src="/assets/ruler.js?v=2" defer></script>
+<script src="/assets/filter.js?v=2" defer></script>
 </body>
 </html>

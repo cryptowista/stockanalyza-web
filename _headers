@@ -16,6 +16,18 @@
 /analysis/amd/
   Link: </analysis/amd/index.md>; rel="alternate"; type="text/markdown"
 
+/analysis/rpay/
+  Link: </analysis/rpay/index.md>; rel="alternate"; type="text/markdown"
+
+/analysis/sofi/
+  Link: </analysis/sofi/index.md>; rel="alternate"; type="text/markdown"
+
+/analysis/kgf/
+  Link: </analysis/kgf/index.md>; rel="alternate"; type="text/markdown"
+
+/analysis/trox/
+  Link: </analysis/trox/index.md>; rel="alternate"; type="text/markdown"
+
 /about/
   Link: </about/index.md>; rel="alternate"; type="text/markdown"
 
@@ -36,7 +48,7 @@
   Content-Type: application/xml; charset=utf-8
 
 /assets/*
-  Cache-Control: public, max-age=604800
+  Cache-Control: public, max-age=3600, must-revalidate
 
 /README.md
   X-Robots-Tag: noindex
