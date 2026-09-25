@@ -1,0 +1,20 @@
+{
+  "ticker": "CGNX",
+  "slug": "cgnx",
+  "name": "Cognex (CGNX)",
+  "company": "Cognex",
+  "companyShort": "Cognex",
+  "date": "2026-09-25",
+  "order": 22,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $57.70",
+  "price": "$57.70",
+  "base": "$45.90",
+  "upside": "-20.4",
+  "upsideText": "-20.4%",
+  "maxBuy": "$29.84",
+  "teaser": "Watchlist for new money. Cognex is a high-quality machine vision leader in a strong recovery, but the shares trade about 26% above the Base value. Industrial cyclicality and the unproven RealSense acquisition call for a 35% margin of safety, which puts the buy zone at $29.84 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $35.03, base $45.90, bull $65.76, current price $57.70, buy zone at or below $29.84\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"35.03\" data-to=\"65.76\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"29.84\"></span>\n        <span class=\"ruler-tick\" data-value=\"35.03\"></span>\n        <span class=\"ruler-tick\" data-value=\"45.90\"></span>\n        <span class=\"ruler-tick\" data-value=\"65.76\"></span>\n        <span class=\"ruler-price\" data-value=\"57.70\"><span>Price $57.70</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"35.03\">Bear<b>$35.03</b></span>\n        <span data-value=\"45.90\">Base<b>$45.90</b></span>\n        <span data-value=\"65.76\">Bull<b>$65.76</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $29.84.</figcaption>\n    </figure>",
+  "llms": "Industrial machine vision leader in a strong cyclical recovery, acquiring RealSense for robotic perception, valued on normalized EV to EBITDA and free cash flow after stock compensation; the price implies Bull-case EBITDA. Bear $35.03, Base $45.90, Bull $65.76. Verdict HOLD at $57.70 (watchlist for new money), maximum buy price $29.84."
+}

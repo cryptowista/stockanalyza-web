@@ -1,0 +1,20 @@
+{
+  "ticker": "ISRG",
+  "slug": "isrg",
+  "name": "Intuitive Surgical (ISRG)",
+  "company": "Intuitive Surgical",
+  "companyShort": "Intuitive Surgical",
+  "date": "2026-09-25",
+  "order": 20,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $399.52",
+  "price": "$399.52",
+  "base": "$289.88",
+  "upside": "-27.4",
+  "upsideText": "-27.4%",
+  "maxBuy": "$217.41",
+  "teaser": "Do not add. Intuitive is an exceptional compounder, and because the business is so predictable the margin of safety is only 25%. But the shares trade 38% above the Base value and even above the Bull value. The buy zone starts at $217.41.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $185.10, base $289.88, bull $376.24, current price $399.52, buy zone at or below $217.41\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"185.10\" data-to=\"376.24\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"217.41\"></span>\n        <span class=\"ruler-tick\" data-value=\"185.10\"></span>\n        <span class=\"ruler-tick\" data-value=\"289.88\"></span>\n        <span class=\"ruler-tick\" data-value=\"376.24\"></span>\n        <span class=\"ruler-price\" data-value=\"399.52\"><span>Price $399.52</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"185.10\">Bear<b>$185.10</b></span>\n        <span data-value=\"289.88\">Base<b>$289.88</b></span>\n        <span data-value=\"376.24\">Bull<b>$376.24</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $217.41.</figcaption>\n    </figure>",
+  "llms": "da Vinci surgical robot maker with 84% recurring revenue, valued as a compounder with a 10-year two-stage DCF on free cash flow after stock compensation; the price implies about 19% annual cash flow growth. Bear $185.10, Base $289.88, Bull $376.24. Verdict HOLD at $399.52 (do not add), maximum buy price $217.41."
+}

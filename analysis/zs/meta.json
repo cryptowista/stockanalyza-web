@@ -1,0 +1,20 @@
+{
+  "ticker": "ZS",
+  "slug": "zs",
+  "name": "Zscaler (ZS)",
+  "company": "Zscaler",
+  "companyShort": "Zscaler",
+  "date": "2026-09-25",
+  "order": 18,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $214.64",
+  "price": "$214.64",
+  "base": "$164.30",
+  "upside": "-23.5",
+  "upsideText": "-23.5%",
+  "maxBuy": "$98.58",
+  "teaser": "Do not add. Zscaler is a high-quality security platform, but the shares trade about 31% above the Base value once stock compensation is treated as a real cost. The two valuation methods diverge sharply, so a 40% margin of safety is required and the buy zone starts at $98.58.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $148.40, base $164.30, bull $243.49, current price $214.64, buy zone at or below $98.58\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"148.40\" data-to=\"243.49\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"98.58\"></span>\n        <span class=\"ruler-tick\" data-value=\"148.40\"></span>\n        <span class=\"ruler-tick\" data-value=\"164.30\"></span>\n        <span class=\"ruler-tick\" data-value=\"243.49\"></span>\n        <span class=\"ruler-price\" data-value=\"214.64\"><span>Price $214.64</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"148.40\">Bear<b>$148.40</b></span>\n        <span data-value=\"164.30\">Base<b>$164.30</b></span>\n        <span data-value=\"243.49\">Bull<b>$243.49</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $98.58.</figcaption>\n    </figure>",
+  "llms": "Zero Trust cloud security subscription platform whose fiscal 2026 stock compensation ($822 million) exceeded free cash flow ($779 million), valued on forward EV to revenue and free cash flow after stock compensation. Bear $148.40, Base $164.30, Bull $243.49. Verdict HOLD at $214.64 (do not add), maximum buy price $98.58."
+}

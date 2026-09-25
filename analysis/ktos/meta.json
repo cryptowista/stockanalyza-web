@@ -1,0 +1,20 @@
+{
+  "ticker": "KTOS",
+  "slug": "ktos",
+  "name": "Kratos Defense & Security Solutions (KTOS)",
+  "company": "Kratos Defense & Security Solutions",
+  "companyShort": "Kratos Defense",
+  "date": "2026-09-25",
+  "order": 16,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $47.04",
+  "price": "$47.04",
+  "base": "$45.04",
+  "upside": "-4.2",
+  "upsideText": "-4.2%",
+  "maxBuy": "$27.03",
+  "teaser": "Watchlist for new money. The shares trade 4% above the Base value. Revenue growth and the balance sheet are excellent, but earnings and cash flow have not caught up, and the two valuation methods disagree sharply. A 40% margin of safety is required, which puts the buy zone at $27.03 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $36.84, base $45.04, bull $69.74, current price $47.04, buy zone at or below $27.03\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"36.84\" data-to=\"69.74\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"27.03\"></span>\n        <span class=\"ruler-tick\" data-value=\"36.84\"></span>\n        <span class=\"ruler-tick\" data-value=\"45.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"69.74\"></span>\n        <span class=\"ruler-price\" data-value=\"47.04\"><span>Price $47.04</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"36.84\">Bear<b>$36.84</b></span>\n        <span data-value=\"45.04\">Base<b>$45.04</b></span>\n        <span data-value=\"69.74\">Bull<b>$69.74</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $27.03.</figcaption>\n    </figure>",
+  "llms": "Fast-growing defense technology manufacturer (hypersonics, drones, engines, space) with $1.4 billion of cash, valued on forward EV to sales and EBITDA after stock compensation; the two methods diverge sharply. Bear $36.84, Base $45.04, Bull $69.74. Verdict HOLD at $47.04 (watchlist for new money), maximum buy price $27.03."
+}

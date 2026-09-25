@@ -1,5 +1,10 @@
 # Netlify config for stockanalyza.com
-# Headers live in _headers. Edge function: netlify/edge-functions/markdown.js
+# Eleventy builds the site into _site. Headers are generated into _site/_headers.
+# Edge function: netlify/edge-functions/markdown.js
 
 [build]
-  publish = "."
+  command = "npm run build"
+  publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "22"

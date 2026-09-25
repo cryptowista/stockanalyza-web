@@ -1,0 +1,20 @@
+{
+  "ticker": "AMD",
+  "slug": "amd",
+  "name": "Advanced Micro Devices (AMD)",
+  "company": "Advanced Micro Devices",
+  "companyShort": "Advanced Micro Devices",
+  "date": "2026-09-21",
+  "order": 2,
+  "verdict": "sell",
+  "verdictLabel": "Sell",
+  "call": "<span class=\"call\">Sell</span> at $615.53",
+  "price": "$615.53",
+  "base": "$250.00",
+  "upside": "-59.4",
+  "upsideText": "-59.4%",
+  "maxBuy": "$125.00",
+  "teaser": "A strong and improving business, but the price sits above even the Bull value once warrant dilution is counted.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $77, base $250, bull $466, current price $615.53, maximum buy price $125\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"77\" data-to=\"466\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"125\"></span>\n        <span class=\"ruler-tick\" data-value=\"77\"></span>\n        <span class=\"ruler-tick\" data-value=\"250\"></span>\n        <span class=\"ruler-tick\" data-value=\"466\"></span>\n        <span class=\"ruler-price\" data-value=\"615.53\"><span>Price $615.53</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"77\">Bear<b>$77</b></span>\n        <span data-value=\"250\">Base<b>$250</b></span>\n        <span data-value=\"466\">Bull<b>$466</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below the $125 maximum buy price. Shaded band: bear to bull value range.</figcaption>\n    </figure>",
+  "llms": "AI chip and server CPU maker at 131x trailing free cash flow, with up to 320 million OpenAI and Meta warrant shares. Bear $77, Base $250, Bull $466. Verdict SELL at $615.53, maximum buy price $125."
+}

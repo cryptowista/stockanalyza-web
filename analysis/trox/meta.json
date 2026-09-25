@@ -1,0 +1,20 @@
+{
+  "ticker": "TROX",
+  "slug": "trox",
+  "name": "Tronox Holdings (TROX)",
+  "company": "Tronox Holdings",
+  "companyShort": "Tronox Holdings",
+  "date": "2026-09-22",
+  "order": 7,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $4.40",
+  "price": "$4.40",
+  "base": "$3.45",
+  "upside": "-21.7",
+  "upsideText": "-21.7%",
+  "maxBuy": "None",
+  "teaser": "Watchlist, no new buy. The price sits above the recovery-case Base value, and the required 70% margin of safety exceeds the framework's ceiling, so no buy price is issued.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0 (equity wiped out), base $3.45, bull $10.61, current price $4.40, no buy zone\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0\" data-to=\"10.61\"></span>\n        <span class=\"ruler-tick\" data-value=\"0\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.45\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.61\"></span>\n        <span class=\"ruler-price\" data-value=\"4.40\"><span>Price $4.40</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0\">Bear<i class=\"ruler-extra\">, equity wiped out</i><b>$0</b></span>\n        <span data-value=\"3.45\">Base<b>$3.45</b></span>\n        <span data-value=\"10.61\">Bull<b>$10.61</b></span>\n      </div>\n      <figcaption>Bear $0: in the stress case, common equity is wiped out because enterprise value does not cover the debt. No buy zone: the required margin of safety exceeds the framework's 60% ceiling.</figcaption>\n    </figure>",
+  "llms": "Leveraged titanium dioxide and mineral sands producer in a cyclical trough; equity is a thin residual behind about $3.2 billion of financing. Bear $0 (equity wiped out in the stress case), Base $3.45, Bull $10.61. Verdict WATCHLIST, NO NEW BUY at $4.40; no maximum buy price issued because the required margin of safety exceeds the framework ceiling."
+}

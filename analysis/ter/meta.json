@@ -1,0 +1,20 @@
+{
+  "ticker": "TER",
+  "slug": "ter",
+  "name": "Teradyne (TER)",
+  "company": "Teradyne",
+  "companyShort": "Teradyne",
+  "date": "2026-09-25",
+  "order": 19,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $387.70",
+  "price": "$387.70",
+  "base": "$236.22",
+  "upside": "-39.1",
+  "upsideText": "-39.1%",
+  "maxBuy": "$153.54",
+  "teaser": "Teradyne is an excellent business at the top of an exceptional AI cycle. The shares trade 64% above the Base value, and even the Bull value is 12% below the price. The buy zone starts at $153.54.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $171.85, base $236.22, bull $341.67, current price $387.70, buy zone at or below $153.54\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"171.85\" data-to=\"341.67\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"153.54\"></span>\n        <span class=\"ruler-tick\" data-value=\"171.85\"></span>\n        <span class=\"ruler-tick\" data-value=\"236.22\"></span>\n        <span class=\"ruler-tick\" data-value=\"341.67\"></span>\n        <span class=\"ruler-price\" data-value=\"387.70\"><span>Price $387.70</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"171.85\">Bear<b>$171.85</b></span>\n        <span data-value=\"236.22\">Base<b>$236.22</b></span>\n        <span data-value=\"341.67\">Bull<b>$341.67</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $153.54.</figcaption>\n    </figure>",
+  "llms": "Semiconductor test equipment and robotics company in a record AI upcycle, valued on normalized mid-cycle EV to EBITDA and free cash flow after stock compensation; the price implies mid-cycle EBITDA well above the 2027 consensus peak. Bear $171.85, Base $236.22, Bull $341.67. Verdict REDUCE at $387.70, maximum buy price $153.54."
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "ACN",
+  "slug": "acn",
+  "name": "Accenture (ACN)",
+  "company": "Accenture",
+  "companyShort": "Accenture",
+  "date": "2026-09-22",
+  "order": 3,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $186.11",
+  "price": "$186.11",
+  "base": "$195.33",
+  "upside": "5.0",
+  "upsideText": "+5.0%",
+  "maxBuy": "$127.00",
+  "teaser": "A durable consulting and managed-services franchise trading close to fair value, with limited protection if AI reduces billable work faster than it creates new demand.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $137, base $195, bull $285, current price $186.11, maximum buy price $127\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"137\" data-to=\"285\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"127\"></span>\n        <span class=\"ruler-tick\" data-value=\"137\"></span>\n        <span class=\"ruler-tick\" data-value=\"195\"></span>\n        <span class=\"ruler-tick\" data-value=\"285\"></span>\n        <span class=\"ruler-price\" data-value=\"186.11\"><span>Price $186.11</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"137\">Bear<b>$137</b></span>\n        <span data-value=\"195\">Base<b>$195</b></span>\n        <span data-value=\"285\">Bull<b>$285</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below the $127 maximum buy price. Shaded band: bear to bull value range.</figcaption>\n    </figure>",
+  "llms": "Diversified IT consulting and managed services firm near fair value. Bear $137, Base $195, Bull $285. Verdict HOLD at $186.11, maximum buy price $127."
+}

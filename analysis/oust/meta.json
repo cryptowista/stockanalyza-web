@@ -1,0 +1,20 @@
+{
+  "ticker": "OUST",
+  "slug": "oust",
+  "name": "Ouster (OUST)",
+  "company": "Ouster",
+  "companyShort": "Ouster",
+  "date": "2026-09-25",
+  "order": 23,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $41.37",
+  "price": "$41.37",
+  "base": "$25.28",
+  "upside": "-38.9",
+  "upsideText": "-38.9%",
+  "maxBuy": "$12.64",
+  "teaser": "Digital lidar for robots, drones and smart infrastructure, growing 56% with $454 million of cash. But it still loses money, trades at 11.5x sales and sits above even its Bull value.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $15.78, base $25.28, bull $40.80, current price $41.37, buy zone at or below $12.64\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"15.78\" data-to=\"40.80\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"12.64\"></span>\n        <span class=\"ruler-tick\" data-value=\"15.78\"></span>\n        <span class=\"ruler-tick\" data-value=\"25.28\"></span>\n        <span class=\"ruler-tick\" data-value=\"40.80\"></span>\n        <span class=\"ruler-price\" data-value=\"41.37\"><span>Price $41.37</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"15.78\">Bear<b>$15.78</b></span>\n        <span data-value=\"25.28\">Base<b>$25.28</b></span>\n        <span data-value=\"40.80\">Bull<b>$40.80</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $12.64.</figcaption>\n    </figure>",
+  "llms": "Digital lidar and perception company for physical AI, growing over 50% but still unprofitable, valued on forward EV to revenue after cash burn and a normalized profitability model; the price sits above even the Bull value. Bear $15.78, Base $25.28, Bull $40.80. Verdict REDUCE at $41.37, maximum buy price $12.64."
+}

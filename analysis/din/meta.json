@@ -1,0 +1,20 @@
+{
+  "ticker": "DIN",
+  "slug": "din",
+  "name": "Dine Brands Global (DIN)",
+  "company": "Dine Brands Global",
+  "companyShort": "Dine Brands Global",
+  "date": "2026-09-24",
+  "order": 12,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $28.68",
+  "price": "$28.68",
+  "base": "$29.54",
+  "upside": "3.0",
+  "upsideText": "+3.0%",
+  "maxBuy": "$14.77",
+  "teaser": "Watchlist for new money. Once stock compensation is counted as a cost, the price almost exactly matches the Base value. Debt makes the equity extremely sensitive, so a 50% margin of safety is required, which puts the buy zone at $14.77 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $8.33, base $29.54, bull $52.57, current price $28.68, buy zone at or below $14.77\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"8.33\" data-to=\"52.57\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"14.77\"></span>\n        <span class=\"ruler-tick\" data-value=\"8.33\"></span>\n        <span class=\"ruler-tick\" data-value=\"29.54\"></span>\n        <span class=\"ruler-tick\" data-value=\"52.57\"></span>\n        <span class=\"ruler-price\" data-value=\"28.68\"><span>Price $28.68</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"8.33\">Bear<b>$8.33</b></span>\n        <span data-value=\"29.54\">Base<b>$29.54</b></span>\n        <span data-value=\"52.57\">Bull<b>$52.57</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $14.77.</figcaption>\n    </figure>",
+  "llms": "Franchisor of Applebee's, IHOP and Fuzzy's Taco Shop with $1.1 billion of net debt, valued on EV to EBITDA after stock compensation and normalized owner earnings. Bear $8.33, Base $29.54, Bull $52.57. Verdict HOLD at $28.68 (watchlist for new money), maximum buy price $14.77."
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "UPBD",
+  "slug": "upbd",
+  "name": "Upbound Group (UPBD)",
+  "company": "Upbound Group",
+  "companyShort": "Upbound Group",
+  "date": "2026-09-23",
+  "order": 8,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $16.89",
+  "price": "$16.89",
+  "base": "$23.16",
+  "upside": "37.1",
+  "upsideText": "+37.1%",
+  "maxBuy": "$11.58",
+  "teaser": "Watchlist for new money. The shares trade 27% below the Base value, but leverage and an unresolved regulatory case call for a 50% margin of safety, which puts the buy zone at $11.58 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $12.89, base $23.16, bull $34.50, current price $16.89, buy zone at or below $11.58\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"12.89\" data-to=\"34.50\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"11.58\"></span>\n        <span class=\"ruler-tick\" data-value=\"12.89\"></span>\n        <span class=\"ruler-tick\" data-value=\"23.16\"></span>\n        <span class=\"ruler-tick\" data-value=\"34.50\"></span>\n        <span class=\"ruler-price\" data-value=\"16.89\"><span>Price $16.89</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"12.89\">Bear<b>$12.89</b></span>\n        <span data-value=\"23.16\">Base<b>$23.16</b></span>\n        <span data-value=\"34.50\">Bull<b>$34.50</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $11.58.</figcaption>\n    </figure>",
+  "llms": "Lease-to-own and consumer finance group (Acima, Rent-A-Center, Brigit) valued on EBITDA after stock compensation and legal costs and on normalized owner FCF, with an unresolved regulatory case over whether lease-to-own is lending. Bear $12.89, Base $23.16, Bull $34.50. Verdict HOLD at $16.89 (watchlist for new money), maximum buy price $11.58."
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "MRX",
+  "slug": "mrx",
+  "name": "Marex Group (MRX)",
+  "company": "Marex Group",
+  "companyShort": "Marex Group",
+  "date": "2026-09-24",
+  "order": 11,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $71.59",
+  "price": "$71.59",
+  "base": "$75.55",
+  "upside": "5.5",
+  "upsideText": "+5.5%",
+  "maxBuy": "$52.89",
+  "teaser": "Watchlist for new money. Marex is a high-quality compounder trading just 5% below Base value. Earnings depend on market activity and acquisitions, so a 30% margin of safety is required, which puts the buy zone at $52.89 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $48.04, base $75.55, bull $100.23, current price $71.59, buy zone at or below $52.89\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"48.04\" data-to=\"100.23\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"52.89\"></span>\n        <span class=\"ruler-tick\" data-value=\"48.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"75.55\"></span>\n        <span class=\"ruler-tick\" data-value=\"100.23\"></span>\n        <span class=\"ruler-price\" data-value=\"71.59\"><span>Price $71.59</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"48.04\">Bear<b>$48.04</b></span>\n        <span data-value=\"75.55\">Base<b>$75.55</b></span>\n        <span data-value=\"100.23\">Bull<b>$100.23</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $52.89.</figcaption>\n    </figure>",
+  "llms": "Broker, clearer and market maker across energy, commodities and financial markets, valued on normalized diluted EPS and justified price to book after record 2026 earnings. Bear $48.04, Base $75.55, Bull $100.23. Verdict HOLD at $71.59 (watchlist for new money), maximum buy price $52.89."
+}

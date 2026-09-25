@@ -1,0 +1,20 @@
+{
+  "ticker": "RCAT",
+  "slug": "rcat",
+  "name": "Red Cat Holdings (RCAT)",
+  "company": "Red Cat Holdings",
+  "companyShort": "Red Cat Holdings",
+  "date": "2026-09-25",
+  "order": 15,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $6.80",
+  "price": "$6.80",
+  "base": "$7.33",
+  "upside": "7.8",
+  "upsideText": "+7.8%",
+  "maxBuy": "$3.30",
+  "teaser": "Watchlist for new money. The shares trade only 7% below the Base value. Red Cat is not yet profitable, burns cash, depends on one customer for half its revenue and grew its share count 27% in six months, so a 55% margin of safety is required. The buy zone starts at $3.30.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $3.86, base $7.33, bull $13.86, current price $6.80, buy zone at or below $3.30\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"3.86\" data-to=\"13.86\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"3.30\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.86\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.33\"></span>\n        <span class=\"ruler-tick\" data-value=\"13.86\"></span>\n        <span class=\"ruler-price\" data-value=\"6.80\"><span>Price $6.80</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"3.86\">Bear<b>$3.86</b></span>\n        <span data-value=\"7.33\">Base<b>$7.33</b></span>\n        <span data-value=\"13.86\">Bull<b>$13.86</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $3.30.</figcaption>\n    </figure>",
+  "llms": "Pre-profit U.S. military drone and unmanned systems maker (Black Widow) with fast revenue growth, $326 million of cash and heavy dilution, valued on forward EV to 2027 revenue after cash burn. Bear $3.86, Base $7.33, Bull $13.86. Verdict HOLD at $6.80 (watchlist for new money), maximum buy price $3.30."
+}
