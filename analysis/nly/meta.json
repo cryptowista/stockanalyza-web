@@ -1,0 +1,20 @@
+{
+  "ticker": "NLY",
+  "slug": "nly",
+  "name": "Annaly Capital Management (NLY)",
+  "company": "Annaly Capital Management",
+  "companyShort": "Annaly Capital",
+  "date": "2026-09-25",
+  "order": 24,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $20.60",
+  "price": "$20.60",
+  "base": "$21.46",
+  "upside": "4.2",
+  "upsideText": "+4.2%",
+  "maxBuy": "$12.87",
+  "teaser": "The largest U.S. mortgage REIT yields 14.6%, and earnings have covered the dividend for nine straight quarters. At 1.02x book value that is fair, not cheap. Watchlist for new money.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $14.90, base $21.46, bull $25.08, current price $20.60, buy zone at or below $12.87\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"14.90\" data-to=\"25.08\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"12.87\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.90\"></span>\n        <span class=\"ruler-tick\" data-value=\"21.46\"></span>\n        <span class=\"ruler-tick\" data-value=\"25.08\"></span>\n        <span class=\"ruler-price\" data-value=\"20.60\"><span>Price $20.60</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"14.90\">Bear<b>$14.90</b></span>\n        <span data-value=\"21.46\">Base<b>$21.46</b></span>\n        <span data-value=\"25.08\">Bull<b>$25.08</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $12.87.</figcaption>\n    </figure>",
+  "llms": "Largest U.S. mortgage REIT (Agency MBS, residential credit, servicing rights) with a covered 14.6% dividend, valued on price to book value and price to earnings available for distribution; trades at about 1.02x book. Bear $14.90, Base $21.46, Bull $25.08. Verdict HOLD at $20.60 (watchlist for new money), maximum buy price $12.87."
+}
