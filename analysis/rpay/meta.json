@@ -1,0 +1,20 @@
+{
+  "ticker": "RPAY",
+  "slug": "rpay",
+  "name": "Repay Holdings (RPAY)",
+  "company": "Repay Holdings",
+  "companyShort": "Repay Holdings",
+  "date": "2026-09-22",
+  "order": 4,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $3.84",
+  "price": "$3.84",
+  "base": "$4.56",
+  "upside": "18.7",
+  "upsideText": "+18.7%",
+  "maxBuy": "$2.05",
+  "teaser": "Watchlist for new money, conditional hold for existing holders. The shares trade below Base value, but leverage, reinvestment and senior cash claims leave far less protection than the required 55% margin of safety.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0.63, base $4.56, bull $9.20, current price $3.84, maximum buy price $2.05\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0.63\" data-to=\"9.20\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"2.05\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.63\"></span>\n        <span class=\"ruler-tick\" data-value=\"4.56\"></span>\n        <span class=\"ruler-tick\" data-value=\"9.20\"></span>\n        <span class=\"ruler-price\" data-value=\"3.84\"><span>Price $3.84</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0.63\">Bear<b>$0.63</b></span>\n        <span data-value=\"4.56\">Base<b>$4.56</b></span>\n        <span data-value=\"9.20\">Bull<b>$9.20</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below the $2.05 maximum buy price. Shaded band: bear to bull value range. All values are present values per share.</figcaption>\n    </figure>",
+  "llms": "Leveraged payments and bill presentment platform after the KUBRA acquisition, valued on owner earnings after interest, reinvestment, TRA and compensation. Bear $0.63, Base $4.56, Bull $9.20. Verdict HOLD at $3.84 (watchlist for new money), maximum buy price $2.05."
+}

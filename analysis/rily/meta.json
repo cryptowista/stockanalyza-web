@@ -1,0 +1,20 @@
+{
+  "ticker": "RILY",
+  "slug": "rily",
+  "name": "BRC Group Holdings (RILY)",
+  "company": "BRC Group Holdings",
+  "companyShort": "BRC Group Holdings",
+  "date": "2026-09-24",
+  "order": 14,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $5.76",
+  "price": "$5.76",
+  "base": "$9.24",
+  "upside": "60.4",
+  "upsideText": "+60.4%",
+  "maxBuy": "$4.62",
+  "teaser": "Watchlist for new money. The shares trade 38% below the Base value, but common equity sits behind $1.28 billion of debt and preferred stock, and the share count rose 31% this year. That calls for a 50% margin of safety, which puts the buy zone at $4.62 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $2.45, base $9.24, bull $14.60, current price $5.76, buy zone at or below $4.62\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"2.45\" data-to=\"14.60\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"4.62\"></span>\n        <span class=\"ruler-tick\" data-value=\"2.45\"></span>\n        <span class=\"ruler-tick\" data-value=\"9.24\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.60\"></span>\n        <span class=\"ruler-price\" data-value=\"5.76\"><span>Price $5.76</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"2.45\">Bear<b>$2.45</b></span>\n        <span data-value=\"9.24\">Base<b>$9.24</b></span>\n        <span data-value=\"14.60\">Bull<b>$14.60</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $4.62.</figcaption>\n    </figure>",
+  "llms": "Former B. Riley Financial, a leveraged diversified financial holding company (capital markets, wealth, communications, investments), valued by sum of the parts and normalized common earnings; screen P/E near 0.5 reflects one-off gains. Bear $2.45, Base $9.24, Bull $14.60. Verdict HOLD at $5.76 (watchlist for new money), maximum buy price $4.62."
+}

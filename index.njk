@@ -1,0 +1,158 @@
+---
+permalink: /index.html
+---
+{%- set collections_latest = analyses[0] -%}
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stock Analyza: Independent Stock Valuations with Bear, Base and Bull Values</title>
+<meta name="description" content="Independent stock analyses with bear, base and bull valuations, a required margin of safety and a maximum buy price. Free analyses here, premium on Patreon.">
+<link rel="canonical" href="https://stockanalyza.com/">
+<link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/favicon-48.png" sizes="48x48" type="image/png">
+<link rel="alternate" type="text/markdown" href="/llms.txt">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Stock Analyza">
+<meta property="og:title" content="Stock Analyza: what a stock is worth, and the price where it becomes a buy">
+<meta property="og:description" content="Independent stock valuations with bear, base and bull values and a maximum buy price.">
+<meta property="og:url" content="https://stockanalyza.com/">
+<meta property="og:image" content="https://stockanalyza.com/og-default.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@Stock_Analyza">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
+<link rel="stylesheet" href="/assets/styles.css?v=2">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    { "@type": "WebSite", "name": "Stock Analyza", "url": "https://stockanalyza.com/" },
+    {
+      "@type": "Organization",
+      "name": "Stock Analyza",
+      "url": "https://stockanalyza.com/",
+      "logo": "https://stockanalyza.com/assets/img/logo-512.png",
+      "sameAs": [
+        "https://www.patreon.com/stockanalyza",
+        "https://x.com/Stock_Analyza",
+        "https://www.tiktok.com/@stock_analyza"
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+<a class="skip" href="#content">Skip to content</a>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="wordmark" href="/">
+      <img src="/assets/img/logo-96.png" width="40" height="40" alt="">
+      <span>Stock <span class="wm-accent">Analyza</span></span>
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="/" aria-current="page">Analyses</a>
+      <a href="/about/">Method</a>
+      <a class="nav-patreon" href="https://www.patreon.com/stockanalyza">Patreon</a>
+    </nav>
+  </div>
+</header>
+
+<main id="content">
+<div class="wrap">
+
+  <picture class="banner">
+    <source type="image/webp" srcset="/assets/img/banner-1000.webp 1000w, /assets/img/banner-1983.webp 1983w" sizes="(max-width: 72rem) 100vw, 69.5rem">
+    <img src="/assets/img/banner-1000.jpg" srcset="/assets/img/banner-1000.jpg 1000w, /assets/img/banner-1983.jpg 1983w" sizes="(max-width: 72rem) 100vw, 69.5rem" width="1983" height="793" alt="Stock Analyza: in-depth stock research and valuation. Fundamentals, valuation, risk, margin of safety.">
+  </picture>
+
+  <section class="hero">
+    <h1>What a stock is worth, and the price where it becomes a buy.</h1>
+    <p class="lede">Every analysis values the company three ways, bear, base and bull, then applies a margin of safety that fits the risk. The result is a clear verdict and a maximum buy price you can check against the market.</p>
+    <p class="small">Free analyses are published here. Premium analyses and the full archive are on <a href="https://www.patreon.com/stockanalyza">Patreon</a>.</p>
+  </section>
+
+  <!-- LATEST: generated from the newest analysis -->
+{%- set l = collections_latest %}
+  <p class="latest-label">Latest analysis, {{ l.date | longDate }}</p>
+  <section class="verdict latest" data-verdict="{{ l.verdict }}">
+    <h2><a href="/analysis/{{ l.slug }}/">{{ l.name | escape }}</a></h2>
+    <p class="verdict-note">{{ l.teaser | safe }}</p>
+    <p class="verdict-call">{{ l.call | safe }}</p>
+{% if l.ruler %}
+    {{ l.ruler | safe }}
+{% endif %}
+    <p class="small" style="margin:0"><a href="/analysis/{{ l.slug }}/">Read the full {{ l.ticker }} analysis</a></p>
+  </section>
+
+  <h2 id="all">All analyses</h2>
+  <div class="filter" data-filter hidden>
+    <label class="filter-search">
+      <span class="sr-only">Search by ticker or company</span>
+      <svg class="filter-icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m13 13 4 4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input type="search" placeholder="Search ticker or company" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+      <kbd class="filter-key" aria-hidden="true">/</kbd>
+    </label>
+    <div class="filter-verdicts" role="group" aria-label="Filter by verdict">
+      <button type="button" data-v="all" aria-pressed="true">All <span class="count"></span></button>
+      <button type="button" data-v="buy" aria-pressed="false">Buy <span class="count"></span></button>
+      <button type="button" data-v="hold" aria-pressed="false">Hold <span class="count"></span></button>
+      <button type="button" data-v="sell" aria-pressed="false">Sell <span class="count"></span></button>
+    </div>
+    <p class="filter-status small" aria-live="polite"></p>
+  </div>
+  <div class="table-scroll list-table">
+    <table data-list>
+      <thead>
+        <tr><th data-sort="ticker">Company</th><th data-sort="date" aria-sort="descending">Date</th><th>Verdict</th><th class="num">Price</th><th class="num">Base value</th><th class="num" data-sort="upside">vs Base</th><th class="num">Max buy</th></tr>
+      </thead>
+      <tbody>
+        <!-- Rows are generated from analysis/<ticker>/meta.json, newest first -->
+{%- for a in analyses %}
+        <tr data-ticker="{{ a.ticker }}" data-company="{{ a.company | escape }}" data-date="{{ a.date }}" data-verdict="{{ a.verdict }}" data-upside="{{ a.upside }}">
+          <td><a href="/analysis/{{ a.slug }}/">{{ a.ticker }}</a> <span class="small">{{ a.companyShort | escape }}</span></td>
+          <td>{{ a.date | shortDate }}</td>
+          <td><span class="v v-{{ a.verdict }}">{{ a.verdictLabel }}</span></td>
+          <td class="num">{{ a.price }}</td>
+          <td class="num">{{ a.base }}</td>
+          <td class="num">{{ a.upsideText }}</td>
+          <td class="num">{{ a.maxBuy }}</td>
+        </tr>
+{%- endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <aside class="cta">
+    <h2>Premium analyses on Patreon</h2>
+    <p>Members get every in-depth analysis, the full archive and a vote on which stocks get analyzed next.</p>
+    <p><a class="button" href="https://www.patreon.com/stockanalyza">Join Stock Analyza on Patreon</a></p>
+  </aside>
+
+</div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <nav aria-label="Stock Analyza elsewhere">
+      <a href="https://www.patreon.com/stockanalyza">Patreon</a>
+      <a href="https://x.com/Stock_Analyza">X</a>
+      <a href="https://www.tiktok.com/@stock_analyza">TikTok</a>
+      <a href="/about/">Method and disclaimer</a>
+    </nav>
+    <p class="small">Stock Analyza publishes independent stock research for educational purposes. Nothing on this site is investment advice. &copy; 2026 Stock Analyza</p>
+  </div>
+</footer>
+
+<script src="/assets/ruler.js?v=2" defer></script>
+<script src="/assets/filter.js?v=2" defer></script>
+</body>
+</html>

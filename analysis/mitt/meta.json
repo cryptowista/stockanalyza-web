@@ -1,0 +1,20 @@
+{
+  "ticker": "MITT",
+  "slug": "mitt",
+  "name": "TPG Mortgage Investment Trust (MITT)",
+  "company": "TPG Mortgage Investment Trust",
+  "companyShort": "TPG Mortgage Investment Trust",
+  "date": "2026-09-21",
+  "order": 1,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $6.31",
+  "price": "$6.31",
+  "base": "$7.50",
+  "upside": "18.9",
+  "upsideText": "+18.9%",
+  "maxBuy": "$5.25",
+  "teaser": "Below estimated fair value, but above the confidence-adjusted maximum buy price.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $4.70, base $7.50, bull $9.90, current price $6.31, maximum buy price $5.25\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"4.70\" data-to=\"9.90\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"5.25\"></span>\n        <span class=\"ruler-tick\" data-value=\"4.70\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"9.90\"></span>\n        <span class=\"ruler-price\" data-value=\"6.31\"><span>Price $6.31</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"4.70\">Bear<b>$4.70</b></span>\n        <span data-value=\"7.50\">Base<b>$7.50</b></span>\n        <span data-value=\"9.90\">Bull<b>$9.90</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below the $5.25 maximum buy price. Shaded band: bear to bull value range.</figcaption>\n    </figure>",
+  "llms": "Residential mortgage REIT at 0.63x book value with a 15.2% dividend yield. Bear $4.70, Base $7.50, Bull $9.90. Verdict HOLD at $6.31, maximum buy price $5.25."
+}

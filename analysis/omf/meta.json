@@ -1,0 +1,20 @@
+{
+  "ticker": "OMF",
+  "slug": "omf",
+  "name": "OneMain Holdings (OMF)",
+  "company": "OneMain Holdings",
+  "companyShort": "OneMain Holdings",
+  "date": "2026-09-24",
+  "order": 10,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $57.25",
+  "price": "$57.25",
+  "base": "$53.96",
+  "upside": "-5.7",
+  "upsideText": "-5.7%",
+  "maxBuy": "$35.07",
+  "teaser": "Watchlist for new money. The shares trade about 6% above the Base value, and the price already assumes returns on equity above 22% for good. Nonprime credit risk calls for a 35% margin of safety, which puts the buy zone at $35.07 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $32.42, base $53.96, bull $70.19, current price $57.25, buy zone at or below $35.07\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"32.42\" data-to=\"70.19\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"35.07\"></span>\n        <span class=\"ruler-tick\" data-value=\"32.42\"></span>\n        <span class=\"ruler-tick\" data-value=\"53.96\"></span>\n        <span class=\"ruler-tick\" data-value=\"70.19\"></span>\n        <span class=\"ruler-price\" data-value=\"57.25\"><span>Price $57.25</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"32.42\">Bear<b>$32.42</b></span>\n        <span data-value=\"53.96\">Base<b>$53.96</b></span>\n        <span data-value=\"70.19\">Bull<b>$70.19</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $35.07.</figcaption>\n    </figure>",
+  "llms": "Nonprime US consumer lender (personal loans, auto, cards) valued on justified price to book from sustainable ROE, normalized earnings and historical price to book; 7.34% dividend yield, price implies ROE of about 22.5%. Bear $32.42, Base $53.96, Bull $70.19. Verdict HOLD at $57.25 (watchlist for new money), maximum buy price $35.07."
+}

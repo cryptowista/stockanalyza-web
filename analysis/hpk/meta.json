@@ -1,0 +1,20 @@
+{
+  "ticker": "HPK",
+  "slug": "hpk",
+  "name": "HighPeak Energy (HPK)",
+  "company": "HighPeak Energy",
+  "companyShort": "HighPeak Energy",
+  "date": "2026-09-24",
+  "order": 13,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $7.88",
+  "price": "$7.88",
+  "base": "$9.61",
+  "upside": "22.0",
+  "upsideText": "+22.0%",
+  "maxBuy": "$5.29",
+  "teaser": "Watchlist for new money. The shares trade 18% below the Base value, but oil prices, $1 billion of net debt and an erratic cash flow record call for a 45% margin of safety, which puts the buy zone at $5.29 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $3.57, base $9.61, bull $14.95, current price $7.88, buy zone at or below $5.29\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"3.57\" data-to=\"14.95\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"5.29\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.57\"></span>\n        <span class=\"ruler-tick\" data-value=\"9.61\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.95\"></span>\n        <span class=\"ruler-price\" data-value=\"7.88\"><span>Price $7.88</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"3.57\">Bear<b>$3.57</b></span>\n        <span data-value=\"9.61\">Base<b>$9.61</b></span>\n        <span data-value=\"14.95\">Bull<b>$14.95</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $5.29.</figcaption>\n    </figure>",
+  "llms": "Oil-weighted Midland Basin producer with about $1 billion of net debt, valued on normalized owner earnings at a mid-cycle oil price and proved reserve value (PV-10) less debt; the price implies about $69 WTI while spot is near $92. Bear $3.57, Base $9.61, Bull $14.95. Verdict HOLD at $7.88 (watchlist for new money), maximum buy price $5.29."
+}

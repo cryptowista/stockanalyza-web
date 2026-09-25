@@ -1,0 +1,20 @@
+{
+  "ticker": "SOFI",
+  "slug": "sofi",
+  "name": "SoFi Technologies (SOFI)",
+  "company": "SoFi Technologies",
+  "companyShort": "SoFi Technologies",
+  "date": "2026-09-22",
+  "order": 5,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $17.16",
+  "price": "$17.16",
+  "base": "$14.84",
+  "upside": "-13.5",
+  "upsideText": "-13.5%",
+  "maxBuy": "$8.16",
+  "teaser": "Watchlist for new money, conditional hold for existing holders. Growth is real, but the price sits above Base value while returns on the enlarged capital base remain below the cost of equity.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $3.90, base $14.84, bull $34.87, current price $17.16, maximum buy price $8.16\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"3.90\" data-to=\"34.87\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"8.16\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.90\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.84\"></span>\n        <span class=\"ruler-tick\" data-value=\"34.87\"></span>\n        <span class=\"ruler-price\" data-value=\"17.16\"><span>Price $17.16</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"3.90\">Bear<b>$3.90</b></span>\n        <span data-value=\"14.84\">Base<b>$14.84</b></span>\n        <span data-value=\"34.87\">Bull<b>$34.87</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below the $8.16 maximum buy price. Shaded band: bear to bull value range. All values are present values per share.</figcaption>\n    </figure>",
+  "llms": "Digital bank valued on returns over tangible common equity, with Q2 adjusted ROTCE of about 7.1% below an 11.5% cost of equity. Bear $3.90, Base $14.84, Bull $34.87. Verdict HOLD at $17.16 (watchlist for new money), maximum buy price $8.16."
+}

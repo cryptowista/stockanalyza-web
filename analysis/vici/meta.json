@@ -1,0 +1,20 @@
+{
+  "ticker": "VICI",
+  "slug": "vici",
+  "name": "VICI Properties (VICI)",
+  "company": "VICI Properties",
+  "companyShort": "VICI Properties",
+  "date": "2026-09-23",
+  "order": 9,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $23.965",
+  "price": "$23.965",
+  "base": "$31.69",
+  "upside": "32.2",
+  "upsideText": "+32.2%",
+  "maxBuy": "$22.18",
+  "teaser": "Watchlist for new money. The shares trade 24.4% below the Base value, but two tenants pay about 70% of the rent and development lending is growing, so the required margin of safety is 30%. The buy zone starts at $22.18.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $20.45, base $31.69, bull $37.72, current price $23.965, buy zone at or below $22.18\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"20.45\" data-to=\"37.72\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"22.18\"></span>\n        <span class=\"ruler-tick\" data-value=\"20.45\"></span>\n        <span class=\"ruler-tick\" data-value=\"31.69\"></span>\n        <span class=\"ruler-tick\" data-value=\"37.72\"></span>\n        <span class=\"ruler-price\" data-value=\"23.965\"><span>Price $23.965</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"20.45\">Bear<b>$20.45</b></span>\n        <span data-value=\"31.69\">Base<b>$31.69</b></span>\n        <span data-value=\"37.72\">Bull<b>$37.72</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $22.18. A stronger margin reference sits at $19.01.</figcaption>\n    </figure>",
+  "llms": "Experiential triple-net REIT (Caesars and MGM casino real estate, about 70% of rent) with a growing development loan book, valued on hard AFFO per share and an adjusted property NAV; 7.68% dividend yield. Bear $20.45, Base $31.69, Bull $37.72. Verdict HOLD at $23.965 (watchlist for new money), maximum buy price $22.18."
+}

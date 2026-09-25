@@ -1,0 +1,20 @@
+{
+  "ticker": "SYM",
+  "slug": "sym",
+  "name": "Symbotic (SYM)",
+  "company": "Symbotic",
+  "companyShort": "Symbotic",
+  "date": "2026-09-25",
+  "order": 21,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $44.04",
+  "price": "$44.04",
+  "base": "$31.30",
+  "upside": "-28.9",
+  "upsideText": "-28.9%",
+  "maxBuy": "$15.65",
+  "teaser": "Do not add. The shares trade about 41% above the Base value. One customer provides almost 90% of revenue, stock compensation absorbs a large share of the profits, and the valuation methods diverge sharply, so a 50% margin of safety is required. The buy zone starts at $15.65.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $23.44, base $31.30, bull $52.02, current price $44.04, buy zone at or below $15.65\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"23.44\" data-to=\"52.02\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"15.65\"></span>\n        <span class=\"ruler-tick\" data-value=\"23.44\"></span>\n        <span class=\"ruler-tick\" data-value=\"31.30\"></span>\n        <span class=\"ruler-tick\" data-value=\"52.02\"></span>\n        <span class=\"ruler-price\" data-value=\"44.04\"><span>Price $44.04</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"23.44\">Bear<b>$23.44</b></span>\n        <span data-value=\"31.30\">Base<b>$31.30</b></span>\n        <span data-value=\"52.02\">Bull<b>$52.02</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $15.65.</figcaption>\n    </figure>",
+  "llms": "AI-enabled warehouse automation company with $22.5 billion of backlog, about 87% customer concentration and an Up-C structure of about 605 million economic shares, valued on forward EV to revenue and EBITDA after stock compensation. Bear $23.44, Base $31.30, Bull $52.02. Verdict HOLD at $44.04 (do not add), maximum buy price $15.65."
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "AVAV",
+  "slug": "avav",
+  "name": "AeroVironment (AVAV)",
+  "company": "AeroVironment",
+  "companyShort": "AeroVironment",
+  "date": "2026-09-25",
+  "order": 17,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $158.55",
+  "price": "$158.55",
+  "base": "$143.50",
+  "upside": "-9.5",
+  "upsideText": "-9.5%",
+  "maxBuy": "$86.10",
+  "teaser": "Watchlist for new money. The shares trade about 10% above the Base value. The BlueHalo acquisition transformed the company, already produced a large goodwill impairment and has not yet turned into free cash flow, so a 40% margin of safety is required. The buy zone starts at $86.10.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $102.31, base $143.50, bull $218.17, current price $158.55, buy zone at or below $86.10\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"102.31\" data-to=\"218.17\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"86.10\"></span>\n        <span class=\"ruler-tick\" data-value=\"102.31\"></span>\n        <span class=\"ruler-tick\" data-value=\"143.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"218.17\"></span>\n        <span class=\"ruler-price\" data-value=\"158.55\"><span>Price $158.55</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"102.31\">Bear<b>$102.31</b></span>\n        <span data-value=\"143.50\">Base<b>$143.50</b></span>\n        <span data-value=\"218.17\">Bull<b>$218.17</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $86.10.</figcaption>\n    </figure>",
+  "llms": "Drone, loitering munition and defense technology company transformed by the BlueHalo acquisition, valued on forward EV to sales and EBITDA after stock compensation; record backlog but negative free cash flow. Bear $102.31, Base $143.50, Bull $218.17. Verdict HOLD at $158.55 (watchlist for new money), maximum buy price $86.10."
+}
