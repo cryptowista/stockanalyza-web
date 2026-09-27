@@ -76,7 +76,7 @@ The primary Base value is **$219**.
 | $27.5B | $122 | $219 | $303 |
 | $28.5B | $151 | $243 | $356 |
 
-The spread is itself a warning sign. A one-turn change in the EBITDA multiple moves the per-share value by roughly $80 to $100 in either direction, which is exactly what a leveraged equity stub looks like.
+The spread is itself a warning sign. Note the table steps the multiple by 0.5x per column, and each column also shifts the paired net-debt assumption, so the $80 to $100 gaps between columns blend two effects at once. Isolating the multiple alone is more dramatic: holding Base EBITDA and net debt fixed, a full 1.0x change in the multiple moves the per-share value by about $168 (EBITDA divided by diluted shares), which is exactly what a leveraged equity stub looks like.
 
 ## Secondary valuation: price to normalized owner free cash flow
 
