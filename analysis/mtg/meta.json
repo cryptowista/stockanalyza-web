@@ -1,0 +1,20 @@
+{
+  "ticker": "MTG",
+  "slug": "mtg",
+  "name": "MGIC Investment (MTG)",
+  "company": "MGIC Investment Corporation",
+  "companyShort": "MGIC Investment",
+  "date": "2026-09-26",
+  "order": 26,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $28.48",
+  "price": "$28.48",
+  "base": "$29.50",
+  "upside": "3.6",
+  "upsideText": "+3.6%",
+  "maxBuy": "$22.13",
+  "teaser": "A well-capitalized mortgage insurer trading close to fair value; Hold, watchlist for a better entry below $22.13.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $22, base $29.50, bull $36, current price $28.48, buy zone at or below $22.13\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"22\" data-to=\"36\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"22.13\"></span>\n        <span class=\"ruler-tick\" data-value=\"22\"></span>\n        <span class=\"ruler-tick\" data-value=\"29.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"36\"></span>\n        <span class=\"ruler-price\" data-value=\"28.48\"><span>Price $28.48</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"22\">Bear<b>$22</b></span>\n        <span data-value=\"29.50\">Base<b>$29.50</b></span>\n        <span data-value=\"36\">Bull<b>$36</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $22.13.</figcaption>\n    </figure>",
+  "llms": "MGIC Investment is a US private mortgage guaranty insurer with a strong PMIERs capital cushion and a shrinking share count from buybacks. At $28.48 the stock trades close to triangulated Base $29.50 (Bear $22, Bull $36), a 3.6% upside, below the 25% margin of safety needed for a buy. Verdict: Hold at $28.48, watchlist for a better entry, maximum buy price $22.13."
+}

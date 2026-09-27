@@ -1,0 +1,20 @@
+{
+  "ticker": "LDOS",
+  "slug": "ldos",
+  "name": "Leidos Holdings (LDOS)",
+  "company": "Leidos Holdings",
+  "companyShort": "Leidos",
+  "date": "2026-09-26",
+  "order": 27,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $123.61",
+  "price": "$123.61",
+  "base": "$155",
+  "upside": "25.4",
+  "upsideText": "+25.4%",
+  "maxBuy": "$116.25",
+  "teaser": "A big government-contracting backlog and strong cash flow, but fresh Entrust leverage keeps this a Watchlist just above $116.25.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $112, base $155, bull $190, current price $123.61, buy zone at or below $116.25\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"112\" data-to=\"190\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"116.25\"></span>\n        <span class=\"ruler-tick\" data-value=\"112\"></span>\n        <span class=\"ruler-tick\" data-value=\"155\"></span>\n        <span class=\"ruler-tick\" data-value=\"190\"></span>\n        <span class=\"ruler-price\" data-value=\"123.61\"><span>Price $123.61</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"112\">Bear<b>$112</b></span>\n        <span data-value=\"155\">Base<b>$155</b></span>\n        <span data-value=\"190\">Bull<b>$190</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $116.25.</figcaption>\n    </figure>",
+  "llms": "Leidos is a diversified US government and defense technology contractor with a $48.7B backlog, whose leverage rose after the Entrust acquisition. At $123.61 the stock trades below triangulated Base $155 (Bear $112, Bull $190), a 25.4% upside, but still above the 25% margin of safety buy ceiling of $116.25. Verdict: Watchlist at $123.61, maximum buy price $116.25."
+}

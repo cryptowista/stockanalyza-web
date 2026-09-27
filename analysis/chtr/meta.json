@@ -1,0 +1,20 @@
+{
+  "ticker": "CHTR",
+  "slug": "chtr",
+  "name": "Charter Communications (CHTR)",
+  "company": "Charter Communications",
+  "companyShort": "Charter",
+  "date": "2026-09-26",
+  "order": 25,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $112.91",
+  "price": "$112.91",
+  "base": "$234",
+  "upside": "107.2",
+  "upsideText": "+107.2%",
+  "maxBuy": "about $105",
+  "teaser": "Deeply undervalued after the Cox and Liberty Broadband deals, but roughly $110B of net debt caps this at Hold until the buy zone near $105.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $111, base $234, bull $379, current price $112.91, buy zone at or below $105\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"111\" data-to=\"379\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"105\"></span>\n        <span class=\"ruler-tick\" data-value=\"111\"></span>\n        <span class=\"ruler-tick\" data-value=\"234\"></span>\n        <span class=\"ruler-tick\" data-value=\"379\"></span>\n        <span class=\"ruler-price\" data-value=\"112.91\"><span>Price $112.91</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"111\">Bear<b>$111</b></span>\n        <span data-value=\"234\">Base<b>$234</b></span>\n        <span data-value=\"379\">Bull<b>$379</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $105.</figcaption>\n    </figure>",
+  "llms": "Charter Communications provides cable broadband, video and mobile service in the US, now much bigger and more leveraged after closing the Cox and Liberty Broadband deals. At $112.91 the stock trades far below triangulated Base $234 (Bear $111, Bull $379), but leverage of roughly $110B net debt caps the required 55% margin of safety buy zone at about $105. Verdict: Hold at $112.91, watchlist for new money, maximum buy price about $105."
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "CRE",
+  "slug": "cre",
+  "name": "Conduit Holdings (CRE)",
+  "company": "Conduit Holdings Limited",
+  "companyShort": "Conduit Holdings",
+  "date": "2026-09-27",
+  "order": 28,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at 462p",
+  "price": "462p",
+  "base": "545p",
+  "upside": "18.0",
+  "upsideText": "+18.0%",
+  "maxBuy": "382p",
+  "teaser": "Trades below tangible book after a strong recovery half, but a benign catastrophe year keeps this at Hold until 382p.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear 390p, base 545p, bull 680p, current price 462p, buy zone at or below 382p\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"390\" data-to=\"680\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"382\"></span>\n        <span class=\"ruler-tick\" data-value=\"390\"></span>\n        <span class=\"ruler-tick\" data-value=\"545\"></span>\n        <span class=\"ruler-tick\" data-value=\"680\"></span>\n        <span class=\"ruler-price\" data-value=\"462\"><span>Price 462p</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"390\">Bear<b>390p</b></span>\n        <span data-value=\"545\">Base<b>545p</b></span>\n        <span data-value=\"680\">Bull<b>680p</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below 382p.</figcaption>\n    </figure>",
+  "llms": "Conduit Holdings is a Bermuda-based multi-line reinsurer (Property, Casualty, Specialty) trading on the LSE. At 462p the stock trades below fully diluted tangible book value of about 557p (Bear 390p, Base 545p, Bull 680p), an 18% upside, but H1 2026's strong 92.6% combined ratio benefited from benign catastrophe losses, so it stays below the 30% margin of safety needed for a buy. Verdict: Hold at 462p, watchlist for new money below 382p, maximum buy price 382p."
+}
