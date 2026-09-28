@@ -1,0 +1,20 @@
+{
+  "ticker": "SBH",
+  "slug": "sbh",
+  "name": "Sally Beauty (SBH)",
+  "company": "Sally Beauty Holdings",
+  "companyShort": "Sally Beauty",
+  "date": "2026-09-28",
+  "order": 31,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $17.18",
+  "price": "$17.18",
+  "base": "$24.03",
+  "upside": "39.9",
+  "upsideText": "+39.9%",
+  "maxBuy": "$15.62",
+  "teaser": "Watchlist for new money below $15.62. Sally Beauty trades at 6.8x EBITDA and 7.5x Base free cash flow, but sales are flat, the BSG segment is shrinking and the 35% margin of safety puts the buy price 9% under today's.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $16.24, base $24.03, bull $32.02, current price $17.18, buy zone at or below $15.62\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"16.24\" data-to=\"32.02\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"15.62\"></span>\n        <span class=\"ruler-tick\" data-value=\"16.24\"></span>\n        <span class=\"ruler-tick\" data-value=\"24.03\"></span>\n        <span class=\"ruler-tick\" data-value=\"32.02\"></span>\n        <span class=\"ruler-price\" data-value=\"17.18\"><span>Price $17.18</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"16.24\">Bear<b>$16.24</b></span>\n        <span data-value=\"24.03\">Base<b>$24.03</b></span>\n        <span data-value=\"32.02\">Bull<b>$32.02</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $15.62.</figcaption>\n    </figure>",
+  "llms": "Specialty retailer and distributor of professional beauty supplies (Sally Beauty Supply and Beauty Systems Group) valued on normalized EV/EBITDA after stock pay and price to free cash flow. Bear $16.24, Base $24.03, Bull $32.02. Verdict HOLD at $17.18 (watchlist for new money), maximum buy price $15.62."
+}

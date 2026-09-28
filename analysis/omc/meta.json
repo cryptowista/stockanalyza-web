@@ -1,0 +1,20 @@
+{
+  "ticker": "OMC",
+  "slug": "omc",
+  "name": "Omnicom (OMC)",
+  "company": "Omnicom Group",
+  "companyShort": "Omnicom",
+  "date": "2026-09-28",
+  "order": 30,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $76.15",
+  "price": "$76.15",
+  "base": "$92.69",
+  "upside": "21.7",
+  "upsideText": "+21.7%",
+  "maxBuy": "$64.88",
+  "teaser": "Watchlist for new money below $64.88. Omnicom trades at 9.2x normalized owner earnings after the IPG merger and pays a 4.2% dividend, but net debt is $6.7 billion and the cash flow behind the Base value is still an estimate.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $58.76, base $92.69, bull $121.91, current price $76.15, buy zone at or below $64.88\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"58.76\" data-to=\"121.91\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"64.88\"></span>\n        <span class=\"ruler-tick\" data-value=\"58.76\"></span>\n        <span class=\"ruler-tick\" data-value=\"92.69\"></span>\n        <span class=\"ruler-tick\" data-value=\"121.91\"></span>\n        <span class=\"ruler-price\" data-value=\"76.15\"><span>Price $76.15</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"58.76\">Bear<b>$58.76</b></span>\n        <span data-value=\"92.69\">Base<b>$92.69</b></span>\n        <span data-value=\"121.91\">Bull<b>$121.91</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $64.88.</figcaption>\n    </figure>",
+  "llms": "Advertising holding company that absorbed IPG in November 2025, valued on price to normalized owner free cash flow with an earnings cross-check. Bear $58.76, Base $92.69, Bull $121.91. Verdict HOLD at $76.15 (watchlist for new money), maximum buy price $64.88."
+}
