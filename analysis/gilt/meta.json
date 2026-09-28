@@ -1,0 +1,20 @@
+{
+  "ticker": "GILT",
+  "slug": "gilt",
+  "name": "Gilat Satellite Networks (GILT)",
+  "company": "Gilat Satellite Networks",
+  "companyShort": "Gilat Satellite",
+  "date": "2026-09-28",
+  "order": 29,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $10.14",
+  "price": "$10.14",
+  "base": "$10.49",
+  "upside": "3.5",
+  "upsideText": "+3.5%",
+  "maxBuy": "$6.29",
+  "teaser": "First-half adjusted EBITDA was $30.5 million. Operating cash flow was -$14.1 million. Gilat's Comtech deal is priced at management's own EBITDA target.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $6.43, base $10.49, bull $13.67, current price $10.14, buy zone at or below $6.29\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"6.43\" data-to=\"13.67\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"6.29\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.43\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.49\"></span>\n        <span class=\"ruler-tick\" data-value=\"13.67\"></span>\n        <span class=\"ruler-price\" data-value=\"10.14\"><span>Price $10.14</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"6.43\">Bear<b>$6.43</b></span>\n        <span data-value=\"10.49\">Base<b>$10.49</b></span>\n        <span data-value=\"13.67\">Bull<b>$13.67</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $6.29.</figcaption>\n    </figure>",
+  "llms": "Satellite ground infrastructure and defense communications company buying Comtech's satellite and space business. Valued on normalized EV/EBITDA after stock-based pay, cross-checked with owner free cash flow; the price already reflects management's combined $80 million adjusted EBITDA target. Bear $6.43, Base $10.49, Bull $13.67. Verdict HOLD at $10.14, maximum buy price $6.29."
+}
