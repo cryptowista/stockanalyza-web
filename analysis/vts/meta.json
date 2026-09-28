@@ -1,0 +1,20 @@
+{
+  "ticker": "VTS",
+  "slug": "vts",
+  "name": "Vitesse Energy (VTS)",
+  "company": "Vitesse Energy",
+  "companyShort": "Vitesse Energy",
+  "date": "2026-09-28",
+  "order": 33,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $16.75",
+  "price": "$16.75",
+  "base": "$21.50",
+  "upside": "28.4",
+  "upsideText": "+28.4%",
+  "maxBuy": "$13.98",
+  "teaser": "Watchlist for new money below $13.98. Vitesse pays a 10.4% yield funded by free cash flow, but that free cash flow barely covers the dividend in a normal year.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $12.38, base $21.50, bull $29.39, current price $16.75, buy zone at or below $13.98\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"12.38\" data-to=\"29.39\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"13.98\"></span>\n        <span class=\"ruler-tick\" data-value=\"12.38\"></span>\n        <span class=\"ruler-tick\" data-value=\"21.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"29.39\"></span>\n        <span class=\"ruler-price\" data-value=\"16.75\"><span>Price $16.75</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"12.38\">Bear<b>$12.38</b></span>\n        <span data-value=\"21.50\">Base<b>$21.50</b></span>\n        <span data-value=\"29.39\">Bull<b>$29.39</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $13.98.</figcaption>\n    </figure>",
+  "llms": "Non-operated U.S. oil and gas producer (Bakken, DJ Basin, Powder River Basin) valued on price to normalized free cash flow with a reserve NAV (PV-10) cross-check. Bear $12.38, Base $21.50, Bull $29.39. Verdict HOLD at $16.75 (watchlist for new money), maximum buy price $13.98."
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "RDN",
+  "slug": "rdn",
+  "name": "Radian Group (RDN)",
+  "company": "Radian Group",
+  "companyShort": "Radian Group",
+  "date": "2026-09-28",
+  "order": 34,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $32.86",
+  "price": "$32.86",
+  "base": "$40.50",
+  "upside": "23.3",
+  "upsideText": "+23.3%",
+  "maxBuy": "$28.35",
+  "teaser": "Watchlist for new money below $28.35. Radian trades at 0.91x book value while earning a 12.9% adjusted operating ROE, but the Inigo acquisition has only two quarters of combined results.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $29.00, base $40.50, bull $50.00, current price $32.86, buy zone at or below $28.35\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"29.00\" data-to=\"50.00\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"28.35\"></span>\n        <span class=\"ruler-tick\" data-value=\"29.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"40.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"50.00\"></span>\n        <span class=\"ruler-price\" data-value=\"32.86\"><span>Price $32.86</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"29.00\">Bear<b>$29.00</b></span>\n        <span data-value=\"40.50\">Base<b>$40.50</b></span>\n        <span data-value=\"50.00\">Bull<b>$50.00</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $28.35.</figcaption>\n    </figure>",
+  "llms": "U.S. mortgage insurer that closed the $1.67 billion acquisition of Lloyd's specialty insurer Inigo in February 2026, valued on justified price to book value with a normalized adjusted operating P/E cross-check. Bear $29.00, Base $40.50, Bull $50.00. Verdict HOLD at $32.86 (watchlist for new money), maximum buy price $28.35."
+}

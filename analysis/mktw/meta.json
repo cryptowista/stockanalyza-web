@@ -1,0 +1,20 @@
+{
+  "ticker": "MKTW",
+  "slug": "mktw",
+  "name": "MarketWise (MKTW)",
+  "company": "MarketWise",
+  "companyShort": "MarketWise",
+  "date": "2026-09-28",
+  "order": 35,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $20.08",
+  "price": "$20.08",
+  "base": "$24.50",
+  "upside": "22.0",
+  "upsideText": "+22.0%",
+  "maxBuy": "$15.93",
+  "teaser": "Watchlist for new money below $15.93. Billings grew 57% in Q2, but Up-C structure, insider control and a recent CEO-settlement mean the discount is at least partly earned.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $14.00, base $24.50, bull $32.00, current price $20.08, buy zone at or below $15.93\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"14.00\" data-to=\"32.00\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"15.93\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"24.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"32.00\"></span>\n        <span class=\"ruler-price\" data-value=\"20.08\"><span>Price $20.08</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"14.00\">Bear<b>$14.00</b></span>\n        <span data-value=\"24.50\">Base<b>$24.50</b></span>\n        <span data-value=\"32.00\">Bull<b>$32.00</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $15.93.</figcaption>\n    </figure>",
+  "llms": "Digital financial-research and software subscription platform organized as an Up-C, valued on price to normalized owner free cash flow across its total Class A plus Class B economic share count. Bear $14.00, Base $24.50, Bull $32.00. Verdict HOLD at $20.08 (watchlist for new money), maximum buy price $15.93."
+}

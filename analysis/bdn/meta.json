@@ -1,0 +1,20 @@
+{
+  "ticker": "BDN",
+  "slug": "bdn",
+  "name": "Brandywine Realty Trust (BDN)",
+  "company": "Brandywine Realty Trust",
+  "companyShort": "Brandywine Realty Trust",
+  "date": "2026-09-28",
+  "order": 32,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $2.86",
+  "price": "$2.86",
+  "base": "$3.45",
+  "upside": "20.6",
+  "upsideText": "+20.6%",
+  "maxBuy": "$2.07",
+  "teaser": "Watchlist for new money below $2.07. Brandywine trades at 5.2x FFO guidance but the CAD payout ratio ran 103% last quarter, and $849 million of debt matures in 2027 alone.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $1.70, base $3.45, bull $5.29, current price $2.86, buy zone at or below $2.07\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"1.70\" data-to=\"5.29\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"2.07\"></span>\n        <span class=\"ruler-tick\" data-value=\"1.70\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.45\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.29\"></span>\n        <span class=\"ruler-price\" data-value=\"2.86\"><span>Price $2.86</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"1.70\">Bear<b>$1.70</b></span>\n        <span data-value=\"3.45\">Base<b>$3.45</b></span>\n        <span data-value=\"5.29\">Bull<b>$5.29</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $2.07.</figcaption>\n    </figure>",
+  "llms": "Philadelphia and Austin office and mixed-use REIT valued on price to cash available for distribution (CAD, the company's own after-tenant-capital cash measure) with a NAV cross-check. Bear $1.70, Base $3.45, Bull $5.29. Verdict HOLD at $2.86 (watchlist for new money), maximum buy price $2.07."
+}
