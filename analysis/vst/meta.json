@@ -1,0 +1,20 @@
+{
+  "ticker": "VST",
+  "slug": "vst",
+  "name": "Vistra (VST)",
+  "company": "Vistra",
+  "companyShort": "Vistra",
+  "date": "2026-09-29",
+  "order": 36,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $138.02",
+  "price": "$138.02",
+  "base": "$143.95",
+  "upside": "4.3",
+  "upsideText": "+4.3%",
+  "maxBuy": "$100.76",
+  "teaser": "Watchlist for new money below $100.76. Vistra has 20-year nuclear contracts with Meta and Amazon and a share count down 30% since 2021, but about $22.6 billion of claims rank ahead of common shareholders and the price is only 4% below Base.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $96.77, base $143.95, bull $193.53, current price $138.02, buy zone at or below $100.76\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"96.77\" data-to=\"193.53\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"100.76\"></span>\n        <span class=\"ruler-tick\" data-value=\"96.77\"></span>\n        <span class=\"ruler-tick\" data-value=\"143.95\"></span>\n        <span class=\"ruler-tick\" data-value=\"193.53\"></span>\n        <span class=\"ruler-price\" data-value=\"138.02\"><span>Price $138.02</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"96.77\">Bear<b>$96.77</b></span>\n        <span data-value=\"143.95\">Base<b>$143.95</b></span>\n        <span data-value=\"193.53\">Bull<b>$193.53</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $100.76.</figcaption>\n    </figure>",
+  "llms": "Integrated U.S. competitive power generator and retailer with 20-year nuclear contracts at Meta and Amazon, valued on normalized free cash flow before growth per share (after stock compensation and preferred dividends) with an EV/EBITDA cross-check. Bear $96.77, Base $143.95, Bull $193.53. Verdict HOLD at $138.02 (watchlist for new money), maximum buy price $100.76."
+}
