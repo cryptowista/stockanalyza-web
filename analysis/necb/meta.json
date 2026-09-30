@@ -1,0 +1,20 @@
+{
+  "ticker": "NECB",
+  "slug": "necb",
+  "name": "NorthEast Community Bancorp (NECB)",
+  "company": "NorthEast Community Bancorp",
+  "companyShort": "NorthEast Community Bancorp",
+  "date": "2026-09-30",
+  "order": 39,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $25.79",
+  "price": "$25.79",
+  "base": "$25.36",
+  "upside": "-1.7",
+  "upsideText": "-1.7%",
+  "maxBuy": "$13.95",
+  "teaser": "Watchlist for new money below $13.95. The bank trades at tangible book value and the price already implies an 11.6% sustainable return on equity, against my 11.1%.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $18.17, base $25.36, bull $30.94, current price $25.79, buy zone at or below $13.95\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"18.17\" data-to=\"30.94\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"13.95\"></span>\n        <span class=\"ruler-tick\" data-value=\"18.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"25.36\"></span>\n        <span class=\"ruler-tick\" data-value=\"30.94\"></span>\n        <span class=\"ruler-price\" data-value=\"25.79\"><span>Price $25.79</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"18.17\">Bear<b>$18.17</b></span>\n        <span data-value=\"25.36\">Base<b>$25.36</b></span>\n        <span data-value=\"30.94\">Bull<b>$30.94</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $13.95.</figcaption>\n    </figure>",
+  "llms": "Construction-focused New York community bank valued on justified price to tangible book value with a normalized P/E cross-check. Bear $18.17, Base $25.36, Bull $30.94. Verdict HOLD at $25.79 (watchlist for new money), maximum buy price $13.95."
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "FORM",
+  "slug": "form",
+  "name": "FormFactor (FORM)",
+  "company": "FormFactor",
+  "companyShort": "FormFactor",
+  "date": "2026-09-30",
+  "order": 38,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $146.88",
+  "price": "$146.88",
+  "base": "$97.20",
+  "upside": "-33.8",
+  "upsideText": "-33.8%",
+  "maxBuy": "$63.18",
+  "teaser": "The price of $146.88 asks for revenue close to the company's own 2030 target today and sits within 5% of the Bull value. The buy zone starts at $63.18.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $70.70, base $97.20, bull $139.90, current price $146.88, buy zone at or below $63.18\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"70.70\" data-to=\"139.90\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"63.18\"></span>\n        <span class=\"ruler-tick\" data-value=\"70.70\"></span>\n        <span class=\"ruler-tick\" data-value=\"97.20\"></span>\n        <span class=\"ruler-tick\" data-value=\"139.90\"></span>\n        <span class=\"ruler-price\" data-value=\"146.88\"><span>Price $146.88</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"70.70\">Bear<b>$70.70</b></span>\n        <span data-value=\"97.20\">Base<b>$97.20</b></span>\n        <span data-value=\"139.90\">Bull<b>$139.90</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $63.18.</figcaption>\n    </figure>",
+  "llms": "Maker of advanced semiconductor probe cards and test systems for HBM, advanced packaging and AI chips, valued on a growth-adjusted EV/EBITDA bridge with forward P/E and hard free cash flow cross-checks. Bear $70.70, Base $97.20, Bull $139.90. Verdict REDUCE at $146.88, maximum buy price $63.18."
+}

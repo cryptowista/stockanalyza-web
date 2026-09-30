@@ -1,0 +1,20 @@
+{
+  "ticker": "ESNT",
+  "slug": "esnt",
+  "name": "Essent Group (ESNT)",
+  "company": "Essent Group",
+  "companyShort": "Essent Group",
+  "date": "2026-09-30",
+  "order": 37,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $60.49",
+  "price": "$60.49",
+  "base": "$75.40",
+  "upside": "24.6",
+  "upsideText": "+24.6%",
+  "maxBuy": "$56.55",
+  "teaser": "Watchlist for new money below $56.55. Essent trades at 0.96x book value on a 13.4% annualized return on equity, earned in a credit cycle management itself calls benign.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $53.30, base $75.40, bull $95.90, current price $60.49, buy zone at or below $56.55\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"53.30\" data-to=\"95.90\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"56.55\"></span>\n        <span class=\"ruler-tick\" data-value=\"53.30\"></span>\n        <span class=\"ruler-tick\" data-value=\"75.40\"></span>\n        <span class=\"ruler-tick\" data-value=\"95.90\"></span>\n        <span class=\"ruler-price\" data-value=\"60.49\"><span>Price $60.49</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"53.30\">Bear<b>$53.30</b></span>\n        <span data-value=\"75.40\">Base<b>$75.40</b></span>\n        <span data-value=\"95.90\">Bull<b>$95.90</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $56.55.</figcaption>\n    </figure>",
+  "llms": "U.S. private mortgage insurer (Essent Guaranty) with a fast-growing mortgage reinsurance segment, valued on justified price to book value with a normalized P/E cross-check. Bear $53.30, Base $75.40, Bull $95.90. Verdict HOLD at $60.49 (watchlist for new money), maximum buy price $56.55."
+}
