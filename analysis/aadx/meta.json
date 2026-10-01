@@ -1,0 +1,20 @@
+{
+  "ticker": "AADX",
+  "slug": "aadx",
+  "name": "Applied Aerospace & Defense (AADX)",
+  "company": "Applied Aerospace & Defense",
+  "companyShort": "Applied Aerospace",
+  "date": "2026-10-01",
+  "order": 40,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $12.03",
+  "price": "$12.03",
+  "base": "$14.84",
+  "upside": "23.3",
+  "upsideText": "+23.3%",
+  "maxBuy": "$7.42",
+  "teaser": "Watchlist for new money. The shares trade about 19% below the Base value of $14.84, but adjusted EBITDA has not yet turned into cash, the public history is short and a 50% margin of safety puts the buy zone at $7.42 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $10.36, base $14.84, bull $20.76, current price $12.03, buy zone at or below $7.42\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"10.36\" data-to=\"20.76\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"7.42\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.36\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.84\"></span>\n        <span class=\"ruler-tick\" data-value=\"20.76\"></span>\n        <span class=\"ruler-price\" data-value=\"12.03\"><span>Price $12.03</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"10.36\">Bear<b>$10.36</b></span>\n        <span data-value=\"14.84\">Base<b>$14.84</b></span>\n        <span data-value=\"20.76\">Bull<b>$20.76</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $7.42.</figcaption>\n    </figure>",
+  "llms": "Space and defense advanced manufacturer (composite and metal structures, precision strike components, space hardware) that listed in June 2026 and is about 80% owned by its sponsor. Q2 2026 revenue rose 47.4%, or 19.8% excluding acquisitions, but first half free cash flow was about -$104 million and the shares trade near the Bear case. Bear $10.36, Base $14.84, Bull $20.76. Verdict Hold at $12.03, maximum buy price $7.42."
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "SNAP",
+  "slug": "snap",
+  "name": "Snap Inc. (SNAP)",
+  "company": "Snap Inc.",
+  "companyShort": "Snap",
+  "date": "2026-10-01",
+  "order": 41,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $5.65",
+  "price": "$5.65",
+  "base": "$5.52",
+  "upside": "-2.2",
+  "upsideText": "-2.2%",
+  "maxBuy": "$3.04",
+  "teaser": "Watchlist for new money. The shares trade about 2% above the Base value of $5.52. Reported free cash flow looks cheap, but stock compensation of about $1 billion a year takes it all back, and a 45% margin of safety puts the buy zone at $3.04 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $3.44, base $5.52, bull $9.68, current price $5.65, buy zone at or below $3.04\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"3.44\" data-to=\"9.68\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"3.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.44\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.52\"></span>\n        <span class=\"ruler-tick\" data-value=\"9.68\"></span>\n        <span class=\"ruler-price\" data-value=\"5.65\"><span>Price $5.65</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"3.44\">Bear<b>$3.44</b></span>\n        <span data-value=\"5.52\">Base<b>$5.52</b></span>\n        <span data-value=\"9.68\">Bull<b>$9.68</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $3.04.</figcaption>\n    </figure>",
+  "llms": "Advertising and subscription platform behind Snapchat (493 million daily users, 971 million monthly users). Q2 2026 revenue rose 19% to $1.6 billion and free cash flow was $706 million over twelve months, but stock compensation of about $1.03 billion a year more than offsets it. Bear $3.44, Base $5.52, Bull $9.68. Verdict Hold at $5.65, maximum buy price $3.04."
+}

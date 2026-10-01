@@ -1,0 +1,20 @@
+{
+  "ticker": "HBH",
+  "slug": "hbh",
+  "name": "HORNBACH Holding (HBH)",
+  "company": "HORNBACH Holding AG & Co. KGaA",
+  "companyShort": "HORNBACH",
+  "date": "2026-10-01",
+  "order": 42,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at €83.70",
+  "price": "€83.70",
+  "base": "€91.04",
+  "upside": "8.8",
+  "upsideText": "+8.8%",
+  "maxBuy": "€63.73",
+  "teaser": "Watchlist for new money. The shares trade about 8% below the Base value of €91.04, which is not enough: net debt is measured at the seasonal low, cash flow after lease payments is thin, and a 30% margin of safety puts the buy zone at €63.73 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €70.12, base €91.04, bull €112.86, current price €83.70, buy zone at or below €63.73\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"70.12\" data-to=\"112.86\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"63.73\"></span>\n        <span class=\"ruler-tick\" data-value=\"70.12\"></span>\n        <span class=\"ruler-tick\" data-value=\"91.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"112.86\"></span>\n        <span class=\"ruler-price\" data-value=\"83.70\"><span>Price €83.70</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"70.12\">Bear<b>€70.12</b></span>\n        <span data-value=\"91.04\">Base<b>€91.04</b></span>\n        <span data-value=\"112.86\">Bull<b>€112.86</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €63.73.</figcaption>\n    </figure>",
+  "llms": "European DIY retailer (177 stores in nine countries, about 62% of retail space owned, sales per square meter lead the German sector) listed on Xetra. Sales rose 6.0% to EUR 3.8 billion in the six months to August 2026, but net debt is seasonally low at the half year and cash flow after lease payments is thin. Bear EUR 70.12, Base EUR 91.04, Bull EUR 112.86. Verdict Hold at EUR 83.70, maximum buy price EUR 63.73."
+}

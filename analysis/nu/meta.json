@@ -1,0 +1,20 @@
+{
+  "ticker": "NU",
+  "slug": "nu",
+  "name": "Nu Holdings (NU)",
+  "company": "Nu Holdings Ltd.",
+  "companyShort": "Nu Holdings",
+  "date": "2026-10-01",
+  "order": 43,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $13.29",
+  "price": "$13.29",
+  "base": "$10.75",
+  "upside": "-19.1",
+  "upsideText": "-19.1%",
+  "maxBuy": "$5.38",
+  "teaser": "Do not add. The business is excellent, but the Base value of $10.75 is 19% below the price, the two valuation methods disagree by 33%, and a 50% margin of safety puts the buy zone at $5.38 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $5.19, base $10.75, bull $14.68, current price $13.29, buy zone at or below $5.38\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"5.19\" data-to=\"14.68\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"5.38\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.19\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.75\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.68\"></span>\n        <span class=\"ruler-price\" data-value=\"13.29\"><span>Price $13.29</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"5.19\">Bear<b>$5.19</b></span>\n        <span data-value=\"10.75\">Base<b>$10.75</b></span>\n        <span data-value=\"14.68\">Bull<b>$14.68</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $5.38.</figcaption>\n    </figure>",
+  "llms": "Largest digital bank in Latin America (139 million customers in Brazil, Mexico and Colombia, 33% return on equity in Q2 2026, $45.3 billion of deposits, $39.4 billion credit portfolio). Trades at 4.9x book value. Bear $5.19, Base $10.75, Bull $14.68. Verdict Hold at $13.29, do not add, maximum buy price $5.38."
+}
