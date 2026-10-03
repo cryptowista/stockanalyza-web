@@ -1,0 +1,20 @@
+{
+  "ticker": "CRDO",
+  "slug": "crdo",
+  "name": "Credo (CRDO)",
+  "company": "Credo Technology Group",
+  "companyShort": "Credo",
+  "date": "2026-10-03",
+  "order": 45,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $218.64",
+  "price": "$218.64",
+  "base": "$150",
+  "upside": "-31.5",
+  "upsideText": "-31.5%",
+  "maxBuy": "$90",
+  "teaser": "Stock compensation of $88.0 million exceeded free cash flow of $82.9 million last quarter. The price of $218.64 sits 46% above Base and 9% below Bull. The buy zone is $75 to $90.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $92, base $150, bull $240, current price $218.64, buy zone at or below $90\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"92.46\" data-to=\"240.08\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"89.80\"></span>\n        <span class=\"ruler-tick\" data-value=\"92.46\"></span>\n        <span class=\"ruler-tick\" data-value=\"149.66\"></span>\n        <span class=\"ruler-tick\" data-value=\"240.08\"></span>\n        <span class=\"ruler-price\" data-value=\"218.64\"><span>Price $218.64</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"92.46\">Bear<b>$92</b></span>\n        <span data-value=\"149.66\">Base<b>$150</b></span>\n        <span data-value=\"240.08\">Bull<b>$240</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $90.</figcaption>\n    </figure>",
+  "llms": "Maker of active electrical cables, DSPs and optical connectivity chips for AI data centers, valued on a justified multiple of free cash flow per share with a ten-year free cash flow model. Bear $92, Base $150, Bull $240. Verdict REDUCE at $218.64, maximum buy price $90."
+}

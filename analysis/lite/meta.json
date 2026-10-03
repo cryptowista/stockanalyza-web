@@ -1,0 +1,20 @@
+{
+  "ticker": "LITE",
+  "slug": "lite",
+  "name": "Lumentum (LITE)",
+  "company": "Lumentum Holdings",
+  "companyShort": "Lumentum",
+  "date": "2026-10-03",
+  "order": 44,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $1,085.42",
+  "price": "$1,085.42",
+  "base": "$651",
+  "upside": "-40.1",
+  "upsideText": "-40.1%",
+  "maxBuy": "$325",
+  "teaser": "The price of $1,085.42 sits above the Bull value of $982 and needs the full consensus cash flow path plus a low discount rate. The buy zone is $260 to $325.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $347, base $651, bull $982, current price $1,085.42, buy zone at or below $325\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"347.35\" data-to=\"982.30\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"325.31\"></span>\n        <span class=\"ruler-tick\" data-value=\"347.35\"></span>\n        <span class=\"ruler-tick\" data-value=\"650.62\"></span>\n        <span class=\"ruler-tick\" data-value=\"982.30\"></span>\n        <span class=\"ruler-price\" data-value=\"1085.42\"><span>Price $1,085.42</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"347.35\">Bear<b>$347</b></span>\n        <span data-value=\"650.62\">Base<b>$651</b></span>\n        <span data-value=\"982.30\">Bull<b>$982</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $325.</figcaption>\n    </figure>",
+  "llms": "Maker of lasers and optical components for AI data centers, valued on a growth-adjusted EV/EBITDA bridge with a ten-year free cash flow model and a forward P/E cross-check. Bear $347, Base $651, Bull $982. Verdict REDUCE at $1,085.42, maximum buy price $325."
+}

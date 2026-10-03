@@ -1,0 +1,20 @@
+{
+  "ticker": "MRVL",
+  "slug": "mrvl",
+  "name": "Marvell (MRVL)",
+  "company": "Marvell Technology",
+  "companyShort": "Marvell",
+  "date": "2026-10-03",
+  "order": 46,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $272.29",
+  "price": "$272.29",
+  "base": "$138",
+  "upside": "-49.2",
+  "upsideText": "-49.2%",
+  "maxBuy": "$69",
+  "teaser": "The price of $272.29 needs about twice the cash flow of my Base path and sits 8.5% above the Bull value of $251. The buy zone is $55 to $69.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $75, base $138, bull $251, current price $272.29, buy zone at or below $69\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"75.20\" data-to=\"250.86\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"69.10\"></span>\n        <span class=\"ruler-tick\" data-value=\"75.20\"></span>\n        <span class=\"ruler-tick\" data-value=\"138.20\"></span>\n        <span class=\"ruler-tick\" data-value=\"250.86\"></span>\n        <span class=\"ruler-price\" data-value=\"272.29\"><span>Price $272.29</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"75.20\">Bear<b>$75</b></span>\n        <span data-value=\"138.20\">Base<b>$138</b></span>\n        <span data-value=\"250.86\">Bull<b>$251</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $69.</figcaption>\n    </figure>",
+  "llms": "Maker of custom AI chips, optical and electrical connectivity and switching silicon for data centers, valued on a multiple of free cash flow per share with a ten-year free cash flow model. Bear $75, Base $138, Bull $251. Verdict REDUCE at $272.29, maximum buy price $69."
+}
