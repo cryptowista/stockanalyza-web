@@ -1,0 +1,20 @@
+{
+  "ticker": "PCZ",
+  "slug": "pcz",
+  "name": "ProCredit Holding (PCZ)",
+  "company": "ProCredit Holding",
+  "companyShort": "ProCredit Holding",
+  "date": "2026-10-06",
+  "order": 48,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at €8.68",
+  "price": "€8.68",
+  "base": "€13.08",
+  "upside": "50.7",
+  "upsideText": "+50.7%",
+  "maxBuy": "€6.54",
+  "teaser": "The price of €8.68 is 34% below my Base of €13.08 and half of book value, but return on equity is 6.7% and the cost-income ratio 71.2%. The buy zone is €6.54 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €5.98, base €13.08, bull €21.11, current price €8.68, buy zone at or below €6.54\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"5.98\" data-to=\"21.11\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"6.54\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.98\"></span>\n        <span class=\"ruler-tick\" data-value=\"13.08\"></span>\n        <span class=\"ruler-tick\" data-value=\"21.11\"></span>\n        <span class=\"ruler-price\" data-value=\"8.68\"><span>Price €8.68</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"5.98\">Bear<b>€5.98</b></span>\n        <span data-value=\"13.08\">Base<b>€13.08</b></span>\n        <span data-value=\"21.11\">Bull<b>€21.11</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €6.54.</figcaption>\n    </figure>",
+  "llms": "German-listed banking group focused on small business and retail clients in South Eastern and Eastern Europe, valued with a residual income model and a forward earnings cross-check. Bear €5.98, Base €13.08, Bull €21.11. Verdict HOLD at €8.68, maximum buy price €6.54."
+}

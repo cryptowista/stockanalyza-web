@@ -1,0 +1,20 @@
+{
+  "ticker": "GPN",
+  "slug": "gpn",
+  "name": "Global Payments (GPN)",
+  "company": "Global Payments",
+  "companyShort": "Global Payments",
+  "date": "2026-10-06",
+  "order": 47,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $82.18",
+  "price": "$82.18",
+  "base": "$99.84",
+  "upside": "21.5",
+  "upsideText": "+21.5%",
+  "maxBuy": "$59.90",
+  "teaser": "At 6x guided adjusted earnings the price of $82.18 is 17.7% below my Base of $99.84. Thin reported cash flow, a $2.3 billion tax balance and leverage keep the buy zone at $59.90 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $59.67, base $99.84, bull $137.90, current price $82.18, buy zone at or below $59.90\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"59.67\" data-to=\"137.90\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"59.90\"></span>\n        <span class=\"ruler-tick\" data-value=\"59.67\"></span>\n        <span class=\"ruler-tick\" data-value=\"99.84\"></span>\n        <span class=\"ruler-tick\" data-value=\"137.90\"></span>\n        <span class=\"ruler-price\" data-value=\"82.18\"><span>Price $82.18</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"59.67\">Bear<b>$59.67</b></span>\n        <span data-value=\"99.84\">Base<b>$99.84</b></span>\n        <span data-value=\"137.90\">Bull<b>$137.90</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $59.90.</figcaption>\n    </figure>",
+  "llms": "Merchant acquiring and payment technology company after the Worldpay acquisition and the sale of Issuer Solutions, valued on normalized free cash flow per share with an EV to EBITDA cross-check. Bear $59.67, Base $99.84, Bull $137.90. Verdict HOLD at $82.18, maximum buy price $59.90."
+}
