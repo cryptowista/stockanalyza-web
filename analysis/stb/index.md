@@ -4,9 +4,9 @@
 
 STB, London Stock Exchange. Published October 6, 2026. Values in pounds. Price as of the October 6, 2026 regular session close.
 
-## Verdict: BUY at £15.22
+## Verdict: HOLD at £15.22
 
-Not a Strong Buy. The shares trade 38% below my Base value of £24.67 and at 0.74 times tangible book value, while the bank earns 12.3% on equity. The required margin of safety is 50%, so the full buy zone is £12.33 or below, and today's price is above it. The Bear value of £12.52 is 18% under the price.
+Watchlist for new money, with a buy price of £12.33 or below. The shares trade 38% below my Base value of £24.67 and at 0.74 times tangible book value, while the bank earns 12.3% on equity. The required margin of safety is 50%, and today's price is 23% above the buy zone. The Bear value of £12.52 is only 18% under the price.
 
 - Bear value: £12.52
 - Base value: £24.67
@@ -24,7 +24,7 @@ Not a Strong Buy. The shares trade 38% below my Base value of £24.67 and at 0.7
 
 Secure Trust Bank earns about 12% on its equity and trades at 0.74 times tangible book value. A bank with that return would normally trade near or above book. The gap is explained by one number: the market price matches a bank that earns about 9.3% forever, which is roughly what STB would earn if its cost of risk rose from 0.9% to about 1.5% of loans. The price already assumes a credit shock.
 
-At the October 6, 2026 close of £15.22 (1,522 pence) the shares trade 38.3% below my triangulated Base value of £24.67, an upside of 62.1%. The Bear value of £12.52 is 17.7% below the price and the Bull value of £35.86 is 136% above it. The required margin of safety (MOS) is 50%, which puts the maximum buy price at £12.33. The verdict is Buy, not Strong Buy, because a Strong Buy needs the price inside that buy zone.
+At the October 6, 2026 close of £15.22 (1,522 pence) the shares trade 38.3% below my triangulated Base value of £24.67, an upside of 62.1%. The Bear value of £12.52 is 17.7% below the price and the Bull value of £35.86 is 136% above it. The required margin of safety (MOS) is 50%, which puts the maximum buy price at £12.33. The verdict is Hold, not Buy, because on this site a Buy requires the price to be at or below that maximum buy price.
 
 Route: SF-02 Banks. Economic classification: Quality Growth (8/12). Primary method: residual income on tangible book value. Secondary method: forward price to earnings. Corporate free cash flow is not valid for a bank and is not used. Values are present fair value estimates, not 12 month price targets. All figures are in pounds per share unless stated.
 
@@ -137,7 +137,7 @@ I assign no probabilities. The Base shown is the triangulated value; the residua
 
 A Confidence C score carries a base MOS of 35% to 50%. I use 35%, the low end, because the return is above the cost of equity and capital is strong. I add 5 points for credit cyclicality in UK consumer and property lending, 5 points for funding and regulatory risk (a loan to deposit ratio of 107%, falling deposits, and a motor finance legacy I cannot size), and 5 points because the two methods differ by 22%. The required MOS is **50%**. Applied to the Base of £24.67, the **maximum buy price is £12.33** (0.60 times tangible book), and a 60% margin marks a strong-buy reference at £9.87.
 
-At £15.22 the shares trade above that zone. I still rate the shares a Buy, because the Bear value of £12.52 sits only 18% below the price while the Base sits 62% above it, and because the market is already pricing a return of 9.3%. A Strong Buy would need a price inside the zone. For new money the disciplined approach is to buy in stages and to add on weakness toward £12 to £15.
+At £15.22 the shares trade above that zone, so the verdict is Hold. The numbers are attractive: the Base sits 62% above the price, and the market is already pricing a return of 9.3%. But the Bear value of £12.52 is only 18% below the price, and a specialist lender is sensitive to the credit cycle. A Buy comes at £12.33 or below, which is close to the Bear value, where the margin of safety is the one the framework asks for.
 
 ## Dividend and capital return
 
@@ -224,7 +224,7 @@ Reporting is timely and the main figures reconcile. The grade is held down by a 
 - A material motor finance redress charge
 - Tangible book value per share declining
 
-Today the return on average equity (12.3%) and the loan to deposit ratio (107%) are yellow, and the cost-income ratio (46.5%) is yellow. The cost of risk (0.9%), the risk-adjusted margin (4.2%), CET1 (14.3%, guided to 13.5%) and tangible book value (up 3.6%) are green. The next review points are the 2026 full-year result, updated targets and any motor finance news.
+Today the return on average equity (12.3%) and the loan to deposit ratio (107%) are yellow, and the cost-income ratio (46.5%) is yellow. The cost of risk (0.9%), the risk-adjusted margin (4.2%), CET1 (14.3%, guided to 13.5%) and tangible book value (up 3.6%) are green. The next review points are the 2026 full-year result, updated targets and any motor finance news. The price at which the verdict would change to Buy is £12.33.
 
 ## The three most important thesis breakers
 
@@ -254,9 +254,9 @@ I recomputed every figure from the half-year results and the share count announc
 | Business quality | 76/100 | 67/100 |
 | Valuation score | 82/100 | 61/100 |
 | Confidence | 21/25, grade B | 15/25, grade C |
-| Verdict | Buy at £15.38 | Buy at £15.22, not Strong Buy |
+| Verdict | Buy at £15.38 | Hold at £15.22, watchlist for new money (buy at £12.33 or below) |
 
-Two corrections move the value up: the higher tangible book (+3.6%) and the compounding of retained earnings at a 30% payout, which lifts the Base above the draft. Seven move it down or lower the scores. The Base rises, yet the verdict does not become more bullish, because the required margin of safety doubled. The strongest counter-thesis, for the bears: a specialist lender with no current account base, a loan to deposit ratio above 100% and UK consumer and property exposure deserves a permanent discount to book, and with a cost of risk of 1.5% the shares are worth about £15, which is today's price. The response is that this is roughly what the market already assumes, and that the Bear value is only 18% below the price while the Base is 62% above it.
+Two corrections move the value up: the higher tangible book (+3.6%) and the compounding of retained earnings at a 30% payout, which lifts the Base above the draft. Seven move it down or lower the scores. The Base rises, yet the verdict is more cautious, because the required margin of safety doubled. The strongest counter-thesis, for the bears: a specialist lender with no current account base, a loan to deposit ratio above 100% and UK consumer and property exposure deserves a permanent discount to book, and with a cost of risk of 1.5% the shares are worth about £15, which is today's price. The response is that this is roughly what the market already assumes, and that the Bear value is only 18% below the price while the Base is 62% above it.
 
 | Robustness check | Triangulated value |
 | --- | --- |
@@ -271,15 +271,15 @@ Two corrections move the value up: the higher tangible book (+3.6%) and the comp
 | Secondary at 6x / 9x earnings | £23.41 / £25.93 |
 | Maximum buy price at the first draft's 25% margin of safety | £18.50, above £15.22 |
 
-The Buy survives the central and generous cases. In the conservative case the value is below the price and the verdict would be Hold. Audit flags: the cost of equity, the return paths, the 7.5x multiple, next-twelve-months EPS, the 25% tax rate and the exclusion of employee trust shares are my estimates. The group Stage 3 ratio, the motor finance exposure, a peer table and a synchronized valuation history were not available. The price of £15.22 comes from a broker app after the exchange close; the exchange page showed 1,518p a session earlier, and I did not retrieve the official closing auction price. The publication gate status is PASS WITH WARNING because the valuation depends on a return recovery that is not yet in the numbers.
+The value is above the price in the central and generous cases and below it in the conservative case. In the generous case the maximum buy price would be £17.64 and the price would sit inside the zone, which would be a Buy. In the central and conservative cases the verdict is Hold. Audit flags: the cost of equity, the return paths, the 7.5x multiple, next-twelve-months EPS, the 25% tax rate and the exclusion of employee trust shares are my estimates. The group Stage 3 ratio, the motor finance exposure, a peer table and a synchronized valuation history were not available. The price of £15.22 comes from a broker app after the exchange close; the exchange page showed 1,518p a session earlier, and I did not retrieve the official closing auction price. The publication gate status is PASS WITH WARNING because the valuation depends on a return recovery that is not yet in the numbers.
 
-## Final verdict: buy at £15.22
+## Final verdict: hold at £15.22, watchlist for new money
 
 Secure Trust Bank earns more than its cost of equity, has strong capital, is buying back shares below book value and trades at 0.74 times tangible book. The market price is consistent with a bank earning 9.3% forever, which would need a credit downturn that is not visible in the half-year numbers. My Base value of £24.67 needs the return to rise to about 14.5%, below management's own target.
 
-**Verdict: BUY at £15.22. Triangulated Base value £24.67, upside 62.1%, Confidence C (15/25). Required margin of safety 50%, maximum buy price £12.33.**
+**Verdict: HOLD at £15.22. Triangulated Base value £24.67, upside 62.1%, Confidence C (15/25). Required margin of safety 50%, maximum buy price £12.33.**
 
-It is a Buy and not a Strong Buy because the price is 23% above the buy zone, the Bear value is only 18% below the price, and a specialist lender is sensitive to the credit cycle. The case changes if the cost of risk moves above 1.5%, if CET1 falls toward 12.5%, or if the return on equity heads below 11%. It strengthens if the price falls toward £12.33 with the numbers intact, or if the return moves above 14% as the cost savings arrive.
+The valuation alone classifies as Deep Undervalued, which would map to a Strong Buy. The verdict rule on this site is that a Buy needs the price at or below the maximum buy price, and a Strong Buy needs it at or below the 60% margin reference of £9.87. At £15.22 the price is 23% above the buy zone, so the verdict is Hold. It changes to Buy if the price falls to £12.33 or below with the numbers intact. It also changes if the return moves above 14% as the cost savings arrive, because a higher Base raises the buy price. It weakens if the cost of risk moves above 1.5%, if CET1 falls toward 12.5%, or if the return on equity heads below 11%.
 
 The main thesis breaker is a sustainable return on equity below about 11% while credit costs rise materially.
 

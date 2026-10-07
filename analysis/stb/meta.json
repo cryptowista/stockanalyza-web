@@ -6,15 +6,15 @@
   "companyShort": "Secure Trust Bank",
   "date": "2026-10-06",
   "order": 49,
-  "verdict": "buy",
-  "verdictLabel": "Buy",
-  "call": "<span class=\"call\">Buy</span> at £15.22",
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at £15.22",
   "price": "£15.22",
   "base": "£24.67",
   "upside": "62.1",
   "upsideText": "+62.1%",
   "maxBuy": "£12.33",
-  "teaser": "At 0.74x tangible book and a 12.3% return, the price of £15.22 assumes about a 9% return forever. Base £24.67, 62% above the price. The full buy zone is £12.33 or below.",
+  "teaser": "At 0.74x tangible book and a 12.3% return, the price of £15.22 assumes about a 9% return forever. Base £24.67, 62% above the price. Buy at £12.33 or below.",
   "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear £12.52, base £24.67, bull £35.86, current price £15.22, buy zone at or below £12.33\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"12.52\" data-to=\"35.86\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"12.33\"></span>\n        <span class=\"ruler-tick\" data-value=\"12.52\"></span>\n        <span class=\"ruler-tick\" data-value=\"24.67\"></span>\n        <span class=\"ruler-tick\" data-value=\"35.86\"></span>\n        <span class=\"ruler-price\" data-value=\"15.22\"><span>Price £15.22</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"12.52\">Bear<b>£12.52</b></span>\n        <span data-value=\"24.67\">Base<b>£24.67</b></span>\n        <span data-value=\"35.86\">Bull<b>£35.86</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below £12.33.</figcaption>\n    </figure>",
-  "llms": "UK specialist bank in retail and business finance, valued with a residual income model and a forward earnings cross-check. Bear £12.52, Base £24.67, Bull £35.86. Verdict BUY at £15.22, maximum buy price £12.33."
+  "llms": "UK specialist bank in retail and business finance, valued with a residual income model and a forward earnings cross-check. Bear £12.52, Base £24.67, Bull £35.86. Verdict HOLD at £15.22, maximum buy price £12.33."
 }
