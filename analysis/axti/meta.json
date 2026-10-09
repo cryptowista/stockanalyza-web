@@ -1,0 +1,20 @@
+{
+  "ticker": "AXTI",
+  "slug": "axti",
+  "name": "AXT (AXTI)",
+  "company": "AXT, Inc.",
+  "companyShort": "AXT",
+  "date": "2026-10-08",
+  "order": 50,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $79.79",
+  "price": "$79.79",
+  "base": "$53",
+  "upside": "-33.3",
+  "upsideText": "-33.3%",
+  "maxBuy": "$21",
+  "teaser": "The price of $79.79 sits just under the Bull value of $85 and needs the capacity targets, export permits and margins to all hold. The buy zone is $16 to $21.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $23, base $53, bull $85, current price $79.79, buy zone at or below $21\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"23.46\" data-to=\"85.09\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"21.29\"></span>\n        <span class=\"ruler-tick\" data-value=\"23.46\"></span>\n        <span class=\"ruler-tick\" data-value=\"53.23\"></span>\n        <span class=\"ruler-tick\" data-value=\"85.09\"></span>\n        <span class=\"ruler-price\" data-value=\"79.79\"><span>Price $79.79</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"23.46\">Bear<b>$23</b></span>\n        <span data-value=\"53.23\">Base<b>$53</b></span>\n        <span data-value=\"85.09\">Bull<b>$85</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $21.</figcaption>\n    </figure>",
+  "llms": "Maker of indium phosphide and gallium arsenide wafer substrates for AI data center optics, valued on a growth-adjusted EV/EBITDA bridge with a ten-year free cash flow model and a forward P/E cross-check. Bear $23, Base $53, Bull $85. Verdict REDUCE at $79.79, maximum buy price $21."
+}
