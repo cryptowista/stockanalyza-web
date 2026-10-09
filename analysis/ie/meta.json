@@ -1,0 +1,20 @@
+{
+  "ticker": "IE",
+  "slug": "ie",
+  "name": "Ivanhoe Electric (IE)",
+  "company": "Ivanhoe Electric Inc.",
+  "companyShort": "Ivanhoe Electric",
+  "date": "2026-10-09",
+  "order": 53,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $9.66",
+  "price": "$9.66",
+  "base": "$7.38",
+  "upside": "-23.6",
+  "upsideText": "-23.6%",
+  "maxBuy": "No buy zone",
+  "teaser": "At spot copper the Santa Cruz study is worth $3.5 billion, but at $9.66 the stock already prices long-term copper of about $5.79 a pound, above the banks' long-term decks, before the $1.426 billion mine is financed. My Base is $7.38, so the call is Reduce, with no buy zone.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0.93, base $7.38, bull $11.35, current price $9.66, no buy zone\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0.93\" data-to=\"11.35\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.93\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.38\"></span>\n        <span class=\"ruler-tick\" data-value=\"11.35\"></span>\n        <span class=\"ruler-price\" data-value=\"9.66\"><span>Price $9.66</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0.93\">Bear<b>$0.93</b></span>\n        <span data-value=\"7.38\">Base<b>$7.38</b></span>\n        <span data-value=\"11.35\">Bull<b>$11.35</b></span>\n      </div>\n      <figcaption>No buy zone: the required margin of safety of 80% exceeds the framework's 60% ceiling.</figcaption>\n    </figure>",
+  "llms": "Pre-revenue US copper developer whose value rests on one asset, the 100% owned Santa Cruz underground SX-EW cathode project in Arizona (2026 study: initial capex $1.426 billion, first cathode 2029, 24-year life). Valued on risked NAV at a 10% real discount rate on an estimated copper deck of $6.00/lb in 2029 to 2030 fading to $5.20/lb by 2033, cross-checked with 5.5x mid-cycle EBITDA discounted to today. At $9.66 the price implies long-term copper of about $5.79/lb, above the bank long-term decks, while about $1.67 billion of pre-production needs face $197.1 million of net cash and an uncommitted EXIM loan of up to $1.1 billion. Bear $0.93, Base $7.38, Bull $11.35. Verdict REDUCE (HOLD is a reasonable alternative, triggered by a firm EXIM commitment of at least $1.0 billion at today's capex or long-term copper expectations of $5.41 or more), required margin of safety 80%, no maximum buy price issued."
+}
