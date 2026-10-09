@@ -1,0 +1,20 @@
+{
+  "ticker": "EOSE",
+  "slug": "eose",
+  "name": "Eos Energy Enterprises (EOSE)",
+  "company": "Eos Energy Enterprises",
+  "companyShort": "Eos Energy",
+  "date": "2026-10-09",
+  "order": 51,
+  "verdict": "sell",
+  "verdictLabel": "Sell",
+  "call": "<span class=\"call\">Sell</span> at $2.765",
+  "price": "$2.765",
+  "base": "$0.30",
+  "upside": "-89.1",
+  "upsideText": "-89.1%",
+  "maxBuy": "No buy zone",
+  "teaser": "Sell, no buy zone. Counting the preferred stock and a penny warrant, Eos has 542 million share claims, not 364 million. At $2.765 the price sits above my Bull value of $2.66.",
+  "ruler": "<figure class=\"ruler\" data-min=\"-0.02\" data-max=\"2.95\" aria-label=\"Valuation range: bear $0 (equity wiped out), base $0.30, bull $2.66, current price $2.765, no buy zone\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0\" data-to=\"2.66\"></span>\n        <span class=\"ruler-tick\" data-value=\"0\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.30\"></span>\n        <span class=\"ruler-tick\" data-value=\"2.66\"></span>\n        <span class=\"ruler-price\" data-value=\"2.765\"><span>Price $2.765</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0\">Bear<b>$0</b></span>\n        <span data-value=\"0.30\">Base<b>$0.30</b></span>\n        <span data-value=\"2.66\">Bull<b>$2.66</b></span>\n      </div>\n      <figcaption>Bear $0: in the stress case, common equity is wiped out because enterprise value does not cover the debt and the cash burn. No buy zone: the required margin of safety exceeds the framework's 60% ceiling.</figcaption>\n    </figure>",
+  "llms": "Eos Energy Enterprises makes zinc-based long-duration battery storage in Pennsylvania. Gross margin was -71% in Q2 2026 after an 18% production tax credit, and 80% of revenue came from one related-party project. Counting the Series B preferred and a 44.4 million share penny warrant, there are 542 million share claims, not 364 million, against about $643 million of net debt. Valued on EV to 2027 revenue and a path-to-cash-flow model. Bear $0, Base $0.30, Bull $2.66. Verdict Sell at $2.765, no buy zone (required margin of safety 75%)."
+}
