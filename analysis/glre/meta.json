@@ -1,0 +1,20 @@
+{
+  "ticker": "GLRE",
+  "slug": "glre",
+  "name": "Greenlight Capital Re (GLRE)",
+  "company": "Greenlight Capital Re, Ltd.",
+  "companyShort": "Greenlight Re",
+  "date": "2026-10-09",
+  "order": 52,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $14.97",
+  "price": "$14.97",
+  "base": "$15.09",
+  "upside": "0.8",
+  "upsideText": "+0.8%",
+  "maxBuy": "$8.30",
+  "teaser": "At 0.73 times book, GLRE looks cheap until you price the return: today's quote already pays for a 9.3% return on equity, and 9.0% is what the business earns through a cycle.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $6.78, base $15.09, bull $27.52, current price $14.97, buy zone at or below $8.30\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"6.78\" data-to=\"27.52\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"8.30\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.78\"></span>\n        <span class=\"ruler-tick\" data-value=\"15.09\"></span>\n        <span class=\"ruler-tick\" data-value=\"27.52\"></span>\n        <span class=\"ruler-price\" data-value=\"14.97\"><span>Price $14.97</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"6.78\">Bear<b>$6.78</b></span>\n        <span data-value=\"15.09\">Base<b>$15.09</b></span>\n        <span data-value=\"27.52\">Bull<b>$27.52</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $8.30.</figcaption>\n    </figure>",
+  "llms": "Cayman-based specialty property and casualty reinsurer whose invested assets sit mostly in Solasglas, a fund managed by a related party. Valued on justified price to book from a 9.0% sustainable return on equity against a 12% cost of equity, cross-checked with a normalized earnings bridge at 9x. Bear $6.78, Base $15.09, Bull $27.52. Verdict Hold at $14.97, maximum buy price $8.30."
+}
