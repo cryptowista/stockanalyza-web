@@ -392,11 +392,22 @@ th[aria-sort="descending"] .sort-mark::after { content: "\2193"; opacity: 1; }
   .filter-verdicts button .count { padding: 0.05rem 0.35rem; }
   .filter-key { display: none; }
   .filter-status { margin-left: 0; }
-  .list-table th:nth-child(4), .list-table td:nth-child(4),
-  .list-table th:nth-child(5), .list-table td:nth-child(5),
-  .list-table th:nth-child(7), .list-table td:nth-child(7) { display: none; }
+  /* Phone: all columns stay, the table scrolls sideways, Company stays pinned on the left */
+  .list-table {
+    -webkit-overflow-scrolling: touch; overscroll-behavior-x: contain;
+    background:
+      linear-gradient(to left, var(--bg) 40%, transparent) right center / 2.5rem 100% no-repeat local,
+      radial-gradient(farthest-side at 100% 50%, color-mix(in srgb, var(--ink) 28%, transparent), transparent) right center / 0.9rem 100% no-repeat scroll;
+  }
+  .list-table table { width: max-content; min-width: 100%; }
+  .list-table th, .list-table td { white-space: nowrap; }
+  .list-table th:first-child, .list-table td:first-child {
+    position: sticky; left: 0; z-index: 1; background: var(--bg);
+    white-space: normal; min-width: 6.5rem; max-width: 8.5rem; padding-right: 0.6rem;
+    box-shadow: inset -1px 0 0 var(--rule);
+  }
   .list-table td:first-child .small { display: block; line-height: 1.3; }
-  .list-table td:nth-child(2) { white-space: nowrap; }
+  .list-table th:nth-child(2), .list-table td:nth-child(2) { padding-left: 0.6rem; }
 }
 @media (max-width: 23rem) {
   .filter-verdicts button:not([data-v="all"])::before { display: none; }
