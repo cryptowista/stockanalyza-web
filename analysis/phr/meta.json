@@ -1,0 +1,20 @@
+{
+  "ticker": "PHR",
+  "slug": "phr",
+  "name": "Phreesia (PHR)",
+  "company": "Phreesia, Inc.",
+  "companyShort": "Phreesia",
+  "date": "2026-10-10",
+  "order": 54,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $10.81",
+  "price": "$10.81",
+  "base": "$10.88",
+  "upside": "0.7",
+  "upsideText": "+0.7%",
+  "maxBuy": "$4.35",
+  "teaser": "Phreesia earned $122.0 million of adjusted EBITDA over the last twelve months, but after $59.4 million of stock pay and equipment leases only $2.3 million reached owners. At $10.81 the stock trades at my $10.88 Base, which already assumes the cost cuts work, so the call is Hold, do not add.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $7.07, base $10.88, bull $14.57, current price $10.81, buy zone at or below $4.35\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"7.07\" data-to=\"14.57\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"4.35\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.07\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.88\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.57\"></span>\n        <span class=\"ruler-price\" data-value=\"10.81\"><span>Price $10.81</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"7.07\">Bear<b>$7.07</b></span>\n        <span data-value=\"10.88\">Base<b>$10.88</b></span>\n        <span data-value=\"14.57\">Bull<b>$14.57</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $4.35.</figcaption>\n    </figure>",
+  "llms": "US healthcare IT platform that runs patient check-in software at roughly one in six US visits, with payment processing and patient financing (AccessOne, acquired November 2025) and point-of-care pharmaceutical marketing. Valued on enterprise value as a multiple of next twelve months' adjusted EBITDA minus stock-based compensation (9.0x on $81.9 million), cross-checked with a ten-year owner cash flow model after stock compensation. Trailing adjusted EBITDA was $122.0 million, but after $59.4 million of stock compensation and equipment lease principal only $2.3 million of free cash flow reached owners; the price already assumes stock compensation falls to about $50 million and the margin after it rises 3.5 points. Bear $7.07, Base $10.88, Bull $14.57. Verdict HOLD at $10.81 (holders hold, do not add; new money watchlist), required margin of safety 60%, maximum buy price $4.35."
+}
