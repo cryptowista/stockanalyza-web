@@ -1,0 +1,20 @@
+{
+  "ticker": "STLA",
+  "slug": "stla",
+  "name": "Stellantis (STLA)",
+  "company": "Stellantis N.V.",
+  "companyShort": "Stellantis N.V.",
+  "date": "2026-10-11",
+  "order": 57,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $4.48",
+  "price": "$4.48",
+  "base": "$6.87",
+  "upside": "53.2",
+  "upsideText": "+53.2%",
+  "maxBuy": "$3.09",
+  "teaser": "Stellantis reports €10.0 billion of net cash, but €4.9 billion is hybrid bonds. At $4.48 the stock is 34.7% below Base $6.87 and prices in a 2.8% margin. Hold; the buy zone starts at $3.09.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $1.00, base $6.87, bull $12.94, current price $4.48, buy zone at or below $3.09\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"1.00\" data-to=\"12.94\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"3.09\"></span>\n        <span class=\"ruler-tick\" data-value=\"1.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.87\"></span>\n        <span class=\"ruler-tick\" data-value=\"12.94\"></span>\n        <span class=\"ruler-price\" data-value=\"4.48\"><span>Price $4.48</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"1.00\">Bear<b>$1.00</b></span>\n        <span data-value=\"6.87\">Base<b>$6.87</b></span>\n        <span data-value=\"12.94\">Bull<b>$12.94</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $3.09.</figcaption>\n    </figure>",
+  "llms": "Global automaker (Jeep, Ram, Peugeot, Fiat, Opel) with a captive finance arm. Valued on mid-cycle EV to adjusted operating income after recurring charges at 3.5x, cross-checked with a scenario cash flow model; hybrid notes and restructuring cash treated as debt-like. Bear $1.00, Base $6.87, Bull $12.94. Verdict HOLD at $4.48; maximum buy price $3.09 at a required margin of safety of 55%."
+}
