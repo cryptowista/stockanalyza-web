@@ -1,0 +1,20 @@
+{
+  "ticker": "CENX",
+  "slug": "cenx",
+  "name": "Century Aluminum (CENX)",
+  "company": "Century Aluminum Company",
+  "companyShort": "Century Aluminum",
+  "date": "2026-10-11",
+  "order": 56,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $36.76",
+  "price": "$36.76",
+  "base": "$32.77",
+  "upside": "-10.9",
+  "upsideText": "-10.9%",
+  "maxBuy": "$14.75",
+  "teaser": "Century Aluminum earned $2,480 per tonne of Midwest premium in Q2, 76% of the $3,250 metal price, and policy sets it. At $36.76 the stock is 12.2% above Base $32.77. Hold; the buy zone starts at $14.75.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $4.49, base $32.77, bull $71.44, current price $36.76, buy zone at or below $14.75\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"4.49\" data-to=\"71.44\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"14.75\"></span>\n        <span class=\"ruler-tick\" data-value=\"4.49\"></span>\n        <span class=\"ruler-tick\" data-value=\"32.77\"></span>\n        <span class=\"ruler-tick\" data-value=\"71.44\"></span>\n        <span class=\"ruler-price\" data-value=\"36.76\"><span>Price $36.76</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"4.49\">Bear<b>$4.49</b></span>\n        <span data-value=\"32.77\">Base<b>$32.77</b></span>\n        <span data-value=\"71.44\">Bull<b>$71.44</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $14.75.</figcaption>\n    </figure>",
+  "llms": "Primary aluminum smelter in the US and Iceland (Sebree, Mt. Holly, Grundartangi) with a consolidated Jamalco alumina refinery stake. Valued on mid-cycle EV to EBITDA after stock compensation under three aluminum price scenarios, cross-checked with a scenario cash flow model. Bear $4.49, Base $32.77, Bull $71.44. Verdict HOLD at $36.76; maximum buy price $14.75 at a required margin of safety of 55%."
+}
