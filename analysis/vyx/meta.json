@@ -1,0 +1,20 @@
+{
+  "ticker": "VYX",
+  "slug": "vyx",
+  "name": "NCR Voyix (VYX)",
+  "company": "NCR Voyix Corporation",
+  "companyShort": "NCR Voyix Corporation",
+  "date": "2026-10-11",
+  "order": 59,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $7.15",
+  "price": "$7.15",
+  "base": "$5.98",
+  "upside": "-16.4",
+  "upsideText": "-16.4%",
+  "maxBuy": "$2.39",
+  "teaser": "A $205 million cash flow guide, and $14 million that reaches owners. Hold at $7.15, buy at or below $2.39.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0.44, base $5.98, bull $12.58, current price $7.15, buy zone at or below $2.39\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0.44\" data-to=\"12.58\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"2.39\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.44\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.98\"></span>\n        <span class=\"ruler-tick\" data-value=\"12.58\"></span>\n        <span class=\"ruler-price\" data-value=\"7.15\"><span>Price $7.15</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0.44\">Bear<b>$0.44</b></span>\n        <span data-value=\"5.98\">Base<b>$5.98</b></span>\n        <span data-value=\"12.58\">Bull<b>$12.58</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $2.39.</figcaption>\n    </figure>",
+  "llms": "Hold at $7.15: Base $5.98, Bear $0.44, Bull $12.58; buy zone at or below $2.39. Guided free cash flow is $205 million, but about $14 million reaches owners."
+}
