@@ -33,6 +33,8 @@ Each analysis also lists what would change the view: green, yellow and red signa
 
 Selected analyses are free on this site. The complete set of in-depth analyses, the archive and voting on upcoming analyses are available to members on [Patreon](https://www.patreon.com/stockanalyza).
 
+Can't find your ticker? [Run your own analysis](https://www.patreon.com/posts/168921865) at home with AI. Educational use only, not investment advice.
+
 ## Conflicts of interest and personal trading
 
 A valuation is only useful if you know whether the author could profit from it. These rules apply to every analysis on this site and on Patreon.
