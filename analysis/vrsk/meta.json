@@ -1,0 +1,20 @@
+{
+  "ticker": "VRSK",
+  "slug": "vrsk",
+  "name": "Verisk Analytics (VRSK)",
+  "company": "Verisk Analytics",
+  "companyShort": "Verisk",
+  "date": "2026-10-11",
+  "order": 63,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $177.63",
+  "price": "$177.63",
+  "base": "$166.43",
+  "upside": "-6.3",
+  "upsideText": "-6.3%",
+  "maxBuy": "$91.54",
+  "teaser": "Verisk is down 28% from its high but still trades 6.7% above Base value of $166.43. Required margin of safety 45%, maximum buy price $91.54. Hold.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $103.72, base $166.43, bull $209.49, current price $177.63, buy zone at or below $91.54\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"103.72\" data-to=\"209.49\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"91.54\"></span>\n        <span class=\"ruler-tick\" data-value=\"103.72\"></span>\n        <span class=\"ruler-tick\" data-value=\"166.43\"></span>\n        <span class=\"ruler-tick\" data-value=\"209.49\"></span>\n        <span class=\"ruler-price\" data-value=\"177.63\"><span>Price $177.63</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"103.72\">Bear<b>$103.72</b></span>\n        <span data-value=\"166.43\">Base<b>$166.43</b></span>\n        <span data-value=\"209.49\">Bull<b>$209.49</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $91.54.</figcaption>\n    </figure>",
+  "llms": "Verisk (VRSK) at $177.63 after a 28% drop: Bear $103.72, Base $166.43, Bull $209.49. Hold; maximum buy price $91.54."
+}
