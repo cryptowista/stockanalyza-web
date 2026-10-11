@@ -1,0 +1,20 @@
+{
+  "ticker": "NOW",
+  "slug": "now",
+  "name": "ServiceNow (NOW)",
+  "company": "ServiceNow, Inc.",
+  "companyShort": "ServiceNow, Inc.",
+  "date": "2026-10-11",
+  "order": 58,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $140.86",
+  "price": "$140.86",
+  "base": "$107.52",
+  "upside": "-23.7",
+  "upsideText": "-23.7%",
+  "maxBuy": "$59.14",
+  "teaser": "ServiceNow earns $4.6 billion of free cash flow and pays $2.2 billion of it in stock. At $140.86 the price equals my Bull case, 31% above Base $107.52. Hold; the buy zone starts at $59.14.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $51.88, base $107.52, bull $141.62, current price $140.86, buy zone at or below $59.14\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"51.88\" data-to=\"141.62\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"59.14\"></span>\n        <span class=\"ruler-tick\" data-value=\"51.88\"></span>\n        <span class=\"ruler-tick\" data-value=\"107.52\"></span>\n        <span class=\"ruler-tick\" data-value=\"141.62\"></span>\n        <span class=\"ruler-price\" data-value=\"140.86\"><span>Price $140.86</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"51.88\">Bear<b>$51.88</b></span>\n        <span data-value=\"107.52\">Base<b>$107.52</b></span>\n        <span data-value=\"141.62\">Bull<b>$141.62</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $59.14.</figcaption>\n    </figure>",
+  "llms": "Enterprise workflow software platform (IT, customer and employee service, security, AI agents) with 97% subscription revenue. Valued on a two-stage cash flow model of owner free cash flow after stock-based compensation, cross-checked with a forward multiple. Bear $51.88, Base $107.52, Bull $141.62. Verdict HOLD at $140.86; maximum buy price $59.14 at a required margin of safety of 45%."
+}
