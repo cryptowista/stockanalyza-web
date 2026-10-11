@@ -1,0 +1,20 @@
+{
+  "ticker": "BRO",
+  "slug": "bro",
+  "name": "Brown & Brown (BRO)",
+  "company": "Brown & Brown",
+  "companyShort": "Brown & Brown",
+  "date": "2026-10-11",
+  "order": 62,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $62.88",
+  "price": "$62.88",
+  "base": "$70.7",
+  "upside": "12.4",
+  "upsideText": "+12.4%",
+  "maxBuy": "$35.35",
+  "teaser": "Brown & Brown trades 11% below Base value of $70.70, but organic growth has stalled after the Accession deal. Required margin of safety 50%, maximum buy price $35.35. Hold.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $45.52, base $70.7, bull $96.06, current price $62.88, buy zone at or below $35.35\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"45.52\" data-to=\"96.06\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"35.35\"></span>\n        <span class=\"ruler-tick\" data-value=\"45.52\"></span>\n        <span class=\"ruler-tick\" data-value=\"70.7\"></span>\n        <span class=\"ruler-tick\" data-value=\"96.06\"></span>\n        <span class=\"ruler-price\" data-value=\"62.88\"><span>Price $62.88</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"45.52\">Bear<b>$45.52</b></span>\n        <span data-value=\"70.7\">Base<b>$70.7</b></span>\n        <span data-value=\"96.06\">Bull<b>$96.06</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $35.35.</figcaption>\n    </figure>",
+  "llms": "Brown & Brown (BRO) at $62.88: Bear $45.52, Base $70.70, Bull $96.06. Hold; maximum buy price $35.35."
+}
