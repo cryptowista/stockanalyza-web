@@ -1,0 +1,20 @@
+{
+  "ticker": "CPRT",
+  "slug": "cprt",
+  "name": "Copart (CPRT)",
+  "company": "Copart",
+  "companyShort": "Copart",
+  "date": "2026-10-11",
+  "order": 61,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $27.32",
+  "price": "$27.32",
+  "base": "$24.91",
+  "upside": "-8.8",
+  "upsideText": "-8.8%",
+  "maxBuy": "$16.19",
+  "teaser": "Copart is down about 40% from its high, but still trades 9.6% above Base value of $24.91 as margins fall. Required margin of safety 35%, maximum buy price $16.19. Hold.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $17.52, base $24.91, bull $32.5, current price $27.32, buy zone at or below $16.19\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"17.52\" data-to=\"32.5\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"16.19\"></span>\n        <span class=\"ruler-tick\" data-value=\"17.52\"></span>\n        <span class=\"ruler-tick\" data-value=\"24.91\"></span>\n        <span class=\"ruler-tick\" data-value=\"32.5\"></span>\n        <span class=\"ruler-price\" data-value=\"27.32\"><span>Price $27.32</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"17.52\">Bear<b>$17.52</b></span>\n        <span data-value=\"24.91\">Base<b>$24.91</b></span>\n        <span data-value=\"32.5\">Bull<b>$32.5</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $16.19.</figcaption>\n    </figure>",
+  "llms": "Copart (CPRT) at $27.32 after a 40% drop: Bear $17.52, Base $24.91, Bull $32.50. Hold; maximum buy price $16.19."
+}
