@@ -1,0 +1,20 @@
+{
+  "ticker": "BHC",
+  "slug": "bhc",
+  "name": "Bausch Health (BHC)",
+  "company": "Bausch Health Companies Inc.",
+  "companyShort": "Bausch Health",
+  "date": "2026-10-11",
+  "order": 55,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $6.04",
+  "price": "$6.04",
+  "base": "$9.57",
+  "upside": "58.5",
+  "upsideText": "+58.5%",
+  "maxBuy": "No buy zone",
+  "teaser": "Bausch Health parent cash is a 54.5% yield on the market value in 2026, but falls to about 2% by 2030 after interest and the Xifaxan cliff. Watchlist, no new buy: the required 70% margin of safety exceeds the framework ceiling, so no buy price is issued.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0 (equity wiped out), base $9.57, bull $29.23, current price $6.04, no buy zone\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0\" data-to=\"29.23\"></span>\n        <span class=\"ruler-tick\" data-value=\"0\"></span>\n        <span class=\"ruler-tick\" data-value=\"9.57\"></span>\n        <span class=\"ruler-tick\" data-value=\"29.23\"></span>\n        <span class=\"ruler-price\" data-value=\"6.04\"><span>Price $6.04</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0\">Bear<i class=\"ruler-extra\">, equity wiped out</i><b>$0.00</b></span>\n        <span data-value=\"9.57\">Base<b>$9.57</b></span>\n        <span data-value=\"29.23\">Bull<b>$29.23</b></span>\n      </div>\n      <figcaption>Bear $0.00: in the stress case, enterprise value does not cover the creditors, so common equity is wiped out. No buy zone: the required margin of safety exceeds the framework's 60% ceiling.</figcaption>\n    </figure>",
+  "llms": "Leveraged specialty pharmaceutical and aesthetic devices company (Salix with Xifaxan, International, Diversified, Solta) that controls the listed eye-care company Bausch + Lomb, with about 15.1 billion dollars of parent debt. Valued as a sum of the parts: parent EV to EBITDA after stock compensation plus the Bausch + Lomb stake, cross-checked with a patent cliff free cash flow model. Parent cash is about 1.3 billion dollars in 2026, a 54.5% yield on the market value, but falls to about 50 million dollars by 2030 after interest on the Base case. Bear $0.00 (equity wiped out), Base $9.57, Bull $29.23. Verdict WATCHLIST, NO NEW BUY at $6.04; no maximum buy price issued because the required margin of safety of 70% exceeds the framework ceiling."
+}
