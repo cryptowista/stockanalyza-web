@@ -1,0 +1,20 @@
+{
+  "ticker": "SPGI",
+  "slug": "spgi",
+  "name": "S&P Global (SPGI)",
+  "company": "S&P Global Inc.",
+  "companyShort": "S&P Global",
+  "date": "2026-10-12",
+  "order": 69,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $407.82",
+  "price": "$407.82",
+  "base": "$342.37",
+  "upside": "-16.0",
+  "upsideText": "-16.0%",
+  "maxBuy": "$188.30",
+  "teaser": "A great business at a price above what I can justify: Base $342, buy zone $188 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $196.46, base $342.37, bull $422.79, current price $407.82, buy zone at or below $188.30\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"196.46\" data-to=\"422.79\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"188.30\"></span>\n        <span class=\"ruler-tick\" data-value=\"196.46\"></span>\n        <span class=\"ruler-tick\" data-value=\"342.37\"></span>\n        <span class=\"ruler-tick\" data-value=\"422.79\"></span>\n        <span class=\"ruler-price\" data-value=\"407.82\"><span>Price $407.82</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"196.46\">Bear<b>$196.46</b></span>\n        <span data-value=\"342.37\">Base<b>$342.37</b></span>\n        <span data-value=\"422.79\">Bull<b>$422.79</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $188.30.</figcaption>\n    </figure>",
+  "llms": "S&P Global (SPGI) hold at $407.82, do not add. Triangulated Base $342.37, Bear $196.46, Bull $422.79. Ratings, indices and data group with margins above 50%, a buyback above $7 billion funded partly by debt, and AI risk in Market Intelligence. Required margin of safety 45%, maximum buy price $188.30."
+}
