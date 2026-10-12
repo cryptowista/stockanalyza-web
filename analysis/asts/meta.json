@@ -1,0 +1,20 @@
+{
+  "ticker": "ASTS",
+  "slug": "asts",
+  "name": "AST SpaceMobile (ASTS)",
+  "company": "AST SpaceMobile",
+  "companyShort": "AST SpaceMobile",
+  "date": "2026-10-12",
+  "order": 65,
+  "verdict": "sell",
+  "verdictLabel": "Sell",
+  "call": "<span class=\"call\">Sell</span> at $50.97",
+  "price": "$50.97",
+  "base": "$3.00",
+  "upside": "-94.1",
+  "upsideText": "-94.1%",
+  "maxBuy": "No buy zone",
+  "teaser": "Sell, no buy zone. A $19.8 billion company with $115 million of trailing revenue, a $1.6 billion yearly cash burn and a price 61% above my Bull value.",
+  "ruler": "<figure class=\"ruler\" data-min=\"-1.5\" data-max=\"55\" aria-label=\"Valuation range: bear $0 (equity wiped out), base $3.00, bull $31.70, current price $50.97, no buy zone\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0\" data-to=\"31.70\"></span>\n        <span class=\"ruler-tick\" data-value=\"0\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"31.70\"></span>\n        <span class=\"ruler-price\" data-value=\"50.97\"><span>Price $50.97</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0\">Bear<b>$0</b></span>\n        <span data-value=\"3.00\">Base<b>$3.00</b></span>\n        <span data-value=\"31.70\">Bull<b>$31.70</b></span>\n      </div>\n      <figcaption>Bear $0: in the stress case, the cash burn and the debt exceed what the network is worth, so common equity is wiped out. No buy zone: the required margin of safety exceeds the framework's 60% ceiling.</figcaption>\n    </figure>",
+  "llms": "AST SpaceMobile (ASTS) is building a satellite network that connects directly to ordinary phones. It has $115 million of trailing revenue, a free cash flow burn of $1.64 billion and an economic market value of $19.8 billion. Valued on EV to 2028 revenue and a path-to-cash-flow model. Bear $0, Base $3.00, Bull $31.70. Verdict Sell at $50.97, no buy zone (required margin of safety above the 60% ceiling)."
+}
