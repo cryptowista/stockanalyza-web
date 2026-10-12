@@ -245,6 +245,7 @@ tr.total td { font-weight: 600; border-bottom: 0; }
 .list-table a { color: var(--ink); }
 .v { font-weight: 600; }
 .v-buy { color: var(--buy); }
+td.num.up-strong { color: var(--buy); font-weight: 600; }
 .v-hold { color: var(--hold); }
 .v-sell { color: var(--sell); }
 

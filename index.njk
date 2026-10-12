@@ -123,7 +123,7 @@ permalink: /index.html
           <td><span class="v v-{{ a.verdict }}">{{ a.verdictLabel }}</span></td>
           <td class="num">{{ a.price }}</td>
           <td class="num">{{ a.base }}</td>
-          <td class="num">{{ a.upsideText }}</td>
+          <td class="num{% if a.upside | float > 40 %} up-strong{% endif %}">{{ a.upsideText }}</td>
           <td class="num">{{ a.maxBuy }}</td>
         </tr>
 {%- endfor %}
