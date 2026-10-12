@@ -1,0 +1,20 @@
+{
+  "ticker": "NEXI",
+  "slug": "nexi",
+  "name": "Nexi (NEXI)",
+  "company": "Nexi S.p.A.",
+  "companyShort": "Nexi",
+  "date": "2026-10-12",
+  "order": 66,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at €4.20",
+  "price": "€4.20",
+  "base": "€6.24",
+  "upside": "48.6",
+  "upsideText": "+48.6%",
+  "maxBuy": "€3.12",
+  "teaser": "Priced for zero growth, but not yet a buy: a 15% cash yield on guidance that is falling.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €3.18, base €6.24, bull €8.63, current price €4.20, buy zone at or below €3.12\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"3.18\" data-to=\"8.63\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"3.12\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.18\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.24\"></span>\n        <span class=\"ruler-tick\" data-value=\"8.63\"></span>\n        <span class=\"ruler-price\" data-value=\"4.20\"><span>Price €4.20</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"3.18\">Bear<b>€3.18</b></span>\n        <span data-value=\"6.24\">Base<b>€6.24</b></span>\n        <span data-value=\"8.63\">Bull<b>€8.63</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €3.12.</figcaption>\n    </figure>",
+  "llms": "Nexi (NEXI) hold at €4.20. Triangulated Base €6.24, Bear €3.18, Bull €8.63. Priced for zero growth on €750M guided excess cash, but confidence C and max buy price €3.12."
+}
