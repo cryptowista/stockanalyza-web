@@ -1,0 +1,20 @@
+{
+  "ticker": "IONQ",
+  "slug": "ionq",
+  "name": "IonQ (IONQ)",
+  "company": "IonQ Inc.",
+  "companyShort": "IonQ",
+  "date": "2026-10-12",
+  "order": 68,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $39.89",
+  "price": "$39.89",
+  "base": "$17.23",
+  "upside": "-56.8",
+  "upsideText": "-56.8%",
+  "maxBuy": "No buy zone",
+  "teaser": "Priced at the Bull case: strong growth and net cash, but gross margin has fallen to 25% and the shares trade at 2.3 times Base.",
+  "ruler": "<figure class=\"ruler\" data-min=\"0\" data-max=\"45\" aria-label=\"Valuation range: bear $7.25, base $17.23, bull $39.29, current price $39.89, no buy zone\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"7.25\" data-to=\"39.29\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.25\"></span>\n        <span class=\"ruler-tick\" data-value=\"17.23\"></span>\n        <span class=\"ruler-tick\" data-value=\"39.29\"></span>\n        <span class=\"ruler-price\" data-value=\"39.89\"><span>Price $39.89</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"7.25\">Bear<b>$7.25</b></span>\n        <span data-value=\"17.23\">Base<b>$17.23</b></span>\n        <span data-value=\"39.29\">Bull<b>$39.29</b></span>\n      </div>\n      <figcaption>No buy zone: the required margin of safety exceeds the framework's 60% ceiling. For reference, 60% below Base is $6.89.</figcaption>\n    </figure>",
+  "llms": "IonQ (IONQ) reduce at $39.89. Triangulated Base $17.23, Bear $7.25, Bull $39.29. Trapped-ion quantum computing company with about $1.85 billion of net cash after the SkyWater deal, gross margin down to 25% and a pending all-stock Elisity deal. No buy zone: the required margin of safety is above the 60% ceiling."
+}
