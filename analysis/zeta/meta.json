@@ -1,0 +1,20 @@
+{
+  "ticker": "ZETA",
+  "slug": "zeta",
+  "name": "Zeta Global (ZETA)",
+  "company": "Zeta Global Holdings Corp.",
+  "companyShort": "Zeta Global",
+  "date": "2026-10-12",
+  "order": 70,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $33.09",
+  "price": "$33.09",
+  "base": "$26.74",
+  "upside": "-19.2",
+  "upsideText": "-19.2%",
+  "maxBuy": "$13.37",
+  "teaser": "Fast growth, but stock pay takes most of the cash: Base $26.74, buy zone $13.37 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $9.72, base $26.74, bull $46.04, current price $33.09, buy zone at or below $13.37\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"9.72\" data-to=\"46.04\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"13.37\"></span>\n        <span class=\"ruler-tick\" data-value=\"9.72\"></span>\n        <span class=\"ruler-tick\" data-value=\"26.74\"></span>\n        <span class=\"ruler-tick\" data-value=\"46.04\"></span>\n        <span class=\"ruler-price\" data-value=\"33.09\"><span>Price $33.09</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"9.72\">Bear<b>$9.72</b></span>\n        <span data-value=\"26.74\">Base<b>$26.74</b></span>\n        <span data-value=\"46.04\">Bull<b>$46.04</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $13.37.</figcaption>\n    </figure>",
+  "llms": "Zeta Global (ZETA) hold at $33.09, do not add. Triangulated Base $26.74, Bear $9.72, Bull $46.04. AI marketing cloud growing about 25% organically with free cash flow of only about $40 million after stock pay. Required margin of safety 50%, maximum buy price $13.37."
+}
