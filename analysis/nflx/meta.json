@@ -1,0 +1,20 @@
+{
+  "ticker": "NFLX",
+  "slug": "nflx",
+  "name": "Netflix (NFLX)",
+  "company": "Netflix",
+  "companyShort": "Netflix",
+  "date": "2026-10-12",
+  "order": 64,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $70.30",
+  "price": "$70.30",
+  "base": "$58.50",
+  "upside": "-16.8",
+  "upsideText": "-16.8%",
+  "maxBuy": "$32.17",
+  "teaser": "Down 44% from its high, Netflix is still 20% above my Base value of $58.50. Hold, maximum buy price $32.17.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $34.80, base $58.50, bull $81.81, current price $70.30, buy zone at or below $32.17\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"34.80\" data-to=\"81.81\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"32.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"34.80\"></span>\n        <span class=\"ruler-tick\" data-value=\"58.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"81.81\"></span>\n        <span class=\"ruler-price\" data-value=\"70.30\"><span>Price $70.30</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"34.80\">Bear<b>$34.80</b></span>\n        <span data-value=\"58.50\">Base<b>$58.50</b></span>\n        <span data-value=\"81.81\">Bull<b>$81.81</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $32.17.</figcaption>\n    </figure>",
+  "llms": "Netflix (NFLX): Hold at $70.30. Triangulated Base $58.50, Bear $34.80, Bull $81.81. Maximum buy price $32.17 with a 45% margin of safety."
+}
