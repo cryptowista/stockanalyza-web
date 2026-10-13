@@ -1,0 +1,20 @@
+{
+  "ticker": "MULT",
+  "slug": "mult",
+  "name": "Multitude (MULT)",
+  "company": "Multitude AG",
+  "companyShort": "Multitude",
+  "date": "2026-10-13",
+  "order": 74,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at €5.66",
+  "price": "€5.66",
+  "base": "€6.81",
+  "upside": "20.3",
+  "upsideText": "+20.3%",
+  "maxBuy": "€3.41",
+  "teaser": "Hold, watchlist for new money. At 0.82 times common book the market prices about an 11% return on equity, roughly what Multitude pays on its new perpetual notes. Base €6.81, buy zone at €3.41 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €4.04, base €6.81, bull €10.10, current price €5.66, buy zone at or below €3.41\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"4.04\" data-to=\"10.10\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"3.41\"></span>\n        <span class=\"ruler-tick\" data-value=\"4.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.81\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.10\"></span>\n        <span class=\"ruler-price\" data-value=\"5.66\"><span>Price €5.66</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"4.04\">Bear<b>€4.04</b></span>\n        <span data-value=\"6.81\">Base<b>€6.81</b></span>\n        <span data-value=\"10.10\">Bull<b>€10.10</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €3.41.</figcaption>\n    </figure>",
+  "llms": "Multitude AG (MULT, Xetra) is a Swiss-registered digital bank group (Ferratum consumer loans, CapitalBox SME loans, Multitude Bank wholesale lending) founded in Finland in 2005 and controlled by its founder. Valued with residual income on common equity after perpetual notes and a forward earnings cross-check. At 0.82x common book the price implies about an 11% return on equity forever, against 14.8% in 2025 and a 13% to 14% Base. Bear EUR 4.04, Base EUR 6.81, Bull EUR 10.10. Verdict Hold at EUR 5.66, maximum buy price EUR 3.41."
+}
