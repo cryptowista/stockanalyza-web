@@ -1,0 +1,20 @@
+{
+  "ticker": "AAOI",
+  "slug": "aaoi",
+  "name": "Applied Optoelectronics (AAOI)",
+  "company": "Applied Optoelectronics",
+  "companyShort": "Applied Optoelectronics",
+  "date": "2026-10-13",
+  "order": 71,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $100.68",
+  "price": "$100.68",
+  "base": "$94",
+  "upside": "-6.6",
+  "upsideText": "-6.6%",
+  "maxBuy": "None (no-buy override)",
+  "teaser": "Revenue is up 86% but free cash flow is minus $900 million and new shares paid for it. Base $94 against $100.68, no buy price issued.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $23, base $94, bull $168, current price $100.68, no buy zone\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"23.10\" data-to=\"168.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"23.10\"></span>\n        <span class=\"ruler-tick\" data-value=\"94.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"168.17\"></span>\n        <span class=\"ruler-price\" data-value=\"100.68\"><span>Price $100.68</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"23.10\">Bear<b>$23</b></span>\n        <span data-value=\"94.04\">Base<b>$94</b></span>\n        <span data-value=\"168.17\">Bull<b>$168</b></span>\n      </div>\n      <figcaption>No buy zone: the required margin of safety exceeds the framework's 60% ceiling.</figcaption>\n    </figure>",
+  "llms": "Maker of lasers and optical transceivers for AI data centers and cable networks, valued on normalized 2027 EV/EBITDA after the committed 2026 build, a ten-year free cash flow model and a forward P/E cross-check. Bear $23, Base $94, Bull $168. Verdict HOLD at $100.68, do not add. Free cash flow was -$900 million over twelve months and about $1.6 billion of new shares were sold in 2026. Required margin of safety 75%, no maximum buy price issued."
+}
