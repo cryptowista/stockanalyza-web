@@ -1,0 +1,20 @@
+{
+  "ticker": "SNDK",
+  "slug": "sndk",
+  "name": "Sandisk (SNDK)",
+  "company": "Sandisk",
+  "companyShort": "Sandisk",
+  "date": "2026-10-13",
+  "order": 72,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $1,487.33",
+  "price": "$1,487.33",
+  "base": "$962",
+  "upside": "-35.4",
+  "upsideText": "-35.4%",
+  "maxBuy": "None (no-buy override)",
+  "teaser": "Fiscal 2026 profit was $11.4 billion and the stock trades at 6.9 times next year's consensus, but the four years before it added up to a loss. Reduce, no buy price.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $464, base $962, bull $1,664, current price $1,487.33, no buy zone\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"464.30\" data-to=\"1663.95\"></span>\n        <span class=\"ruler-tick\" data-value=\"464.30\"></span>\n        <span class=\"ruler-tick\" data-value=\"961.61\"></span>\n        <span class=\"ruler-tick\" data-value=\"1663.95\"></span>\n        <span class=\"ruler-price\" data-value=\"1487.33\"><span>Price $1,487.33</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"464.30\">Bear<b>$464</b></span>\n        <span data-value=\"961.61\">Base<b>$962</b></span>\n        <span data-value=\"1663.95\">Bull<b>$1,664</b></span>\n      </div>\n      <figcaption>No buy zone: the required margin of safety exceeds the framework's 60% ceiling.</figcaption>\n    </figure>",
+  "llms": "Sandisk is a NAND flash memory maker that sells to phone, PC and data center customers through a Flash Ventures joint venture with Kioxia. At $1,487.33 it trades at 6.2 times Base fiscal 2027 EBITDA, but the price needs about $33 billion of average EBITDA a year, against a five-year average net income of $1.6 billion. Bear $464, Base $962, Bull $1,664. Verdict Reduce at $1,487.33, no maximum buy price issued (Confidence D, required margin of safety 65%)."
+}
