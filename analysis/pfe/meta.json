@@ -1,0 +1,20 @@
+{
+  "ticker": "PFE",
+  "slug": "pfe",
+  "name": "Pfizer (PFE)",
+  "company": "Pfizer",
+  "companyShort": "Pfizer",
+  "date": "2026-10-13",
+  "order": 73,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $28.40",
+  "price": "$28.40",
+  "base": "$25.70",
+  "upside": "-9.5",
+  "upsideText": "-9.5%",
+  "maxBuy": "$14.14",
+  "teaser": "Screens show Pfizer at under 10 times earnings. On free cash flow, which runs at about half of adjusted earnings and almost all goes to the 6% dividend, the shares sit 10.5% above my Base value.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $18.42, base $25.70, bull $34.02, current price $28.40, buy zone at or below $14.14\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"18.42\" data-to=\"34.02\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"14.14\"></span>\n        <span class=\"ruler-tick\" data-value=\"18.42\"></span>\n        <span class=\"ruler-tick\" data-value=\"25.70\"></span>\n        <span class=\"ruler-tick\" data-value=\"34.02\"></span>\n        <span class=\"ruler-price\" data-value=\"28.40\"><span>Price $28.40</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"18.42\">Bear<b>$18.42</b></span>\n        <span data-value=\"25.70\">Base<b>$25.70</b></span>\n        <span data-value=\"34.02\">Bull<b>$34.02</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $14.14.</figcaption>\n    </figure>",
+  "llms": "Pfizer is a large pharmaceutical company (Eliquis, Vyndaqel, Prevnar, Ibrance, Xtandi, Padcev, Comirnaty) facing a patent cliff from 2026 to 2028. Valued on price to normalized free cash flow at a patent-cliff multiple plus a risk-adjusted obesity pipeline value, with a six-year free cash flow model and a forward P/E cross-check. Main finding: adjusted earnings convert to free cash flow at about 50%, normalized free cash flow is about 11.0 billion dollars, and at 28.40 dollars the price implies about 1.6% perpetual growth, so the market already pays for the cliff to be bridged. Bear $18.42, Base $25.70, Bull $34.02. Verdict hold at $28.40, maximum buy price $14.14."
+}
