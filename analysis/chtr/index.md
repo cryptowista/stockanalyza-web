@@ -26,7 +26,7 @@ Charter now has a market value of $17.0 billion sitting on top of $117.7 billion
 
 At the October 9, 2026 close of $103.38, the shares trade 56.8% below my triangulated Base value of $239, an upside of 131.3%. The Bear value is $66 and the Bull value is $462. That reads like an easy buy, and it is not, for three reasons. The equity is a thin slice of the enterprise, so small errors in EBITDA or debt move the value a long way. The two valuation methods land 57% apart. And broadband customers are still leaving. The required margin of safety (MOS), the discount to fair value I need before buying, is 60%, so the maximum buy price is **$95.65**. The shares are 8.1% above that, so they would need to fall 7.5% to reach it.
 
-Route: SF-01 standard value for a leveraged cable and broadband operator, with the SM-08 leveraged-company override. Economic classification: Standard Company, 3/12 on the sector scorecard, so the engine is STANDARD. Primary method: normalized owner free cash flow times a multiple. Secondary method: EV/EBITDA less all claims. Cross-check: a five-year DCF at 11%. Values are present fair-value estimates, not 12-month price targets. Owner free cash flow here means cash left after capex, interest, normalized cash taxes, integration cash and stock pay.
+Valuation route: standard value for a leveraged cable and broadband operator, with the leveraged-company override. Economic classification: Standard Company, 3/12 on the sector scorecard, so the standard method applies. Primary method: normalized owner free cash flow times a multiple. Secondary method: EV/EBITDA less all claims. Cross-check: a five-year DCF at 11%. Values are present fair-value estimates, not 12-month price targets. Owner free cash flow here means cash left after capex, interest, normalized cash taxes, integration cash and stock pay.
 
 ## What Charter is
 
@@ -182,9 +182,9 @@ The DCF gives $337.94 in Base at 11% and negative 1% terminal growth. It is a cr
 
 **Valuation history.** Public data sets put Charter's long-run EV/EBITDA around 6.6x. The Cox deal changed the capital structure enough that history is only a loose cross-check here. Today's 4.9x is below the Base multiple and below that history, but Base does not assume a return to 6.6x.
 
-**PEG (SM-19, diagnostic only).** Reported earnings per share of $38.43 give a P/E of about 2.7 on a heavily leveraged equity with a changed share count, so a growth multiple built on it is not meaningful. Flag: PEG\_NOT\_MEANINGFUL. Growth type: ACQUISITION\_AFFECTED.
+**PEG (diagnostic only).** Reported earnings per share of $38.43 give a P/E of about 2.7 on a heavily leveraged equity with a changed share count, so a growth multiple built on it is not meaningful. Flag: PEG\_NOT\_MEANINGFUL. Growth type: ACQUISITION\_AFFECTED.
 
-**Free cash flow growth quality (SM-20, diagnostic only).** My Base owner free cash flow rises from $5.55 billion in 2026E to $7.58 billion in 2028E, a compound growth of 16.9% a year, or from $33.71 to $46.04 a unit with a constant unit count. That growth does not come from rising profits. EBITDA falls in the same period. It comes from capex dropping by $3.5 billion and from lower integration cost, so the flags are CAPEX\_TIMING\_DISTORTION and ACQUISITION\_AFFECTED. Forward owner cash flow yield on the $17.0 billion market value is 32.6% for 2026E, 38.1% for 2027E and 44.5% for 2028E, which tells you how leveraged the equity is and does not describe a normal yield. Forecast reliability: LOW. Stress test: 2028E owner free cash flow 20% lower gives a primary value of $234, 40% lower gives $177. Neither stress takes the primary value below today's price.
+**Free cash flow growth quality (diagnostic only).** My Base owner free cash flow rises from $5.55 billion in 2026E to $7.58 billion in 2028E, a compound growth of 16.9% a year, or from $33.71 to $46.04 a unit with a constant unit count. That growth does not come from rising profits. EBITDA falls in the same period. It comes from capex dropping by $3.5 billion and from lower integration cost, so the flags are CAPEX\_TIMING\_DISTORTION and ACQUISITION\_AFFECTED. Forward owner cash flow yield on the $17.0 billion market value is 32.6% for 2026E, 38.1% for 2027E and 44.5% for 2028E, which tells you how leveraged the equity is and does not describe a normal yield. Forecast reliability: LOW. Stress test: 2028E owner free cash flow 20% lower gives a primary value of $234, 40% lower gives $177. Neither stress takes the primary value below today's price.
 
 ## Valuation triangulation
 
@@ -347,7 +347,7 @@ Next review: the third quarter report on November 6, 2026, which should be the f
 2. EBITDA erosion accelerates faster than the 2.5% a year in Base, so the cash flow falls before capex does.
 3. Leverage does not decline, or refinancing is done at much higher cost, because $117.7 billion of claims leave very little room for error.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed every table from the inputs listed above: the owner cash flow path, the three valuation methods, the triangulation, the grids and the net debt sensitivity. The arithmetic reconciles. The strongest counter-thesis is that cable broadband is in permanent decline, that Cox simply adds leveraged legacy assets, and that the apparent cheapness is an artifact of a thin equity layer. That could be right, and it is why Base carries negative EBITDA growth and negative terminal growth, why the preferred is a claim ahead of the common, and why stock pay and integration cash are deducted.
 
@@ -369,7 +369,7 @@ Bias test: the weights between the two methods are my judgment, so here is the r
 | $113.0B | $281 | $152 | $230 | $92.01 |
 | $114.5B | $272 | $143 | $220 | $88.36 |
 
-The choices that lean conservative are deducting stock pay, deducting integration cash, flooring Bear at the secondary method, and capping nothing in favor of the stock. The ones that lean generous are a 7x Base multiple on 2028E cash flow, capex following the guide, and net debt that is my own estimate. I did not tune any of them toward a buy verdict. Publication gate: PASS\_WITH\_WARNING, because the post-close balance sheet is estimated and the methods diverge.
+The choices that lean conservative are deducting stock pay, deducting integration cash, flooring Bear at the secondary method, and capping nothing in favor of the stock. The ones that lean generous are a 7x Base multiple on 2028E cash flow, capex following the guide, and net debt that is my own estimate. I did not tune any of them toward a buy verdict. Treat the result as conditional, because the post-close balance sheet is estimated and the methods diverge.
 
 **Not available or estimated.** Unavailable: a full post-close balance sheet and quarterly results, audited Cox figures, a verified consensus, a peer valuation table. Estimated: unit counts, the Cox and Liberty debt amounts and other closing adjustments, the whole forward path, the multiples, the 11% discount rate and the Q4 2026 cash flow.
 
@@ -391,4 +391,4 @@ The reference market price is the October 9, 2026 Nasdaq close of $103.38. Balan
 
 **Disclaimer.** This analysis is a structured fundamental research output, not personalized investment advice. It is provided solely for research and educational purposes and is not financial, legal or tax advice. Charter is a highly leveraged company in the middle of a large integration, and small changes in EBITDA, capex or debt can produce very large changes in what the common shares are worth. Investors can lose part or all of their invested capital.
 
-Framework: SF-01 leveraged broadband and cable, with the SM-08 leveraged-company override. Economic class: Standard (3/12). Engine: normalized owner free cash flow multiple with an EV/EBITDA secondary and a DCF cross-check. Confidence: D/12. Data status: PASS\_WITH\_WARNING. Adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: Normalized owner free cash flow multiple with an EV/EBITDA secondary and a DCF cross-check. Confidence: D/12. Data checks: passed with warnings.

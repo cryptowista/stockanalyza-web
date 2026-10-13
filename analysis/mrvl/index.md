@@ -24,7 +24,7 @@ The screen says Marvell trades at about 50 times forward earnings. That multiple
 
 At the October 2, 2026 close of $272.29 the shares trade 97.0% above my triangulated Base value of $138.20, a downside of 49.2%. The Bear value of $75 is 72.4% below the price, and the Bull value of $251 is 7.9% below it, so even my optimistic case sits under today's quote. The required margin of safety (MOS) is 50%, which puts the maximum buy price at $69. The shares would have to fall about 75% to get there. This is not a verdict on the business. Marvell is one of the strongest suppliers to AI data centers. It is a verdict on what the price already contains.
 
-Route: SF-15 Semiconductors and ecosystem, subtype fabless. Economic classification: Quality Growth (8/12). Primary method: a multiple of fiscal 2027 free cash flow per share. Secondary method: ten-year free cash flow model. Marvell's fiscal year ends close to January 31, so fiscal 2027 runs from February 2026 to January 2027. Values are present fair value estimates, not 12 month price targets.
+Valuation route: Semiconductors and ecosystem, subtype fabless. Economic classification: Quality Growth (8/12). Primary method: a multiple of fiscal 2027 free cash flow per share. Secondary method: ten-year free cash flow model. Marvell's fiscal year ends close to January 31, so fiscal 2027 runs from February 2026 to January 2027. Values are present fair value estimates, not 12 month price targets.
 
 ## What Marvell is
 
@@ -63,7 +63,7 @@ Management raised its revenue outlook for both fiscal 2027 and fiscal 2028 for t
 
 Free cash flow was the same in fiscal 2025 and fiscal 2026, to within $0.2 million, while revenue grew 42% and the share count rose. The first draft called the starting point a low base. It was a flat base, and free cash flow per share did not grow in fiscal 2026. In fiscal 2026 SBC was $590.8 million, so the hard figure after SBC is **$805.6 million, 57.7% of the $1,396.4 million headline**. In the first half of fiscal 2027 SBC was $533.8 million against free cash flow of $961.9 million, and in the second quarter it was 68% of free cash flow.
 
-My valuation uses consensus free cash flow, which adds SBC back, and charges SBC through the multiple and a higher required margin of safety. The adversarial review shows what happens if the full cost is deducted instead. Fiscal 2027 free cash flow consensus is about **$2.65 billion** (third-party datasets, which I could not reproduce). The first half delivered $961.9 million, so the second half has to deliver about $1.69 billion, or $844 million a quarter, against $478.8 million in the second quarter. That is plausible with the Q3 revenue outlook 15% above Q2 and a custom ramp, but it is not yet in the bank.
+My valuation uses consensus free cash flow, which adds SBC back, and charges SBC through the multiple and a higher required margin of safety. A stress test shows what happens if the full cost is deducted instead. Fiscal 2027 free cash flow consensus is about **$2.65 billion** (third-party datasets, which I could not reproduce). The first half delivered $961.9 million, so the second half has to deliver about $1.69 billion, or $844 million a quarter, against $478.8 million in the second quarter. That is plausible with the Q3 revenue outlook 15% above Q2 and a custom ramp, but it is not yet in the bank.
 
 ## Balance sheet and shares
 
@@ -107,9 +107,9 @@ The first draft's grid had $174 to $205 in the 8.5% row and $102 to $116 in the 
 
 The shares trade at about 90 times trailing GAAP earnings, 98 times fiscal 2027 consensus free cash flow on an enterprise value of $259.7 billion, and 21.6 times the roughly $12 billion of revenue management is now pointing to for fiscal 2027. A synchronized multiple history and a peer table are not available from free sources, so I do not use them.
 
-The growth valuation cross-check (SM-19) is a diagnostic only. Fiscal 2026 non-GAAP EPS was $2.84. The first half of fiscal 2027 delivered $1.75 and the third quarter is guided to $1.10. With about $1.30 for the fourth quarter, which is my estimate, the year comes to roughly $4.15, up 46%. At $272.29 that is 65.6x and a forward PEG of about 1.4. The first draft divided a 50x multiple, which is a next-twelve-months figure, by growth of 48% for the fiscal year, and got 1.0. The two numbers cover different periods. On next-twelve-months earnings of about $5.40 (implied by the quoted 50x, which I could not reproduce) the PEG is about 1.6. Growth durability: structural with execution risk. Cyclical distortion: medium, because demand rests on hyperscaler capital spending. Flags: accounting basis mismatch (non-GAAP EPS is $0.94 and GAAP is $0.33), peer period mismatch. SM-19 does not set fair value.
+The growth valuation cross-check is a diagnostic only. Fiscal 2026 non-GAAP EPS was $2.84. The first half of fiscal 2027 delivered $1.75 and the third quarter is guided to $1.10. With about $1.30 for the fourth quarter, which is my estimate, the year comes to roughly $4.15, up 46%. At $272.29 that is 65.6x and a forward PEG of about 1.4. The first draft divided a 50x multiple, which is a next-twelve-months figure, by growth of 48% for the fiscal year, and got 1.0. The two numbers cover different periods. On next-twelve-months earnings of about $5.40 (implied by the quoted 50x, which I could not reproduce) the PEG is about 1.6. Growth durability: structural with execution risk. Cyclical distortion: medium, because demand rests on hyperscaler capital spending. Flags: accounting basis mismatch (non-GAAP EPS is $0.94 and GAAP is $0.33), peer period mismatch. This check does not set fair value.
 
-The free cash flow growth quality check (SM-20) starts at $1,396.4 million in fiscal 2026 and ends at the consensus $7,172 million in fiscal 2029 (third-party estimate): an increase of $5.78 billion, or 414%, and a compound growth rate of 72.5% a year. Per share, on 868 million fiscal 2026 diluted shares and 950 million for fiscal 2029, that is $1.61 rising to $7.55, or 68% a year. The low base flag is therefore medium rather than high, because fiscal 2026 is flat on fiscal 2025, but revenue itself grew 42% in that year, so the cash conversion of the growth is what has to improve. On the 950 million share value of $258.7 billion, free cash flow yields are 0.5% for fiscal 2026, 1.0% for fiscal 2027 and 2.8% for fiscal 2029. Even the consensus endpoint is not cheap. Distortion flags: low base medium, acquisition medium to high, dilution high, cycle medium. Estimate reliability: medium. Classification: structural with execution risk. I do not publish a numeric SM-20 score, since the first draft's 68/100 came with no components. SM-20 does not set fair value, MOS or the verdict.
+The free cash flow growth quality check starts at $1,396.4 million in fiscal 2026 and ends at the consensus $7,172 million in fiscal 2029 (third-party estimate): an increase of $5.78 billion, or 414%, and a compound growth rate of 72.5% a year. Per share, on 868 million fiscal 2026 diluted shares and 950 million for fiscal 2029, that is $1.61 rising to $7.55, or 68% a year. The low base flag is therefore medium rather than high, because fiscal 2026 is flat on fiscal 2025, but revenue itself grew 42% in that year, so the cash conversion of the growth is what has to improve. On the 950 million share value of $258.7 billion, free cash flow yields are 0.5% for fiscal 2026, 1.0% for fiscal 2027 and 2.8% for fiscal 2029. Even the consensus endpoint is not cheap. Distortion flags: low base medium, acquisition medium to high, dilution high, cycle medium. Estimate reliability: medium. Classification: structural with execution risk. I do not publish a numeric score for this check, since the first draft's 68/100 came with no components. This check does not set fair value, MOS or the verdict.
 
 ## Valuation triangulation
 
@@ -243,7 +243,7 @@ Today three readings are red: SBC (42% of free cash flow in fiscal 2026 and 68% 
 2. Free cash flow per share misses materially despite revenue growth.
 3. Dilution, including the warrant and earn-outs, outruns the value it creates.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed the DCF, the primary value, both grids, the triangulation, the MOS, the free cash flow growth figures and the share bridge, and checked the reported inputs against the second quarter release, the fiscal 2026 results and the closing price. The reported figures reconcile. The corrections came in the valuation model, the scores and several statements.
 
@@ -263,7 +263,7 @@ I recomputed the DCF, the primary value, both grids, the triangulation, the MOS,
 | Business quality | 84/100, with dilution and governance 5/5 | 72/100: dilution 2/5, economic return 10/20, cash quality 8/15 |
 | Valuation score | 18/100 with no breakdown | Rebuilt from six components, also 18/100 |
 | Confidence | 16/25 | 13/25, still grade C |
-| SM-20 score | 68/100 with no components | Not published |
+| Free cash flow quality score | 68/100 with no components | Not published |
 | Next review | "Investor Day / subsequent earnings" | Investor Day on October 6, 2026 |
 
 None of these corrections changes the direction of the verdict. They lower the Base by $11.80 and the maximum buy price by $13.40. The one correction that moves in the company's favor is the Bull, which I rebuilt on the consensus path and which reproduces the draft's $250.
@@ -286,7 +286,7 @@ The strongest counter-thesis, for the bulls: Marvell's custom AI silicon and opt
 | Triangulated Base after SBC (maximum buy price about $42 to $45) | $83 to $89 |
 | Required margin of safety of 45% instead of 50% | Maximum buy price $76 |
 
-Audit flags: consensus free cash flow for fiscal 2027 and 2029, the revenue outlook figures for fiscal 2027 and 2028, and the 50x forward P/E come from third-party coverage that I could not reproduce from free sources. The fiscal 2028 consensus free cash flow was not available, so I interpolated it. The fourth quarter EPS of $1.30 is my estimate. The SBC path is my estimate: the Q3 outlook implies about $310 million for the quarter, and I assume about $320 million in Q4. The stress test partly overlaps with dilution, which the share count already carries. Customer concentration percentages for fiscal 2027, the fair value of the contingent consideration and the forward stock purchase contract, and a peer table are unavailable. The publication gate status is PASS WITH WARNING because long-duration growth, dilution and consensus free cash flow remain uncertain.
+Audit flags: consensus free cash flow for fiscal 2027 and 2029, the revenue outlook figures for fiscal 2027 and 2028, and the 50x forward P/E come from third-party coverage that I could not reproduce from free sources. The fiscal 2028 consensus free cash flow was not available, so I interpolated it. The fourth quarter EPS of $1.30 is my estimate. The SBC path is my estimate: the Q3 outlook implies about $310 million for the quarter, and I assume about $320 million in Q4. The stress test partly overlaps with dilution, which the share count already carries. Customer concentration percentages for fiscal 2027, the fair value of the contingent consideration and the forward stock purchase contract, and a peer table are unavailable. Treat the result as conditional, because long-duration growth, dilution and consensus free cash flow remain uncertain.
 
 ## Final verdict: reduce at $272.29
 
@@ -308,4 +308,4 @@ The reference market price is the October 2, 2026 regular session close of $272.
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Marvell is exposed to customer concentration, the cycle in AI data center spending, large acquisitions with contingent payments and ongoing dilution, and its shares are highly volatile. Investors can lose part or all of their invested capital.
 
-Framework: SF-15 Semiconductors, fabless. Economic class: Quality Growth. Engine: growth-adjusted multiple of free cash flow per share with a ten-year free cash flow cross-check. Confidence: C/13. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: Growth-adjusted multiple of free cash flow per share with a ten-year free cash flow cross-check. Confidence: C/13. Data checks: passed with warnings.

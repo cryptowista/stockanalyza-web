@@ -25,7 +25,7 @@ At 6 times this year's guided adjusted earnings, Global Payments looks like one 
 
 At the October 5, 2026 close of $82.18 the shares trade 17.7% below my triangulated Base value of $99.84, an upside of 21.5%. The Bear value of $59.67 is 27.4% below the price and the Bull value of $137.90 is 67.8% above it. The required margin of safety (MOS) is 40%, which puts the maximum buy price at $59.90. The shares would have to fall about 27% to get there. The stock rose 4.85% on October 5, and I found no company news behind the move.
 
-Route: SF-01 Standard Value, subtype merchant acquiring and payment technology. Economic classification: Standard, at 5/12 on the economic classification, one point from Quality Growth. Primary method: a multiple of normalized free cash flow per share. Secondary method: EV to EBITDA with a full bridge to equity. Values are present fair value estimates, not 12 month price targets. On January 9, 2026 the company closed the Worldpay acquisition and sold Issuer Solutions, so historical revenue, cash flow, leverage and share count describe a different company.
+Valuation route: Standard Value, subtype merchant acquiring and payment technology. Economic classification: Standard, at 5/12 on the economic classification, one point from Quality Growth. Primary method: a multiple of normalized free cash flow per share. Secondary method: EV to EBITDA with a full bridge to equity. Values are present fair value estimates, not 12 month price targets. On January 9, 2026 the company closed the Worldpay acquisition and sold Issuer Solutions, so historical revenue, cash flow, leverage and share count describe a different company.
 
 ## What Global Payments is
 
@@ -69,7 +69,7 @@ The dividend is $0.25 a quarter, about $1.00 a year, a yield of 1.2%.
 
 ## Primary valuation: a multiple of free cash flow per share
 
-The primary method multiplies free cash flow per share, after the haircut, by a multiple, and deducts the tax item. For the Base: ($12.50 less $1.00) times 9.0, less $4.41, gives **$99.09**. The 9.0x multiple is the default for the SF-01 tier called cyclical or risky (8x to 10x range), not a derived value. It fits a company with gross debt near 3.9 times EBITDA, a weak record of free cash flow growth in its new form and a moat that is real but under pricing pressure. The grid tests it.
+The primary method multiplies free cash flow per share, after the haircut, by a multiple, and deducts the tax item. For the Base: ($12.50 less $1.00) times 9.0, less $4.41, gives **$99.09**. The 9.0x multiple is the default for the tier called cyclical or risky (8x to 10x range), not a derived value. It fits a company with gross debt near 3.9 times EBITDA, a weak record of free cash flow growth in its new form and a moat that is real but under pricing pressure. The grid tests it.
 
 ### Sensitivity: value per share after the $4.41 tax item
 
@@ -95,9 +95,9 @@ The secondary method applies a multiple to EBITDA that reflects the post-deal co
 
 At $82.18 the market value is $21.7 billion and enterprise value about $39.6 billion, or 6.8 times my EBITDA estimate of $5.8 billion. The price is 6.0 times the $13.70 EPS guidance midpoint and 6.6 times $12.50 adjusted free cash flow per share (a free cash flow yield of 15.2% on the adjusted figure and 14.0% on the after-haircut $11.50). Historical multiples were far higher, but they belong to the old Global Payments, with Issuer Solutions, a different balance sheet and a different share count, so I give them no weight. A peer table is not available from free sources.
 
-The growth valuation cross-check (SM-19) is a diagnostic only. Guided adjusted EPS growth is 11% to 13% in constant currency, helped by synergies and buybacks, so a PEG ratio is not meaningful here. Growth durability: normalizing and acquisition affected. Cyclical distortion: medium, because volumes follow consumer spending and travel. Flags: accounting basis mismatch (GAAP EPS of $0.05 against adjusted $3.46 in the quarter). SM-19 does not set fair value.
+The growth valuation cross-check is a diagnostic only. Guided adjusted EPS growth is 11% to 13% in constant currency, helped by synergies and buybacks, so a PEG ratio is not meaningful here. Growth durability: normalizing and acquisition affected. Cyclical distortion: medium, because volumes follow consumer spending and travel. Flags: accounting basis mismatch (GAAP EPS of $0.05 against adjusted $3.46 in the quarter). This check does not set fair value.
 
-The free cash flow growth quality check (SM-20) cannot use a conventional multi-year growth rate, because history spans two different companies. My 2026 starting point is about $3.3 billion. A 2028 figure of $4.1 billion to $4.3 billion would be a compound growth rate of 11.5% to 14.2% over two years. Management's own markers are $4 billion of adjusted free cash flow for 2027 and $5 billion for 2028 (company targets, not used in my Base). Free cash flow per share would grow faster than total cash flow if buybacks continue, but I do not model that. Distortion flags: acquisition high, working capital and tax timing high, low base not applicable. Estimate reliability: medium. Classification: acquisition affected, structural with execution risk. I do not publish a numeric SM-20 score. It does not set fair value, MOS or the verdict.
+The free cash flow growth quality check cannot use a conventional multi-year growth rate, because history spans two different companies. My 2026 starting point is about $3.3 billion. A 2028 figure of $4.1 billion to $4.3 billion would be a compound growth rate of 11.5% to 14.2% over two years. Management's own markers are $4 billion of adjusted free cash flow for 2027 and $5 billion for 2028 (company targets, not used in my Base). Free cash flow per share would grow faster than total cash flow if buybacks continue, but I do not model that. Distortion flags: acquisition high, working capital and tax timing high, low base not applicable. Estimate reliability: medium. Classification: acquisition affected, structural with execution risk. I do not publish a numeric score for this check. It does not set fair value, MOS or the verdict.
 
 ## Valuation triangulation
 
@@ -229,7 +229,7 @@ Today three readings are yellow: normalized revenue growth (4% in the second qua
 2. Cash conversion stays below plan and net debt to EBITDA does not fall toward 3x.
 3. Organic growth stays below 2% while margins stop expanding.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed the primary and secondary values, the sensitivity grid, the triangulation, the MOS, the market multiples and the share and debt bridges, and checked the inputs against the second quarter release and the 10-Q for June 30, 2026. Reported figures reconcile. The corrections came in the scenario values, the equity bridge, the cash flow definition and the scores.
 
@@ -268,7 +268,7 @@ The strongest counter-thesis, for the bulls: adjusted earnings of $13.70 on a 6 
 
 The verdict depends on the tax item and the haircut. In the generous case the framework gives Deep Undervalued, which maps to a Buy after the one-grade reduction for acquisition driven character change. In the central and conservative cases it is Hold. If the third quarter shows that most of the tax is already paid or offset, my Base moves toward $105 to $110, and the verdict could change.
 
-Audit flags: the $4.41 tax item, the haircut, the $5.8 billion run-rate EBITDA and the $6.1 billion forward EBITDA are my estimates. The 9.0x, 7.5x and the scenario multiples are assumptions, not derived values. The synergy targets ($600 million, $650 million, $200 million) are company targets and were not independently verified. Consensus estimates and a peer table were not available. The publication gate status is PASS WITH WARNING because the combined company has less than a year of history and the tax payment timing is unknown.
+Audit flags: the $4.41 tax item, the haircut, the $5.8 billion run-rate EBITDA and the $6.1 billion forward EBITDA are my estimates. The 9.0x, 7.5x and the scenario multiples are assumptions, not derived values. The synergy targets ($600 million, $650 million, $200 million) are company targets and were not independently verified. Consensus estimates and a peer table were not available. Treat the result as conditional, because the combined company has less than a year of history and the tax payment timing is unknown.
 
 ## Final verdict: hold at $82.18, watchlist for new money
 
@@ -292,4 +292,4 @@ The reference market price is the October 5, 2026 regular session close of $82.1
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Global Payments carries high leverage, integration risk from the Worldpay acquisition and exposure to consumer spending, and its shares can fall sharply. Investors can lose part or all of their invested capital.
 
-Framework: SF-01 Standard Value, merchant acquiring and payment technology. Economic class: Standard. Engine: normalized free cash flow per share with an EV to EBITDA cross-check. Confidence: C/13. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: Normalized free cash flow per share with an EV to EBITDA cross-check. Confidence: C/13. Data checks: passed with warnings.

@@ -4,16 +4,17 @@
 
 ZS, NASDAQ. Published September 25, 2026. Price as of the September 24, 2026 regular session close.
 
-## Verdict: HOLD at $214.64 (do not add)
+## Verdict: HOLD at $214.64
 
 Do not add. Zscaler is a high-quality security platform, but the shares trade about 31% above the Base value once stock compensation is treated as a real cost. The two valuation methods diverge sharply, so a 40% margin of safety is required and the buy zone starts at $98.58.
 
 - Bear value: $148.40
-- Base value: $164.30 (downside 23.5%)
+- Base value: $164.30
 - Bull value: $243.49
-- Expected value (25/50/25 weighting): about $180.12
-- Required margin of safety: 40%
+- Downside to base value: -23.5%
 - Maximum buy price: $98.58
+- Required margin of safety: 40%
+- Probability-weighted value: $180.12 (25/50/25)
 - EV to fiscal 2027 revenue: about 8.5x
 - Free cash flow after stock compensation, fiscal 2026: about -$43 million
 - Business quality: 79/100
@@ -24,7 +25,7 @@ Zscaler is one of the leaders in Zero Trust security: companies route their user
 
 At $214.64 on September 24, 2026, the shares trade 30.6% above my triangulated Base value of $164.30, a downside of 23.5% to Base. Even the Bear value of $148.40 is below the price, and only the Bull value of $243.49 is above it. The required margin of safety of 40% puts the maximum buy price at $98.58. For existing holders this is a hold. New money should not add at this price.
 
-Route: SF-07 SaaS and technology growth, cloud-native cybersecurity subscription platform. Economic classification: Quality Growth (8/12, capped because of stock compensation and dilution). Primary method: forward EV to fiscal 2028 revenue. Secondary methods: free cash flow after stock compensation, and a growth-normalized historical reference. Zscaler's fiscal year ends in July. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: SaaS and technology growth, cloud-native cybersecurity subscription platform. Economic classification: Quality Growth (8/12, capped because of stock compensation and dilution). Primary method: forward EV to fiscal 2028 revenue. Secondary methods: free cash flow after stock compensation, and a growth-normalized historical reference. Zscaler's fiscal year ends in July. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Zscaler is
 
@@ -215,7 +216,7 @@ The next review points are the Investor Day on October 6, 2026 and Q1 fiscal 202
 2. Stock compensation staying above free cash flow without offsetting per-share growth.
 3. Free cash flow margin falling below 20%.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft had the right diagnosis, that stock compensation consumes all of the headline free cash flow, but its valuation did not follow through. Four corrections were made. Its primary values were rounded up: at its own inputs, the Base is $194.07, not $196, and the Bull $263.14, not $266, and several sensitivity cells were $1 to $2 too high. Its Base revenue of $4.75 billion implied 21% growth in fiscal 2028, an acceleration, while the text described slowing growth; it now assumes 16.5%, close to guidance. Its secondary value of $190 was labeled dilution-aware but had no stated inputs, and it was barely below the primary value, although the draft itself showed free cash flow after stock compensation near zero. It was rebuilt transparently at $116.42. Finally, the draft's twelve-month price-touch probabilities were dropped as not part of the framework. The Base moved from $195 to $164.30, the maximum buy price from $126.75 to $98.58 and the Bull from $265 to $243.49. The verdict remains hold, now with a clear instruction not to add.
 
@@ -230,7 +231,7 @@ The strongest counter-argument is that Zscaler combines about 20% organic ARR gr
 | Hard free cash flow at 35x | $170.65 |
 | Discount rate 8% instead of 10% | $166.60 |
 
-Only by reverting to the draft's opaque secondary value does the Base approach $190, and even then it stays below the price. The publication gate status is PASS\_WITH\_WARNING: owner earnings normalization, and above all the future path of stock compensation, remain the main uncertainty.
+Only by reverting to the draft's opaque secondary value does the Base approach $190, and even then it stays below the price. Main data limit: owner earnings normalization, and above all the future path of stock compensation, remain the main uncertainty.
 
 ## Final verdict: hold at $214.64, do not add
 
@@ -254,4 +255,4 @@ The reference market price is $214.64, the September 24, 2026 regular session cl
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Zscaler is exposed to competition, growth deceleration, dilution from stock compensation and valuation risk. Investors can lose part or all of their invested capital.
 
-Framework: SF-07, cloud cybersecurity subscription platform. Economic class: Quality Growth. Engine: growth-adjusted, forward EV to revenue with free cash flow after stock compensation. Confidence: B/18. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Growth-adjusted, forward EV to revenue with free cash flow after stock compensation. Confidence: B/18. Data checks: passed with warnings.

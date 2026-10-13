@@ -26,7 +26,7 @@ Radian built its business over four decades as a straightforward U.S. mortgage i
 
 At $32.86 on September 28, 2026, the shares trade 18.9% below my triangulated Base value of $40.50, an upside of 23.3%. The Bear value of $29.00 is 11.7% below the price and the Bull value of $50.00 is 52.2% above it. The framework's required margin of safety for a Confidence B score with this much character change is 30%, which puts the maximum buy price at $28.35. The shares would need to fall about 13.7% to get there. Until then this is a hold: a genuinely cheap price on a genuinely higher-quality earnings stream, priced by a market that hasn't yet decided whether to believe the new engine.
 
-Route: SF-03 Insurance, hybrid mortgage-credit and specialty insurer. Economic classification: Standard, high-quality evolving insurer (8/12). Primary method: justified price to book value (residual-income logic). Secondary method: normalized adjusted operating P/E. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Insurance, hybrid mortgage-credit and specialty insurer. Economic classification: Standard, high-quality evolving insurer (8/12). Primary method: justified price to book value (residual-income logic). Secondary method: normalized adjusted operating P/E. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Radian is now
 
@@ -201,7 +201,7 @@ Review with the third-quarter report, expected around early November, which shou
 2. Adverse reserve development at Specialty, meaning Inigo's underwriting proves worse than reported.
 3. Material mortgage-credit deterioration from unemployment or home-price stress.
 
-## Adversarial review
+## Stress test and independent check
 
 Unlike some other analyses in this series, the first draft's core arithmetic reconciled cleanly end to end: the justified-P/BV formula, the triangulation weighting, and every checksum in the exec summary matched. Checking it against Radian's second-quarter earnings release and Form 10-Q mainly turned up detail worth adding, not errors worth fixing.
 
@@ -228,7 +228,7 @@ The strongest counter-thesis, for the bulls: a mortgage insurer earning 12.9% RO
 | Implied sustainable ROE at today's 0.91x P/BV | ~10.7%, below the 12.9% actually reported |
 | Maximum buy price versus the Bear case | $28.35 is below the $29.00 Bear value |
 
-Audit flags: the Bear/Base/Bull adjusted-EPS figures and the sustainable-ROE ranges behind the primary valuation are analytical estimates, not company guidance. The justified-P/BV formula is sensitive to the cost-of-equity assumption, which is itself a judgment call. Purchase accounting for Inigo remains preliminary and could still see measurement-period adjustments. No unresolved arithmetic error remains. The publication gate status is PASS WITH WARNING, reflecting the short post-acquisition track record rather than any data problem.
+Audit flags: the Bear/Base/Bull adjusted-EPS figures and the sustainable-ROE ranges behind the primary valuation are analytical estimates, not company guidance. The justified-P/BV formula is sensitive to the cost-of-equity assumption, which is itself a judgment call. Purchase accounting for Inigo remains preliminary and could still see measurement-period adjustments. No unresolved arithmetic error remains. Treat the result as conditional, reflecting the short post-acquisition track record rather than any data problem.
 
 ## Final verdict: hold at $32.86, watchlist for new money below $28.35
 
@@ -250,4 +250,4 @@ The reference market price is $32.86, described as the September 28, 2026 close.
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Radian Group is exposed to U.S. mortgage-credit cycles, has recently taken on unfamiliar specialty-insurance and reinsurance risk through a large acquisition, and reports results still affected by preliminary purchase accounting. Investors can lose part or all of their invested capital.
 
-Framework: SF-03 Insurance, hybrid mortgage-credit and specialty insurer. Economic class: Standard, high-quality evolving insurer. Engine: justified P/BV / residual-income sector equivalent. Confidence: B/19. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Justified P/BV / residual-income sector equivalent. Confidence: B/19. Data checks: passed with warnings.

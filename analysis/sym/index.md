@@ -4,16 +4,17 @@
 
 SYM, NASDAQ. Published September 25, 2026. Price as of the September 24, 2026 regular session close.
 
-## Verdict: HOLD at $44.04 (do not add)
+## Verdict: HOLD at $44.04
 
 Do not add. The shares trade about 41% above the Base value. One customer provides almost 90% of revenue, stock compensation absorbs a large share of the profits, and the valuation methods diverge sharply, so a 50% margin of safety is required. The buy zone starts at $15.65.
 
 - Bear value: $23.44
-- Base value: $31.30 (downside 28.9%)
+- Base value: $31.30
 - Bull value: $52.02
-- Expected value (30/50/20 weighting): about $33.09
-- Required margin of safety: 50%
+- Downside to base value: -28.9%
 - Maximum buy price: $15.65
+- Required margin of safety: 50%
+- Probability-weighted value: $33.09 (30/50/20)
 - Fiscal 2027 revenue implied by the price at 5.8x: about $4.3 billion (Base $3.4 billion)
 - Largest customer's share of revenue: 87% over nine months, 90.5% in Q3
 - Business quality: 65/100
@@ -24,7 +25,7 @@ Symbotic builds AI-driven robotic systems that run entire warehouses, and it has
 
 At $44.04 on September 24, 2026, the shares trade 40.7% above my triangulated Base value of $31.30, a downside of 28.9% to Base. The Bear value of $23.44 is 46.8% below the price. The required margin of safety of 50% puts the maximum buy price at $15.65. For existing holders this is a hold. New money should not add.
 
-Route: SF-13 Industrials and manufacturing, AI-enabled warehouse automation and robotics systems. Economic classification: Quality Growth (7/12, raw 8/12, reduced for concentration and dilution). Primary method: forward EV to fiscal 2027 revenue on all economic shares. Secondary methods: EBITDA after stock compensation, and a historical reference. Symbotic's fiscal year ends in September. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Industrials and manufacturing, AI-enabled warehouse automation and robotics systems. Economic classification: Quality Growth (7/12, raw 8/12, reduced for concentration and dilution). Primary method: forward EV to fiscal 2027 revenue on all economic shares. Secondary methods: EBITDA after stock compensation, and a historical reference. Symbotic's fiscal year ends in September. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Symbotic is
 
@@ -213,7 +214,7 @@ The next review point is Q4 and full-year fiscal 2026 results.
 2. Materially slower backlog conversion.
 3. Dilution or joint venture funding consuming per-share economics.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft got the most important thing right: it valued all 605 million economic shares, not only the 130 million Class A shares. Its primary valuation and sensitivity table reconciled exactly. Three things were corrected. Its executive summary stated a probability-weighted value of $36.50, while its own scenarios give $35.10. Its secondary EBITDA value of $34 was above the $32.09 midpoint of its own ranges and used adjusted EBITDA that excludes about $190 million a year of stock compensation; after that deduction it is $21.97. And its Bear value was rounded up from the model's $23.44 to $24. The Base moved from $35 to $31.30 and the maximum buy price from $19.25 to $15.65. The draft's twelve-month price-touch probabilities were dropped as not part of the framework. The verdict remains hold, now with a clear instruction not to add.
 
@@ -229,7 +230,7 @@ The strongest counter-argument is that the framework undervalues a robotics plat
 | Primary multiple 6.5x | $33.45 |
 | Only Class A shares | invalid |
 
-Every valid test stays well below the price. The publication gate status is PASS\_WITH\_WARNING.
+Every valid test stays well below the price.
 
 ## Final verdict: hold at $44.04, do not add
 
@@ -253,4 +254,4 @@ The reference market price is $44.04, the September 24, 2026 regular session clo
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Symbotic is exposed to extreme customer concentration, dilution, cash flow volatility, internal control and valuation risks. Investors can lose part or all of their invested capital.
 
-Framework: SF-13, AI-enabled warehouse automation. Economic class: Quality Growth. Engine: forward EV to revenue with EBITDA cross-check. Confidence: C/14. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Forward EV to revenue with EBITDA cross-check. Confidence: C/14. Data checks: passed with warnings.

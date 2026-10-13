@@ -26,7 +26,7 @@ Secure Trust Bank earns about 12% on its equity and trades at 0.74 times tangibl
 
 At the October 6, 2026 close of £15.22 (1,522 pence) the shares trade 38.3% below my triangulated Base value of £24.67, an upside of 62.1%. The Bear value of £12.52 is 17.7% below the price and the Bull value of £35.86 is 136% above it. The required margin of safety (MOS) is 50%, which puts the maximum buy price at £12.33. The verdict is Hold, not Buy, because on this site a Buy requires the price to be at or below that maximum buy price.
 
-Route: SF-02 Banks. Economic classification: Quality Growth (8/12). Primary method: residual income on tangible book value. Secondary method: forward price to earnings. Corporate free cash flow is not valid for a bank and is not used. Values are present fair value estimates, not 12 month price targets. All figures are in pounds per share unless stated.
+Valuation route: Banks. Economic classification: Quality Growth (8/12). Primary method: residual income on tangible book value. Secondary method: forward price to earnings. Corporate free cash flow is not valid for a bank and is not used. Values are present fair value estimates, not 12 month price targets. All figures are in pounds per share unless stated.
 
 ## What Secure Trust Bank is
 
@@ -101,7 +101,7 @@ This method is not independent of the first: both use my earnings path, and the 
 
 ## Growth diagnostics
 
-The growth valuation cross-check (SM-19) does not apply in the usual way, because bank earnings swing with credit costs, tax and rates, and a PEG ratio is not a bank metric. Cyclical distortion: medium. Free cash flow growth (SM-20) is not applicable to a bank. The sector equivalent is per share value creation: tangible book value per share rose 5.8% in 2025 to £19.73 and 3.6% in the first half of 2026 to £20.45, the dividend rose 5% and the buyback is under way. Growth quality is structural with cyclical credit risk, estimate reliability medium. None of these diagnostics sets fair value, MOS or the verdict.
+The growth valuation cross-check does not apply in the usual way, because bank earnings swing with credit costs, tax and rates, and a PEG ratio is not a bank metric. Cyclical distortion: medium. Free cash flow growth is not applicable to a bank. The sector equivalent is per share value creation: tangible book value per share rose 5.8% in 2025 to £19.73 and 3.6% in the first half of 2026 to £20.45, the dividend rose 5% and the buyback is under way. Growth quality is structural with cyclical credit risk, estimate reliability medium. None of these diagnostics sets fair value, MOS or the verdict.
 
 ## Valuation triangulation
 
@@ -232,7 +232,7 @@ Today the return on average equity (12.3%) and the loan to deposit ratio (107%) 
 2. Cost of risk goes above 1.5%, particularly in Retail Finance and Real Estate Finance.
 3. CET1 falls below 12.5% or a motor finance liability consumes capital.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed every figure from the half-year results and the share count announcements, rebuilt the valuation as an explicit residual income model, and checked the price against the exchange record and the company's share price page. The reported figures reconcile. The corrections were in the book value input, the return basis, the scenario values, the triangulation, the MOS and the scores.
 
@@ -271,7 +271,7 @@ Two corrections move the value up: the higher tangible book (+3.6%) and the comp
 | Secondary at 6x / 9x earnings | £23.41 / £25.93 |
 | Maximum buy price at the first draft's 25% margin of safety | £18.50, above £15.22 |
 
-The value is above the price in the central and generous cases and below it in the conservative case. In the generous case the maximum buy price would be £17.64 and the price would sit inside the zone, which would be a Buy. In the central and conservative cases the verdict is Hold. Audit flags: the cost of equity, the return paths, the 7.5x multiple, next-twelve-months EPS, the 25% tax rate and the exclusion of employee trust shares are my estimates. The group Stage 3 ratio, the motor finance exposure, a peer table and a synchronized valuation history were not available. The price of £15.22 comes from a broker app after the exchange close; the exchange page showed 1,518p a session earlier, and I did not retrieve the official closing auction price. The publication gate status is PASS WITH WARNING because the valuation depends on a return recovery that is not yet in the numbers.
+The value is above the price in the central and generous cases and below it in the conservative case. In the generous case the maximum buy price would be £17.64 and the price would sit inside the zone, which would be a Buy. In the central and conservative cases the verdict is Hold. Audit flags: the cost of equity, the return paths, the 7.5x multiple, next-twelve-months EPS, the 25% tax rate and the exclusion of employee trust shares are my estimates. The group Stage 3 ratio, the motor finance exposure, a peer table and a synchronized valuation history were not available. The price of £15.22 comes from a broker app after the exchange close; the exchange page showed 1,518p a session earlier, and I did not retrieve the official closing auction price. Treat the result as conditional, because the valuation depends on a return recovery that is not yet in the numbers.
 
 ## Final verdict: hold at £15.22, watchlist for new money
 
@@ -295,4 +295,4 @@ The reference market price is the October 6, 2026 close of 1,522p, taken from a 
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Secure Trust Bank is a small UK specialist lender exposed to consumer and property credit, funding costs, regulatory and conduct risk and a thinly traded share price. Investors can lose part or all of their invested capital.
 
-Framework: SF-02 Banks. Economic class: Quality Growth. Engine: residual income with a forward earnings cross-check. Confidence: C/15. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: Residual income with a forward earnings cross-check. Confidence: C/15. Data checks: passed with warnings.

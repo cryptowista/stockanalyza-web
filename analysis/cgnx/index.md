@@ -4,16 +4,17 @@
 
 CGNX, NASDAQ. Published September 25, 2026. Price as of the September 24, 2026 regular session close.
 
-## Verdict: HOLD at $57.70 (watchlist for new money)
+## Verdict: HOLD at $57.70
 
 Watchlist for new money. Cognex is a high-quality machine vision leader in a strong recovery, but the shares trade about 26% above the Base value. Industrial cyclicality and the unproven RealSense acquisition call for a 35% margin of safety, which puts the buy zone at $29.84 or below.
 
 - Bear value: $35.03
-- Base value: $45.90 (downside 20.4%)
+- Base value: $45.90
 - Bull value: $65.76
-- Expected value (25/50/25 weighting): about $48.15
-- Required margin of safety: 35%
+- Downside to base value: -20.4%
 - Maximum buy price: $29.84
+- Required margin of safety: 35%
+- Probability-weighted value: $48.15 (25/50/25)
 - Normalized EBITDA implied by the price at 20x: about $478 million (Base $390 million)
 - Dividend yield: about 0.6%
 - Business quality: 82/100
@@ -24,7 +25,7 @@ Cognex makes the cameras, sensors and AI software that let factories and warehou
 
 At $57.70 on September 24, 2026, the shares trade 25.7% above my triangulated Base value of $45.90, a downside of 20.4% to Base. The Bear value of $35.03 is 39.3% below the price. The required margin of safety of 35% puts the maximum buy price at $29.84. For existing holders this is a hold. For new money it is a watchlist name.
 
-Route: SF-13 Industrials and manufacturing, industrial machine vision and AI-enabled automation. Economic classification: Quality Growth (8/12, raw 9/12, capped for cyclicality and the unintegrated acquisition). Primary method: normalized EV to EBITDA. Secondary methods: normalized free cash flow after stock compensation, and a historical reference. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Industrials and manufacturing, industrial machine vision and AI-enabled automation. Economic classification: Quality Growth (8/12, raw 9/12, capped for cyclicality and the unintegrated acquisition). Primary method: normalized EV to EBITDA. Secondary methods: normalized free cash flow after stock compensation, and a historical reference. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Cognex is
 
@@ -211,7 +212,7 @@ The next review points are Q3 2026 results and the RealSense closing and integra
 2. RealSense failing to grow or reach Cognex-like margins.
 3. Per-share free cash flow failing to grow after the acquisition.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's primary valuation and sensitivity table reconciled, implying about $255 million of post-deal net cash and 170 million shares. Three things were corrected. Its Bear value was rounded down from the model's $35.03 to $34. Its secondary free cash flow value of $46 was below its own ranges, which give $45.62 to $57.50 and $51.38 at the midpoints, and it did not deduct stock compensation, which free cash flow adds back; after that deduction it is $42.03. Its weighted Base was $47.10, stated as $47. The Base moved from $47 to $45.90 and the maximum buy price from $30.55 to $29.84. The draft's twelve-month price-touch probabilities were dropped as not part of the framework. The verdict is unchanged.
 
@@ -226,7 +227,7 @@ The strongest counter-argument is that AI machine vision plus RealSense can stru
 | Primary multiple 22x | $48.20 |
 | Normalized EBITDA of $350 million | $43.55 |
 
-Every test stays well below the price. The publication gate status is PASS\_WITH\_WARNING: post-close purchase accounting for RealSense is not yet available.
+Every test stays well below the price. Main data limit: post-close purchase accounting for RealSense is not yet available.
 
 ## Final verdict: hold at $57.70, watchlist for new money
 
@@ -250,4 +251,4 @@ The reference market price is $57.70, the September 24, 2026 regular session clo
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Cognex is exposed to industrial cyclicality, acquisition integration, competition and valuation risks. Investors can lose part or all of their invested capital.
 
-Framework: SF-13, industrial machine vision and robotic perception. Economic class: Quality Growth. Engine: normalized EV to EBITDA with free cash flow cross-check. Confidence: B/20. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Normalized EV to EBITDA with free cash flow cross-check. Confidence: B/20. Data checks: passed with warnings.

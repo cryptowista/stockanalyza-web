@@ -9,11 +9,12 @@ OUST, NASDAQ. Published September 25, 2026. Price as of the September 24, 2026 r
 Ouster is growing fast and has a strong balance sheet, but it is not yet profitable and the shares trade 64% above the Base value, slightly above even the Bull value. A 50% margin of safety is required, which puts the buy zone at $12.64 or below.
 
 - Bear value: $15.78
-- Base value: $25.28 (downside 38.9%)
+- Base value: $25.28
 - Bull value: $40.80
-- Expected value (30/50/20 weighting): about $25.53
-- Required margin of safety: 50%
+- Downside to base value: -38.9%
 - Maximum buy price: $12.64
+- Required margin of safety: 50%
+- Probability-weighted value: $25.53 (30/50/20)
 - 2027 revenue implied by the price at 5x: about $538 million (Base $296 million)
 - EV to estimated 2026 revenue: about 11.5x
 - Business quality: 56/100
@@ -24,7 +25,7 @@ Ouster makes digital lidar sensors, the 3D eyes of warehouse robots, autonomous 
 
 At $41.37 on September 24, 2026, the shares trade 63.6% above my triangulated Base value of $25.28, a downside of 38.9% to Base. Even the Bull value of $40.80 is slightly below the price. The required margin of safety of 50% puts the maximum buy price at $12.64. For existing holders the framework verdict is to reduce. New money should wait.
 
-Route: SF-13 Industrials and manufacturing, digital lidar and perception hardware with software, using the framework's fallback for companies without positive free cash flow. Economic classification: Quality Growth, constrained before free cash flow (6/12). Primary method: forward EV to 2027 revenue, adjusted for cash burn. Secondary methods: a normalized profitability model and a revenue multiple reference. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Industrials and manufacturing, digital lidar and perception hardware with software, using the framework's fallback for companies without positive free cash flow. Economic classification: Quality Growth, constrained before free cash flow (6/12). Primary method: forward EV to 2027 revenue, adjusted for cash burn. Secondary methods: a normalized profitability model and a revenue multiple reference. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Ouster is
 
@@ -211,7 +212,7 @@ The next review point is Q3 2026 results, expected in early November 2026.
 2. Gross margin falling below the low 30s.
 3. Another large equity raise.
 
-## Adversarial review
+## Stress test and independent check
 
 Every reported input comes from the Q2 2026 results, the Form 10-Q and the July offering documents, and every estimate, including 2026 revenue, cash burn and the 2030 profitability path, is labeled as such. The two main valuation methods were built independently and land within 4% of each other. The weakest link is the secondary model's long-range margin and dilution assumptions, which is why it carries 30% of the weight.
 
@@ -226,7 +227,7 @@ The strongest counter-argument is that Ouster is becoming a physical AI percepti
 | Discount rate 10% instead of 12% | $25.75 |
 | Normalized margin 20% instead of 16% | $27.01 |
 
-Every test stays at least 28% below the price. The publication gate status is PASS\_WITH\_WARNING: the path to profitability and future dilution are estimates.
+Every test stays at least 28% below the price. Main data limit: the path to profitability and future dilution are estimates.
 
 ## Final verdict: reduce at $41.37
 
@@ -250,4 +251,4 @@ The reference market price is $41.37, the September 24, 2026 regular session clo
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Ouster is unprofitable, highly volatile and exposed to technology adoption, competition, dilution and valuation risks. Investors can lose part or all of their invested capital.
 
-Framework: SF-13 with pre-FCF fallback, digital lidar and perception. Economic class: Quality Growth, pre-FCF constrained. Engine: forward EV to revenue after cash burn with normalized profitability cross-check. Confidence: C/16. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Forward EV to revenue after cash burn with normalized profitability cross-check. Confidence: C/16. Data checks: passed with warnings.

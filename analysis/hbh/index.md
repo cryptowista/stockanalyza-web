@@ -25,7 +25,7 @@ HORNBACH is one of the best-run DIY retailers in Europe. It is gaining market sh
 
 At €83.70 on October 1, 2026, the shares trade 8.1% below my triangulated Base value of €91.04, which means 8.8% upside. The Bear value of €70.12 is 16.2% below the price. The required margin of safety of 30% puts the maximum buy price at €63.73. For existing holders this is a hold. For new money it is a watchlist name.
 
-Route: SF-11 Retail and consumer, large-format DIY retailer with owned real estate and a small builders' merchant. Economic classification: Standard Company (4/12). Primary method: EV to normalized EBITDA, with lease liabilities in net debt. Secondary method: normalized earnings per share at the company's own historical P/E. Tertiary check: price to book. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Retail and consumer, large-format DIY retailer with owned real estate and a small builders' merchant. Economic classification: Standard Company (4/12). Primary method: EV to normalized EBITDA, with lease liabilities in net debt. Secondary method: normalized earnings per share at the company's own historical P/E. Tertiary check: price to book. Values are present fair-value estimates, not 12-month price targets.
 
 ## What HORNBACH is
 
@@ -121,7 +121,7 @@ The tertiary check is price to book. Equity attributable to shareholders is €2
 
 Put like for like, HORNBACH is not trading at a discount to its own history. The first draft compared a current 5.1x, measured at the seasonal low in debt, with a historical median measured at year-ends, and concluded the stock was cheap. I rebuilt year-end multiples for 2023/24 (about 5.0x, with minorities approximated), 2024/25 (5.4x) and 2025/26 (5.8x). I could not rebuild 2021/22 and 2022/23 from free sources.
 
-The growth valuation cross-check (SM-19) is a diagnostic only. The first draft quotes adjusted earnings per share of about €9.20 for 2026/27 with growth of about 1.8% (a June consensus that predates the half-year results; estimated, and I could not reproduce it). That is a forward P/E of 9.1x and a forward PEG of about 5.1, on one consistent adjusted basis. A PEG that high says there is no growth to pay for, and it supports nothing. The free cash flow growth ratio is not meaningful, because owner earnings per share have not grown. Growth durability: normalizing. Cyclical distortion: medium, because the first half was lifted by the weather and the calendar, so the Base does not annualize it. Flag: no synchronized peer table. SM-19 does not set fair value.
+The growth valuation cross-check is a diagnostic only. The first draft quotes adjusted earnings per share of about €9.20 for 2026/27 with growth of about 1.8% (a June consensus that predates the half-year results; estimated, and I could not reproduce it). That is a forward P/E of 9.1x and a forward PEG of about 5.1, on one consistent adjusted basis. A PEG that high says there is no growth to pay for, and it supports nothing. The free cash flow growth ratio is not meaningful, because owner earnings per share have not grown. Growth durability: normalizing. Cyclical distortion: medium, because the first half was lifted by the weather and the calendar, so the Base does not annualize it. Flag: no synchronized peer table. This check does not set fair value.
 
 ## Valuation triangulation
 
@@ -263,7 +263,7 @@ The next review points are the Q3 statement on December 22, 2026, the Hellweg ta
 2. Net debt before leases above €500 million while owner earnings weaken.
 3. Falling market share together with falling gross margin and like-for-like sales.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed every figure from the half-year report and the annual report. The first draft's company data were right: sales, EBITDA, adjusted EBIT, net debt, equity, shares, five-year EBITDA, operating cash flow and investments, the dividend and the price of €83.70 (the Xetra close at 17:35 CEST; the broker quote of €83.30 to €84.20 later that evening is an off-exchange indication). The draft's arithmetic reproduced exactly, including all nine cells of its sensitivity table. The valuation inputs did not hold up in four places.
 
@@ -299,7 +299,7 @@ The strongest counter-argument is that HORNBACH is simply undervalued: it gains 
 | Most generous combination | €97.72 |
 | Most cautious combination | €72.99 |
 
-Single changes keep the Base between €87.78 and €94.31, and the maximum buy price stays between €61.44 and €66.02, below €83.70 every time. Stacking all generous or all cautious inputs gives €97.72 or €72.99. At the cautious end the price would be 15% above the Base, so the verdict depends on avoiding the worst case, which is why confidence is B and not A. Most corrections lowered the value, so I also checked the other direction: the draft's net debt and the draft's secondary both raise the Base, but only to €94.31 and €92.39, and neither changes the verdict. The publication gate status is PASS\_WITH\_WARNING.
+Single changes keep the Base between €87.78 and €94.31, and the maximum buy price stays between €61.44 and €66.02, below €83.70 every time. Stacking all generous or all cautious inputs gives €97.72 or €72.99. At the cautious end the price would be 15% above the Base, so the verdict depends on avoiding the worst case, which is why confidence is B and not A. Most corrections lowered the value, so I also checked the other direction: the draft's net debt and the draft's secondary both raise the Base, but only to €94.31 and €92.39, and neither changes the verdict.
 
 ## Final verdict: hold at €83.70, watchlist for new money
 
@@ -323,4 +323,4 @@ The reference market price is €83.70, the October 1, 2026 Xetra close at 17:35
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. HORNBACH is exposed to consumer demand, housing and renovation cycles, procurement and logistics costs, interest rates, expansion and integration risk and a controlling family shareholder. Investors can lose part or all of their invested capital.
 
-Framework: SF-11, large-format DIY retailer with owned real estate. Economic class: Standard Company. Engine: standard, lease-consistent EV to EBITDA with earnings and book value cross-checks. Confidence: B/18. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.2.
+Method: Master Investment Analysis Framework v3.2. Approach: Standard, lease-consistent EV to EBITDA with earnings and book value cross-checks. Confidence: B/18. Data checks: passed with warnings.

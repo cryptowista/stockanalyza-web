@@ -25,7 +25,7 @@ NorthEast Community Bancorp reports no non-performing loans. It also reworked $1
 
 At $25.79, the September 30, 2026 close, the shares trade about 1.7% above my triangulated Base value of $25.36, essentially at fair value. The Bear value of $18.17 is 29.5% below the price and the Bull value of $30.94 is 20.0% above it. The probability-weighted value is $24.32, 5.7% below the price. For a Confidence C score the framework requires a 45% margin of safety, which puts the maximum buy price at $13.95, about 46% below the current price. This is a hold: a good small bank at a fair price, not yet at a price that pays for a construction concentration and short-term funding.
 
-Route: SF-02 Banks, valued on price to tangible book value and return on equity. Economic classification: Quality Growth (5/12, the lowest qualifying score, not a Compounder). Primary method: justified price to tangible book value. Secondary method: normalized price to earnings. Values are present fair value estimates, not 12 month price targets.
+Valuation route: Banks, valued on price to tangible book value and return on equity. Economic classification: Quality Growth (5/12, the lowest qualifying score, not a Compounder). Primary method: justified price to tangible book value. Secondary method: normalized price to earnings. Values are present fair value estimates, not 12 month price targets.
 
 ## What NorthEast Community Bancorp is
 
@@ -256,7 +256,7 @@ Today's readings: non-performing loans, net charge-offs, margin and capital are 
 2. Loss of reliable funding while construction commitments are drawn.
 3. Erosion of capital or earning power that invalidates the 11% normalized return on equity.
 
-## Adversarial review
+## Stress test and independent check
 
 I re-ran the framework's central valuation with its own published code and reproduced every headline number: $17.12, $24.63 and $30.47 for the primary method, $27.06 for the secondary, $25.36 for the Base, $18.17 and $30.94 for the Bear and Bull, $24.32 probability-weighted, $13.95 maximum buy price and 11.63% implied return on equity at the framework's $25.98 (11.56% at today's close). I also reconciled the equity, cash and share bridges against the second-quarter release. Nothing needed to be corrected in the numbers themselves.
 
@@ -286,7 +286,7 @@ The strongest bullish objection: very low realized losses, a 2% return on assets
 | Plan authorization of 204,335 shares issued for free | $25.01 | -3.0% |
 | Maximum buy price at a 35% margin instead of 45% | $16.48 | Still far below the price |
 
-Audit flags: the special mention balance, option details, fair value note and vendor history come from the framework analysis and I did not reopen every filing table. The cost of equity, growth, P/E multiple and scenario probabilities are my estimates. No peer valuation table was built, so the 9.5x multiple is a judgment. The publication gate status is PASS WITH WARNING for these reasons and because the June borrowings and borrower-level collateral are unverified.
+Audit flags: the special mention balance, option details, fair value note and vendor history come from the framework analysis and I did not reopen every filing table. The cost of equity, growth, P/E multiple and scenario probabilities are my estimates. No peer valuation table was built, so the 9.5x multiple is a judgment. Treat the result as conditional for these reasons and because the June borrowings and borrower-level collateral are unverified.
 
 ## Final verdict: hold at $25.79, watchlist for new money
 
@@ -308,4 +308,4 @@ The reference market price is $25.79, the September 30, 2026 close as shown in t
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. NorthEast Community Bancorp is exposed to construction-loan credit risk, short-term funding risk and interest-rate risk, and its shares are thinly traded. Investors can lose part or all of their invested capital.
 
-Framework: SF-02 Banks, P/TBV and ROE. Economic class: Quality Growth. Engine: justified P/TBV with a normalized P/E cross-check. Confidence: C/16. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Justified P/TBV with a normalized P/E cross-check. Confidence: C/16. Data checks: passed with warnings.

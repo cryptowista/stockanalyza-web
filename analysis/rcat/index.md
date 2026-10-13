@@ -4,16 +4,17 @@
 
 RCAT, NASDAQ. Published September 25, 2026. Price as of the September 24, 2026 regular session close.
 
-## Verdict: HOLD at $6.80 (watchlist for new money)
+## Verdict: HOLD at $6.80
 
 Watchlist for new money. The shares trade only 7% below the Base value. Red Cat is not yet profitable, burns cash, depends on one customer for half its revenue and grew its share count 27% in six months, so a 55% margin of safety is required. The buy zone starts at $3.30.
 
 - Bear value: $3.86
-- Base value: $7.33 (upside 7.8%)
+- Base value: $7.33
 - Bull value: $13.86
-- Expected value (30/50/20 weighting): about $7.59
-- Required margin of safety: 55%
+- Upside to base value: 7.8%
 - Maximum buy price: $3.30
+- Required margin of safety: 55%
+- Probability-weighted value: $7.59 (30/50/20)
 - 2027 revenue implied by the price at 4x: about $220 million (Base $250 million)
 - Dividend: none
 - Business quality: 46/100
@@ -24,7 +25,7 @@ Red Cat builds small military drones, including the Black Widow reconnaissance s
 
 At $6.80 on September 24, 2026, the shares trade 7.2% below my triangulated Base value of $7.33, an upside of 7.8%. The Bear value of $3.86 is 43.3% below the price, and the required margin of safety of 55% puts the maximum buy price at $3.30. For existing holders this is a hold. For new money it is a watchlist name.
 
-Route: SF-13 Industrials and manufacturing, early-scale aerospace and defense unmanned systems maker. Economic classification: Quality Growth (5/12), constrained because free cash flow is still negative. Primary method: forward EV to 2027 revenue, adjusted for cash burn. Secondary methods: a normalized profitability model and peer multiples. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Industrials and manufacturing, early-scale aerospace and defense unmanned systems maker. Economic classification: Quality Growth (5/12), constrained because free cash flow is still negative. Primary method: forward EV to 2027 revenue, adjusted for cash burn. Secondary methods: a normalized profitability model and peer multiples. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Red Cat is
 
@@ -216,7 +217,7 @@ The next review point is Q3 2026 results and any guidance update.
 2. Gross margin that fails to scale.
 3. Renewed large dilution.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's arithmetic mostly reconciled; one sensitivity cell was slightly off. The main correction is conceptual. The draft valued 2027 revenue with a mature-company EV to sales multiple but added the full $307 million of June cash, as if the company would stop burning cash immediately. Red Cat used $78.7 million of operating cash and $12.6 million of capex in the first half alone. Deducting an estimated twelve months of burn lowered the primary Base from $8.17 to $7.54, the triangulated Base from $7.71 to $7.33, the Bear from $4.50 to $3.86 and the maximum buy price from $3.47 to $3.30. The Bull rose slightly, from $13.50 to $13.86, because the draft's Bull had not been derived from its own method. The verdict is unchanged. The draft's twelve-month price-touch probabilities were dropped as not part of the framework.
 
@@ -231,7 +232,7 @@ The strongest counter-argument is that defense drone procurement is entering a s
 | EV to sales 5x | $8.27 |
 | 170 million shares | $7.06 |
 
-No reasonable test moves the maximum buy price anywhere near today's price. The publication gate status is PASS\_WITH\_WARNING: profitability timing, cash burn and the secondary model's inputs remain materially uncertain.
+No reasonable test moves the maximum buy price anywhere near today's price. Main data limit: profitability timing, cash burn and the secondary model's inputs remain materially uncertain.
 
 ## Final verdict: hold at $6.80, watchlist for new money
 
@@ -255,4 +256,4 @@ The reference market price is $6.80, the September 24, 2026 regular session clos
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Red Cat is unprofitable, burns cash and is exposed to defense procurement, customer concentration, execution and dilution risks. Investors can lose part or all of their invested capital.
 
-Framework: SF-13, early-scale defense unmanned systems manufacturer. Economic class: Quality Growth, pre-FCF constrained. Engine: forward EV to revenue after cash burn. Confidence: C/14. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Forward EV to revenue after cash burn. Confidence: C/14. Data checks: passed with warnings.

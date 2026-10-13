@@ -25,7 +25,7 @@ Applied Aerospace & Defense builds composite and metal structures, precision str
 
 At $12.03 on September 30, 2026, the shares trade 18.9% below my triangulated Base value of $14.84, and 39.9% below the $20 IPO price. The Bear value of $10.36 is 13.9% below the price. The required margin of safety of 50% puts the maximum buy price at $7.42. For existing holders this is a hold. For new money it is a watchlist name.
 
-Route: SF-13 Industrials and manufacturing, aerospace and defense advanced manufacturer. Economic classification: Quality Growth (6/12, partial scorecard). Primary method: forward EV to 2027 adjusted EBITDA. Secondary method: price to 2028 free cash flow, discounted to today. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Industrials and manufacturing, aerospace and defense advanced manufacturer. Economic classification: Quality Growth (6/12, partial scorecard). Primary method: forward EV to 2027 adjusted EBITDA. Secondary method: price to 2028 free cash flow, discounted to today. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Applied is
 
@@ -76,7 +76,7 @@ Estimated 2028 free cash flow is about $98.3 million (third-party consensus data
 
 There is no meaningful trading history: the shares listed in June 2026, peaked at $24.24 on July 1 and fell to a low of $11.39 on September 11. The $20 IPO price is a reference point, not a value, so it gets no weight.
 
-The growth valuation cross-check (SM-19) is not meaningful. Net loss per share was -$1.04 in the second quarter and adjusted 2026 EPS consensus is about -$0.88, so a forward PEG would divide by growth from a negative base, and the free cash flow growth ratio cannot be computed. Data providers show a forward P/E of about 30x to 32x on 2027 adjusted EPS of about $0.40, but GAAP and adjusted results differ by more than $100 million of stock compensation, so it is not used. Growth durability: acquisition affected and structural. Cyclical distortion: low. Flags: PEG not meaningful, accounting basis mismatch. This diagnostic does not set fair value.
+The growth valuation cross-check is not meaningful. Net loss per share was -$1.04 in the second quarter and adjusted 2026 EPS consensus is about -$0.88, so a forward PEG would divide by growth from a negative base, and the free cash flow growth ratio cannot be computed. Data providers show a forward P/E of about 30x to 32x on 2027 adjusted EPS of about $0.40, but GAAP and adjusted results differ by more than $100 million of stock compensation, so it is not used. Growth durability: acquisition affected and structural. Cyclical distortion: low. Flags: PEG not meaningful, accounting basis mismatch. This diagnostic does not set fair value.
 
 ## Valuation triangulation
 
@@ -216,7 +216,7 @@ The next review point is Q3 2026 results, expected in mid November 2026, and any
 2. Acquisition returns below the cost of capital.
 3. Renewed leverage or dilution without per share value creation.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed every figure from the filings. The first draft's company inputs checked out: revenue, organic growth, adjusted EBITDA, guidance, backlog, cash, debt and share count all match the 10-Q and the earnings release. Several valuation steps did not hold up, and they were corrected.
 
@@ -249,7 +249,7 @@ The strongest counter-argument is that the stock sits in a temporary post-IPO ca
 | Most generous: $205 million at 19x, secondary undiscounted | $18.10 |
 | Most cautious: Bear primary, secondary discounted | $11.16 |
 
-The Base ranges from $11.16 to $18.10, and the maximum buy price stays between $5.58 and $9.05, below the $12.03 price in every test. By the framework's default mapping an undervalued stock would be a buy, but the negative character change from an acquisition led expansion lowers the verdict one grade, and the price is far above any buy price. The publication gate status is PASS\_WITH\_WARNING.
+The Base ranges from $11.16 to $18.10, and the maximum buy price stays between $5.58 and $9.05, below the $12.03 price in every test. By the framework's default mapping an undervalued stock would be a buy, but the negative character change from an acquisition led expansion lowers the verdict one grade, and the price is far above any buy price.
 
 ## Final verdict: hold at $12.03, watchlist for new money
 
@@ -273,4 +273,4 @@ The reference market price is $12.03, the September 30, 2026 regular session clo
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Applied Aerospace & Defense is exposed to defense budgets, program execution, acquisition integration, leverage, sponsor control and valuation risk. Investors can lose part or all of their invested capital.
 
-Framework: SF-13, aerospace and defense advanced manufacturer. Economic class: Quality Growth. Engine: growth-adjusted multiple, forward EV to EBITDA with a free cash flow cross-check. Confidence: C/14. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.2.
+Method: Master Investment Analysis Framework v3.2. Approach: Growth-adjusted multiple, forward EV to EBITDA with a free cash flow cross-check. Confidence: C/14. Data checks: passed with warnings.

@@ -25,7 +25,7 @@ Conduit Holdings is the parent of Conduit Reinsurance, a Bermuda-based multi-lin
 
 At 462p on September 25, 2026, the shares trade 15.2% below my triangulated Base value of 545p, an upside of 18.0%. The Bear value of 390p is 15.6% below the price. For a reinsurer this exposed to single-event tail risk, the framework's required margin of safety is 30%, which puts the maximum buy price at 382p. Conduit is about 21% above that level, so this stays a watchlist name rather than a buy.
 
-Route: SF-03 Insurance, P&C reinsurance subtype (Bermuda-based multi-line reinsurer). Economic classification: Quality growth / standard insurer blend (8/12 on the sector scorecard). Primary method: justified price to fully diluted tangible net asset value. Secondary method: normalized earnings and residual-income cross-check. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Insurance, P&C reinsurance subtype (Bermuda-based multi-line reinsurer). Economic classification: Quality growth / standard insurer blend (8/12 on the sector scorecard). Primary method: justified price to fully diluted tangible net asset value. Secondary method: normalized earnings and residual-income cross-check. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Conduit is
 
@@ -213,7 +213,7 @@ Also watch capital return discipline: buybacks below estimated value with buffer
 2. Combined ratio drifting back above 100% on a sustained basis as pricing softens.
 3. Retrocession protection proving insufficient or unaffordable relative to what's modeled.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's arithmetic mostly reconciled: the price-to-book multiples, the primary scenario values, and the triangulation all check out. One number was wrong. The probability-weighted scenario value was stated as 527p, but the draft's own scenarios and probabilities (390p × 25% + 545p × 55% + 680p × 20%) actually sum to 533p. The corrected figure is used throughout this article; it remains meaningfully above the current price, so the Watchlist conclusion, driven by the margin-of-safety rule rather than the expected value, is unchanged.
 
@@ -227,7 +227,7 @@ The strongest Bear counter-thesis: the H1 2026 combined ratio is not a normalize
 | Corrected probability-weighted value | 533p |
 | Maximum buy price | 382p |
 
-Audit limitations: precise peer-period price-to-tangible-book comparisons and the exact catastrophe PML dollar figures weren't obtained; the diluted GBP book value relies on the company's own rounded USD/GBP equivalence rather than an independent FX spot estimate; and a full independent actuarial reserve review isn't possible from public filings alone. These are disclosed limits that don't change the Watchlist conclusion, but they keep the confidence grade at C. The publication gate status is PASS WITH WARNING.
+Audit limitations: precise peer-period price-to-tangible-book comparisons and the exact catastrophe PML dollar figures weren't obtained; the diluted GBP book value relies on the company's own rounded USD/GBP equivalence rather than an independent FX spot estimate; and a full independent actuarial reserve review isn't possible from public filings alone. These are disclosed limits that don't change the Watchlist conclusion, but they keep the confidence grade at C.
 
 ## Final verdict: hold at 462p, watchlist for new money below 382p
 
@@ -249,4 +249,4 @@ The reference market price is 462p, the September 25, 2026 LSE close. Balance sh
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Conduit is a reinsurer whose earnings and book value can move sharply after a single major catastrophe or reserve event. Investors can lose part or all of their invested capital.
 
-Framework: SF-03, P&C reinsurer. Economic class: Quality / standard insurer. Engine: justified P/TBV plus normalized earnings cross-check. Confidence: C/16. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Justified P/TBV plus normalized earnings cross-check. Confidence: C/16. Data checks: passed with warnings.

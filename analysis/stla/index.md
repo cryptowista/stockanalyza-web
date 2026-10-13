@@ -25,7 +25,7 @@ Stellantis reports €10.0 billion of industrial net cash at June 30, 2026. Of t
 
 At the October 9, 2026 close of $4.48 (€4.00), the shares trade 34.7% below my triangulated Base value of $6.87. The Bear value is $1.00 and the Bull value is $12.94. The required margin of safety (MOS), the discount to fair value I need before buying, is 55%, so the maximum buy price is **$3.09**, about 31% below today's price. The question is not whether the shares are cheap against the company's own plan. It is whether the plan's margin shows up before the cash runs thinner.
 
-Route: SF-13 industrial and manufacturing. Subtype: global automaker with a captive finance arm, commodity-like cyclical tier. Economic classification: Standard (2/12). Primary method: enterprise value (EV, equity value plus net debt) as a multiple of mid-cycle adjusted operating income (AOI) after recurring charges, with AOI built from revenue times margin in three scenarios. Secondary method: a scenario cash flow model (DCF) of unlevered owner free cash flow to 2030 with a terminal value. Cross-check: the owner free cash flow multiple implied by the primary value. Values are present fair value estimates, not 12 month price targets.
+Valuation route: industrial and manufacturing. Subtype: global automaker with a captive finance arm, commodity-like cyclical tier. Economic classification: Standard (2/12). Primary method: enterprise value (EV, equity value plus net debt) as a multiple of mid-cycle adjusted operating income (AOI) after recurring charges, with AOI built from revenue times margin in three scenarios. Secondary method: a scenario cash flow model (DCF) of unlevered owner free cash flow to 2030 with a terminal value. Cross-check: the owner free cash flow multiple implied by the primary value. Values are present fair value estimates, not 12 month price targets.
 
 ## What Stellantis is
 
@@ -156,9 +156,9 @@ The finance arm is the weak point of the comparison: its profit is inside AOI an
 | Industrial free cash flow | -6.0 | -4.5 | -0.9 |
 | Industrial net financial position, end of period | 15.1 | 6.7 | 10.0 |
 
-Free cash flow growth (the framework's SM-20 check) is not meaningful: the series is negative in every period, so there is no starting point for a growth rate. Classification: cyclical rebound from a low base, with a low-reliability forecast because the plan's free cash flow depends on a margin that has not been seen since 2024. In February 2025 the company's results release said it expected positive cash generation in 2025; the 2025 outcome was -€4.5 billion. Stress test of the Base cash flow: with owner free cash flow 20% lower from 2029, the DCF falls to $5.60, and 40% lower, $4.61. The Base yield on today's market value would be 11.7% and 8.8%.
+Free cash flow growth is not meaningful: the series is negative in every period, so there is no starting point for a growth rate. Classification: cyclical rebound from a low base, with a low-reliability forecast because the plan's free cash flow depends on a margin that has not been seen since 2024. In February 2025 the company's results release said it expected positive cash generation in 2025; the 2025 outcome was -€4.5 billion. Stress test of the Base cash flow: with owner free cash flow 20% lower from 2029, the DCF falls to $5.60, and 40% lower, $4.61. The Base yield on today's market value would be 11.7% and 8.8%.
 
-The growth-adjusted price to earnings check (PEG, SM-19) is not meaningful. Trailing GAAP earnings are a loss of about €7.71 a share, adjusted diluted earnings were €0.32 in the first half, and growth off a loss is not a growth rate. Cyclical distortion: high. It does not set the Base, the MOS or the verdict.
+The growth-adjusted price to earnings check (PEG) is not meaningful. Trailing GAAP earnings are a loss of about €7.71 a share, adjusted diluted earnings were €0.32 in the first half, and growth off a loss is not a growth rate. Cyclical distortion: high. It does not set the Base, the MOS or the verdict.
 
 ## Valuation triangulation
 
@@ -342,7 +342,7 @@ On the evidence I have, two lines are green and the rest are yellow. The first h
 2. Cash goes the wrong way again: another negative half of free cash flow with €5 billion of restructuring cash still to pay would push net cash after hybrids toward zero and raise the chance of another hybrid or equity raise at a low price.
 3. On the upside, North America reaches a 4% to 5% margin with inventory under control and industrial free cash flow turns positive in 2027 as guided. That is the path to the Base of $6.87 and above, and it can be seen in two or three quarterly reports.
 
-## Adversarial review
+## Stress test and independent check
 
 I built this analysis from the filings and checked it in two passes. Inputs were read from the Form 6-K interim report for the second quarter and first half of 2026 (income statement, AOI, cash flow, liquidity, ratings, share counts, as reproduced by a filings site), the first quarter 2026 release, the full year 2025 and 2024 results releases, the Investor Day transcript, a summary of the second quarter report for the North America detail, a financial data site for the closing price and history, and a currency table for the dollar-euro rate. The closing price of $4.48 on October 9 differs from a broker quote of $4.46 by 0.4%, so no price warning applies. Every table was recomputed from raw inputs a second time with a separate script, and the figures here reproduce.
 
@@ -360,7 +360,7 @@ All the corrections reduced the value. Because they ran one way, I ran a bias te
 
 The values marked as estimates are: revenue of €160 billion; the three margins; recurring charges of €1.2 billion; the multiple of 3.5x; the remaining restructuring cash of €5.0 billion and its timing; reinvestment of €2.2 billion; the 25% tax rate; the 11% discount rate and 1% terminal growth; the second half 2026 cash flow; and the segment bridge to the Base margin. Not available to me: pension and lease liabilities, the debt split between industrial and financial services, the hybrid coupon, the finance arm's profit and equity, the Leapmotor stake, a verified peer multiple table, a synchronized valuation history, consensus estimates, and the half-year balance sheet and notes. My reading that hybrid notes raise reported net cash without being counted as debt is an inference, not a filed statement. The North America detail on inventory, the tariff estimate and the second quarter free cash flow come from a summary of the report, not the filing. The Investor Day transcript is machine transcribed and was truncated, and two of its numbers contradict each other, so I use only the margin and cash flow targets that repeat.
 
-The weakest points are the 3.5x multiple, which is an assumption tested from 3.0x to 4.5x, and the €5.0 billion restructuring cash, which is my estimate of what remains. The publication gate status is PASS WITH WARNING: conditional research, with the verdict sensitive to inputs I could not fully verify.
+The weakest points are the 3.5x multiple, which is an assumption tested from 3.0x to 4.5x, and the €5.0 billion restructuring cash, which is my estimate of what remains. This is conditional research, with the verdict sensitive to inputs I could not fully verify.
 
 ## Final verdict: hold at $4.48
 
@@ -382,4 +382,4 @@ The reference market price is the October 9, 2026 regular session close of $4.48
 
 **Disclaimer.** This analysis is a structured fundamental research output, not personalized investment advice. It is provided solely for research and educational purposes and is not financial, legal or tax advice. Stellantis has reported a net loss of €22.3 billion in 2025, negative free cash flow for three years, a BBB- credit rating with a negative outlook, and faces tariff and regulatory uncertainty. Its shares can lose most of their value, and investors can lose part or all of their invested capital.
 
-Framework: SF-13 Industrial and manufacturing, automotive with a captive finance arm. Economic class: Standard. Engine: mid-cycle AOI multiple with a scenario DCF. Confidence: D/9. Data status: PASS\_WITH\_WARNING. Adversarial gate: PASS\_WITH\_WARNING, conditional research only. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: Mid-cycle AOI multiple with a scenario DCF. Confidence: D/9. Data checks: passed with warnings. Conditional research only.

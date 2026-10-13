@@ -4,16 +4,17 @@
 
 AVAV, NASDAQ. Published September 25, 2026. Price as of the September 24, 2026 regular session close.
 
-## Verdict: HOLD at $158.55 (watchlist for new money)
+## Verdict: HOLD at $158.55
 
 Watchlist for new money. The shares trade about 10% above the Base value. The BlueHalo acquisition transformed the company, already produced a large goodwill impairment and has not yet turned into free cash flow, so a 40% margin of safety is required. The buy zone starts at $86.10.
 
 - Bear value: $102.31
-- Base value: $143.50 (downside 9.5%)
+- Base value: $143.50
 - Bull value: $218.17
-- Expected value (25/50/25 weighting): about $151.87
-- Required margin of safety: 40%
+- Downside to base value: -9.5%
 - Maximum buy price: $86.10
+- Required margin of safety: 40%
+- Probability-weighted value: $151.87 (25/50/25)
 - EV to fiscal 2027 adjusted EBITDA: about 26x, or 29x after stock compensation
 - Dividend: none
 - Business quality: 68/100
@@ -24,7 +25,7 @@ AeroVironment makes the Switchblade loitering munition and the Puma and Raven dr
 
 At $158.55 on September 24, 2026, the shares trade 10.5% above my triangulated Base value of $143.50, a downside of 9.5% to Base. The Bear value of $102.31 is 35.5% below the price, and the required margin of safety of 40% puts the maximum buy price at $86.10. For existing holders this is a hold. For new money it is a watchlist name.
 
-Route: SF-13 Industrials and manufacturing, diversified defense technology and autonomous systems after the BlueHalo acquisition. Economic classification: Quality Growth (7/12). Primary method: forward EV to fiscal 2028 revenue. Secondary methods: EV to EBITDA after stock compensation, and a historical and peer reference. AeroVironment's fiscal year ends in April. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Industrials and manufacturing, diversified defense technology and autonomous systems after the BlueHalo acquisition. Economic classification: Quality Growth (7/12). Primary method: forward EV to fiscal 2028 revenue. Secondary methods: EV to EBITDA after stock compensation, and a historical and peer reference. AeroVironment's fiscal year ends in April. Values are present fair-value estimates, not 12-month price targets.
 
 ## What AeroVironment is
 
@@ -210,7 +211,7 @@ The next review point is Q2 fiscal 2027 results, expected in December 2026.
 2. Failure of margin and free cash flow conversion.
 3. Another material goodwill impairment or dilutive acquisition.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's primary valuation, capital structure bridge and sensitivity table reconciled exactly. Its secondary value of $145 sat at the top of its own stated range, $390 to $400 million of EBITDA at 18x to 20x, whose midpoint gives $141.44, and it used adjusted EBITDA that adds back $38.3 million of stock compensation. Rebuilding it at the midpoint after stock compensation gives $127.45. The Base moved from $150 to $143.50, the maximum buy price from $90 to $86.10, and the probability-weighted value from $155.25 to $151.87. The draft's twelve-month price-touch probabilities were dropped as not part of the framework. The verdict is unchanged.
 
@@ -226,7 +227,7 @@ The strongest counter-argument is that BlueHalo turned AV into a unique multi-do
 | Primary on fiscal 2027 guidance revenue | $133.50 |
 | Primary at 3.6x sales | $153.12 |
 
-No test lifts the Base meaningfully above the price, and none moves the buy price anywhere near it. The publication gate status is PASS\_WITH\_WARNING: normalized post-BlueHalo owner earnings remain materially uncertain.
+No test lifts the Base meaningfully above the price, and none moves the buy price anywhere near it. Main data limit: normalized post-BlueHalo owner earnings remain materially uncertain.
 
 ## Final verdict: hold at $158.55, watchlist for new money
 
@@ -250,4 +251,4 @@ The reference market price is $158.55, the September 24, 2026 regular session cl
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. AeroVironment is exposed to defense programs, acquisition integration, cash conversion, dilution and valuation risks. Investors can lose part or all of their invested capital.
 
-Framework: SF-13, diversified defense technology after BlueHalo. Economic class: Quality Growth. Engine: growth-adjusted, forward EV to sales with EBITDA cross-check. Confidence: B/18. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Growth-adjusted, forward EV to sales with EBITDA cross-check. Confidence: B/18. Data checks: passed with warnings.

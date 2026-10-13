@@ -4,16 +4,17 @@
 
 KTOS, NASDAQ. Published September 25, 2026. Price as of the September 24, 2026 regular session close.
 
-## Verdict: HOLD at $47.04 (watchlist for new money)
+## Verdict: HOLD at $47.04
 
 Watchlist for new money. The shares trade 4% above the Base value. Revenue growth and the balance sheet are excellent, but earnings and cash flow have not caught up, and the two valuation methods disagree sharply. A 40% margin of safety is required, which puts the buy zone at $27.03 or below.
 
 - Bear value: $36.84
-- Base value: $45.04 (downside 4.2%)
+- Base value: $45.04
 - Bull value: $69.74
-- Expected value (25/50/25 weighting): about $49.17
-- Required margin of safety: 40%
+- Downside to base value: -4.2%
 - Maximum buy price: $27.03
+- Required margin of safety: 40%
+- Probability-weighted value: $49.17 (25/50/25)
 - EV to 2027 adjusted EBITDA: about 31x, or 42x after stock compensation
 - Dividend: none
 - Business quality: 70/100
@@ -24,7 +25,7 @@ Kratos is one of the most interesting defense growth stories in the market: hype
 
 At $47.04 on September 24, 2026, the shares trade 4.4% above my triangulated Base value of $45.04. The Bear value of $36.84 is 21.7% below the price, and the required margin of safety of 40% puts the maximum buy price at $27.03. For existing holders this is a hold. For new money it is a watchlist name.
 
-Route: SF-13 Industrials and manufacturing, high-growth aerospace and defense technology manufacturer. Economic classification: Quality Growth (7/12). Primary method: forward EV to 2027 revenue. Secondary methods: EV to 2027 EBITDA after stock compensation, and a historical reference. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Industrials and manufacturing, high-growth aerospace and defense technology manufacturer. Economic classification: Quality Growth (7/12). Primary method: forward EV to 2027 revenue. Secondary methods: EV to 2027 EBITDA after stock compensation, and a historical reference. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Kratos is
 
@@ -211,7 +212,7 @@ The next review point is Q3 2026 results, expected around October 29, 2026, and 
 2. Margins that fail to expand despite revenue growth.
 3. Renewed large equity issuance without matching per-share economics.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's primary valuation and sensitivity table reconciled exactly. Three things were corrected. First, its weighted Base was stated as $50.21, but its own weights and values give $50.43. Second, its secondary value of $47.50 could not be reproduced from its stated inputs: about $2.2 billion of revenue at an 11% EBITDA margin and a low to mid-20s multiple gives about $34 to $37, and reaching $47.50 needs about 33x EBITDA. Third, the EBITDA it used adds back stock compensation, which ran at about $60 million a year in Q2. The rebuilt secondary value is $29.54. The Base moved from $50.21 to $45.04, the maximum buy price from $32.64 to $27.03, and the Bear and Bull, which had not been derived from the primary method, from $36.50 and $69.00 to $36.84 and $69.74. The draft's twelve-month price-touch probabilities were dropped as not part of the framework. The verdict is unchanged.
 
@@ -226,7 +227,7 @@ The strongest counter-argument is that hypersonics, affordable mass, unmanned co
 | Primary at 5x / 3x sales | $51.38 / $38.70 |
 | Weights 70% / 15% / 15% | $48.48 |
 
-Even the most generous tests leave the Base within about 10% of the price and the buy price far below it. The publication gate status is PASS\_WITH\_WARNING.
+Even the most generous tests leave the Base within about 10% of the price and the buy price far below it.
 
 ## Final verdict: hold at $47.04, watchlist for new money
 
@@ -250,4 +251,4 @@ The reference market price is $47.04, the September 24, 2026 regular session clo
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Kratos is exposed to defense budgets, program execution, supply chains, dilution and valuation risk. Investors can lose part or all of their invested capital.
 
-Framework: SF-13, high-growth aerospace and defense manufacturer. Economic class: Quality Growth. Engine: growth-adjusted, forward EV to sales with EBITDA cross-check. Confidence: B/18. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Growth-adjusted, forward EV to sales with EBITDA cross-check. Confidence: B/18. Data checks: passed with warnings.

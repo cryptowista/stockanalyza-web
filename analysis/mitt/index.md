@@ -9,13 +9,14 @@ MITT, NYSE. Published September 21, 2026. Price as of the September 18, 2026 clo
 Below estimated fair value, but above the confidence-adjusted maximum buy price.
 
 - Bear value: $4.70
-- Base value: $7.50 (upside 18.9%)
+- Base value: $7.50
 - Bull value: $9.90
-- Expected value (30/50/20 weighting): about $7.10
-- Required margin of safety: 30%
+- Upside to base value: 18.9%
 - Maximum buy price: $5.25
-- Book value per share: $10.00 (price to book 0.63x)
-- Dividend: $0.96 annualized, yield 15.2%
+- Required margin of safety: 30%
+- Book value per share: $10.00
+- Price to book value: 0.63x
+- Dividend yield: 15.2% ($0.96)
 - Business quality: 52/100
 - Valuation score: 66/100
 - Confidence: 16/25, grade C
@@ -52,7 +53,7 @@ The investment case therefore rests on three conditions:
 
 ## Routing and economic metric
 
-MITT is routed to the SF-04 REIT framework, with a mortgage REIT subtype.
+MITT is routed to the REIT framework, with a mortgage REIT subtype.
 
 Traditional property REIT metrics such as occupancy, same-store NOI and leasing-adjusted AFFO do not describe MITT's economics. For a mortgage REIT, the closest sector-equivalent metrics are book value per common share, Earnings Available for Distribution per share, economic return on equity, dividend coverage, economic leverage, credit performance, and liquidity and financing structure.
 
@@ -305,7 +306,7 @@ The limitation is forecasting. Small changes in book value, credit spreads, fina
 2. A dividend cut caused by recurring EAD below $0.20 per quarter.
 3. CHMI integration that increases scale but reduces per-share economic value.
 
-## Adversarial review
+## Stress test and independent check
 
 The arithmetic review independently recomputed price to book value, dividend yield, dividend coverage, scenario values, valuation weights, reverse valuation and the maximum buy price.
 
@@ -313,7 +314,7 @@ The economic counter-thesis review tested the strongest bullish interpretation: 
 
 The strongest bearish interpretation was also tested: lower book value, sub-cost-of-equity returns and a reduced sustainable dividend. That produces value below the current market price.
 
-No unresolved arithmetic inconsistency remains. The gate status is PASS\_WITH\_WARNING because the final economics of the pending CHMI transaction remain uncertain.
+No unresolved arithmetic inconsistency remains. Treat the result as conditional, because the final economics of the pending CHMI transaction remain uncertain.
 
 ## Final verdict: hold at $6.31
 
@@ -329,6 +330,10 @@ The stock becomes more attractive below $5.25, or at a higher price if MITT demo
 
 The main thesis breaker is sustained book-value erosion combined with inadequate EAD coverage of the dividend.
 
+## More analyses on Patreon
+
+This analysis is free. Premium members get every in-depth analysis, the full archive and a vote on which stocks get analyzed next: https://www.patreon.com/stockanalyza
+
 ## Sources
 
 Primary sources include MITT's [Q2 2026 earnings release](https://www.sec.gov/Archives/edgar/data/1571776/000162828026054991/a8k-6302026xexhibit991.htm), [Q2 2026 earnings presentation](https://www.sec.gov/Archives/edgar/data/1571776/000162828026054991/q22026earningspresentati.htm), [June 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1514281/000162828026055328/mitt-20260630.htm), [CHMI merger Form S-4](https://www.sec.gov/Archives/edgar/data/1514281/000162828026062095/mitt-formsx42026.htm), [merger agreement announcement](https://www.sec.gov/Archives/edgar/data/1514281/000162828026054986/mitt-20260809.htm) and [September 2026 dividend announcement listing](https://www.mitt.tpg.com/news-events-presentations/news-releases).
@@ -337,4 +342,4 @@ The reference market price is the September 18, 2026 closing price of $6.31.
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Mortgage REITs involve leverage, credit, liquidity, interest-rate, prepayment and market-value risks. Valuation assumptions and management projections may prove incorrect. Investors can lose part or all of their invested capital.
 
-Framework: SF-04, residential mortgage REIT subtype. Economic class: Standard Company. Engine: sector-adjusted P/BV plus dividend valuation. Confidence: C/16. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Sector-adjusted P/BV plus dividend valuation. Confidence: C/16. Data checks: passed with warnings.

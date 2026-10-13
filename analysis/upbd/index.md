@@ -4,16 +4,17 @@
 
 UPBD, NASDAQ. Published September 23, 2026. Price as of the September 21, 2026 regular session close.
 
-## Verdict: HOLD at $16.89 (watchlist for new money)
+## Verdict: HOLD at $16.89
 
 Watchlist for new money. The shares trade 27% below the Base value, but leverage and an unresolved regulatory case call for a 50% margin of safety, which puts the buy zone at $11.58 or below.
 
 - Bear value: $12.89
-- Base value: $23.16 (upside 37.1%)
+- Base value: $23.16
 - Bull value: $34.50
-- Expected value (30/50/20 weighting): about $22.35
-- Required margin of safety: 50%
+- Upside to base value: 37.1%
 - Maximum buy price: $11.58
+- Required margin of safety: 50%
+- Probability-weighted value: $22.35 (30/50/20)
 - Owner FCF implied by the price: about $145 million (Base $200 million)
 - Dividend yield: 9.2%, covered 2.2x by owner FCF
 - Business quality: 40/100
@@ -24,7 +25,7 @@ Upbound Group, the owner of Acima, Rent-A-Center and Brigit, looks cheap on ever
 
 At $16.89 on September 21, 2026, the shares trade 27.1% below my triangulated Base value of $23.16, an upside of 37.1%. The Bear value of $12.89 is still 23.7% below the price, and the required margin of safety of 50% puts the maximum buy price at $11.58. For existing holders the dividend is covered and the valuation is undemanding, so this is a hold. For new money it is a watchlist name.
 
-Route: SF-11 Retail and Consumer, lease-to-own subtype with a consumer finance overlay. Economic classification: Standard Company (2/12). Primary method: EV to hard EBITDA, after stock compensation and normalized legal costs. Secondary method: normalized owner free cash flow. Values are capitalized estimates, not 12-month price targets.
+Valuation route: Retail and Consumer, lease-to-own subtype with a consumer finance overlay. Economic classification: Standard Company (2/12). Primary method: EV to hard EBITDA, after stock compensation and normalized legal costs. Secondary method: normalized owner free cash flow. Values are capitalized estimates, not 12-month price targets.
 
 ## What Upbound is
 
@@ -273,9 +274,9 @@ The next review point is Q3 2026 results, expected around October 29, 2026. Q3 E
 2. Acima lease charge-offs above 10% in a consumer downturn.
 3. Leverage above 3.0x together with falling EBITDA.
 
-## Adversarial review
+## Stress test and independent check
 
-The first version of this analysis set a 60% margin of safety and a maximum buy price of $8.80. An external adversarial audit challenged it, and the review accepted most of the challenge. A permanent $25 million legal cost deduction was cut to $10 million, because first-half 2026 legal charges were only about $3 million and the large 2025 charges already sit in the $60.2 million accrual, which is deducted separately. The earnout estimate was cut from $30 million to $20 million. With both corrections the divergence between methods fell from 34% to 25.7%, removing a valuation divergence penalty, and a separate cyclicality modifier was dropped as double counting.
+The first version of this analysis set a 60% margin of safety and a maximum buy price of $8.80. An external audit challenged it, and the review accepted most of the challenge. A permanent $25 million legal cost deduction was cut to $10 million, because first-half 2026 legal charges were only about $3 million and the large 2025 charges already sit in the $60.2 million accrual, which is deducted separately. The earnout estimate was cut from $30 million to $20 million. With both corrections the divergence between methods fell from 34% to 25.7%, removing a valuation divergence penalty, and a separate cyclicality modifier was dropped as double counting.
 
 One challenge was rejected. The audit argued that leverage was already reflected in the multiple and should not add to the margin of safety. The margin of safety measures the risk that the value estimate is wrong, and leverage amplifies that error into the equity, so the modifier stays. The audit's own figures put the maximum buy price at about $13.10. The two versions agree on the verdict.
 
@@ -290,7 +291,7 @@ One challenge was rejected. The audit argued that leverage was already reflected
 | Primary multiple 5.0x instead of 5.5x | $20.69 |
 | Historical 5.3x on company Adjusted EBITDA | $21.95 |
 
-Every test gives a value above the $16.89 price, and none gives a buy price above it. Analyst consensus is a buy with a $28.25 target; the gap to this Base comes from deducting stock compensation and legal costs and from a lower multiple. Short interest of about 13% of the float is a reminder that bears are betting on the regulatory outcome. The publication gate status is PASS\_WITH\_WARNING.
+Every test gives a value above the $16.89 price, and none gives a buy price above it. Analyst consensus is a buy with a $28.25 target; the gap to this Base comes from deducting stock compensation and legal costs and from a lower multiple. Short interest of about 13% of the float is a reminder that bears are betting on the regulatory outcome.
 
 ## Final verdict: hold at $16.89, watchlist for new money
 
@@ -314,4 +315,4 @@ The reference market price is $16.89, the regular session close on September 21,
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are capitalized estimates, not forecasts or trading instructions. Upbound is leveraged and exposed to consumer credit, regulation, litigation and fraud risks, and its common equity could lose much of its value. Investors can lose part or all of their invested capital.
 
-Framework: SF-11, lease-to-own subtype with consumer finance overlay. Economic class: Standard Company. Engine: STANDARD, EV to hard EBITDA with owner FCF cross-check. Confidence: C/14. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: EV to hard EBITDA with owner FCF cross-check. Confidence: C/14. Data checks: passed with warnings.

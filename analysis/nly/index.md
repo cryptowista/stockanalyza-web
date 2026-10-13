@@ -25,7 +25,7 @@ Annaly is the largest mortgage REIT in the United States. It borrows short term,
 
 At $20.60 on September 24, 2026, the shares trade 4.0% below my triangulated Base value of $21.46, an upside of 4.2%. The Bear value of $14.90 is 27.7% below the price. The required margin of safety of 40% puts the maximum buy price at $12.87. For existing holders collecting the dividend this is a hold. For new money it is a watchlist name.
 
-Route: SF-04 REITs, adapted for a mortgage REIT: Agency mortgage-backed securities, residential credit and mortgage servicing rights. Economic classification: Standard leveraged income vehicle (7/12 on a sector-equivalent scorecard). Primary method: price to book value per share. Secondary method: price to sustainable earnings available for distribution (EAD). Values are present fair-value estimates, not 12-month price targets.
+Valuation route: REITs, adapted for a mortgage REIT: Agency mortgage-backed securities, residential credit and mortgage servicing rights. Economic classification: Standard leveraged income vehicle (7/12 on a sector-equivalent scorecard). Primary method: price to book value per share. Secondary method: price to sustainable earnings available for distribution (EAD). Values are present fair-value estimates, not 12-month price targets.
 
 ## What Annaly is
 
@@ -230,7 +230,7 @@ Also worth tracking every quarter: share issuance relative to book value, liquid
 2. EAD falling below the dividend.
 3. Liquidity or funding stress.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's arithmetic reconciled: both valuation methods, the triangulation, the sensitivity table, the buy price and the yield and coverage figures. One number was wrong. Its probability-weighted value was stated as $19.18, while its own scenarios and probabilities give $20.21. The conclusion that the weighted value sits slightly below the price still holds. The draft also suggested a practical monitoring zone of about $17 to $18.50, outside the framework's buy price rule; it was dropped. The verdict is unchanged.
 
@@ -245,7 +245,7 @@ The strongest counter-argument is that a 14% yield plus a 15% EAD return on equi
 | Base at 1.00x book instead of 1.05x | $20.84 |
 | Base at 1.10x book | $22.07 |
 
-The publication gate status is PASS\_WITH\_WARNING, because forward book value and EAD are inherently sensitive to interest rates.
+Treat the result as conditional, because forward book value and EAD are inherently sensitive to interest rates.
 
 ## Final verdict: hold at $20.60, watchlist for new money
 
@@ -269,4 +269,4 @@ The reference market price is $20.60, the September 24, 2026 close. Balance shee
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Annaly is leveraged and exposed to interest rates, mortgage spreads, funding markets, credit and dividend cuts, and its book value can fall sharply. Investors can lose part or all of their invested capital.
 
-Framework: SF-04 adapted for mortgage REITs. Economic class: Standard leveraged income vehicle. Engine: STANDARD, price to book with EAD cross-check. Confidence: B/18. Data status: PASS. Adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Price to book with EAD cross-check. Confidence: B/18. Data checks: passed with warnings.

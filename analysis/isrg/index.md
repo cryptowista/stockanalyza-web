@@ -4,16 +4,17 @@
 
 ISRG, NASDAQ. Published September 25, 2026. Price as of the September 24, 2026 regular session close.
 
-## Verdict: HOLD at $399.52 (do not add)
+## Verdict: HOLD at $399.52
 
 Do not add. Intuitive is an exceptional compounder, and because the business is so predictable the margin of safety is only 25%. But the shares trade 38% above the Base value and even above the Bull value. The buy zone starts at $217.41.
 
 - Bear value: $185.10
-- Base value: $289.88 (downside 27.4%)
+- Base value: $289.88
 - Bull value: $376.24
-- Expected value (20/55/25 weighting): about $290.51
-- Required margin of safety: 25%
+- Downside to base value: -27.4%
 - Maximum buy price: $217.41
+- Required margin of safety: 25%
+- Probability-weighted value: $290.51 (20/55/25)
 - Growth implied by the price: about 19% a year for five years (Base 14%)
 - Dividend: none
 - Business quality: 94/100
@@ -24,7 +25,7 @@ Intuitive Surgical makes the da Vinci surgical robot and earns most of its money
 
 At $399.52 on September 24, 2026, the shares trade 37.8% above my triangulated Base value of $289.88, a downside of 27.4% to Base. Even the Bull value of $376.24 is 5.8% below the price. The required margin of safety of 25% puts the maximum buy price at $217.41. For existing holders this is a hold, because great compounders are rarely worth selling on valuation alone. New money should not add at this price.
 
-Route: SF-09 Medical devices, with the compounder override. Economic classification: Compounder (11/12). Primary method: 10-year two-stage DCF on free cash flow after stock compensation. Secondary methods: a forward free cash flow multiple and a historical reference. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Medical devices, with the compounder override. Economic classification: Compounder (11/12). Primary method: 10-year two-stage DCF on free cash flow after stock compensation. Secondary methods: a forward free cash flow multiple and a historical reference. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Intuitive is
 
@@ -202,7 +203,7 @@ The next review point is Q3 2026 results.
 2. Installed-base growth below 6%.
 3. Hard free cash flow growth below high single digits.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's DCF scenarios reconciled exactly with its stated inputs, at about 355 million shares. Four things were corrected. Its sensitivity table did not match its own DCF: at an 8% discount rate and 3% terminal growth it showed $367, while the model gives $352. Its secondary value of $295 sat below the midpoint of its own ranges, which gives $312.34. Its Bull value was raised from the model's $376 to $390 during triangulation, without a method behind it. And the draft's twelve-month price-touch probabilities were dropped as not part of the framework. The Base moved from $285 to $289.88, the Bull from $390 to $376.24 and the maximum buy price from $213.75 to $217.41. Two of the corrections raised values and one lowered them; the verdict is unchanged.
 
@@ -216,7 +217,7 @@ The strongest counter-argument is that the installed-base flywheel, recurring co
 | First-stage growth 16%, fading to 9% | $310.95 |
 | First-stage growth 12%, fading to 7% | $271.28 |
 
-No reasonable test reaches the price. The publication gate status is PASS.
+No reasonable test reaches the price.
 
 ## Final verdict: hold at $399.52, do not add
 
@@ -240,4 +241,4 @@ The reference market price is $399.52, the September 24, 2026 regular session cl
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Intuitive Surgical is exposed to competition, procedure growth, regulatory and valuation risks. Investors can lose part or all of their invested capital.
 
-Framework: SF-09, medical devices with compounder override. Economic class: Compounder. Engine: two-stage DCF with FCF multiple cross-check. Confidence: A/23. Data status and adversarial gate: PASS. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Two-stage DCF with FCF multiple cross-check. Confidence: A/23. Data checks: passed with warnings.

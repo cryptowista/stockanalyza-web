@@ -26,7 +26,7 @@ Verisk is the kind of business that rarely goes on sale: 83% of its revenue is s
 
 At the October 9, 2026 close of $177.63, the shares trade 6.7% above my triangulated Base value of $166.43. The Bear value is $103.72 and the Bull value is $209.49. The required margin of safety (MOS), the discount to fair value I need before buying, is 45%, so the maximum buy price is **$91.54**, 48% below the price.
 
-Route: SF-01 standard value. SF-07 does not apply: Verisk is a profitable, cash-generating data and analytics company, not an ARR software story. Economic classification: Quality Growth, 7/12 on the sector scorecard, so the engine is GROWTH\_ADJUSTED\_MULTIPLE with an explicit multiple build. Primary method: normalized owner free cash flow times a multiple. Secondary method: a six-year DCF at 10%. Values are present fair-value estimates, not 12-month price targets. Owner free cash flow here is cash after interest, taxes, capex (including capitalized software) and stock pay.
+Valuation route: standard value. The sector-specific method does not apply: Verisk is a profitable, cash-generating data and analytics company, not an ARR software story. Economic classification: Quality Growth, 7/12 on the sector scorecard, so the engine is GROWTH\_ADJUSTED\_MULTIPLE with an explicit multiple build. Primary method: normalized owner free cash flow times a multiple. Secondary method: a six-year DCF at 10%. Values are present fair-value estimates, not 12-month price targets. Owner free cash flow here is cash after interest, taxes, capex (including capitalized software) and stock pay.
 
 ## What Verisk is
 
@@ -170,9 +170,9 @@ The secondary Base value is **$156.23**. Nearly three quarters of the DCF is ter
 
 **Valuation history.** The enterprise value is 15.0 times 2026E adjusted EBITDA and the price is 18.8 times trailing free cash flow (19.7 times after stock pay). Verisk has traded at higher multiples in recent years (ESTIMATED from public data, not verified here), so today's price is below its own history, but the history belonged to a period of lower rates and faster per-share growth.
 
-**PEG (SM-19, diagnostic only).** The price is 21.7 times forward adjusted earnings and adjusted EPS grew 5.0% in the first half, so the PEG is about 4, high on its face. I treat it as a diagnostic only. Growth type: STRUCTURAL for subscriptions, with ACQUISITION\_AFFECTED flags from a divestiture at the end of 2025 that the sources do not name.
+**PEG (diagnostic only).** The price is 21.7 times forward adjusted earnings and adjusted EPS grew 5.0% in the first half, so the PEG is about 4, high on its face. I treat it as a diagnostic only. Growth type: STRUCTURAL for subscriptions, with ACQUISITION\_AFFECTED flags from a divestiture at the end of 2025 that the sources do not name.
 
-**Free cash flow growth quality (SM-20, diagnostic only).** Free cash flow rose from $887 million in 2021 to $1,192 million in 2025, a compound growth of 7.7% a year, and $1,237 million in the last twelve months. Per share it grew 11.9% a year because the share count fell 14% over four years. FCF margin rose from 36.0% to 38.8%. Forward, my Base owner cash flow compounds at 5.5% a year from 2026E to 2031E, from $1.17 billion to $1.53 billion. Forward owner cash flow yield on market value is 5.0% for 2026E and 5.3% for 2027E. Flags: WORKING\_CAPITAL\_DISTORTION (second-quarter free cash flow rose 58%, which I read as partly timing) and per-share growth that is helped by debt-funded buybacks. Forecast reliability: MEDIUM. Stress test: 2028E owner cash flow 20% lower gives a primary value of $143.50, and 40% lower gives $110.36.
+**Free cash flow growth quality (diagnostic only).** Free cash flow rose from $887 million in 2021 to $1,192 million in 2025, a compound growth of 7.7% a year, and $1,237 million in the last twelve months. Per share it grew 11.9% a year because the share count fell 14% over four years. FCF margin rose from 36.0% to 38.8%. Forward, my Base owner cash flow compounds at 5.5% a year from 2026E to 2031E, from $1.17 billion to $1.53 billion. Forward owner cash flow yield on market value is 5.0% for 2026E and 5.3% for 2027E. Flags: WORKING\_CAPITAL\_DISTORTION (second-quarter free cash flow rose 58%, which I read as partly timing) and per-share growth that is helped by debt-funded buybacks. Forecast reliability: MEDIUM. Stress test: 2028E owner cash flow 20% lower gives a primary value of $143.50, and 40% lower gives $110.36.
 
 ## Valuation triangulation
 
@@ -327,7 +327,7 @@ Next review: the third quarter report, expected around late October 2026 (date n
 2. The owner cash flow margin falls below 34% without a clear investment case.
 3. Leverage rises above 3 times EBITDA to fund more buybacks, or litigation costs prove large.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed every table from the listed inputs and the arithmetic reconciles. Revenue, EBITDA, guidance, debt and cash flow come from the second quarter release and call. The margin path, the multiples, the discount rate and the dilutive shares are my estimates. The strongest bullish counter-thesis is that Verisk is a toll road on insurance data with 83% subscriptions, and that its multiple de-rated for AI fears that management has answered with products, so the Bull value of $209.49 is a fair outcome if growth returns to 7%. The strongest bearish counter-thesis is that carriers and AI firms will build alternatives to Verisk's data, which would cut price realization, and that debt-funded buybacks at $200 have already used up the balance sheet's flexibility.
 
@@ -341,7 +341,7 @@ I recomputed every table from the listed inputs and the arithmetic reconciles. R
 | Each 1 point of owner cash flow margin | about $4.48 a unit |
 | Operating leases of $0.16B counted as debt | about -$1.24 a unit |
 
-The choices that lean generous are an 18.5 times multiple, 5% growth and a 37% cash margin. The ones that lean conservative are deducting stock pay, normalizing second-quarter cash flow timing and leaving out future buybacks. I did not tune any of them toward a verdict. Publication gate: PASS\_WITH\_WARNING, because the sources conflict on the buyback total, the divestiture is unnamed and the intangibles decline is unexplained.
+The choices that lean generous are an 18.5 times multiple, 5% growth and a 37% cash margin. The ones that lean conservative are deducting stock pay, normalizing second-quarter cash flow timing and leaving out future buybacks. I did not tune any of them toward a verdict. Treat the result as conditional, because the sources conflict on the buyback total, the divestiture is unnamed and the intangibles decline is unexplained.
 
 **Not available or estimated.** Unavailable: the name and size of the 2025 divestiture, the reason intangibles fell, litigation exposure, a verified peer table, and the full quarterly filing. Estimated: dilutive awards, the forward paths, the multiples, the discount rate and the historical multiples.
 
@@ -363,4 +363,4 @@ The reference market price is the October 9, 2026 close of $177.63. Balance shee
 
 **Disclaimer.** This analysis is a structured fundamental research output, not personalized investment advice. It is provided solely for research and educational purposes and is not financial, legal or tax advice. Verisk carries $4.5 billion of debt, has negative shareholders' equity and faces litigation and technology disruption risk. Its shares can lose value, and investors can lose part or all of their invested capital.
 
-Framework: SF-01 standard value. Economic class: Quality Growth (7/12). Engine: GROWTH\_ADJUSTED\_MULTIPLE with a DCF secondary. Confidence: C/16. Data status: PASS\_WITH\_WARNING. Adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: Growth adjusted multiple with a DCF secondary. Confidence: C/16. Data checks: passed with warnings.

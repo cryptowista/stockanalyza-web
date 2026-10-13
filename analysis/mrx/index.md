@@ -4,16 +4,17 @@
 
 MRX, NASDAQ. Published September 24, 2026. Price as of the September 23, 2026 regular session close.
 
-## Verdict: HOLD at $71.59 (watchlist for new money)
+## Verdict: HOLD at $71.59
 
 Watchlist for new money. Marex is a high-quality compounder trading just 5% below Base value. Earnings depend on market activity and acquisitions, so a 30% margin of safety is required, which puts the buy zone at $52.89 or below.
 
 - Bear value: $48.04
-- Base value: $75.55 (upside 5.5%)
+- Base value: $75.55
 - Bull value: $100.23
-- Expected value (25/50/25 weighting): about $74.84
-- Required margin of safety: 30%
+- Upside to base value: 5.5%
 - Maximum buy price: $52.89
+- Required margin of safety: 30%
+- Probability-weighted value: $74.84 (25/50/25)
 - EPS implied by the price at 13x: $5.51 (Base $6.00)
 - Dividend yield: 0.9%
 - Business quality: 84/100
@@ -24,7 +25,7 @@ Marex has delivered six record quarters in a row since its 2024 listing, and the
 
 At $71.59 on September 23, 2026, the shares trade 5.2% below my triangulated Base value of $75.55, an upside of 5.5%. The Bear value of $48.04 is 32.9% below the price, and the required margin of safety of 30% puts the maximum buy price at $52.89. For existing holders this is a hold. For new money it is a watchlist name.
 
-Route: SF-01 adapted to a non-bank broker and market infrastructure platform. Economic classification: raw score 10/12, capped at Quality Growth because the listed history is short and a corporate cash flow model does not fit a broker. Primary method: normalized diluted EPS times a multiple. Secondary method: justified price to book. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: adapted to a non-bank broker and market infrastructure platform. Economic classification: raw score 10/12, capped at Quality Growth because the listed history is short and a corporate cash flow model does not fit a broker. Primary method: normalized diluted EPS times a multiple. Secondary method: justified price to book. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Marex is
 
@@ -202,7 +203,7 @@ At June 30, 2026, liquidity headroom was $1,814.1 million and the internal group
 2. A liquidity, counterparty or regulatory event at a clearing subsidiary.
 3. A value-destroying acquisition or persistent dilution.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft set the Base at $78, equal to the primary method alone, although weighting the two methods gave $76.20. The framework does not allow the Base to be lifted to the higher method, so the weighted result is used. The draft's secondary value of $72 was stated without its inputs. It was rebuilt transparently from ROE, cost of equity, growth and expected book value, giving $69.84, and the same method was applied to Bear and Bull, which had previously used only the EPS method. The Base moved from $78.00 to $75.55, the maximum buy price from $54.60 to $52.89, and the Bear value from $52 to $48.04. The verdict is unchanged.
 
@@ -218,7 +219,7 @@ The strongest counter-argument is that 2026 is a volatility peak and acquisition
 | Sustainable ROE 27% | $77.16 |
 | Equal 50/50 weighting of methods | $73.92 |
 
-Every test keeps the Base within about 11% of the price, and none lifts the buy price above about $56. The publication gate status is PASS\_WITH\_WARNING because of the short listed history and uncertain normalization.
+Every test keeps the Base within about 11% of the price, and none lifts the buy price above about $56. Treat the result as conditional, because of the short listed history and uncertain normalization.
 
 ## Final verdict: hold at $71.59, watchlist for new money
 
@@ -242,4 +243,4 @@ The reference market price is $71.59, the regular session close on September 23,
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Marex is exposed to market activity, counterparty, liquidity, regulatory and acquisition risks. Investors can lose part or all of their invested capital.
 
-Framework: SF-01 adapted to brokerage and market infrastructure. Economic class: Quality Growth. Engine: normalized EPS with justified price to book cross-check. Confidence: B/19. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Normalized EPS with justified price to book cross-check. Confidence: B/19. Data checks: passed with warnings.

@@ -26,7 +26,7 @@ Nu is the largest digital bank in Latin America, with 139 million customers, mor
 
 At $13.29 on October 1, 2026, the shares trade 23.6% above my triangulated Base value of $10.75, so the Base is 19.1% below the price. The Bear value of $5.19 is 61.0% below it and the Bull value of $14.68 only 10.5% above it. The required margin of safety of 50% puts the maximum buy price at $5.38. For existing holders this is a hold, but not a position to add to. For new money it is a watchlist name.
 
-Route: SF-02 Banks, digital bank with card, loan and deposit franchises. Economic classification: Compounder (10/12), valued with a ten-year residual income model, the sector method for a bank earning well above its cost of equity. Cross-check: forward earnings multiple. Tangible book value is shown for reference. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Banks, digital bank with card, loan and deposit franchises. Economic classification: Compounder (10/12), valued with a ten-year residual income model, the sector method for a bank earning well above its cost of equity. Cross-check: forward earnings multiple. Tangible book value is shown for reference. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Nu is
 
@@ -117,7 +117,7 @@ The 13x is an estimate. Nu's own forward multiple at year-end was 26x for 2023, 
 
 There is no long public history to anchor a valuation: Nu listed in December 2021, and its earnings grew from nothing, so its old multiples describe a different company. The shares are in the lower third of their 52-week range, which says the market has already marked down the growth premium, not that the stock is cheap.
 
-The growth valuation cross-check (SM-19) is a diagnostic only. On consensus earnings the forward PEG is about 0.4, which looks very cheap. It is not meaningful as a valuation signal here. The growth it divides by comes from a credit book growing 37% into riskier segments, so part of the growth is borrowed from future credit losses, and the earnings per share consensus is a data provider's adjusted figure while the filings are IFRS. Growth durability: structural and normalizing. Cyclical distortion: medium, because Q2 is seasonally strong for credit and the real was strong. Flags: accounting basis mismatch (minor) and no synchronized peer table. SM-19 does not set fair value.
+The growth valuation cross-check is a diagnostic only. On consensus earnings the forward PEG is about 0.4, which looks very cheap. It is not meaningful as a valuation signal here. The growth it divides by comes from a credit book growing 37% into riskier segments, so part of the growth is borrowed from future credit losses, and the earnings per share consensus is a data provider's adjusted figure while the filings are IFRS. Growth durability: structural and normalizing. Cyclical distortion: medium, because Q2 is seasonally strong for credit and the real was strong. Flags: accounting basis mismatch (minor) and no synchronized peer table. This check does not set fair value.
 
 ## Valuation triangulation
 
@@ -262,7 +262,7 @@ Two of these readings are yellow today, which is another reason the verdict is n
 2. Return on equity below about 22% for more than two quarters.
 3. International expansion or an acquisition that consumes capital without returns above the cost of equity.
 
-## Adversarial review
+## Stress test and independent check
 
 I rebuilt every figure from the second quarter 6-K and the interim financial statements. The first draft's company data were right: customers, revenue, net income, return on equity, delinquency, credit portfolio, deposits and equity of $13.25 billion all match the filings, as does its arithmetic (price to book, 2.74 times 5.8, the 30% margin of safety). The valuation did not hold up.
 
@@ -297,7 +297,7 @@ The strongest counter-argument is that Nu's returns are structural: a 19.5% effi
 | Most generous combination | $16.15 |
 | Most cautious combination | $6.00 |
 
-The most generous combination is a 30% return fading to 22%, a 12% cost of equity, a 2% currency drag, a 19% terminal return and 15x on consensus 2027 earnings. The most cautious is a 24% return for three years fading to 18%, a 14% cost of equity, a 4% drag, a 15% terminal return and 9x on earnings of $0.78. Single changes keep the Base between $9.52 and $11.76, so the maximum buy price stays between $4.76 and $5.88, far below $13.29 every time. Only the stacked generous case, at $16.15, is above the price, and even there the maximum buy price is $8.07. All corrections lowered the value, so I tested the other direction: the consensus-based test and the generous case both raise the Base, but not enough to change the verdict. The publication gate status is PASS\_WITH\_WARNING.
+The most generous combination is a 30% return fading to 22%, a 12% cost of equity, a 2% currency drag, a 19% terminal return and 15x on consensus 2027 earnings. The most cautious is a 24% return for three years fading to 18%, a 14% cost of equity, a 4% drag, a 15% terminal return and 9x on earnings of $0.78. Single changes keep the Base between $9.52 and $11.76, so the maximum buy price stays between $4.76 and $5.88, far below $13.29 every time. Only the stacked generous case, at $16.15, is above the price, and even there the maximum buy price is $8.07. All corrections lowered the value, so I tested the other direction: the consensus-based test and the generous case both raise the Base, but not enough to change the verdict.
 
 ## Final verdict: hold at $13.29, do not add
 
@@ -321,4 +321,4 @@ The reference market price is $13.29, the October 1, 2026 regular session close.
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Nu is exposed to credit losses, Brazilian macroeconomic, currency and regulatory risk, funding, tax changes, international expansion, dual-class control and valuation risk. Investors can lose part or all of their invested capital.
 
-Framework: SF-02, digital bank. Economic class: Compounder. Engine: ten-year residual income with a forward earnings cross-check. Confidence: C/14. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.2.
+Method: Master Investment Analysis Framework v3.2. Approach: Ten-year residual income with a forward earnings cross-check. Confidence: C/14. Data checks: passed with warnings.

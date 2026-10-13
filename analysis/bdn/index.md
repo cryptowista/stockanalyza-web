@@ -26,7 +26,7 @@ Brandywine Realty Trust is an office and mixed-use REIT concentrated in Philadel
 
 At $2.86 on September 25, 2026, the shares trade 17.1% below my triangulated Base value of $3.45, an upside of 20.6%. The Bear value of $1.70 is 40.7% below the price and the Bull value of $5.29 is 84.8% above it. The framework's required margin of safety for a Confidence C score with this much leverage and structural office risk is 40%, which puts the maximum buy price at $2.07. The shares would need to fall about 27.6% to get there. Until then this is a hold: the recovery story is real, but the price does not yet pay for the risk still on the balance sheet.
 
-Route: SF-04 Office/mixed-use REIT. Economic classification: Standard, turnaround REIT (2/12). Primary method: price to cash available for distribution (CAD), the REIT's own after-tenant-capital cash flow measure. Secondary method: net asset value (NAV). Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Office/mixed-use REIT. Economic classification: Standard, turnaround REIT (2/12). Primary method: price to cash available for distribution (CAD), the REIT's own after-tenant-capital cash flow measure. Secondary method: net asset value (NAV). Values are present fair-value estimates, not 12-month price targets.
 
 ## What Brandywine is
 
@@ -230,7 +230,7 @@ Review with the third-quarter report, expected around October 21, 2026, when the
 2. Core occupancy falling below 88% with no recovery path.
 3. Hard AFFO (CAD) per share falling and staying below roughly $0.25.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's core arithmetic reconciled, and its debt-maturity figures matched the company's own supplemental schedule exactly. But checking it against Brandywine's second-quarter supplemental information package, which discloses CAD directly, found a few things worth correcting or adding.
 
@@ -259,7 +259,7 @@ The strongest counter-thesis, for the bulls: retention at 85%, positive same-sto
 | Price / Base hard AFFO | 9.2x |
 | Price implies hard AFFO of (at 11x) | $0.26, below the $0.32 CAD run rate |
 
-Audit flags: hard AFFO and NAV are estimates for future periods even though the CAD anchor is reported historically; the NAV range has no third-party appraisal behind it; the September 25 reference price could not be independently pinned to a single verified print, though it is consistent with the stock's trading range through September. No unresolved arithmetic error remains. The publication gate status is PASS WITH WARNING.
+Audit flags: hard AFFO and NAV are estimates for future periods even though the CAD anchor is reported historically; the NAV range has no third-party appraisal behind it; the September 25 reference price could not be independently pinned to a single verified print, though it is consistent with the stock's trading range through September. No unresolved arithmetic error remains.
 
 ## Final verdict: hold at $2.86, watchlist for new money below $2.07
 
@@ -281,4 +281,4 @@ The reference market price is $2.86, described as the September 25, 2026 close. 
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Brandywine Realty Trust carries substantial leverage, faces a large near-term debt maturity wall, operates in a structurally challenged office real estate market, and has recently experienced a credit rating downgrade. Investors can lose part or all of their invested capital.
 
-Framework: SF-04 Office/mixed-use REIT. Economic class: Standard, turnaround REIT. Engine: sector-equivalent P/AFFO plus NAV. Confidence: C/16. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Sector-equivalent P/AFFO plus NAV. Confidence: C/16. Data checks: passed with warnings.

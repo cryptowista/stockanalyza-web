@@ -9,11 +9,12 @@ TER, NASDAQ. Published September 25, 2026. Price as of the September 24, 2026 re
 Teradyne is an excellent business at the top of an exceptional AI cycle. The shares trade 64% above the Base value, and even the Bull value is 12% below the price. The buy zone starts at $153.54.
 
 - Bear value: $171.85
-- Base value: $236.22 (downside 39.1%)
+- Base value: $236.22
 - Bull value: $341.67
-- Expected value (25/50/25 weighting): about $246.49
-- Required margin of safety: 35%
+- Downside to base value: -39.1%
 - Maximum buy price: $153.54
+- Required margin of safety: 35%
+- Probability-weighted value: $246.49 (25/50/25)
 - Mid-cycle EBITDA implied by the price at 20x: about $3.0 billion (Base $1.9 billion)
 - Dividend yield: about 0.1%
 - Business quality: 82/100
@@ -24,7 +25,7 @@ Every AI chip, and every stack of high-bandwidth memory next to it, has to be te
 
 At $387.70 on September 24, 2026, the shares trade 64.1% above my triangulated Base value of $236.22, a downside of 39.1% to Base. Even the Bull value of $341.67 is 11.9% below the price. The required margin of safety of 35% puts the maximum buy price at $153.54. For existing holders the framework verdict is to reduce. New money should wait.
 
-Route: SF-13 Industrials and manufacturing, semiconductor test equipment plus advanced robotics. Economic classification: Quality Growth (8/12, raw 9/12, capped because the current growth is cyclical). Primary method: mid-cycle EV to normalized EBITDA. Secondary methods: normalized free cash flow after stock compensation, and a historical multiple reference. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Industrials and manufacturing, semiconductor test equipment plus advanced robotics. Economic classification: Quality Growth (8/12, raw 9/12, capped because the current growth is cyclical). Primary method: mid-cycle EV to normalized EBITDA. Secondary methods: normalized free cash flow after stock compensation, and a historical multiple reference. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Teradyne is
 
@@ -217,7 +218,7 @@ The next review point is Q3 2026 results, expected in late October 2026.
 2. 2027 expectations reset materially lower.
 3. Margins reverting toward old-cycle levels.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's primary valuation and sensitivity table reconciled closely. Three things were corrected. Its weighted Base was $241.75, but it was rounded up to $245 to match the primary method, which the framework does not allow. Its secondary free cash flow value did not deduct stock compensation, which free cash flow adds back; deducting about $84 million a year lowers it from about $238 to $222.25. And its net cash used cash and short-term securities of about $355 million, while total cash and investments were about $517 million. The Base moved from $245 to $236.22 and the maximum buy price from $159 to $153.54. The draft's twelve-month price-touch probabilities were dropped as not part of the framework. The verdict is unchanged.
 
@@ -231,7 +232,7 @@ The strongest counter-argument is that AI has structurally increased test intens
 | $1.9 billion EBITDA at 25x | $266.60 |
 | Free cash flow $1.3 billion at 32x | $246.70 |
 
-Even generous tests stay more than 30% below the price. The publication gate status is PASS\_WITH\_WARNING: the main uncertainty is how much of the 2026 to 2027 earnings step-up is structural rather than cyclical.
+Even generous tests stay more than 30% below the price. Main data limit: the main uncertainty is how much of the 2026 to 2027 earnings step-up is structural rather than cyclical.
 
 ## Final verdict: reduce at $387.70
 
@@ -255,4 +256,4 @@ The reference market price is $387.70, the September 24, 2026 regular session cl
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Teradyne is exposed to semiconductor cyclicality, AI demand concentration and valuation risk. Investors can lose part or all of their invested capital.
 
-Framework: SF-13, semiconductor test equipment and robotics. Economic class: Quality Growth. Engine: normalized mid-cycle EV to EBITDA with free cash flow cross-check. Confidence: B/20. Data status: PASS. Adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Normalized mid-cycle EV to EBITDA with free cash flow cross-check. Confidence: B/20. Data checks: passed with warnings.

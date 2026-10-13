@@ -27,7 +27,7 @@ At the October 8, 2026 close of $9.66 the shares trade 31% above my triangulated
 
 This call sits close to a line, and I want to say so up front. The Base is 23.6% below the price, which my rules classify as Slightly Overvalued, a band where both HOLD and REDUCE are allowed. HOLD is a reasonable alternative reading of the same numbers. It becomes the call if the Export-Import Bank of the United States (EXIM) gives a final commitment of at least $1.0 billion with capex at or below $1.43 billion, if long-term copper expectations reach about $5.41 a pound, or if a discount rate of 9.2% or lower becomes defensible. I chose REDUCE because the Bear is -90.4% against a Bull of +17.5%, Confidence is D, and the last study moved both cost and schedule the wrong way.
 
-Route: SF-12 Mining. Subtype: pre-revenue, single-asset copper developer (underground mine producing copper cathode in Arizona) with an exploration and technology portfolio. Economic classification: Standard (2.4/12). Primary method: risked net asset value (NAV), the present value of the mine's after-tax cash flow after construction and sustaining capital, less corporate costs, plus net cash. Secondary method: enterprise value (EV) as a multiple of EBITDA (earnings before interest, taxes, depreciation and amortization) at a mid-cycle copper price, discounted to today. Values are present fair value estimates, not 12 month price targets.
+Valuation route: Mining. Subtype: pre-revenue, single-asset copper developer (underground mine producing copper cathode in Arizona) with an exploration and technology portfolio. Economic classification: Standard (2.4/12). Primary method: risked net asset value (NAV), the present value of the mine's after-tax cash flow after construction and sustaining capital, less corporate costs, plus net cash. Secondary method: enterprise value (EV) as a multiple of EBITDA (earnings before interest, taxes, depreciation and amortization) at a mid-cycle copper price, discounted to today. Values are present fair value estimates, not 12 month price targets.
 
 ## What Ivanhoe Electric is
 
@@ -161,9 +161,9 @@ The secondary comes out lower because a single-year multiple undervalues a long 
 
 There is no usable history of price to NAV, because the share count, the study and the copper price all changed inside the last year. As a proxy, market value on today's share count against the $1,519 million study NPV ranged from 0.83x to 2.26x across the 52-week range of $7.86 to $21.55. Today it is 1.01x, in the lower part of that range. Against my NAV on the Base deck at 8% the price is 0.91x per diluted share (0.90x on basic market value), inside the sector's fair band of 0.8x to 1.2x. At 10% it is 1.20x basic and 1.23x diluted, the top of that band. This layer gets no weight.
 
-The growth cross-check (SM-19) does not produce a usable PEG ratio: there are no earnings, the second quarter loss was $0.16 a share, and the first quarter was distorted by the Alacran gain. Free cash flow (FCF) was negative in all three available years: -$232.6 million in 2023, -$175.7 million in 2024 and -$94.3 million in 2025. The improvement came from lower exploration and capex, not from operations, so a growth rate on it means nothing.
+The growth cross-check does not produce a usable PEG ratio: there are no earnings, the second quarter loss was $0.16 a share, and the first quarter was distorted by the Alacran gain. Free cash flow (FCF) was negative in all three available years: -$232.6 million in 2023, -$175.7 million in 2024 and -$94.3 million in 2025. The improvement came from lower exploration and capex, not from operations, so a growth rate on it means nothing.
 
-The FCF quality check (SM-20) is therefore a path-to-cash-flow exercise. In the first full year, 2031, on the Base deck, the mine would produce about $422.6 million of FCF after sustaining capex, interest on $1.1 billion of EXIM debt at an estimated 7% and tax. After raising the $373.9 million equity gap at today's price that is $2.10 a share, 21.7% of today's price, five years out. At the $5.20 mid-cycle price it is $1.74 a share, 18.0%. Discounted at 10%, the 21.7% is about 13.8% in today's money, before construction and price risk. Reliability: low. Neither diagnostic sets the Base, the margin of safety or the verdict.
+The FCF quality check is therefore a path-to-cash-flow exercise. In the first full year, 2031, on the Base deck, the mine would produce about $422.6 million of FCF after sustaining capex, interest on $1.1 billion of EXIM debt at an estimated 7% and tax. After raising the $373.9 million equity gap at today's price that is $2.10 a share, 21.7% of today's price, five years out. At the $5.20 mid-cycle price it is $1.74 a share, 18.0%. Discounted at 10%, the 21.7% is about 13.8% in today's money, before construction and price risk. Reliability: low. Neither diagnostic sets the Base, the margin of safety or the verdict.
 
 ## Valuation triangulation
 
@@ -334,7 +334,7 @@ Today no reading is Red. Near-term copper is Yellow: spot was about $6.49 on Oct
 2. A final EXIM commitment of at least $1.0 billion with capex at or below $1.43 billion. With that de-risking a 9% discount rate becomes defensible, and 9% alone gives $8.39, inside the HOLD band.
 3. Capex at or below $1.26 billion, a reserve or mine life extension, or other assets worth more than about $235 million. Each of these is most likely to matter in combination with 1 or 2.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed every value in this article in a separate model and checked the inputs against the second quarter 10-Q, the 2025 10-K, the September 2026 study release and its 8-K, published summaries of the study and the closing price from two independent market data sources. The balance sheet, share count, bridge status, covenant, ownership and study parameters are reported figures. The copper deck, the discount rate, the 5.5x multiple, the $100 million for other assets, the 3.0 million share overhang, the exploration budget and the 7% interest rate on project debt are my estimates.
 
@@ -365,7 +365,7 @@ The strongest counter-thesis, for the bears: the company's own deck is $4.75, an
 | Generous set: 8%, no SBC, no further exploration, $250M other assets, 7x | $12.94 | +33.9% |
 | Strict set: 12%, $60M corporate, $61.1M exploration, no other assets, 4x | $2.81 | -70.9% |
 
-The verdict is a centered estimate inside a wide band, which is exactly why Confidence is D and the required MOS is 80%. Arithmetic: 0.7 times $7.877 plus 0.3 times $6.229 is $7.3825; $7.3825 divided by $9.66, less 1, is -23.6%; the Bear is 0.7 times $1.084 plus 0.3 times $0.559, or $0.93; the Bull is 0.7 times $12.055 plus 0.3 times $9.721, or $11.35; the divergence is $1.648 divided by $7.053, or 23.4%; the MOS is 50 plus 10 plus 10 plus 5 plus 5, or 80%; market value is $9.66 times 159.59 million shares, or $1,541.6 million. The publication gate status is PASS WITH WARNING: the arithmetic reproduces, and the value rests on an estimated copper deck, a rebuilt project model and an undisclosed covenant headroom.
+The verdict is a centered estimate inside a wide band, which is exactly why Confidence is D and the required MOS is 80%. Arithmetic: 0.7 times $7.877 plus 0.3 times $6.229 is $7.3825; $7.3825 divided by $9.66, less 1, is -23.6%; the Bear is 0.7 times $1.084 plus 0.3 times $0.559, or $0.93; the Bull is 0.7 times $12.055 plus 0.3 times $9.721, or $11.35; the divergence is $1.648 divided by $7.053, or 23.4%; the MOS is 50 plus 10 plus 10 plus 5 plus 5, or 80%; market value is $9.66 times 159.59 million shares, or $1,541.6 million. Main data limit: the arithmetic reproduces, and the value rests on an estimated copper deck, a rebuilt project model and an undisclosed covenant headroom.
 
 ## Final verdict: reduce at $9.66
 
@@ -387,4 +387,4 @@ The reference market price is the October 8, 2026 regular session close of $9.66
 
 **Disclaimer.** This analysis is a structured fundamental research output, not personalized investment advice. It is provided solely for research and educational purposes and is not investment, financial, legal or tax advice. Ivanhoe Electric is a pre-revenue mining developer whose value depends on the copper price, on financing that is not yet committed and on building a mine on time and on budget, and its shares can move sharply on any of them. Investors can lose part or all of their invested capital.
 
-Framework: SF-12 Mining, pre-revenue single-asset copper developer. Economic class: Standard. Engine: risked NAV with a mid-cycle EV/EBITDA cross-check. Confidence: D/7. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: Risked NAV with a mid-cycle EV/EBITDA cross-check. Confidence: D/7. Data checks: passed with warnings.

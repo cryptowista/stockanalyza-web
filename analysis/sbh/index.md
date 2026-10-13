@@ -26,7 +26,7 @@ Sally Beauty is a mature retailer and distributor of professional hair color and
 
 At $17.18 on September 25, 2026, the shares trade 28.5% below my triangulated Base value of $24.03, an upside of 39.9%. The Bear value of $16.24 is 5.5% below the price and the Bull value of $32.02 is 86.4% above it. The framework's required margin of safety for this profile is 35%, which puts the maximum buy price at $15.62. The shares would need to fall about 9.1% to get there. Until then this is a hold: cheap on cash flow, but not yet cheap enough for the risks.
 
-Route: SF-11 Retail and Consumer, specialty beauty retail. Economic classification: Standard, borderline Quality growth (6/12). Primary method: normalized EV/EBITDA. Secondary method: price to normalized free cash flow. SF-10 Dividend Income does not apply, because Sally Beauty pays no dividend. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Retail and Consumer, specialty beauty retail. Economic classification: Standard, borderline Quality growth (6/12). Primary method: normalized EV/EBITDA. Secondary method: price to normalized free cash flow. Dividend Income does not apply, because Sally Beauty pays no dividend. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Sally Beauty is
 
@@ -238,7 +238,7 @@ Review with the fiscal fourth-quarter and full-year results, which the company u
 2. Net debt leverage rising above 2.0x.
 3. Structural deterioration in BSG, meaning persistent negative comparable sales together with weaker cash flow.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's core arithmetic reconciled: EV/EBITDA, price to free cash flow and the upside followed from its own inputs. But checking it against Sally Beauty's third-quarter release and filings found problems that changed the numbers.
 
@@ -273,7 +273,7 @@ The strongest bear counter-thesis: Sally Beauty may be a classic value trap. Sal
 
 The lease rows matter. My multiples are judged on a basis that includes leases in debt, which is also how the market multiple of 6.8x is measured. If leases were left out of debt, the same Base EBITDA would need a multiple of about 7x to give the same answer, and 6x would give $20.79. Either way the conclusion holds: the Base sits well above the price, and the buy price sits below it.
 
-Audit flags: normalized EBITDA and free cash flow are my estimates, the Base sits above guidance for both, and the diluted share count is an approximation. Fiscal 2026 results are not final. The September 25 close of $17.18 is confirmed by two market data sources. No unresolved arithmetic error remains. The publication gate status is PASS WITH WARNING.
+Audit flags: normalized EBITDA and free cash flow are my estimates, the Base sits above guidance for both, and the diluted share count is an approximation. Fiscal 2026 results are not final. The September 25 close of $17.18 is confirmed by two market data sources. No unresolved arithmetic error remains.
 
 ## Final verdict: hold at $17.18, watchlist for new money below $15.62
 
@@ -297,4 +297,4 @@ The reference market price is $17.18, the September 25, 2026 close. Balance shee
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Sally Beauty operates in a competitive, low-growth retail market, carries debt and lease obligations, and reports adjusted figures that exclude real costs. Investors can lose part or all of their invested capital.
 
-Framework: SF-11, specialty beauty retail. Economic class: Standard, borderline Quality growth. Engine: STANDARD. Confidence: B/19. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Confidence: B/19. Data checks: passed with warnings.

@@ -24,7 +24,7 @@ Over the twelve months to July 31, 2026, Phreesia reported $122.0 million of adj
 
 At the October 9, 2026 close of $10.81, the shares trade within 1% of my triangulated Base value of $10.88. The Bear value is $7.07 and the Bull value is $14.57. The required margin of safety (MOS), the discount to fair value I need before buying, is 60%, so the maximum buy price is **$4.35**, about 60% below today's price. The question for this stock is not whether the restructuring is real. It is whether the price has already paid for it, and on my numbers it has.
 
-Route: SF-07 software and technology. Subtype: hybrid healthcare IT platform, mature, low organic growth, recently free cash flow positive. Economic classification: Standard (3/12). Primary method: enterprise value (EV, the value of the equity plus net debt) as a multiple of next twelve months' adjusted EBITDA minus SBC. Secondary method: a ten-year discounted cash flow (DCF) model of unlevered owner free cash flow after SBC. Values are present fair value estimates, not 12 month price targets.
+Valuation route: software and technology. Subtype: hybrid healthcare IT platform, mature, low organic growth, recently free cash flow positive. Economic classification: Standard (3/12). Primary method: enterprise value (EV, the value of the equity plus net debt) as a multiple of next twelve months' adjusted EBITDA minus SBC. Secondary method: a ten-year discounted cash flow (DCF) model of unlevered owner free cash flow after SBC. Values are present fair value estimates, not 12 month price targets.
 
 ## What Phreesia is
 
@@ -350,7 +350,7 @@ Today two lines are red. The share count is up 3.6% year over year against a 3% 
 2. A securitization or legal event creating a cash outflow above about $113 million, which takes adjusted net debt above $112.3 million and the Base below $9.19. Fair value losses on the receivable book would usually show up first.
 3. On the upside, fiscal 2028 guidance implying NTM adjusted EBITDA of $141.6 million or more with SBC at or below $50 million, or a control offer, would move the stock toward Undervalued and require a new valuation.
 
-## Adversarial review
+## Stress test and independent check
 
 Inputs come from Phreesia's Form 10-Q for the quarter ended July 31, 2026, the Form 10-K for fiscal 2026, the quarterly 8-K earnings releases, the restructuring 8-K of May 11, 2026, SEC XBRL data for the multi-year series, and the Schedule 13D filings of Pale Fire Capital and the 13G of AQR. The insurance receivable against the ConnectOnCall settlement and the $2,812 thousand fair value loss were read directly from note 11 and the cash flow statement of the 10-Q. The closing price was confirmed by two independent sources. Every table was recomputed independently, and the key figures reproduce to the cent.
 
@@ -358,7 +358,7 @@ The values marked as estimates are: NTM adjusted EBITDA of $131.9 million and re
 
 The weakest point of the model is that both methods start from the same $81.9 million of EBITDA after SBC, and that figure rests on two things that have not yet happened: SBC settling at $50 million and second half EBITDA meeting the guidance midpoint. The 10.0x reference multiple has no external anchor. The verdict is also asymmetric in where it breaks: SBC staying at the trailing level leaves HOLD by only $0.20, while a discount rate of 8%, inside the tested range, would read Undervalued at $12.59.
 
-Arithmetic: 81.902 times 9.0 is 737.12, plus 0.40 divided by 66.4555 million shares is $11.098; the DCF gives an EV of 708.72 and $10.671; 0.5 times 11.098 plus 0.5 times 10.671 is $10.884; $10.884 times 0.40 is $4.354. The publication gate status is PASS WITH WARNING: the balance sheet, share count and cash flows reconcile to the filings, and the value rests on an estimated SBC run rate, an estimated forward EBITDA and an estimated multiple.
+Arithmetic: 81.902 times 9.0 is 737.12, plus 0.40 divided by 66.4555 million shares is $11.098; the DCF gives an EV of 708.72 and $10.671; 0.5 times 11.098 plus 0.5 times 10.671 is $10.884; $10.884 times 0.40 is $4.354. Main data limit: the balance sheet, share count and cash flows reconcile to the filings, and the value rests on an estimated SBC run rate, an estimated forward EBITDA and an estimated multiple.
 
 ## Final verdict: hold at $10.81
 
@@ -380,4 +380,4 @@ The reference market price is the October 9, 2026 regular session close of $10.8
 
 **Disclaimer.** This analysis is a structured fundamental research output, not personalized investment advice. It is provided solely for research and educational purposes and is not financial, legal or tax advice. Phreesia carries substantial stock-based dilution, exposure to pharmaceutical marketing budgets, a patient financing and securitization business with off-balance-sheet guarantees, and pending securities litigation, and its shares fell 53.5% over the past year. Investors can lose part or all of their invested capital.
 
-Framework: SF-07 Software and technology, hybrid healthcare IT platform. Economic class: Standard. Engine: EV to EBITDA after stock compensation with a ten-year owner cash flow cross-check. Confidence: C/13. Data status: PASS. Adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: EV to EBITDA after stock compensation with a ten-year owner cash flow cross-check. Confidence: C/13. Data checks: passed with warnings.

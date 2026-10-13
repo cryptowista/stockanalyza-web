@@ -4,16 +4,17 @@
 
 DIN, NYSE. Published September 24, 2026. Price as of the September 23, 2026 regular session close.
 
-## Verdict: HOLD at $28.68 (watchlist for new money)
+## Verdict: HOLD at $28.68
 
 Watchlist for new money. Once stock compensation is counted as a cost, the price almost exactly matches the Base value. Debt makes the equity extremely sensitive, so a 50% margin of safety is required, which puts the buy zone at $14.77 or below.
 
 - Bear value: $8.33
-- Base value: $29.54 (upside 3.0%)
+- Base value: $29.54
 - Bull value: $52.57
-- Expected value (30/50/20 weighting): about $27.78
-- Required margin of safety: 50%
+- Upside to base value: 3.0%
 - Maximum buy price: $14.77
+- Required margin of safety: 50%
+- Probability-weighted value: $27.78 (30/50/20)
 - EV to EBITDA after stock compensation: 7.0x, exactly the Base multiple
 - Dividend yield: 2.65%
 - Business quality: 48/100
@@ -24,7 +25,7 @@ Dine Brands owns Applebee's, IHOP and Fuzzy's Taco Shop, nearly 3,500 mostly fra
 
 At $28.68 on September 23, 2026, the shares trade 3.0% below my triangulated Base value of $29.54. The Bear value of $8.33 is 71% below the price, and the required margin of safety of 50% puts the maximum buy price at $14.77. The shares have fallen about 20% since early August, but the price now sits at fair value, not below it. For existing holders this is a hold. For new money it is a watchlist name.
 
-Route: SF-11 Retail and Consumer, restaurant chains, franchised full-service platform with growing company-owned exposure. Economic classification: Standard Company (4/12). Primary method: EV to adjusted EBITDA after stock compensation. Secondary method: normalized owner earnings after stock compensation. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Retail and Consumer, restaurant chains, franchised full-service platform with growing company-owned exposure. Economic classification: Standard Company (4/12). Primary method: EV to adjusted EBITDA after stock compensation. Secondary method: normalized owner earnings after stock compensation. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Dine Brands is
 
@@ -225,7 +226,7 @@ The next review point is Q3 2026 results, expected in early November 2026.
 2. Debt service coverage moving toward cash-trapping thresholds.
 3. Cash conversion failing to normalize while debt and buybacks stay high.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft put the Base at $36.84, an upside of 28.5%, and the maximum buy price at $18.42. Its arithmetic reconciled, and it had already corrected its own headline probability-weighted value from $28.60 to $34.32. But it capitalized company-adjusted EBITDA, which adds back $13.2 million of stock compensation, and owner earnings that also ignored it. Stock compensation is a real cost, and the framework values the hardest honest metric. Deducting it moved the Base to $29.54. The draft also valued Bear and Bull with EBITDA only. They now use both methods with the same weights as Base. The verdict is unchanged, but the stock moves from undervalued to fairly valued.
 
@@ -239,7 +240,7 @@ The strongest counter-argument is that the market over-penalizes temporary first
 | EV to EBITDA 7.5x / 6.5x | $34.98 / $24.10 |
 | Net debt $100 million lower | $34.67 |
 
-Even the most generous test keeps the buy price at or below $18.42, far below today's price. The publication gate status is PASS\_WITH\_WARNING: normalized owner earnings and lease presentation across data providers remain uncertain.
+Even the most generous test keeps the buy price at or below $18.42, far below today's price. Main data limit: normalized owner earnings and lease presentation across data providers remain uncertain.
 
 ## Final verdict: hold at $28.68, watchlist for new money
 
@@ -263,4 +264,4 @@ The reference market price is $28.68, the regular session close on September 23,
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Dine Brands is highly leveraged, and its common equity could lose most of its value in an adverse scenario. Investors can lose part or all of their invested capital.
 
-Framework: SF-11, leveraged franchise restaurant platform. Economic class: Standard Company. Engine: STANDARD, EV to hard EBITDA with owner earnings cross-check. Confidence: C/16. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: EV to hard EBITDA with owner earnings cross-check. Confidence: C/16. Data checks: passed with warnings.

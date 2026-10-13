@@ -26,7 +26,7 @@ MarketWise publishes financial research, analysis and software for self-directed
 
 At $20.08 on September 28, 2026, the shares trade 18.1% below my triangulated Base value of $24.50, an upside of 22.0%. The Bear value of $14.00 is 30.3% below the price and the Bull value of $32.00 is 59.4% above it. The framework's required margin of safety for a Confidence B score with this much governance and structural complexity is 35%, which puts the maximum buy price at $15.93. The shares would need to fall about 20.7% to get there. Until then this is a hold: the operating recovery is real and the balance sheet is clean, but the stock has already re-rated a good part of the way there.
 
-Route: SF-01 Standard Value, asset-light digital subscription platform. Economic classification: Quality Growth / recovery, though treated as Standard given inconsistent long-term per-share history (9/12). Primary metric: normalized owner free cash flow across total Class A plus Class B economic shares, not GAAP earnings or billings alone. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Standard Value, asset-light digital subscription platform. Economic classification: Quality Growth / recovery, though treated as Standard given inconsistent long-term per-share history (9/12). Primary metric: normalized owner free cash flow across total Class A plus Class B economic shares, not GAAP earnings or billings alone. Values are present fair-value estimates, not 12-month price targets.
 
 ## What MarketWise is, and how it's owned
 
@@ -208,7 +208,7 @@ Review with the third-quarter report, expected around early November, which shou
 2. Full-year CFFO falling and staying below roughly $40 million.
 3. Net revenue retention dropping below 80%, signaling the higher-ARPU cohort isn't sticking.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's core arithmetic reconciled cleanly, and its share-count and cash figures matched the company's own 10-Q filings closely. Checking it against the second-quarter 10-Q and 8-K found one significant fact missing entirely, not an error in the numbers already there.
 
@@ -232,7 +232,7 @@ The strongest counter-thesis, for the bulls: a debt-free company converting bill
 | Price / Base normalized FCF | 6.0x |
 | Price implies FCF of (at 7.5x) | ~$42M, below the $52M Base and the $50M FY2026 CFFO target |
 
-Audit flags: the Bear, Base and Bull normalized FCF figures are analytical estimates built around management's FY2026 CFFO guidance, not guidance in their own right. The total economic share count (15,653,682) is confirmed directly from the company's 10-Q equity table. No unresolved arithmetic error remains. The publication gate status is PASS WITH WARNING.
+Audit flags: the Bear, Base and Bull normalized FCF figures are analytical estimates built around management's FY2026 CFFO guidance, not guidance in their own right. The total economic share count (15,653,682) is confirmed directly from the company's 10-Q equity table. No unresolved arithmetic error remains.
 
 ## Final verdict: hold at $20.08, watchlist for new money below $15.93
 
@@ -254,4 +254,4 @@ The reference market price is $20.08, described as the September 28, 2026 close.
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. MarketWise operates a controlled Up-C structure with concentrated insider voting power, depends on marketing efficiency and financial-market engagement to sustain subscriber growth, and has recently settled a leadership-related legal dispute. Investors can lose part or all of their invested capital.
 
-Framework: SF-01 Standard Value, asset-light digital subscription platform. Economic class: Quality Growth / recovery, treated as Standard. Engine: STANDARD. Confidence: B/18. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Confidence: B/18. Data checks: passed with warnings.

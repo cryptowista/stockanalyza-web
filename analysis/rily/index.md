@@ -4,16 +4,17 @@
 
 RILY, NASDAQ. Formerly B. Riley Financial. Published September 24, 2026. Price as of the September 23, 2026 close.
 
-## Verdict: HOLD at $5.76 (watchlist for new money)
+## Verdict: HOLD at $5.76
 
 Watchlist for new money. The shares trade 38% below the Base value, but common equity sits behind $1.28 billion of debt and preferred stock, and the share count rose 31% this year. That calls for a 50% margin of safety, which puts the buy zone at $4.62 or below.
 
 - Bear value: $2.45
-- Base value: $9.24 (upside 60.4%)
+- Base value: $9.24
 - Bull value: $14.60
-- Expected value (35/45/20 weighting): about $7.93
-- Required margin of safety: 50%
+- Upside to base value: 60.4%
 - Maximum buy price: $4.62
+- Required margin of safety: 50%
+- Probability-weighted value: $7.93 (35/45/20)
 - Operating EBITDA implied by the price: about $147 million (Base $185 million)
 - Dividend: none to underwrite
 - Business quality: 39/100
@@ -24,7 +25,7 @@ Screeners show BRC Group Holdings, the former B. Riley Financial, at a P/E of 0.
 
 At $5.76 on September 23, 2026, the shares trade 37.7% below my triangulated Base value of $9.24, an upside of 60.4%. The Bear value of $2.45 is 57.5% below the price, and the required margin of safety of 50% puts the maximum buy price at $4.62. For existing holders this is a hold. For new money it is a watchlist name.
 
-Route: SF-14 Holding companies and conglomerates, a leveraged diversified financial services holding company in a special situation. Economic classification: Standard Company (4/12). Primary method: sum of the parts, operating EBITDA at a multiple less net debt and preferred stock, with a holding company discount. Secondary method: normalized common earnings. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Holding companies and conglomerates, a leveraged diversified financial services holding company in a special situation. Economic classification: Standard Company (4/12). Primary method: sum of the parts, operating EBITDA at a multiple less net debt and preferred stock, with a holding company discount. Secondary method: normalized common earnings. Values are present fair-value estimates, not 12-month price targets.
 
 ## What BRC Group is
 
@@ -222,7 +223,7 @@ Review at each quarterly report, material financing, asset sale, legal or regula
 2. A major investment impairment.
 3. More than 10% additional dilution.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's Base bridge reconciled, but three things were corrected. Its sensitivity table did not follow its own bridge: at 4x and 6x most cells were off by $0.40 to $0.70 per share. It rounded the weighted Base of $9.14 up to the higher primary value of $9.20, which the framework does not allow, and its secondary value of $9.00 had no stated inputs; at the midpoints of its own ranges it is $9.33. Finally, its Bear and Bull values of $2.70 and $15.10 were not derived from either method. They are now built from both, and the Bear case adds a 10% investment impairment, because investment marks are one of the main risks. The Base moved from $9.20 to $9.24, the Bear from $2.70 to $2.45, the Bull from $15.10 to $14.60 and the buy price from $4.60 to $4.62. The verdict is unchanged.
 
@@ -236,7 +237,7 @@ The strongest counter-argument is that the Q2 operating result may be a cyclical
 | Multiple 4.5x | $8.08 |
 | Operating EBITDA $160 million | $7.67 |
 
-Every single test keeps the Base above the price, but combinations of lower EBITDA and a lower multiple can push value below it. The thesis is not robust enough for a higher confidence grade. The publication gate status is PASS\_WITH\_WARNING.
+Every single test keeps the Base above the price, but combinations of lower EBITDA and a lower multiple can push value below it. The thesis is not robust enough for a higher confidence grade.
 
 ## Final verdict: hold at $5.76, watchlist for new money
 
@@ -260,4 +261,4 @@ The reference market price is $5.76, the September 23, 2026 close. Balance sheet
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. BRC Group Holdings is highly leveraged and exposed to investment, refinancing, dilution, governance and regulatory risks, and its common equity could lose most of its value. Investors can lose part or all of their invested capital.
 
-Framework: SF-14, leveraged diversified holding company. Economic class: Standard Company. Engine: STANDARD sum of the parts with normalized earnings cross-check. Confidence: C/14. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Sum of the parts with normalized earnings cross-check. Confidence: C/14. Data checks: passed with warnings.

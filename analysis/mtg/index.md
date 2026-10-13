@@ -25,7 +25,7 @@ MGIC insures lenders against losses on low-down-payment residential mortgages th
 
 At $28.48 on September 25, 2026, the shares trade 3.5% below my triangulated Base value of $29.50, an upside of 3.6%. The Bear value of $22 is 22.8% below the price. For a mortgage-credit insurer, the framework's required margin of safety is 25%, which puts the maximum buy price at $22.13. The shares sit about 29% above that level. Existing holders are collecting a covered dividend and ongoing buybacks; new money doesn't yet get a discount.
 
-Route: SF-03 Insurance, U.S. private mortgage guaranty subtype. Economic classification: Quality financial company / standard insurer valuation (5/6 on the sector scorecard). Primary method: justified price to book value. Secondary method: normalized price to earnings. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Insurance, U.S. private mortgage guaranty subtype. Economic classification: Quality financial company / standard insurer valuation (5/6 on the sector scorecard). Primary method: justified price to book value. Secondary method: normalized price to earnings. Values are present fair-value estimates, not 12-month price targets.
 
 ## What MGIC is
 
@@ -205,7 +205,7 @@ Review after every quarterly filing and immediately after any material PMIERs, r
 2. Book value declining rather than compounding.
 3. PMIERs capital headroom shrinking toward the eligibility threshold.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's arithmetic mostly reconciled: the price to book and price to earnings multiples, the justified base values, and the triangulation all check out. One number was wrong. The probability-weighted scenario value was stated as $28.33, but the draft's own scenarios and probabilities ($22 × 25% + $29.50 × 55% + $36 × 20%) actually sum to $28.93. The corrected figure is used throughout this article; it doesn't change the conclusion, since it's still close to, and now slightly above, the current price.
 
@@ -220,7 +220,7 @@ The strongest counter-thesis is that current earnings may be closer to a cyclica
 | Normalized P/E base | $29.25 |
 | Corrected probability-weighted value | $28.93 |
 
-Audit limitations: the historical price-to-book median comes from a secondary data provider rather than a fully synchronized primary dataset, and exact Q2 debt carrying value, full-period guidance and multi-year industry claims scenarios weren't independently reconstructed. These are disclosed limits that don't change the Hold conclusion, but they keep the confidence grade at C rather than A or B. The publication gate status is PASS\_WITH\_WARNING.
+Audit limitations: the historical price-to-book median comes from a secondary data provider rather than a fully synchronized primary dataset, and exact Q2 debt carrying value, full-period guidance and multi-year industry claims scenarios weren't independently reconstructed. These are disclosed limits that don't change the Hold conclusion, but they keep the confidence grade at C rather than A or B.
 
 ## Final verdict: hold at $28.48, watchlist for a better entry
 
@@ -242,4 +242,4 @@ The reference market price is $28.48, the September 25, 2026 close. Balance shee
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. MGIC is a mortgage-credit insurer exposed to U.S. housing and employment cycles, and its book value and earnings can decline sharply in a severe downturn. Investors can lose part or all of their invested capital.
 
-Framework: SF-03, U.S. private mortgage guaranty insurer. Economic class: Quality financial company / standard insurer valuation. Engine: justified P/BV plus normalized P/E. Confidence: C/17. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Justified P/BV plus normalized P/E. Confidence: C/17. Data checks: passed with warnings.

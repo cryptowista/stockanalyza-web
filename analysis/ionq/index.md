@@ -243,7 +243,7 @@ The next review point is the third-quarter 2026 report, expected around November
 2. Organic growth guidance is cut, or revenue growth after SkyWater is mostly the foundry's.
 3. IonQ raises equity again, or the share count passes 460 million before cash burn has fallen.
 
-## Adversarial review
+## Stress test and independent check
 
 I rebuilt the key figures from IonQ's [second-quarter 2026 results release](https://www.sec.gov/Archives/edgar/data/0001824920/000119312526335040/ionq-ex99_1.htm) (revenue, costs, operating loss, net loss, adjusted EBITDA, stock pay, cash flow) and the [quarterly filing](https://www.sec.gov/Archives/edgar/data/0001824920/000119312526341001/ionq-20260630.htm) (balance sheet, warrant liability, share count on the cover). The gross margin is my calculation: revenue less the cost of revenue shown excluding depreciation. Net cash after SkyWater is my estimate, from the June 30 balance and the deal's disclosed cash cost. The price is the October 9 close from the history page of the quote source. The Elisity terms come from press reports of the October 12 announcement, not from a filing.
 

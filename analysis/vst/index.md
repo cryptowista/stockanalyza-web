@@ -26,7 +26,7 @@ Vistra is one of the largest competitive power generators in the country and als
 
 At $138.02 on September 28, 2026, the shares trade 4.1% below my triangulated Base value of $143.95, an upside of 4.3%. The Bear value of $96.77 is 29.9% below the price and the Bull value of $193.53 is 40.2% above it. The framework's required margin of safety for a Confidence B score with this much leverage and merchant exposure is 30%, which puts the maximum buy price at $100.76. The shares would need to fall about 27% to get there. Until then this is a hold: a good business at roughly a fair price.
 
-Route: SF-01 Energy producer, stable free cash flow (integrated competitive power generation and retail). Economic classification: Quality Growth (9/12). Primary method: normalized adjusted free cash flow before growth (FCFbG) per share. Secondary method: EV/EBITDA. Values are present fair-value estimates, not 12-month price targets. All figures exclude the pending Cogentrix acquisition, in line with company guidance.
+Valuation route: Energy producer, stable free cash flow (integrated competitive power generation and retail). Economic classification: Quality Growth (9/12). Primary method: normalized adjusted free cash flow before growth (FCFbG) per share. Secondary method: EV/EBITDA. Values are present fair-value estimates, not 12-month price targets. All figures exclude the pending Cogentrix acquisition, in line with company guidance.
 
 ## What Vistra is now
 
@@ -231,7 +231,7 @@ Net leverage is 2.8x on the 2026 midpoint, which is green, but only just, and Co
 2. Leverage above 3.5x without a credible path to deleveraging.
 3. A major nuclear contract impairment or cancellation.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's arithmetic on FCFbG per share, the guidance figures, the second-quarter results, the contract terms, the buyback and share count data and the CEO purchase all checked out against Vistra's filings and press releases. Several things did not, and correcting them lowered the Base value from $158 to $143.95.
 
@@ -270,4 +270,4 @@ The reference market price is $138.02, the September 28, 2026 close from StockAn
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Vistra is exposed to wholesale power and capacity prices, hedge roll-off, leverage, acquisition integration and nuclear operating and regulatory risk. Investors can lose part or all of their invested capital.
 
-Framework: SF-01 Energy producer, stable free cash flow. Economic class: Quality Growth. Engine: Growth-Adjusted Multiple. Confidence: B/20. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Growth-Adjusted Multiple. Confidence: B/20. Data checks: passed with warnings.

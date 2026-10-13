@@ -26,7 +26,7 @@ Brown & Brown has fallen from $96.13 to $62.88 in a year, and the reason is on t
 
 At the October 9, 2026 close of $62.88, the shares trade 11.1% below my triangulated Base value of $70.70. The Bear value is $45.52 and the Bull value is $96.06. That is inside the band where I call a stock fairly valued. The required margin of safety (MOS), the discount to fair value I need before buying, is 50%, so the maximum buy price is **$35.35**, 44% below the price.
 
-Route: SF-01 standard value. SF-03 (insurance) does not apply: Brown & Brown earns commissions and fees and does not underwrite risk. Economic classification: Quality Growth, 5/12 on the sector scorecard. That is exactly the 5-point line between Standard and Quality Growth, and a 4 would have made it Standard. Engine: GROWTH\_ADJUSTED\_MULTIPLE, with an explicit multiple build. Primary method: normalized owner free cash flow times a multiple. Secondary method: a six-year DCF at 10%. Values are present fair-value estimates, not 12-month price targets. Owner free cash flow here is cash after interest, cash taxes, capex, integration cost and stock pay.
+Valuation route: standard value. The insurance method does not apply: Brown & Brown earns commissions and fees and does not underwrite risk. Economic classification: Quality Growth, 5/12 on the sector scorecard. That is exactly the 5-point line between Standard and Quality Growth, and a 4 would have made it Standard. Method: growth-adjusted multiple, with an explicit multiple build. Primary method: normalized owner free cash flow times a multiple. Secondary method: a six-year DCF at 10%. Values are present fair-value estimates, not 12-month price targets. Owner free cash flow here is cash after interest, cash taxes, capex, integration cost and stock pay.
 
 ## What Brown & Brown is
 
@@ -100,7 +100,7 @@ Brown & Brown is a Quality Growth company under the framework by one point, so t
 
 | Multiple build (P/FCF on owner cash flow) | Bear | Base | Bull |
 | --- | --- | --- | --- |
-| Sector base: average stable (SF-01, debt/EBITDA 1.5x to 3x) | 11.0x | 11.0x | 11.0x |
+| Sector base: average stable (debt/EBITDA 1.5x to 3x) | 11.0x | 11.0x | 11.0x |
 | Growth premium (FCF per unit growth) | +0.0x | +1.0x | +2.5x |
 | Return on capital premium (ROIC about 9.5%) | +0.5x | +1.5x | +2.0x |
 | Balance sheet premium | +0.0x | +0.0x | +0.5x |
@@ -154,9 +154,9 @@ The secondary Base value is **$77.99**. Nearly three quarters of the DCF is term
 
 **Valuation history.** The enterprise value is 11.5 times my 2026E adjusted EBITDAC, and the share price is 14.8 times trailing free cash flow, according to stockanalysis.com. Brown & Brown has traded much higher in past years (ESTIMATED from public data, not verified here), so today's price is low against its own history, but that history belonged to a company growing organically at high single digits.
 
-**PEG (SM-19, diagnostic only).** Reported diluted EPS for the first half was $1.90 against $1.93 a year ago, and adjusted EPS grew 6.0%. Growth is acquisition-driven and the share count changed by 17%, so PEG would be misleading. Flag: ACQUISITION\_AFFECTED, with PEG\_NOT\_MEANINGFUL.
+**PEG (diagnostic only).** Reported diluted EPS for the first half was $1.90 against $1.93 a year ago, and adjusted EPS grew 6.0%. Growth is acquisition-driven and the share count changed by 17%, so PEG would be misleading. Flag: ACQUISITION\_AFFECTED, with PEG\_NOT\_MEANINGFUL.
 
-**Free cash flow growth quality (SM-20, diagnostic only).** Free cash flow rose from $764 million in 2021 to $1,382 million in 2025 and was $1,446 million for the twelve months to June 2026, but 2025 includes $7.9 billion of acquisitions and a 17% larger share count. Per share, free cash flow grew about 11.7% a year over four years (CALCULATED from the 2025 net income and EPS share count). Forward, my Base owner cash flow compounds at 6.8% a year from 2026E to 2031E, from $1.42 billion to $1.98 billion. Forward owner cash flow yield on market value is 6.7% for 2026E and 7.3% for 2027E. Flags: M\_AND\_A\_DISTORTION, ACCOUNTING\_CASHFLOW\_MISMATCH (operating cash flow includes changes tied to fiduciary balances I cannot separate). Forecast reliability: MEDIUM. Stress test: 2028E owner cash flow 20% lower gives a primary value of $51.79, and 40% lower gives $40.16.
+**Free cash flow growth quality (diagnostic only).** Free cash flow rose from $764 million in 2021 to $1,382 million in 2025 and was $1,446 million for the twelve months to June 2026, but 2025 includes $7.9 billion of acquisitions and a 17% larger share count. Per share, free cash flow grew about 11.7% a year over four years (CALCULATED from the 2025 net income and EPS share count). Forward, my Base owner cash flow compounds at 6.8% a year from 2026E to 2031E, from $1.42 billion to $1.98 billion. Forward owner cash flow yield on market value is 6.7% for 2026E and 7.3% for 2027E. Flags: M\_AND\_A\_DISTORTION, ACCOUNTING\_CASHFLOW\_MISMATCH (operating cash flow includes changes tied to fiduciary balances I cannot separate). Forecast reliability: MEDIUM. Stress test: 2028E owner cash flow 20% lower gives a primary value of $51.79, and 40% lower gives $40.16.
 
 ## Valuation triangulation
 
@@ -313,7 +313,7 @@ Next review: the third quarter report, expected around late October 2026 (date n
 2. The adjusted EBITDAC margin falls below 34%, because Base holds it near 36%.
 3. Large unrecorded earn-outs or a further debt-funded deal push net debt above 3 times EBITDAC.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed every table from the listed inputs and the arithmetic reconciles. Revenue, EBITDAC, interest, debt and cash for 2026 come from the second quarter release, and free cash flow history comes from the cash flow statements. The Base paths, the tax rate, the multiples and the dilutive shares are my estimates. The strongest bullish counter-thesis is that Brown & Brown trades at a trough multiple because of a temporary property-rate cycle, and that history says organic growth returns to 6% or more once rates stabilize. If that happens the Bull value of $96.06 is reasonable. The strongest bearish counter-thesis is that the 2025 growth was bought, the integration is hiding weaker underlying economics and earn-outs are bigger than disclosed.
 
@@ -327,7 +327,7 @@ I recomputed every table from the listed inputs and the arithmetic reconciles. R
 | Unrecorded earn-out liabilities of $0.5 billion | about -$1.48 a unit |
 | Operating leases of $307M counted as debt | about -$0.91 a unit |
 
-The choices that lean generous are a recovery to 4% organic growth, a 36.5% margin and no further acquisition cost. The ones that lean conservative are deducting stock pay, excluding earn-out gains and escrow gains and using the larger share count. I did not tune any of them toward a verdict. Publication gate: PASS\_WITH\_WARNING, because earn-out liabilities are unavailable and the methods are 20.6% apart.
+The choices that lean generous are a recovery to 4% organic growth, a 36.5% margin and no further acquisition cost. The ones that lean conservative are deducting stock pay, excluding earn-out gains and escrow gains and using the larger share count. I did not tune any of them toward a verdict. Treat the result as conditional, because earn-out liabilities are unavailable and the methods are 20.6% apart.
 
 **Not available or estimated.** Unavailable: earn-out liabilities, Accession's standalone figures, 2026 guidance, a verified peer table, the full annual report. Estimated: dilutive awards, the tax rate, the forward path, the multiples, the discount rate, the historical multiples.
 
@@ -349,4 +349,4 @@ The reference market price is the October 9, 2026 close of $62.88. Balance sheet
 
 **Disclaimer.** This analysis is a structured fundamental research output, not personalized investment advice. It is provided solely for research and educational purposes and is not financial, legal or tax advice. Brown & Brown carries $7.8 billion of debt after a large acquisition, and its organic growth has stalled. Its shares can lose value, and investors can lose part or all of their invested capital.
 
-Framework: SF-01 standard value. Economic class: Quality Growth (5/12, at the boundary). Engine: GROWTH\_ADJUSTED\_MULTIPLE with a DCF secondary. Confidence: C/16. Data status: PASS\_WITH\_WARNING. Adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: Growth adjusted multiple with a DCF secondary. Confidence: C/16. Data checks: passed with warnings.

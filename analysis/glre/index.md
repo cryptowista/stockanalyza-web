@@ -25,7 +25,7 @@ Greenlight Re lost $29.6 million in the second quarter, and underwriting had alm
 
 At the October 8, 2026 close of $14.97 the shares trade at 0.73 times fully diluted book value of $20.61 and 0.8% below my triangulated Base value of $15.09. The Bear value is $6.78, a 54.7% drop. The required margin of safety (MOS) is 45%, so the maximum buy price is **$8.30**, which is 44.5% below today's price. The discount to book is genuine. It is also close to what a company earning 9% on equity should trade at when equity costs 12%.
 
-Route: SF-03 Insurance. Subtype: property and casualty reinsurance. Economic classification: Standard (3/12). Primary method: justified price to book value, derived from sustainable return on equity (ROE), cost of equity and long-run growth. Secondary method: a bottom-up bridge to normalized annual earnings, capitalized at 9 times. Values are present fair value estimates, not 12 month price targets.
+Valuation route: Insurance. Subtype: property and casualty reinsurance. Economic classification: Standard (3/12). Primary method: justified price to book value, derived from sustainable return on equity (ROE), cost of equity and long-run growth. Secondary method: a bottom-up bridge to normalized annual earnings, capitalized at 9 times. Values are present fair value estimates, not 12 month price targets.
 
 ## What Greenlight Re is
 
@@ -135,7 +135,7 @@ A proper five-year distribution of price to book is not available to me, so I us
 
 A persistent discount to book has precedent here, and the Base multiple of 0.70x sits inside the observed range. Trailing twelve month net income through June is $51.0 million, which against the current diluted share count is about $1.51 a share and a trailing multiple near 9.9x. Screens show 10.1x on weighted average shares. Against my normalized earnings the market is paying 8.1x.
 
-The growth cross-check (SM-19) does not produce a usable PEG ratio: credible synchronized forward earnings estimates with a visible sample size were not available to me, and the cyclical distortion flag is **on**. The 75% jump in 2025 earnings came off a weak 2024, and the first half of 2026 went the other way. A low trailing multiple next to a big trailing growth rate describes a rebound, not a growth company. The free cash flow quality check (SM-20) does not apply to an insurer: operating cash flow is premiums received before claims are paid, so the book value and earnings equivalents above take its place. Book value per share grew 8.77% a year over five years and the current normalized earnings yield is 12.4%. Reliability of forward growth: low. Neither diagnostic sets the Base, the margin of safety or the verdict.
+The growth cross-check does not produce a usable PEG ratio: credible synchronized forward earnings estimates with a visible sample size were not available to me, and the cyclical distortion flag is **on**. The 75% jump in 2025 earnings came off a weak 2024, and the first half of 2026 went the other way. A low trailing multiple next to a big trailing growth rate describes a rebound, not a growth company. The free cash flow quality check does not apply to an insurer: operating cash flow is premiums received before claims are paid, so the book value and earnings equivalents above take its place. Book value per share grew 8.77% a year over five years and the current normalized earnings yield is 12.4%. Reliability of forward growth: low. Neither diagnostic sets the Base, the margin of safety or the verdict.
 
 ## Valuation triangulation
 
@@ -279,7 +279,7 @@ Today the readings are mixed. The rolling combined ratio is yellow at 98.1% for 
 2. Reserves develop adversely by more than 3% of the opening net balance, which would reprice both the earnings and the book.
 3. A loss year in Solasglas coincides with a catastrophe year, draining capital and the statutory buffers at the same time.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed every figure in this article in a separate model and checked the inputs against the second quarter release, the Form 10-Q for the quarter ended June 30, 2026, the 2025 annual release and the closing price. The first draft carried three issues that changed the output.
 
@@ -310,7 +310,7 @@ The strongest counter-thesis, for the bears: a below-book price can still be too
 | Share count 2% higher, no proceeds | $14.80 |
 | August bridge: $3.9 million of buybacks, 33.614 million shares | $15.13 |
 
-Only a 10% cost of equity or a sustainable return above 10% produces meaningful upside, and none of the nine checks brings the price inside the buy zone. Audit flags: the 2021 to 2023 combined ratio and book value series comes from the company's investor presentation and I verified only the 2024 and 2025 figures against the annual release. The modelled probable maximum loss, the interest rate sensitivity and the management fee rate change are company disclosures in the quarterly filing that I did not re-derive. Monthly Solasglas returns after June could not be retrieved from the investor relations page, so no post-June book value update is implied anywhere in this article. Arithmetic: $697.682 million divided by 33.854189 million shares is $20.6084; $14.97 divided by $20.61 is 0.7263; 0.7 times $14.427 plus 0.3 times $16.6505 is $15.0940; $15.0940 times 0.55 is $8.30. The publication gate status is PASS WITH WARNING: the balance sheet and share count reconcile, and the value rests on an estimated sustainable return, an estimated fund return and an estimated required return.
+Only a 10% cost of equity or a sustainable return above 10% produces meaningful upside, and none of the nine checks brings the price inside the buy zone. Audit flags: the 2021 to 2023 combined ratio and book value series comes from the company's investor presentation and I verified only the 2024 and 2025 figures against the annual release. The modelled probable maximum loss, the interest rate sensitivity and the management fee rate change are company disclosures in the quarterly filing that I did not re-derive. Monthly Solasglas returns after June could not be retrieved from the investor relations page, so no post-June book value update is implied anywhere in this article. Arithmetic: $697.682 million divided by 33.854189 million shares is $20.6084; $14.97 divided by $20.61 is 0.7263; 0.7 times $14.427 plus 0.3 times $16.6505 is $15.0940; $15.0940 times 0.55 is $8.30. Main data limit: the balance sheet and share count reconcile, and the value rests on an estimated sustainable return, an estimated fund return and an estimated required return.
 
 ## Final verdict: hold at $14.97
 
@@ -332,4 +332,4 @@ The reference market price is the October 8, 2026 regular session close of $14.9
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Greenlight Capital Re is a small reinsurer exposed to catastrophe losses, reserve development and the results of a concentrated, externally managed investment strategy, and its reported earnings and book value can move sharply in a single quarter. Investors can lose part or all of their invested capital.
 
-Framework: SF-03 Insurance, property and casualty reinsurance. Economic class: Standard. Engine: justified price to book with a normalized earnings cross-check. Confidence: C/15. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: Justified price to book with a normalized earnings cross-check. Confidence: C/15. Data checks: passed with warnings.

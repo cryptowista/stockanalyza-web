@@ -26,7 +26,7 @@ Vitesse Energy doesn't drill its own wells. It buys small stakes in wells operat
 
 At $16.75 on September 28, 2026, the shares trade 22.1% below my triangulated Base value of $21.50, an upside of 28.4%. The Bear value of $12.38 is 26.1% below the price and the Bull value of $29.39 is 75.4% above it. The framework's required margin of safety for a Confidence B score with this much commodity and operator dependence is 35%, which puts the maximum buy price at $13.98. The shares would need to fall about 16.6% to get there. Until then this is a hold: the yield is real and the balance sheet is clean, but the price hasn't yet built in enough cushion for an oil producer whose dividend consumes essentially all of its normalized cash flow.
 
-Route: SF-01 Standard Value, non-operated U.S. oil and gas E&P, with reserve NAV as an independent cross-check. Economic classification: Standard, commodity-sensitive producer (7/12). Primary method: price to normalized owner free cash flow after development capital. Secondary method: reserve net asset value (SEC PV-10 based). Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Standard Value, non-operated U.S. oil and gas E&P, with reserve NAV as an independent cross-check. Economic classification: Standard, commodity-sensitive producer (7/12). Primary method: price to normalized owner free cash flow after development capital. Secondary method: reserve net asset value (SEC PV-10 based). Values are present fair-value estimates, not 12-month price targets.
 
 ## What Vitesse is
 
@@ -216,7 +216,7 @@ Review with the third-quarter report, expected around early November, which shou
 2. Net debt to Adjusted EBITDA sustained above 1.5x.
 3. Reserve replacement persistently below production for more than a year or two.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's core arithmetic mostly reconciled, and its reported operating figures matched Vitesse's own filings closely. But checking it against the second-quarter earnings release and the 2025 10-K found two things worth correcting.
 
@@ -243,7 +243,7 @@ The strongest counter-thesis, for the bulls: hedging locks in returns on a large
 | Price / Base free cash flow | 9.4x |
 | Price implies FCF of (at 12x) | $1.40/share, between Bear and Base |
 
-Audit flags: the Base, Bear and Bull free-cash-flow figures are analytical estimates for a normalized year, not company guidance; the NAV range builds on a real, engineer-certified PV-10 but the adjustments for 2026 acquisitions and commodity sensitivity are my own. No unresolved arithmetic error remains. The publication gate status is PASS WITH WARNING.
+Audit flags: the Base, Bear and Bull free-cash-flow figures are analytical estimates for a normalized year, not company guidance; the NAV range builds on a real, engineer-certified PV-10 but the adjustments for 2026 acquisitions and commodity sensitivity are my own. No unresolved arithmetic error remains.
 
 ## Final verdict: hold at $16.75, watchlist for new money below $13.98
 
@@ -265,4 +265,4 @@ The reference market price is $16.75, the September 28, 2026 close. Balance shee
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Vitesse Energy is exposed to volatile commodity prices, depends on third-party operators for drilling decisions, and pays a dividend that consumes nearly all of its normalized free cash flow. Investors can lose part or all of their invested capital.
 
-Framework: SF-01 Standard Value with a reserve-NAV commodity cross-check. Economic class: Standard, commodity-sensitive producer. Engine: STANDARD. Confidence: B/18. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Confidence: B/18. Data checks: passed with warnings.

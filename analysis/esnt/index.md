@@ -26,7 +26,7 @@ Essent sells private mortgage insurance, and it has done three things at once: e
 
 My triangulated Base value is $75.40, which is 24.6% above the price. The Bear value of $53.30 is 11.9% below it and the Bull value of $95.90 is 58.5% above it. For a Confidence B score the framework requires a 25% margin of safety, which puts the maximum buy price at $56.55. The shares would have to fall about 11.3% to get there. Until then this is a hold: a good business priced well below my Base value, but not yet inside the margin of safety that pays for being wrong about the credit cycle.
 
-Route: SF-03 Insurance, U.S. private mortgage insurance with a reinsurance segment. Economic classification: Quality Growth (8/12). Primary method: justified price to book value (residual income logic). Secondary method: normalized price to earnings. Values are present fair value estimates, not 12 month price targets.
+Valuation route: Insurance, U.S. private mortgage insurance with a reinsurance segment. Economic classification: Quality Growth (8/12). Primary method: justified price to book value (residual income logic). Secondary method: normalized price to earnings. Values are present fair value estimates, not 12 month price targets.
 
 ## What Essent does and why book value is the number to watch
 
@@ -227,7 +227,7 @@ Today's readings are green on every line: 13.4% return on equity, 12.9% growth, 
 2. A change in PMIERs, GSE policy or housing finance that raises capital requirements or lowers premium economics.
 3. Losses in the reinsurance segment that show its returns do not cover its tail risk.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's arithmetic for the two valuation methods was correct: $63.01 x 1.20 = $75.61 and $7.50 x 10 = $75.00, within 1% of each other. The corrections came in the step after that, where the results were rounded in different directions, and in the price.
 
@@ -255,7 +255,7 @@ The strongest counter-thesis for the bulls: a mortgage insurer earning 13% on eq
 | Implied sustainable ROE at $60.49 | About 10.6%, below the 13.4% reported |
 | Maximum buy price versus the Bear value | $56.55 is 6.1% above $53.30 |
 
-Audit flags: the EPS scenarios, the sustainable return on equity ranges, the 3% growth rate and the 10.9% cost of equity are my estimates, not company guidance. The Base value is sensitive to the multiple: at 1.10x book it drops to $71.30 and the upside to 17.9%, still above the 15% threshold for Undervalued. The reference price is an intraday quote, not a closing price, and it moved 3.97% during the day. The publication gate status is PASS WITH WARNING for that reason.
+Audit flags: the EPS scenarios, the sustainable return on equity ranges, the 3% growth rate and the 10.9% cost of equity are my estimates, not company guidance. The Base value is sensitive to the multiple: at 1.10x book it drops to $71.30 and the upside to 17.9%, still above the 15% threshold for Undervalued. The reference price is an intraday quote, not a closing price, and it moved 3.97% during the day. I treat the result as conditional for that reason.
 
 ## Final verdict: hold at $60.49, watchlist for new money below $56.55
 
@@ -277,4 +277,4 @@ The reference market price is $60.49, the September 30, 2026 intraday quote from
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Essent Group is exposed to U.S. mortgage-credit cycles, GSE and housing-finance policy, and to a fast-growing reinsurance segment with limited history. Investors can lose part or all of their invested capital.
 
-Framework: SF-03 Insurance, U.S. private mortgage insurance with reinsurance segment. Economic class: Quality Growth. Engine: justified P/BV / residual-income sector equivalent. Confidence: B/21. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Justified P/BV / residual-income sector equivalent. Confidence: B/21. Data checks: passed with warnings.

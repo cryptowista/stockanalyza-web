@@ -25,7 +25,7 @@ Snap generated $706 million of free cash flow over the last twelve months, and a
 
 At $5.65 on October 1, 2026, the shares trade 2.3% above my triangulated Base value of $5.52. The Bear value of $3.44 is 39.0% below the price, and the required margin of safety of 45% puts the maximum buy price at $3.04. For existing holders this is a hold. For new money it is a watchlist name.
 
-Route: SF-07 technology growth, with the SF-08 EV to revenue fallback, because free cash flow after stock compensation is negative and Snap is an advertising platform without an annual recurring revenue model. Economic classification: Standard Company (4/12, borderline with Quality Growth at 5). Primary method: EV to 2026 revenue. Secondary method: normalized free cash flow after stock compensation. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: technology growth, with the EV to revenue fallback, because free cash flow after stock compensation is negative and Snap is an advertising platform without an annual recurring revenue model. Economic classification: Standard Company (4/12, borderline with Quality Growth at 5). Primary method: EV to 2026 revenue. Secondary method: normalized free cash flow after stock compensation. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Snap is
 
@@ -102,7 +102,7 @@ That gives $8.6 billion of equity at the end of 2027. Discounted 1.25 years at 1
 
 There is no reliable multiple history to apply, because Snap's growth, cost structure and stock compensation have changed too much since 2021. Over the last 52 weeks the shares traded between $3.81 and $9.13, which brackets my Bear and Bull values. The historical layer gets no weight.
 
-The growth valuation cross-check (SM-19) is not meaningful. On adjusted EPS, the shares trade at 9.3x the $0.61 expected for 2026 and 7.2x the $0.78 for 2027. With 26.5% expected growth in 2027, the forward PEG is about 0.27, which looks extremely cheap. But adjusted EPS excludes stock compensation of about $0.60 a share a year at the first half pace, as much as the entire adjusted EPS. GAAP EPS expected for 2026 is about -$0.06. Growth durability: normalizing and structural. Flags: PEG not meaningful, accounting basis mismatch, cyclical distortion medium (World Cup advertising and a depressed prior year EBITDA base). This diagnostic does not set fair value.
+The growth valuation cross-check is not meaningful. On adjusted EPS, the shares trade at 9.3x the $0.61 expected for 2026 and 7.2x the $0.78 for 2027. With 26.5% expected growth in 2027, the forward PEG is about 0.27, which looks extremely cheap. But adjusted EPS excludes stock compensation of about $0.60 a share a year at the first half pace, as much as the entire adjusted EPS. GAAP EPS expected for 2026 is about -$0.06. Growth durability: normalizing and structural. Flags: PEG not meaningful, accounting basis mismatch, cyclical distortion medium (World Cup advertising and a depressed prior year EBITDA base). This diagnostic does not set fair value.
 
 ## Valuation triangulation
 
@@ -241,7 +241,7 @@ Two of these are red today, which is why the verdict is a hold and not a buy. Th
 2. Weak monetization in high-value markets, such as North America, as the user growth shifts to low-revenue regions.
 3. SPECS or other investment that absorbs cash without adequate returns.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed every figure from the 10-Q, the earnings release and the Q2 prepared remarks. The first draft's company data checked out: revenue, growth, users, adjusted EBITDA, free cash flow, cash, debt, buybacks and the 2026 consensus all match. The valuation and the scores did not hold up in several places.
 
@@ -276,7 +276,7 @@ The strongest counter-argument is that Snap is turning from an unprofitable soci
 | Most generous combination | $8.26 |
 | Most cautious combination | $2.27 |
 
-Single changes keep the Base between $4.52 and $7.03, and the maximum buy price stays between $2.49 and $3.87, below the $5.65 price every time. Stacking all generous or all cautious inputs moves the Base to $8.26 or $2.27, which shows how wide the uncertainty is and is the reason for Confidence C. The publication gate status is PASS\_WITH\_WARNING.
+Single changes keep the Base between $4.52 and $7.03, and the maximum buy price stays between $2.49 and $3.87, below the $5.65 price every time. Stacking all generous or all cautious inputs moves the Base to $8.26 or $2.27, which shows how wide the uncertainty is and is the reason for Confidence C.
 
 ## Final verdict: hold at $5.65, watchlist for new money
 
@@ -300,4 +300,4 @@ The reference market price is $5.65, the October 1, 2026 regular session close. 
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Snap is exposed to advertising demand, competition, stock compensation and dilution, legal and regulatory risk, product investment and valuation risk. Investors can lose part or all of their invested capital.
 
-Framework: SF-07 with SF-08 fallback, advertising and subscription platform. Economic class: Standard Company. Engine: standard, EV to revenue with a normalized free cash flow after stock compensation cross-check. Confidence: C/14. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.2.
+Method: Master Investment Analysis Framework v3.2. Approach: Standard, EV to revenue with a normalized free cash flow after stock compensation cross-check. Confidence: C/14. Data checks: passed with warnings.

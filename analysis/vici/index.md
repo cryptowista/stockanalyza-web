@@ -4,16 +4,17 @@
 
 VICI, NYSE. Published September 23, 2026. Price as of the regular session trade at 10:18 am EDT on September 23, 2026 (intraday, not a close).
 
-## Verdict: HOLD at $23.965 (watchlist for new money)
+## Verdict: HOLD at $23.965
 
 Watchlist for new money. The shares trade 24.4% below the Base value, but two tenants pay about 70% of the rent and development lending is growing, so the required margin of safety is 30%. The buy zone starts at $22.18.
 
 - Bear value: $20.45
-- Base value: $31.69 (upside 32.2%)
+- Base value: $31.69
 - Bull value: $37.72
-- Expected value (30/50/20 weighting): about $29.52
+- Upside to base value: 32.2%
+- Maximum buy price: $22.18
 - Required margin of safety: 30%
-- Maximum buy price: $22.18 (conditional buy zone $19.01 to $22.18)
+- Probability-weighted value: $29.52 (30/50/20)
 - Dividend yield: 7.68%, payout 77.8% of hard AFFO
 - Property cap rate implied by the price: 7.97% (Base 7.00%)
 - Business quality: 67/100
@@ -24,7 +25,7 @@ VICI Properties owns some of the most important casino real estate in the United
 
 At $23.965 on September 23, 2026, the shares trade 24.4% below my triangulated Base value of $31.69, an upside of 32.2%. The required margin of safety is 30%, so the maximum buy price is $22.18, about 7.4% below the price. The distinction that drives the verdict is between being below fair value and being sufficiently below it. For existing holders this is a hold. For new money it is a watchlist name.
 
-Route: SF-04 REITs, experiential triple-net landlord with a real estate credit overlay. Economic classification: Quality Growth (7.2/12, partial score). Primary method: hard AFFO per share times a growth-adjusted multiple. Secondary method: adjusted property NAV with separately valued loans. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: REITs, experiential triple-net landlord with a real estate credit overlay. Economic classification: Quality Growth (7.2/12, partial score). Primary method: hard AFFO per share times a growth-adjusted multiple. Secondary method: adjusted property NAV with separately valued loans. Values are present fair-value estimates, not 12-month price targets.
 
 ## What VICI is
 
@@ -278,7 +279,7 @@ The next review point is Q3 2026 results, expected around late October. The appr
 2. Spreading credit losses or development funding stress that threaten the dividend.
 3. Deteriorating refinancing access combined with rising leverage.
 
-## Adversarial review
+## Stress test and independent check
 
 The arithmetic was recomputed independently from raw inputs and agrees to less than a billionth of a dollar per share. The review corrected errors in both directions. Upward: full-year rent from already acquired assets, counting both the new bonds and the notes they repay, and avoiding double deductions of minority interests and loan losses. Downward: current diluted ownership instead of a lower quarterly average, recurring noncash income removed, the credit character change recognized, and a real margin of safety required.
 
@@ -297,7 +298,7 @@ The strongest case against waiting is that the market treats contractual rent to
 | Dividend model, 9.5% return, 3.5% growth | $31.74 | $22.22 |
 | Dividend model, 10.5% return, 3.5% growth | $27.21 | $19.04 |
 
-The wait verdict survives every test except the full Bull case and a dividend model with an 8.5% required return. A lower cap rate brings the buy price close to today's price but not above it. The publication gate status is PASS\_WITH\_WARNING: the cap rate, project-level credit data and exact current liquidity remain estimates.
+The wait verdict survives every test except the full Bull case and a dividend model with an 8.5% required return. A lower cap rate brings the buy price close to today's price but not above it. Main data limit: the cap rate, project-level credit data and exact current liquidity remain estimates.
 
 ## Final verdict: hold at $23.965, watchlist for new money
 
@@ -321,4 +322,4 @@ The reference market price is $23.965, a regular session trade at 10:18 am EDT o
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. VICI is exposed to tenant concentration, leverage, interest rates and development credit, and both income and principal are at risk. Investors can lose part or all of their invested capital.
 
-Framework: SF-04, experiential triple-net REIT with credit overlay. Economic class: Quality Growth. Engine: GROWTH\_ADJUSTED\_MULTIPLE, hard AFFO with adjusted NAV cross-check. Confidence: B/18. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Growth adjusted multiple, hard AFFO with adjusted NAV cross-check. Confidence: B/18. Data checks: passed with warnings.

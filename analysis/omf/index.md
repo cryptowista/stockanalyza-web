@@ -4,16 +4,17 @@
 
 OMF, NYSE. Published September 24, 2026. Price as of the September 23, 2026 regular session close.
 
-## Verdict: HOLD at $57.25 (watchlist for new money)
+## Verdict: HOLD at $57.25
 
 Watchlist for new money. The shares trade about 6% above the Base value, and the price already assumes returns on equity above 22% for good. Nonprime credit risk calls for a 35% margin of safety, which puts the buy zone at $35.07 or below.
 
 - Bear value: $32.42
-- Base value: $53.96 (downside 5.7%)
+- Base value: $53.96
 - Bull value: $70.19
-- Expected value (30/50/20 weighting): about $50.74
-- Required margin of safety: 35%
+- Downside to base value: -5.7%
 - Maximum buy price: $35.07
+- Required margin of safety: 35%
+- Probability-weighted value: $50.74 (30/50/20)
 - Dividend yield: 7.34%, payout about 65% of normalized EPS
 - ROE implied by the price: about 22.5% (Base 21%)
 - Business quality: 68/100
@@ -24,7 +25,7 @@ OneMain is one of the best-run nonprime lenders in the United States. It earns r
 
 At $57.25 on September 23, 2026, the shares trade 6.1% above my triangulated Base value of $53.96. The Bear value of $32.42 is 43.4% below the price, and the required margin of safety of 35% puts the maximum buy price at $35.07. For existing holders the dividend and buybacks justify holding. For new money it is a watchlist name.
 
-Route: SF-02 Financial institutions, nonprime specialty lender without deposits. Economic classification: raw score 7/12, valued with a financial-sector standard engine because credit and funding cycles make long-duration models falsely precise. Primary method: justified price to book from sustainable ROE. Secondary methods: normalized earnings and historical price to book. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Financial institutions, nonprime specialty lender without deposits. Economic classification: raw score 7/12, valued with a financial-sector standard engine because credit and funding cycles make long-duration models falsely precise. Primary method: justified price to book from sustainable ROE. Secondary methods: normalized earnings and historical price to book. Values are present fair-value estimates, not 12-month price targets.
 
 ## What OneMain is
 
@@ -220,7 +221,7 @@ The next review point is Q3 2026 results and the 10-Q, where the promised second
 2. A rating or funding shock.
 3. Sustainable ROE falling below 15%.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft of this analysis set the Base at $58, a Bull at $75 and a maximum buy price of $37.70. The recalculation lowered all three. The justified price to book ranges in the draft were overstated: at the draft's own inputs, ROE of 20% to 22% gives 1.7x to 1.9x book, which is $50 to $56, not $52 to $59, and the Bull inputs give about $69 to $72, not $72 to $78. The draft also lifted the mechanically weighted result of $55.83 to $58, above every individual method, which the framework does not allow. The Bear earnings value used EPS inconsistent with the Bear ROE. After correction, the verdict is unchanged, but the Base moves from slightly above the price to slightly below it.
 
@@ -236,7 +237,7 @@ The strongest counter-argument is that recent ROE already exceeds 22%, delinquen
 | Book value grown one year at 3% | $54.75 |
 | Normalized EPS $6.00 at 7.5x | $50.37 |
 
-Even the most generous single change keeps the Base at or just above the price, and none comes close to a buy price above $40. The publication gate status is PASS\_WITH\_WARNING: forward ROE, credit losses and the cost of equity are estimates and depend on the cycle.
+Even the most generous single change keeps the Base at or just above the price, and none comes close to a buy price above $40. Main data limit: forward ROE, credit losses and the cost of equity are estimates and depend on the cycle.
 
 ## Final verdict: hold at $57.25, watchlist for new money
 
@@ -260,4 +261,4 @@ The reference market price is $57.25, the regular session close on September 23,
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. OneMain is exposed to nonprime consumer credit, funding markets and regulation, and both dividends and principal are at risk. Investors can lose part or all of their invested capital.
 
-Framework: SF-02, nonprime specialty lender. Economic class: financial-sector standard engine. Engine: justified price to book with normalized earnings and historical price to book. Confidence: B/19. Data status: PASS. Adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Justified price to book with normalized earnings and historical price to book. Confidence: B/19. Data checks: passed with warnings.

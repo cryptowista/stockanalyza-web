@@ -24,7 +24,7 @@ Every stock screener shows Lumentum with a loss of $92.96 a share and no P/E rat
 
 At the October 2, 2026 close the shares trade 66.8% above my triangulated Base value of $651, a downside of 40.1%. The Bear value of $347 is 68.0% below the price and the Bull value of $982 is 9.5% below it, so even my optimistic case sits under today's quote. Confidence is grade C, which carries a required margin of safety (MOS) of 50%. That puts the maximum buy price at $325, and the shares would have to fall about 70% to reach it. The business is excellent. The price is a different matter.
 
-Route: SF-15 Semiconductors and ecosystem, subtype FAB/IDM-like photonics, with SF-13 industrial manufacturing as a cross-check for utilization and capital spending. Economic classification: Quality Growth (7/12). Primary method: growth-adjusted EV/EBITDA on normalized fiscal 2027 EBITDA. Secondary method: ten-year free cash flow model. Cross-check: forward P/E. Lumentum's fiscal year ends in late June, so fiscal 2027 runs from July 2026 to June 2027. Values are present fair value estimates, not 12 month price targets.
+Valuation route: Semiconductors and ecosystem, subtype FAB/IDM-like photonics, with industrial manufacturing as a cross-check for utilization and capital spending. Economic classification: Quality Growth (7/12). Primary method: growth-adjusted EV/EBITDA on normalized fiscal 2027 EBITDA. Secondary method: ten-year free cash flow model. Cross-check: forward P/E. Lumentum's fiscal year ends in late June, so fiscal 2027 runs from July 2026 to June 2027. Values are present fair value estimates, not 12 month price targets.
 
 ## What Lumentum is
 
@@ -117,7 +117,7 @@ The secondary method is independent of the EBITDA multiple. It discounts ten yea
 | Terminal value share of total | 49% | 59% | 65% |
 | Value per share | $248 | $598 | $1,056 |
 
-The **secondary Base is $598**. Even the Bull case, which takes the consensus ramp at a 9.5% discount rate, lands slightly below the price. These free cash flow figures add SBC back, which the robustness table in the adversarial review adjusts for.
+The **secondary Base is $598**. Even the Bull case, which takes the consensus ramp at a 9.5% discount rate, lands slightly below the price. These free cash flow figures add SBC back, which the robustness table in the stress-test section adjusts for.
 
 ### Sensitivity of the Base model: value per share
 
@@ -131,9 +131,9 @@ The **secondary Base is $598**. Even the Bull case, which takes the consensus ra
 
 Lumentum's forward P/E has ranged from 11.8x in fiscal 2022 to 54.6x in fiscal 2024, with 25.9x in fiscal 2025 and 51.6x in fiscal 2026; the average of those five years is about 33x. These figures come from a public data provider cited in the framework analysis and I could not confirm them independently, so the check carries only a 20% weight. A normalized 30x on fiscal 2027 consensus EPS of $21.78 gives **$653**. For the scenarios, the Bear applies 20x to $16.00 (about the first-quarter guidance midpoint of $4.20 times four, less 5%), which gives $320, and the Bull applies 38x to $25.27, the top of the estimate range, which gives $960. Non-GAAP EPS leaves SBC out, so multiples quoted on it already reflect that convention.
 
-The growth valuation cross-check (SM-19) is a diagnostic only. The forward P/E of 49.8x divided by expected EPS growth of about 151% gives a PEG of 0.33, which looks absurdly cheap and supports nothing. Fiscal 2027 growth is a mix of structural AI optics demand, higher utilization and a low prior-year base. Growth durability: structural and normalizing. Cyclical distortion: high. Lumentum trades at roughly a 39% premium to Coherent and 96% to Fabrinet on forward P/E, using screener figures that I could not reproduce and do not weigh. SM-19 does not set fair value.
+The growth valuation cross-check is a diagnostic only. The forward P/E of 49.8x divided by expected EPS growth of about 151% gives a PEG of 0.33, which looks absurdly cheap and supports nothing. Fiscal 2027 growth is a mix of structural AI optics demand, higher utilization and a low prior-year base. Growth durability: structural and normalizing. Cyclical distortion: high. Lumentum trades at roughly a 39% premium to Coherent and 96% to Fabrinet on forward P/E, using screener figures that I could not reproduce and do not weigh. This check does not set fair value.
 
-The free cash flow growth quality check (SM-20) says the same thing from the cash side. Free cash flow of $300.1 million in fiscal 2026 would have to reach the consensus $4.34 billion in fiscal 2029, an increase of $4.04 billion and a compound growth rate of about 144% a year over three years. On 103.1 million shares that is $2.91 a share rising to $42.12. The implied free cash flow margin goes from 10.0% to roughly 31%, which depends on third-party revenue estimates that I could not verify. Measured on today's economic equity value of $111.9 billion, the free cash flow yield is 0.27% on fiscal 2026 (0.12% after SBC), 1.0% on fiscal 2027, 2.2% on fiscal 2028 and 3.9% on fiscal 2029. Even after three years of extreme growth, the yield is not obviously cheap. Distortion flags: low base high, cyclical rebound high, capital spending timing medium, working capital medium, dilution high. Estimate reliability: medium. Classification: structural with execution risk. The score is 56/100 and it is diagnostic only.
+The free cash flow growth quality check says the same thing from the cash side. Free cash flow of $300.1 million in fiscal 2026 would have to reach the consensus $4.34 billion in fiscal 2029, an increase of $4.04 billion and a compound growth rate of about 144% a year over three years. On 103.1 million shares that is $2.91 a share rising to $42.12. The implied free cash flow margin goes from 10.0% to roughly 31%, which depends on third-party revenue estimates that I could not verify. Measured on today's economic equity value of $111.9 billion, the free cash flow yield is 0.27% on fiscal 2026 (0.12% after SBC), 1.0% on fiscal 2027, 2.2% on fiscal 2028 and 3.9% on fiscal 2029. Even after three years of extreme growth, the yield is not obviously cheap. Distortion flags: low base high, cyclical rebound high, capital spending timing medium, working capital medium, dilution high. Estimate reliability: medium. Classification: structural with execution risk. The score is 56/100 and it is diagnostic only.
 
 | Fiscal 2029 free cash flow | Amount | Per share (103.1 million) | Three-year per share growth |
 | --- | --- | --- | --- |
@@ -272,7 +272,7 @@ Today's readings are green on non-GAAP operating margin (36.6%), the largest cus
 2. Gross and operating margins fall while capacity rises.
 3. A major hyperscaler or customer reduces orders or changes its architecture or supplier.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed the share bridge, scenario values, both sensitivity grids, the triangulation, the margin of safety and the yields independently, and checked the reported inputs against the 10-K, the fourth-quarter release, the NVIDIA filing and the market price. The reconciliation was mostly clean. The corrections came in rounding, per share consistency, the score breakdown and a few statements.
 
@@ -306,7 +306,7 @@ The strongest counter-thesis, for the bulls: optical content in AI infrastructur
 | Forward P/E check, 30x fiscal 2027 EPS | $653 |
 | Required margin of safety of 40% instead of 50% | Maximum buy price $390 |
 
-Audit flags: the SBC path is my estimate, built from $170.2 million in fiscal 2026, and it partly overlaps with the awards already counted in the share bridge, so it is a stress test, not a replacement for the Base. Consensus EBITDA, free cash flow, EPS and the implied revenue behind the margins come from third-party datasets that I could not reproduce from free sources. The older free cash flow history and the forward P/E history come from the framework analysis. Finance lease liabilities are not separated in the net cash figure. I did not compute return on invested capital from audited invested capital, so the 12/20 return score reflects the trend, not a measured through-cycle return above the cost of capital. The convertible settlement mix is unknown. The publication gate status is PASS WITH WARNING because future cash flow estimates are unusually aggressive and the capital structure contains material conversion uncertainty.
+Audit flags: the SBC path is my estimate, built from $170.2 million in fiscal 2026, and it partly overlaps with the awards already counted in the share bridge, so it is a stress test, not a replacement for the Base. Consensus EBITDA, free cash flow, EPS and the implied revenue behind the margins come from third-party datasets that I could not reproduce from free sources. The older free cash flow history and the forward P/E history come from the framework analysis. Finance lease liabilities are not separated in the net cash figure. I did not compute return on invested capital from audited invested capital, so the 12/20 return score reflects the trend, not a measured through-cycle return above the cost of capital. The convertible settlement mix is unknown. Treat the result as conditional, because future cash flow estimates are unusually aggressive and the capital structure contains material conversion uncertainty.
 
 ## Final verdict: reduce at $1,085.42
 
@@ -328,4 +328,4 @@ The reference market price is the October 2, 2026 regular session close at 4:00 
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Lumentum is exposed to customer concentration, the optical and semiconductor cycle, a large capacity expansion and a complex convertible capital structure, and its shares are highly volatile. Investors can lose part or all of their invested capital.
 
-Framework: SF-15 Semiconductors, FAB/IDM-like photonics. Economic class: Quality Growth. Engine: growth-adjusted multiple, normalized forward EV to EBITDA with a ten-year free cash flow cross-check. Confidence: C/13. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: Growth-adjusted multiple, normalized forward EV to EBITDA with a ten-year free cash flow cross-check. Confidence: C/13. Data checks: passed with warnings.

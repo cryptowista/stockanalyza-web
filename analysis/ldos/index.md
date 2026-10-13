@@ -25,7 +25,7 @@ Leidos sells technology, engineering and systems-integration services to U.S. de
 
 At $123.61 on September 25, 2026, the shares trade 20.3% below my triangulated Base value of $155, an upside of 25.4%. The Bear value of $112 is 9.4% below the price. The framework's required margin of safety for this profile is 25%, which puts the maximum buy price at $116.25. Leidos is close to attractive, about 6.3% above that ceiling, but the recent Entrust acquisition has raised net debt enough that this stays a watchlist rather than a buy.
 
-Route: SF-13 Industrial and Manufacturing, government-services and defense-technology subtype. Economic classification: Quality growth contractor (9/12 on the sector scorecard). Primary method: normalized EV/EBITDA less net debt. Secondary method: price to normalized free cash flow. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Industrial and Manufacturing, government-services and defense-technology subtype. Economic classification: Quality growth contractor (9/12 on the sector scorecard). Primary method: normalized EV/EBITDA less net debt. Secondary method: price to normalized free cash flow. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Leidos is
 
@@ -73,7 +73,7 @@ Using normalized FCF of $1.50 billion and a justified 13x multiple gives equity 
 
 ## Historical cross-check
 
-A fully synchronized five-year EV/EBITDA peer series wasn't available from primary filings. As a rough check, the current 8.8x normalized EBITDA sits below the SF-13 standard defense-contractor range of 15x to 22x, though the top of that range fits defense product companies with proprietary systems better than a services-heavy mixed contractor like Leidos. A conservative historical and peer-context range of 9x to 11x normalized EBITDA implies equity value of roughly $116 to $164/share, treated as an estimated framework range rather than a sourced trading statistic.
+A fully synchronized five-year EV/EBITDA peer series wasn't available from primary filings. As a rough check, the current 8.8x normalized EBITDA sits below the standard defense-contractor range of 15x to 22x, though the top of that range fits defense product companies with proprietary systems better than a services-heavy mixed contractor like Leidos. A conservative historical and peer-context range of 9x to 11x normalized EBITDA implies equity value of roughly $116 to $164/share, treated as an estimated framework range rather than a sourced trading statistic.
 
 ## Valuation triangulation
 
@@ -203,7 +203,7 @@ Also watch shareholder returns: disciplined buybacks and a covered dividend are 
 2. Net debt stays elevated rather than declining as expected.
 3. Entrust integration drags on cash generation instead of adding to it.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's arithmetic mostly reconciled: market cap, net debt, enterprise value, both primary methods, the triangulation and the buy price all check out. One number was wrong. The probability-weighted scenario value was stated as $147.25, but the draft's own scenarios and probabilities ($112 × 25% + $155 × 55% + $190 × 20%) actually sum to $151.25. The corrected figure is used throughout this article; it remains below the $155 Base value, so the Watchlist conclusion is unchanged.
 
@@ -219,7 +219,7 @@ The strongest bull counter-thesis: defense and cyber demand, grid modernization,
 | Corrected probability-weighted value | $151.25 |
 | Bear stress case at 8.5x on $2.20B EBITDA | ~$107 |
 
-Audit flags: normalized EBITDA and FCF are estimates, not formal company guidance, and the guidance itself is adjusted, non-GAAP. A precise historical multiple series and synchronized peer set weren't available from primary sources, and backlog includes unfunded options and task orders. Fair value changes materially with the multiple and cash-flow assumptions used. The publication gate status is PASS WITH WARNING.
+Audit flags: normalized EBITDA and FCF are estimates, not formal company guidance, and the guidance itself is adjusted, non-GAAP. A precise historical multiple series and synchronized peer set weren't available from primary sources, and backlog includes unfunded options and task orders. Fair value changes materially with the multiple and cash-flow assumptions used.
 
 ## Final verdict: hold at $123.61, watchlist for new money below $116
 
@@ -241,4 +241,4 @@ The reference market price is $123.61, the September 25, 2026 close. Balance she
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Leidos depends heavily on U.S. federal contracting and appropriations, carries meaningful acquisition-related debt, and its adjusted earnings exclude real integration and amortization costs. Investors can lose part or all of their invested capital.
 
-Framework: SF-13, diversified government and defense contractor. Economic class: Quality growth company. Engine: normalized EV/EBITDA plus P/FCF. Confidence: C/17. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Normalized EV/EBITDA plus P/FCF. Confidence: C/17. Data checks: passed with warnings.

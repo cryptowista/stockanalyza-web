@@ -9,13 +9,14 @@ AMD, NASDAQ. Published September 21, 2026. Price as of the September 21, 2026 cl
 A strong and improving business, but the price sits above even the Bull value once warrant dilution is counted.
 
 - Bear value: $77
-- Base value: $250 (downside 59.4%)
+- Base value: $250
 - Bull value: $466
-- Required margin of safety: 50%
+- Downside to base value: 59.4%
 - Maximum buy price: $125
+- Required margin of safety: 50%
 - EV to trailing free cash flow: 131x
-- Market-implied 2030 free cash flow after SBC: about $83 billion (Base $31 billion)
-- Potential warrant dilution: up to 320 million shares (OpenAI and Meta)
+- Market-implied 2030 FCF after SBC: about $83 billion
+- Potential warrant dilution: up to 320 million shares
 - Business quality: 68/100
 - Valuation score: 18/100
 - Confidence: 13/25, grade C
@@ -38,13 +39,13 @@ Management's November 2025 plan targeted revenue growth above 35% per year, a no
 
 The investment case therefore depends on three things:
 
-- Data Center growth turns into durable free cash flow per share.
-- Margins expand while large AI systems scale.
-- The value created by the OpenAI and Meta agreements exceeds the shares given away to win them.
+1. Data Center growth turns into durable free cash flow per share.
+2. Margins expand while large AI systems scale.
+3. The value created by the OpenAI and Meta agreements exceeds the shares given away to win them.
 
 ## Routing and economic metric
 
-AMD is routed to the SF-01 framework for hardware technology with positive free cash flow, with cycle normalization because semiconductors are cyclical.
+AMD is routed to the standard framework for hardware technology with positive free cash flow, with cycle normalization because semiconductors are cyclical.
 
 The hardest honest metric is free cash flow after stock-based compensation, from continuing operations. Stock-based compensation is a real and recurring cost of about 5% of revenue, so neither headline free cash flow nor non-GAAP earnings per share is used as the valuation anchor.
 
@@ -53,7 +54,7 @@ Trailing twelve-month free cash flow was $7.73 billion. After $1.90 billion of s
 ## Current financial performance
 
 | Metric | Value |
-|---|---|
+| --- | --- |
 | Q2 2026 revenue | $11.54 billion, up 50% |
 | Q2 2026 Data Center revenue | $6.72 billion, up 107% |
 | Q2 2026 GAAP operating income | $1.99 billion |
@@ -75,7 +76,7 @@ Together, the warrants could add 320 million shares, about 19% of today's dilute
 The same gigawatts that create revenue also create shares. This analysis therefore links the two in every scenario. Counting the revenue while ignoring the dilution would overstate value by roughly $80 to $100 per share in the Bull case.
 
 | Scenario | Gigawatts deployed | Warrant shares | Fully diluted shares 2030 |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Bear | about 2 of 12 | 53 million | 1.734 billion |
 | Base | 8 of 12 | 213 million | 1.894 billion |
 | Bull | 12 of 12 | 320 million | 2.001 billion |
@@ -83,7 +84,7 @@ The same gigawatts that create revenue also create shares. This analysis therefo
 ## Bear, base and bull valuation
 
 | Scenario | Revenue 2027 | Revenue 2030 | FCF after SBC 2030 | Per share 2030 |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Bear | $63.7 billion | $71.2 billion | $10.0 billion | $5.75 |
 | Base | $80.8 billion | $141.5 billion | $31.1 billion | $16.43 |
 | Bull | $87.5 billion | $188.3 billion | $48.9 billion | $24.46 |
@@ -95,7 +96,7 @@ The same gigawatts that create revenue also create shares. This analysis therefo
 The multiple starts from an 11x base for stable free cash flow companies and adds premiums for growth, returns, balance sheet and repeat revenue, less penalties for dilution and risk. The result is 16x in Bear, 20x in Base and 26x in Bull, applied to 2030 free cash flow after SBC. Free cash flow retained until 2030 and today's net cash are added, and the total is discounted back at 10%.
 
 | Scenario | Multiple | Value |
-|---|---|---|
+| --- | --- | --- |
 | Bear | 16x | $80 |
 | Base | 20x | $254 |
 | Bull | 26x | $471 |
@@ -103,7 +104,7 @@ The multiple starts from an 11x base for stable free cash flow companies and add
 ### Secondary method: 10-year two-stage DCF
 
 | Scenario | Discount rate | Terminal growth | Value |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Bear | 11% | 2.5% | $74 |
 | Base | 10% | 3.0% | $244 |
 | Bull | 9% | 3.0% | $459 |
@@ -152,7 +153,7 @@ Management credibility is assessed as good: 15/20.
 ## Stock Analyza scorecard
 
 | Business quality | Score |
-|---|---|
+| --- | --- |
 | Moat and sector positioning | 15/20 |
 | Economic return versus cost of capital | 8/20 |
 | Balance-sheet resilience | 13/15 |
@@ -165,7 +166,7 @@ Management credibility is assessed as good: 15/20.
 AMD is a strong business with a long runway, but reported returns on capital remain low because of acquisition goodwill, and the warrant structure weighs on shareholder alignment.
 
 | Valuation | Score |
-|---|---|
+| --- | --- |
 | Discount to triangulated Base Value | 0/40 |
 | Protection versus Bear Value | 0/20 |
 | Cross-method convergence | 12/15 |
@@ -177,7 +178,7 @@ AMD is a strong business with a long runway, but reported returns on capital rem
 ## Confidence score
 
 | Confidence | Score |
-|---|---|
+| --- | --- |
 | Data quality and provenance | 4/5 |
 | Business predictability | 2/5 |
 | Valuation robustness | 3/5 |
@@ -217,11 +218,11 @@ The main limitation is the width of the outcomes. The Bull value is six times th
 
 These are the developments that would prove this cautious view wrong:
 
-- 2027 revenue above $90 billion with free cash flow after SBC above 20% of revenue.
-- Gigawatt milestones reached while diluted shares stay below 1.8 billion.
-- Guidance implying 2030 free cash flow above $50 billion.
+1. 2027 revenue above $90 billion with free cash flow after SBC above 20% of revenue.
+2. Gigawatt milestones reached while diluted shares stay below 1.8 billion.
+3. Guidance implying 2030 free cash flow above $50 billion.
 
-## Adversarial review
+## Stress test and independent check
 
 The arithmetic review independently recomputed the scenario values, the valuation weights, the reverse valuation and the maximum buy price.
 
@@ -229,7 +230,7 @@ The review found and corrected one critical issue: an earlier draft counted reve
 
 The strongest bullish interpretation was tested directly. Combining Bull operations with a 30x exit multiple, an 8% discount rate and 3.5% terminal growth produces $579 to $608 per share, still below the current price. A case built on management's 38% growth path produces $234 to $244.
 
-The gate status is PASS_WITH_WARNING because the primary and secondary methods share one operating forecast and the intermediate warrant price hurdles are not fully disclosed.
+Treat the result as conditional, because the primary and secondary methods share one operating forecast and the intermediate warrant price hurdles are not fully disclosed.
 
 ## Final verdict: sell at $615.53
 
@@ -241,12 +242,16 @@ For current holders, this means reducing or selling. For new money, it means avo
 
 The main thesis breaker for this view is AMD delivering Bull-case volumes with margins and a valuation multiple above the Bull assumptions, the only combination that reaches today's price.
 
+## More analyses on Patreon
+
+This analysis is free. Premium members get every in-depth analysis, the full archive and a vote on which stocks get analyzed next: https://www.patreon.com/stockanalyza
+
 ## Sources
 
 Primary sources include AMD's [Q2 2026 earnings release](https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000121/q22026991.htm), [June 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000123/amd-20260627.htm), [2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm), [Financial Analyst Day release](https://ir.amd.com/news-events/press-releases/detail/1266/amd-unveils-strategy-to-lead-the-1-trillion-compute-market-and-accelerate-next-phase-of-growth) and the [OpenAI partnership announcement](https://openai.com/index/openai-amd-strategic-partnership/).
 
 The reference market price is the September 21, 2026 closing price of $615.53.
 
-Disclaimer: This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Investors can lose part or all of their invested capital.
+**Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Semiconductor companies are cyclical and exposed to customer concentration, competition, supply-chain and export-control risks. Valuation assumptions and management targets may prove incorrect. Investors can lose part or all of their invested capital.
 
-Framework: SF-01, cyclical high-growth hardware tech subtype. Economic class: Quality Growth. Engine: growth-adjusted multiple with DCF cross-check. Confidence: C/13. Data status and adversarial gate: PASS_WITH_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Growth-adjusted multiple with DCF cross-check. Confidence: C/13. Data checks: passed with warnings.

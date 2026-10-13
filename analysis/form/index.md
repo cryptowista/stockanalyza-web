@@ -24,7 +24,7 @@ FormFactor's revenue grew 31.9% in the second quarter, its non-GAAP gross margin
 
 At $146.88 on September 30, 2026, the shares trade 51.1% above my triangulated Base value of $97.20, a downside of 33.8%. The Bear value of $70.70 is 51.9% below the price and the Bull value of $139.90 is 4.8% below it, so even my optimistic case sits under today's quote. The framework's required margin of safety for this profile is 35%, which puts the maximum buy price at $63.18. The shares would have to fall about 57% to get there. The business deserves respect; the price asks for more than respect.
 
-Route: SF-13 Industrials and manufacturing, semiconductor test equipment. Economic classification: Quality Growth (8/12). Primary method: growth-adjusted EV/EBITDA on mid-cycle earnings. Secondary methods: forward P/E and free cash flow after stock-based compensation. Values are present fair value estimates, not 12 month price targets. The price is an intraday quote that moved 7.92% during the day.
+Valuation route: Industrials and manufacturing, semiconductor test equipment. Economic classification: Quality Growth (8/12). Primary method: growth-adjusted EV/EBITDA on mid-cycle earnings. Secondary methods: forward P/E and free cash flow after stock-based compensation. Values are present fair value estimates, not 12 month price targets. The price is an intraday quote that moved 7.92% during the day.
 
 ## What FormFactor is
 
@@ -226,7 +226,7 @@ Today's readings are green on revenue growth (31.9%), gross margin (53.3%), hard
 2. A reversal in HBM or high-performance computing demand before the valuation premium is earned.
 3. Failure to sustain margin improvement while capacity spending and dilution rise.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's arithmetic on its own inputs was mostly clean: the first-half free cash flow, net liquidity, scenario values, sensitivity grid and the implied multiples all reconcile. The corrections came in the triangulation, the rounding and the price.
 
@@ -256,7 +256,7 @@ The strongest counter-thesis, for the bulls: HBM, advanced packaging, custom acc
 | Hard free cash flow cross-check | $75.40 to $87.90 |
 | Required margin of safety without the net cash credit | 40%, maximum buy price $58.32 |
 
-Audit flags: the EBITDA scenarios, the justified multiple bridge and the 2027 EPS consensus are estimates, not company guidance. The customer concentration percentages come from the framework analysis and I did not reopen the filing tables. My estimate of quarterly EBITDA after SBC is approximate because depreciation is taken as half of the six-month figure. The reference price is an intraday quote that moved 7.92% during the day. The publication gate status is PASS WITH WARNING because forward growth and margin assumptions remain structurally uncertain and because of the intraday price.
+Audit flags: the EBITDA scenarios, the justified multiple bridge and the 2027 EPS consensus are estimates, not company guidance. The customer concentration percentages come from the framework analysis and I did not reopen the filing tables. My estimate of quarterly EBITDA after SBC is approximate because depreciation is taken as half of the six-month figure. The reference price is an intraday quote that moved 7.92% during the day. Treat the result as conditional, because forward growth and margin assumptions remain structurally uncertain and because of the intraday price.
 
 ## Final verdict: reduce at $146.88
 
@@ -278,4 +278,4 @@ The reference market price is $146.88, the September 30, 2026 intraday quote fro
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. FormFactor is exposed to the semiconductor cycle, to customer concentration and to the execution of a large capacity expansion, and its shares are volatile. Investors can lose part or all of their invested capital.
 
-Framework: SF-13 Industrial and Manufacturing, semiconductor test equipment. Economic class: Quality Growth. Engine: growth-adjusted EV/EBITDA. Confidence: B/19. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Growth-adjusted EV/EBITDA. Confidence: B/19. Data checks: passed with warnings.

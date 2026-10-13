@@ -4,16 +4,17 @@
 
 HPK, NASDAQ. Published September 24, 2026. Price as of the September 23, 2026 close.
 
-## Verdict: HOLD at $7.88 (watchlist for new money)
+## Verdict: HOLD at $7.88
 
 Watchlist for new money. The shares trade 18% below the Base value, but oil prices, $1 billion of net debt and an erratic cash flow record call for a 45% margin of safety, which puts the buy zone at $5.29 or below.
 
 - Bear value: $3.57
-- Base value: $9.61 (upside 22.0%)
+- Base value: $9.61
 - Bull value: $14.95
-- Expected value (30/50/20 weighting): about $8.87
-- Required margin of safety: 45%
+- Upside to base value: 22.0%
 - Maximum buy price: $5.29
+- Required margin of safety: 45%
+- Probability-weighted value: $8.87 (30/50/20)
 - Oil price implied by the share price: about $69 WTI (spot about $92)
 - Dividend: suspended in 2026
 - Business quality: 46/100
@@ -24,7 +25,7 @@ WTI crude traded around $92 on September 23, 2026, inflated by the conflict arou
 
 At $7.88 on September 23, 2026, the shares trade 18.0% below my triangulated Base value of $9.61, an upside of 22.0%. The Bear value of $3.57 is 54.7% below the price, and the required margin of safety of 45% puts the maximum buy price at $5.29. For existing holders this is a hold. For new money it is a watchlist name.
 
-Route: SF-01, energy producer, oil-weighted Midland Basin exploration and production company. Economic classification: Standard Company (3/12). Primary method: normalized owner earnings after development capex and interest, at a mid-cycle oil price. Secondary method: proved reserve value (PV-10) less net debt. Values are present fair-value estimates, not 12-month price targets. No takeover premium is included.
+Valuation route: energy producer, oil-weighted Midland Basin exploration and production company. Economic classification: Standard Company (3/12). Primary method: normalized owner earnings after development capex and interest, at a mid-cycle oil price. Secondary method: proved reserve value (PV-10) less net debt. Values are present fair-value estimates, not 12-month price targets. No takeover premium is included.
 
 ## What HighPeak is
 
@@ -215,7 +216,7 @@ The next review point is Q3 2026 results, expected in early November 2026, the f
 2. Leverage that fails to decline.
 3. Weak reserve replacement.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft reconciled arithmetically for its Base, but it never stated which oil price its owner earnings assumed, and its Bear and Bull values of $5.20 and $14.50 did not follow from either method. The recalculation made the oil deck explicit and derived Bear and Bull from both methods with the same weights as Base. The draft's Bear owner earnings of $90 million correspond to about $67 WTI, which is not a real bear case when spot oil is $92 on a war premium that could unwind. Lowering it to $50 million, about $62 oil, moved the Bear value from $5.20 to $3.57. The Base and the buy price are essentially unchanged.
 
@@ -230,7 +231,7 @@ The strongest bull argument is that Q2 already shows a structurally cheaper, cas
 | Owner earnings $180 million at 10x (primary only) | $14.23 |
 | Proved developed producing PV-10 less debt | $2.46 |
 
-The publication gate status is PASS\_WITH\_WARNING because maintenance capex and the long-run oil price are estimates, and the oil sensitivity used here is approximate.
+Treat the result as conditional, because maintenance capex and the long-run oil price are estimates, and the oil sensitivity used here is approximate.
 
 ## Final verdict: hold at $7.88, watchlist for new money
 
@@ -254,4 +255,4 @@ The reference market price is $7.88, the September 23, 2026 close. Balance sheet
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. HighPeak is exposed to oil and gas prices, leverage, drilling and reserve risks, and its equity could lose most of its value in an adverse scenario. Investors can lose part or all of their invested capital.
 
-Framework: SF-01, oil-weighted exploration and production. Economic class: Standard Company. Engine: STANDARD, normalized owner earnings with PV-10 cross-check. Confidence: C/16. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Approach: Normalized owner earnings with PV-10 cross-check. Confidence: C/16. Data checks: passed with warnings.

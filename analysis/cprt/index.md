@@ -26,7 +26,7 @@ Copart is one of the highest-quality businesses I have analyzed, and the share p
 
 At the October 9, 2026 close of $27.32, the shares trade 9.6% above my triangulated Base value of $24.91. The Bear value is $17.52 and the Bull value is $32.50. The required margin of safety (MOS), the discount to fair value I need before buying, is 35%, so the maximum buy price is **$16.19**. The shares would have to fall 41% to reach it. A 40% drop from the high is not the same as a bargain.
 
-Route: SF-01 standard value. SF-07 and SF-13 do not apply: this is a net cash marketplace with roughly 79% of vehicles from insurance companies, not software and not an industrial. Economic classification: Quality Growth, 6/12 on the sector scorecard, so the engine is GROWTH\_ADJUSTED\_MULTIPLE. Primary method: normalized owner free cash flow times a multiple built from explicit premiums and penalties. Secondary method: a five-year DCF at 10%. Values are present fair-value estimates, not 12-month price targets. Owner free cash flow here excludes interest income on the cash pile, because the cash is valued separately.
+Valuation route: standard value. The other sector methods do not apply: this is a net cash marketplace with roughly 79% of vehicles from insurance companies, not software and not an industrial. Economic classification: Quality Growth, 6/12 on the sector scorecard, so the engine is GROWTH\_ADJUSTED\_MULTIPLE. Primary method: normalized owner free cash flow times a multiple built from explicit premiums and penalties. Secondary method: a five-year DCF at 10%. Values are present fair-value estimates, not 12-month price targets. Owner free cash flow here excludes interest income on the cash pile, because the cash is valued separately.
 
 ## What Copart is
 
@@ -99,7 +99,7 @@ Copart is a Quality Growth company under the framework, so the multiple is built
 
 | Multiple build (P/FCF on owner cash flow) | Bear | Base | Bull |
 | --- | --- | --- | --- |
-| Sector base: very stable growing company (SF-01) | 13.0x | 13.0x | 13.0x |
+| Sector base: very stable growing company | 13.0x | 13.0x | 13.0x |
 | Growth premium (FCF per unit growth) | +0.0x | +2.0x | +5.0x |
 | Return on capital premium (ROIC about 28%) | +3.0x | +4.0x | +5.0x |
 | Balance sheet premium (net cash, no debt) | +2.0x | +2.0x | +2.0x |
@@ -166,9 +166,9 @@ The secondary Base value is **$23.56**. Three quarters of the DCF value sits in 
 
 **Valuation history.** At $27.32 the enterprise value is 12.7 times FY2026 operating income and 15.8 times after-tax operating income. Copart has traded at roughly 30 times earnings in recent years (ESTIMATED from public data, not verified here), so today's price is well below its own history, but the earnings growth that justified that history has slowed.
 
-**PEG (SM-19, diagnostic only).** FY2026 earnings per share fell 2.5%, so the growth denominator is negative and PEG is not meaningful. Flag: PEG\_NOT\_MEANINGFUL. Growth type: NORMALIZING.
+**PEG (diagnostic only).** FY2026 earnings per share fell 2.5%, so the growth denominator is negative and PEG is not meaningful. Flag: PEG\_NOT\_MEANINGFUL. Growth type: NORMALIZING.
 
-**Free cash flow growth quality (SM-20, diagnostic only).** Free cash flow per diluted share rose from $0.87 in FY2022 to $1.32 in FY2026, a compound growth of 11.1% a year (total free cash flow 10.8% a year, from $839 million to $1,267 million). Free cash flow margin rose from 24.0% to 27.1%, and cash conversion is 85% of net income. The flag is CAPEX\_TIMING\_DISTORTION: FY2026 capex was $337 million against $569 million a year earlier, which lifts the last point. Forward, my Base owner cash flow compounds at 4.8% a year from FY2026 to FY2031, from $0.965 billion to $1.219 billion. Forward free cash flow yield on enterprise value is 4.6% for FY2027E. Forecast reliability: MEDIUM, because volume and margin are both moving. Stress test: FY2028E owner cash flow 20% lower gives a primary value of $22.12, and 40% lower gives $17.97.
+**Free cash flow growth quality (diagnostic only).** Free cash flow per diluted share rose from $0.87 in FY2022 to $1.32 in FY2026, a compound growth of 11.1% a year (total free cash flow 10.8% a year, from $839 million to $1,267 million). Free cash flow margin rose from 24.0% to 27.1%, and cash conversion is 85% of net income. The flag is CAPEX\_TIMING\_DISTORTION: FY2026 capex was $337 million against $569 million a year earlier, which lifts the last point. Forward, my Base owner cash flow compounds at 4.8% a year from FY2026 to FY2031, from $0.965 billion to $1.219 billion. Forward free cash flow yield on enterprise value is 4.6% for FY2027E. Forecast reliability: MEDIUM, because volume and margin are both moving. Stress test: FY2028E owner cash flow 20% lower gives a primary value of $22.12, and 40% lower gives $17.97.
 
 ## Valuation triangulation
 
@@ -325,7 +325,7 @@ Next review: the fiscal first quarter report, expected around late November 2026
 2. More insurers move volume to a competitor, which turns the lost customer into a trend.
 3. The ACV acquisition needs more capital or is written down, which would show that cash is being deployed outside the core moat.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed every table from the listed inputs. The arithmetic reconciles. Free cash flow, operating income, shares and cash come from the filing and the earnings release, and the capex normalization, cash conversion, tax rate and the Base paths are my estimates. The strongest bull argument is that Copart is being priced as a broken growth stock when it is still compounding pricing power at 5% a year with a net cash balance sheet, and that today's cost pressure is an investment cycle in long-haul delivery and facilities, not a permanent loss of margin. If the margin returned to 36% and revenue grew 8%, the Bull value of $32.50 is a fair outcome. The strongest bear argument is that insurance volume is shifting, costs are rising faster than revenue and capital is being allocated badly.
 
@@ -339,7 +339,7 @@ I recomputed every table from the listed inputs. The arithmetic reconciles. Free
 | Each 1 point of operating margin at exit (FY2028E) | about $0.61 a unit |
 | ACV worth half its $1.9B price | about -$1.02 a unit |
 
-The choices that lean generous are the 20.5 times multiple, the 6% revenue growth from FY2028 and a stable margin. The ones that lean conservative are the 19.5% tax rate, the capex normalization above FY2026 and excluding interest income from cash flow. I did not tune any of them toward a verdict. Publication gate: PASS\_WITH\_WARNING, because the multiples are judgments, and the FY2027 capex outlook and the remaining buyback authorization are not available.
+The choices that lean generous are the 20.5 times multiple, the 6% revenue growth from FY2028 and a stable margin. The ones that lean conservative are the 19.5% tax rate, the capex normalization above FY2026 and excluding interest income from cash flow. I did not tune any of them toward a verdict. Treat the result as conditional, because the multiples are judgments, and the FY2027 capex outlook and the remaining buyback authorization are not available.
 
 **Not available or estimated.** Unavailable: fiscal 2027 capex guidance, the remaining repurchase authorization, ACV financial statements, a verified peer table. Estimated: normalized capex, cash conversion, the tax rate going forward, dilutive awards, the average buyback price, the history of multiples, the whole forward path.
 
@@ -361,4 +361,4 @@ The reference market price is the October 9, 2026 close of $27.32. Balance sheet
 
 **Disclaimer.** This analysis is a structured fundamental research output, not personalized investment advice. It is provided solely for research and educational purposes and is not financial, legal or tax advice. Copart's earnings are falling, it depends on insurance companies for most of its volume, and it is about to make a large acquisition. Its shares can lose value, and investors can lose part or all of their invested capital.
 
-Framework: SF-01 standard value. Economic class: Quality Growth (6/12). Engine: GROWTH\_ADJUSTED\_MULTIPLE with a DCF secondary. Confidence: B/18. Data status: PASS\_WITH\_WARNING. Adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: Growth adjusted multiple with a DCF secondary. Confidence: B/18. Data checks: passed with warnings.

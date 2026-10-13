@@ -26,7 +26,7 @@ Gilat makes the ground equipment that talks to satellites. Its pending purchase 
 
 At $10.14 on September 25, 2026, the shares trade 3.3% below my triangulated Base value of $10.49, an upside of 3.5%. The Bear value of $6.43 is 36.6% below the price and the Bull value of $13.67 is 34.8% above it. The framework's required margin of safety for this profile is 40%, which puts the maximum buy price at $6.29. The shares would need to fall about 38% to get there. Until then, this is a hold with no room for error.
 
-Route: SF-13 Industrial and Manufacturing, satellite ground infrastructure and defense communications subtype. Economic classification: Standard, borderline Quality growth (7/12). Primary method: normalized EV/EBITDA after stock-based compensation. Secondary method: price to normalized owner free cash flow. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Industrial and Manufacturing, satellite ground infrastructure and defense communications subtype. Economic classification: Standard, borderline Quality growth (7/12). Primary method: normalized EV/EBITDA after stock-based compensation. Secondary method: price to normalized owner free cash flow. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Gilat is
 
@@ -234,7 +234,7 @@ Review after the Comtech closing terms and after the first reporting period that
 2. The Comtech integration destroys value, through a lower contribution than $16.8 million, worse closing terms or a failed approval.
 3. Renewed dilution, from new share issuance or conversion of the notes at $16 or more before the value has been created.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's core arithmetic reconciled: market cap, the percentage upside and the maximum buy price followed from its own inputs. But checking it against Gilat's filings and press releases found problems that changed the answer.
 
@@ -264,7 +264,7 @@ The strongest bear counter-thesis: the $80 million target is management's own, i
 | Same, at 8.0x | $6.62 |
 | Bear | $6.43 |
 
-Audit flags: post-close EBITDA and free cash flow are my estimates, not audited. The convertible's net proceeds are an estimate. Comtech's SBC and the final purchase-price adjustments are unknown. The historical multiple range is a judgment, not a sourced series. Even without the SBC deduction, the price sits well above the buy ceiling, so the Hold and watchlist conclusion survives the central tests. The publication gate status is PASS WITH WARNING.
+Audit flags: post-close EBITDA and free cash flow are my estimates, not audited. The convertible's net proceeds are an estimate. Comtech's SBC and the final purchase-price adjustments are unknown. The historical multiple range is a judgment, not a sourced series. Even without the SBC deduction, the price sits well above the buy ceiling, so the Hold and watchlist conclusion survives the central tests.
 
 ## Final verdict: hold at $10.14, watchlist for new money below $6.29
 
@@ -286,4 +286,4 @@ The reference market price is $10.14, the September 25, 2026 close. Balance shee
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Gilat depends on a pending acquisition, has recently issued convertible debt and shares, and reports adjusted earnings that exclude real costs. Investors can lose part or all of their invested capital.
 
-Framework: SF-13, satellite ground infrastructure and defense communications. Economic class: Standard, borderline Quality growth. Engine: STANDARD. Confidence: B/18. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Confidence: B/18. Data checks: passed with warnings.

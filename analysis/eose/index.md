@@ -25,7 +25,7 @@ Every stock screener prices Eos Energy at about $1.0 billion: 364 million shares
 
 At the October 8, 2026 close of $2.765 the shares trade 822% above my triangulated Base value of $0.30, a downside of 89.1%. The Bear value is $0, because in that case the business is worth less than the debt and the cash it still has to burn. The Bull value of $2.66 is 3.6% below the price, so the market is paying slightly more than my optimistic case. The required margin of safety (MOS) is 75%, above the framework's 60% ceiling, so no buy price is issued. This is not a verdict on zinc batteries. It's a verdict on what is left for common shareholders after the debt, the preferred stock and the warrants.
 
-Route: SF-08 Pre-FCF growth (enterprise value to revenue), with SF-13 Industrial and Manufacturing for the secondary method. Subtype: zinc-based long-duration battery storage manufacturer. Economic classification: Standard (3/12). Primary method: enterprise value (EV) to 2027 revenue, less 12 months of cash burn. Secondary method: a path-to-cash-flow model on 2029 EBITDA, discounted to today. Values are present fair value estimates, not 12 month price targets.
+Valuation route: Pre-FCF growth (enterprise value to revenue), with Industrial and Manufacturing for the secondary method. Subtype: zinc-based long-duration battery storage manufacturer. Economic classification: Standard (3/12). Primary method: enterprise value (EV) to 2027 revenue, less 12 months of cash burn. Secondary method: a path-to-cash-flow model on 2029 EBITDA, discounted to today. Values are present fair value estimates, not 12 month price targets.
 
 ## What Eos is
 
@@ -114,7 +114,7 @@ At a 12% discount rate instead of 15%, the Base value is $0.32.
 
 A historical valuation cross-check is not meaningful: revenue was $15.6 million in 2024 and $114.2 million in 2025, so any multiple history describes a startup, not the company being valued. At $2.765 and 546.6 million share claims, EV is $2,042 million, net of the FPUSA stake. That is 6.3x the 2026 guidance midpoint and 3.5x 2027 consensus revenue. The screens show trailing EV to revenue of 6.1x on an EV of $1.30 billion, because they use the carrying value of debt and 364 million shares.
 
-The growth valuation cross-check (SM-19) does not apply: earnings are negative and distorted by fair value swings, so P/E and PEG are not meaningful (PEG\_NOT\_MEANINGFUL). Revenue growth is structural with high execution risk; cyclical distortion is low, because the risk here is manufacturing and funding, not a demand cycle. The free cash flow growth check (SM-20) starts at -$262.2 million for the first half of 2026. A growth rate from a negative base is not meaningful, free cash flow per share is negative, and the low base flag is high. In my Base path free cash flow turns positive in 2029, so the forward free cash flow yield is negative for the next two years. Estimate reliability: low. Classification: uncertain, path-to-cash-flow. SM-19 and SM-20 do not set fair value, MOS or the verdict.
+The growth valuation cross-check does not apply: earnings are negative and distorted by fair value swings, so P/E and PEG are not meaningful (PEG\_NOT\_MEANINGFUL). Revenue growth is structural with high execution risk; cyclical distortion is low, because the risk here is manufacturing and funding, not a demand cycle. The free cash flow growth check starts at -$262.2 million for the first half of 2026. A growth rate from a negative base is not meaningful, free cash flow per share is negative, and the low base flag is high. In my Base path free cash flow turns positive in 2029, so the forward free cash flow yield is negative for the next two years. Estimate reliability: low. Classification: uncertain, path-to-cash-flow. These two checks do not set fair value, MOS or the verdict.
 
 ## Valuation triangulation
 
@@ -241,7 +241,7 @@ Today four readings are red: burn (about $131 million a quarter in the first hal
 2. A financing round at a low price adds materially to the 542 million share claims.
 3. FPUSA or the related-party projects fail to convert backlog into revenue.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed every value in this article in a separate model and checked the inputs against the second quarter release, the 10-Q notes on borrowings, warrants, preferred stock, earnings per share and subsequent events, the August resale registration and the closing price. The capital structure inputs are reported. The multiples, revenue paths, margins and burn are my estimates, and the per-share result depends on them more than in a typical analysis, because in my Base equity is only 7% to 23% of a company valued at about $1.1 billion.
 
@@ -260,7 +260,7 @@ The strongest counter-thesis, for the bulls: Eos owns the only scaled US zinc ba
 | Most generous secondary: $1.3 billion revenue, 25% margin, 16x, $300 million burn | $4.45 |
 | Bull (50/50) | $2.66 |
 
-Audit flags: 2026 and 2027 revenue consensus come from StockAnalysis and were used only as a reference point, not as the Base. The peer multiples are trailing figures from the same source. The adjusted gross margin target is management's. The third quarter cash use is not yet reported, so the net debt figure is as of June 30 plus the September DOE draw. Arithmetic: Q2 gross margin -48.801 / 68.775 = -70.96%; related-party share 55.034 / 68.775 = 80.02%; basic share growth 339.799 / 237.741 - 1 = 42.93%; share claims 542.09 / 364.17 - 1 = 48.86%. The publication gate status is PASS WITH WARNING: the capital structure is reconciled, and the value rests on estimated margins, multiples and burn.
+Audit flags: 2026 and 2027 revenue consensus come from StockAnalysis and were used only as a reference point, not as the Base. The peer multiples are trailing figures from the same source. The adjusted gross margin target is management's. The third quarter cash use is not yet reported, so the net debt figure is as of June 30 plus the September DOE draw. Arithmetic: Q2 gross margin -48.801 / 68.775 = -70.96%; related-party share 55.034 / 68.775 = 80.02%; basic share growth 339.799 / 237.741 - 1 = 42.93%; share claims 542.09 / 364.17 - 1 = 48.86%. Main data limit: the capital structure is reconciled, and the value rests on estimated margins, multiples and burn.
 
 ## Final verdict: sell at $2.765
 
@@ -282,4 +282,4 @@ The reference market price is the October 8, 2026 regular session close of $2.76
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Eos Energy is a pre-profit manufacturer with negative gross margins, significant debt, related-party financing, large potential dilution and a heavily shorted, highly volatile stock. Investors can lose part or all of their invested capital.
 
-Framework: SF-08 Pre-FCF growth with SF-13 Industrial and Manufacturing cross-check, zinc-based long-duration storage. Economic class: Standard. Engine: EV to forward revenue with a path-to-cash-flow cross-check. Confidence: D/9. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: EV to forward revenue with a path-to-cash-flow cross-check. Confidence: D/9. Data checks: passed with warnings.

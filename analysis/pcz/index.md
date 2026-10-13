@@ -25,7 +25,7 @@ At 0.47 times book value, ProCredit looks like the classic cheap bank. The frame
 
 At the October 5, 2026 Xetra close of €8.68 the shares trade 33.6% below my triangulated Base value of €13.08, an upside of 50.7%. The Bear value of €5.98 is 31.2% below the price and the Bull value of €21.11 is 143% above it. The required margin of safety (MOS) is 50%, so the maximum buy price is €6.54, about 25% under the market. The stock is attractive on the numbers and not yet attractive on the evidence, which is why the verdict is Hold.
 
-Route: SF-02 Banks. Economic classification: Standard (5/12). Primary method: residual income on tangible and book equity, with the return on equity measured against a cost of equity. Secondary method: forward price to earnings. Corporate free cash flow is not a valid metric for a bank and is not used. Per share values use 58,898,492 shares. Values are present fair value estimates, not 12 month price targets. All figures are in euros.
+Valuation route: Banks. Economic classification: Standard (5/12). Primary method: residual income on tangible and book equity, with the return on equity measured against a cost of equity. Secondary method: forward price to earnings. Corporate free cash flow is not a valid metric for a bank and is not used. Per share values use 58,898,492 shares. Values are present fair value estimates, not 12 month price targets. All figures are in euros.
 
 ## What ProCredit is
 
@@ -103,7 +103,7 @@ This method is not independent of the first: both use the same earnings path, an
 
 ## Growth diagnostics
 
-The growth valuation cross-check (SM-19) does not apply in the usual way, because earnings per share for a bank swing with credit costs, tax and rates, and a PEG ratio is not a bank metric. Cyclical distortion: medium. Free cash flow growth (SM-20) is not applicable to a bank. The sector equivalent is per share value creation: book value per share rose from €17.93 at the end of 2024 to €18.24 at the end of 2025 and €18.42 in June 2026, while earnings per share for the first half fell from €0.80 to €0.65. Growth quality is structural with execution risk, estimate reliability medium. None of these diagnostics sets fair value, MOS or the verdict.
+The growth valuation cross-check does not apply in the usual way, because earnings per share for a bank swing with credit costs, tax and rates, and a PEG ratio is not a bank metric. Cyclical distortion: medium. Free cash flow growth is not applicable to a bank. The sector equivalent is per share value creation: book value per share rose from €17.93 at the end of 2024 to €18.24 at the end of 2025 and €18.42 in June 2026, while earnings per share for the first half fell from €0.80 to €0.65. Growth quality is structural with execution risk, estimate reliability medium. None of these diagnostics sets fair value, MOS or the verdict.
 
 ## Valuation triangulation
 
@@ -232,7 +232,7 @@ Today two readings are red: return on equity (6.7%, with a return on tangible eq
 2. CET1 falls toward 12% while loan growth continues, forcing slower growth or a lower payout.
 3. Credit quality weakens: defaulted loans above 4% with a rising cost of risk.
 
-## Adversarial review
+## Stress test and independent check
 
 I recomputed every figure from the June 30, 2026 interim report and the first half release, rebuilt the valuation as an explicit residual income model, and checked the price against the Xetra record. The reported figures reconcile. The corrections were in the price, the book value inputs, the scenario values, the triangulation, the MOS and the scores.
 
@@ -273,7 +273,7 @@ Every correction lowers the value, the scores or the verdict. I found no correct
 | Secondary at 6x / 10x earnings | €12.26 / €13.90 |
 | Maximum buy price at the first draft's 35% margin of safety | €8.50, still below €8.68 |
 
-The verdict is Hold in the central and conservative cases. In the generous case the maximum buy price would be €8.96, above today's price, and the verdict would be Buy. Audit flags: the cost of equity, the return paths, the 8x multiple, next-twelve-months EPS and the AT1 coupon rate are my estimates. A peer table, a synchronized valuation history and collateral coverage were not available. The October 6 close was not available when this was written, so the price is the October 5 Xetra close; on October 6 Xetra traded near €8.72 in the afternoon. The publication gate status is PASS WITH WARNING because the valuation depends on a return recovery that has not yet appeared.
+The verdict is Hold in the central and conservative cases. In the generous case the maximum buy price would be €8.96, above today's price, and the verdict would be Buy. Audit flags: the cost of equity, the return paths, the 8x multiple, next-twelve-months EPS and the AT1 coupon rate are my estimates. A peer table, a synchronized valuation history and collateral coverage were not available. The October 6 close was not available when this was written, so the price is the October 5 Xetra close; on October 6 Xetra traded near €8.72 in the afternoon. Treat the result as conditional, because the valuation depends on a return recovery that has not yet appeared.
 
 ## Final verdict: hold at €8.68, watchlist for new money
 
@@ -297,4 +297,4 @@ The reference market price is the October 5, 2026 Xetra close of €8.68. A pric
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. ProCredit is exposed to credit, currency, tax and geopolitical risk in Eastern Europe including Ukraine, to regulatory capital limits, and to execution risk in its strategy, and its shares are thinly traded and volatile. Investors can lose part or all of their invested capital.
 
-Framework: SF-02 Banks. Economic class: Standard. Engine: residual income with a forward earnings cross-check. Confidence: C/14. Data status and adversarial gate: PASS\_WITH\_WARNING. Version: Master v3.3.
+Method: Master Investment Analysis Framework v3.3. Approach: Residual income with a forward earnings cross-check. Confidence: C/14. Data checks: passed with warnings.

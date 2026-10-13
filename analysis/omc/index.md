@@ -26,7 +26,7 @@ Omnicom is the largest traditional advertising holding company, and since Novemb
 
 At $76.15 on September 25, 2026, the shares trade 17.8% below my triangulated Base value of $92.69, an upside of 21.7%. The Bear value of $58.76 is 22.8% below the price and the Bull value of $121.91 is 60.1% above it. The framework's required margin of safety for a Confidence B score with this much integration risk is 30%, which puts the maximum buy price at $64.88. The shares would need to fall about 14.8% to get there. Until then this is a hold: cheap, but not cheap enough for a new position.
 
-Route: SF-01 Standard Value, price to free cash flow, with SF-10 Dividend Income as a supplement. Economic classification: Standard, borderline Quality growth (6/12). Primary method: price to normalized owner free cash flow. Secondary method: price to normalized earnings. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: Standard Value, price to free cash flow, with Dividend Income as a supplement. Economic classification: Standard, borderline Quality growth (6/12). Primary method: price to normalized owner free cash flow. Secondary method: price to normalized earnings. Values are present fair-value estimates, not 12-month price targets.
 
 ## What Omnicom is
 
@@ -246,7 +246,7 @@ Review with the third-quarter report and the cash-flow update.
 2. Structural deterioration in cash conversion, meaning working capital that does not reverse.
 3. Leverage rising despite the expected synergies.
 
-## Adversarial review
+## Stress test and independent check
 
 The first draft's core arithmetic reconciled: net debt, the dividend yield and the upside followed from its own inputs. But checking it against Omnicom's second-quarter release, investor presentation and 10-K, and against recent news, found rounding and definition problems, and one missing event.
 
@@ -277,7 +277,7 @@ The strongest counter-thesis: Omnicom may look cheap because the market correctl
 | First-half reported run rate ($9.26) at 11x | $101.82 |
 | Bear | $58.76 |
 
-Upward corrections considered: the stronger second-quarter growth, synergies, buybacks and a first-half run rate above the Base. Downward corrections considered: higher leverage, working-capital volatility, integration risk, the PepsiCo loss and only two full quarters of combined results. Audit flags: owner earnings, normalized EPS and the historical range are my estimates, not company data. The trailing EBITDA behind the reported leverage ratio is distorted by the merger. The PepsiCo revenue figure is a trade estimate, not a company number. No unresolved arithmetic error remains. The publication gate status is PASS WITH WARNING.
+Upward corrections considered: the stronger second-quarter growth, synergies, buybacks and a first-half run rate above the Base. Downward corrections considered: higher leverage, working-capital volatility, integration risk, the PepsiCo loss and only two full quarters of combined results. Audit flags: owner earnings, normalized EPS and the historical range are my estimates, not company data. The trailing EBITDA behind the reported leverage ratio is distorted by the merger. The PepsiCo revenue figure is a trade estimate, not a company number. No unresolved arithmetic error remains.
 
 ## Final verdict: hold at $76.15, watchlist for new money below $64.88
 
@@ -299,4 +299,4 @@ The reference market price is $76.15, the September 25, 2026 close. Balance shee
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Omnicom is integrating a very large acquisition, carries materially more debt than before it, and reports adjusted figures that exclude real costs. Investors can lose part or all of their invested capital.
 
-Framework: SF-01 Standard Value with SF-10 Dividend Income. Economic class: Standard, borderline Quality growth. Engine: STANDARD. Confidence: B/19. Data status: PASS WITH WARNING. Adversarial gate: PASS WITH WARNING. Version: Master v3.1.
+Method: Master Investment Analysis Framework v3.1. Confidence: B/19. Data checks: passed with warnings.
