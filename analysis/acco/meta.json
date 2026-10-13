@@ -1,0 +1,20 @@
+{
+  "ticker": "ACCO",
+  "slug": "acco",
+  "name": "ACCO Brands (ACCO)",
+  "company": "ACCO Brands Corporation",
+  "companyShort": "ACCO Brands",
+  "date": "2026-10-13",
+  "order": 75,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $4.54",
+  "price": "$4.54",
+  "base": "$4.94",
+  "upside": "8.8",
+  "upsideText": "+8.8%",
+  "maxBuy": "$2.72",
+  "teaser": "Hold, watchlist for new money. ACCO trades at 5.1 times adjusted earnings, but $802 million of net debt ranks ahead of a $434 million equity value. Base $4.94, buy zone at $2.72 or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $1.93, base $4.94, bull $8.36, current price $4.54, buy zone at or below $2.72\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"1.93\" data-to=\"8.36\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"2.72\"></span>\n        <span class=\"ruler-tick\" data-value=\"1.93\"></span>\n        <span class=\"ruler-tick\" data-value=\"4.94\"></span>\n        <span class=\"ruler-tick\" data-value=\"8.36\"></span>\n        <span class=\"ruler-price\" data-value=\"4.54\"><span>Price $4.54</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"1.93\">Bear<b>$1.93</b></span>\n        <span data-value=\"4.94\">Base<b>$4.94</b></span>\n        <span data-value=\"8.36\">Bull<b>$8.36</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $2.72.</figcaption>\n    </figure>",
+  "llms": "Branded school, office and technology products maker with about $802 million of net debt, valued on enterprise value to normalized EBITDA after stock pay with a price to free cash flow cross-check. Bear $1.93, Base $4.94, Bull $8.36. Verdict HOLD at $4.54 (watchlist for new money), maximum buy price $2.72."
+}
