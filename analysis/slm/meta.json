@@ -1,0 +1,20 @@
+{
+  "ticker": "SLM",
+  "slug": "slm",
+  "name": "Sallie Mae (SLM)",
+  "company": "SLM Corporation",
+  "companyShort": "Sallie Mae",
+  "date": "2026-10-14",
+  "order": 76,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $22.70",
+  "price": "$22.70",
+  "base": "$25.40",
+  "upside": "11.9",
+  "upsideText": "+11.9%",
+  "maxBuy": "$13.97",
+  "teaser": "The market prices Sallie Mae as if its return on equity falls to about 20% for good. Base $25.40, eight days before the peak-season quarter.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $13.66, base $25.40, bull $35.05, current price $22.70, buy zone at or below $13.97\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"13.66\" data-to=\"35.05\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"13.97\"></span>\n        <span class=\"ruler-tick\" data-value=\"13.66\"></span>\n        <span class=\"ruler-tick\" data-value=\"25.40\"></span>\n        <span class=\"ruler-tick\" data-value=\"35.05\"></span>\n        <span class=\"ruler-price\" data-value=\"22.70\"><span>Price $22.70</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"13.66\">Bear<b>$13.66</b></span>\n        <span data-value=\"25.40\">Base<b>$25.40</b></span>\n        <span data-value=\"35.05\">Bull<b>$35.05</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $13.97.</figcaption>\n    </figure>",
+  "llms": "SLM Corporation (Sallie Mae) is the largest US private student lender, funded by Sallie Mae Bank deposits and a loan sale partnership with KKR. Valued with residual income on common equity after preferred stock and a forward earnings cross-check. At $22.70 the price implies a permanent return on equity of about 20.5% against more than 30% earned in each of the last three years. Bear $13.66, Base $25.40, Bull $35.05. Verdict Hold at $22.70, maximum buy price $13.97."
+}
