@@ -1,0 +1,20 @@
+{
+  "ticker": "TUI",
+  "slug": "tui",
+  "name": "TUI AG (TUI)",
+  "company": "TUI AG",
+  "companyShort": "TUI",
+  "date": "2026-10-15",
+  "order": 77,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at €6.58",
+  "price": "€6.58",
+  "base": "€9.40",
+  "upside": "42.8",
+  "upsideText": "+42.8%",
+  "maxBuy": "€4.23",
+  "teaser": "TUI's half of TUI Cruises and its other joint ventures is worth more than the whole €3,339 million market value at 8 times earnings, while the travel business itself produced -€266.1 million of cash for shareholders over the last twelve months. My Base is €9.40, 42.8% above €6.58, but with Confidence D the call is Hold, with a maximum buy price of €4.23.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €4.82, base €9.40, bull €11.90, current price €6.58, buy zone at or below €4.23\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"4.82\" data-to=\"11.90\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"4.23\"></span>\n        <span class=\"ruler-tick\" data-value=\"4.82\"></span>\n        <span class=\"ruler-tick\" data-value=\"9.40\"></span>\n        <span class=\"ruler-tick\" data-value=\"11.90\"></span>\n        <span class=\"ruler-price\" data-value=\"6.58\"><span>Price €6.58</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"4.82\">Bear<b>€4.82</b></span>\n        <span data-value=\"9.40\">Base<b>€9.40</b></span>\n        <span data-value=\"11.90\">Bull<b>€11.90</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €4.23.</figcaption>\n    </figure>",
+  "llms": "German integrated leisure travel group (tour operator and airlines, Riu and other hotels through a 50% owned hotel company, a 50% stake in the TUI Cruises joint venture, tours and activities), fiscal year ending September 30. Valued on the cash that reaches TUI shareholders after all investment, IFRS lease principal, cash interest and minority dividends, with joint venture cash counted only as dividends received (60%), cross-checked with an EV/EBITDA sum of the parts on core EBITDA excluding the joint venture result (40%); values are fair value today as of October 14, 2026. Main finding: the joint venture stakes carry 84% of the cash-model value and are worth about EUR 3,760 million at 8x earnings against a EUR 3,339 million market value, while the consolidated business produced EUR -266.1 million of shareholder cash over the last twelve months and invests 1.42x to 1.53x depreciation; the price implies underlying EBIT about EUR 159 million a year below the Base path. Bear EUR 4.82, Base EUR 9.40, Bull EUR 11.90. Verdict HOLD at EUR 6.58 (Confidence D, required margin of safety 55%), maximum buy price EUR 4.23 (band EUR 3.44 to EUR 4.88)."
+}
