@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -161,9 +161,9 @@
       <table class="wide">
         <thead><tr><th>Case</th><th class="num">Sustainable ROE</th><th class="num">P/B</th><th class="num">Book value / share</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">10.5%</td><td class="num">0.85x</td><td class="num">$63.01</td><td class="num">$53.56</td></tr>
-          <tr><td>Base</td><td class="num">12.5%</td><td class="num">1.20x</td><td class="num">$63.01</td><td class="num">$75.61</td></tr>
-          <tr><td>Bull</td><td class="num">14.5%</td><td class="num">1.50x</td><td class="num">$63.01</td><td class="num">$94.52</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="Sustainable ROE">10.5%</td><td class="num" data-label="P/B">0.85x</td><td class="num" data-label="Book value / share">$63.01</td><td class="num" data-label="Value per share">$53.56</td></tr>
+          <tr><td>Base</td><td class="num" data-label="Sustainable ROE">12.5%</td><td class="num" data-label="P/B">1.20x</td><td class="num" data-label="Book value / share">$63.01</td><td class="num" data-label="Value per share">$75.61</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="Sustainable ROE">14.5%</td><td class="num" data-label="P/B">1.50x</td><td class="num" data-label="Book value / share">$63.01</td><td class="num" data-label="Value per share">$94.52</td></tr>
         </tbody>
       </table>
     </div>
@@ -171,24 +171,24 @@
 
     <h3>Sensitivity to book value and the multiple</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Book value per share</th><th class="num">0.85x</th><th class="num">1.20x</th><th class="num">1.50x</th></tr></thead>
         <tbody>
-          <tr><td>$60.00</td><td class="num">$51.0</td><td class="num">$72.0</td><td class="num">$90.0</td></tr>
-          <tr><td>$63.01</td><td class="num">$53.6</td><td class="num">$75.6</td><td class="num">$94.5</td></tr>
-          <tr><td>$67.00</td><td class="num">$57.0</td><td class="num">$80.4</td><td class="num">$100.5</td></tr>
+          <tr><td>$60.00</td><td class="num" data-label="0.85x">$51.0</td><td class="num" data-label="1.20x">$72.0</td><td class="num" data-label="1.50x">$90.0</td></tr>
+          <tr><td>$63.01</td><td class="num" data-label="0.85x">$53.6</td><td class="num" data-label="1.20x">$75.6</td><td class="num" data-label="1.50x">$94.5</td></tr>
+          <tr><td>$67.00</td><td class="num" data-label="0.85x">$57.0</td><td class="num" data-label="1.20x">$80.4</td><td class="num" data-label="1.50x">$100.5</td></tr>
         </tbody>
       </table>
     </div>
 
     <h2 id="secondary">Secondary valuation: normalized price to earnings</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Case</th><th class="num">Normalized EPS</th><th class="num">P/E</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$6.60</td><td class="num">8x</td><td class="num">$52.80</td></tr>
-          <tr><td>Base</td><td class="num">$7.50</td><td class="num">10x</td><td class="num">$75.00</td></tr>
-          <tr><td>Bull</td><td class="num">$8.20</td><td class="num">12x</td><td class="num">$98.40</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="Normalized EPS">$6.60</td><td class="num" data-label="P/E">8x</td><td class="num" data-label="Value per share">$52.80</td></tr>
+          <tr><td>Base</td><td class="num" data-label="Normalized EPS">$7.50</td><td class="num" data-label="P/E">10x</td><td class="num" data-label="Value per share">$75.00</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="Normalized EPS">$8.20</td><td class="num" data-label="P/E">12x</td><td class="num" data-label="Value per share">$98.40</td></tr>
         </tbody>
       </table>
     </div>
@@ -215,13 +215,13 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Main assumptions</td><td class="num">Credit losses rise from today's low level, sustainable ROE about 10.5%</td><td class="num">Credit normalizes gradually, ROE about 12.5%, the multiple re-rates to about 1.2x book</td><td class="num">Credit stays benign, reinsurance earns its capital, ROE about 14.5%</td></tr>
-          <tr><td>Normalized EPS</td><td class="num">$6.60</td><td class="num">$7.50</td><td class="num">$8.20</td></tr>
-          <tr><td>Value per share</td><td class="num">$53.30</td><td class="num">$75.40</td><td class="num">$95.90</td></tr>
-          <tr><td>Versus $60.49</td><td class="num">-11.9%</td><td class="num">+24.6%</td><td class="num">+58.5%</td></tr>
+          <tr><td>Main assumptions</td><td class="num" data-label="Bear">Credit losses rise from today's low level, sustainable ROE about 10.5%</td><td class="num" data-label="Base">Credit normalizes gradually, ROE about 12.5%, the multiple re-rates to about 1.2x book</td><td class="num" data-label="Bull">Credit stays benign, reinsurance earns its capital, ROE about 14.5%</td></tr>
+          <tr><td>Normalized EPS</td><td class="num" data-label="Bear">$6.60</td><td class="num" data-label="Base">$7.50</td><td class="num" data-label="Bull">$8.20</td></tr>
+          <tr><td>Value per share</td><td class="num" data-label="Bear">$53.30</td><td class="num" data-label="Base">$75.40</td><td class="num" data-label="Bull">$95.90</td></tr>
+          <tr><td>Versus $60.49</td><td class="num" data-label="Bear">-11.9%</td><td class="num" data-label="Base">+24.6%</td><td class="num" data-label="Bull">+58.5%</td></tr>
         </tbody>
       </table>
     </div>

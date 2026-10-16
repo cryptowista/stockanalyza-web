@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -168,24 +168,24 @@
 
     <h2 id="valuation">Primary valuation: price to CAD (hard AFFO)</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Case</th><th class="num">Hard AFFO/share</th><th class="num">Multiple</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$0.22</td><td class="num">7.5x</td><td class="num">$1.65</td></tr>
-          <tr><td>Base</td><td class="num">$0.31</td><td class="num">11x</td><td class="num">$3.41</td></tr>
-          <tr><td>Bull</td><td class="num">$0.40</td><td class="num">14x</td><td class="num">$5.60</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="Hard AFFO/share">$0.22</td><td class="num" data-label="Multiple">7.5x</td><td class="num" data-label="Value per share">$1.65</td></tr>
+          <tr><td>Base</td><td class="num" data-label="Hard AFFO/share">$0.31</td><td class="num" data-label="Multiple">11x</td><td class="num" data-label="Value per share">$3.41</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="Hard AFFO/share">$0.40</td><td class="num" data-label="Multiple">14x</td><td class="num" data-label="Value per share">$5.60</td></tr>
         </tbody>
       </table>
     </div>
     <p>The multiples are low relative to a healthy REIT, deliberately: Brandywine is carrying office-sector structural risk on top of leverage well above the sector median. The primary Base is <strong>$3.41</strong>.</p>
     <h3>Sensitivity: hard AFFO and multiple</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Hard AFFO \ Multiple</th><th class="num">8x</th><th class="num">11x</th><th class="num">14x</th></tr></thead>
         <tbody>
-          <tr><td>$0.22</td><td class="num">$1.76</td><td class="num">$2.42</td><td class="num">$3.08</td></tr>
-          <tr><td>$0.31</td><td class="num">$2.48</td><td class="num">$3.41</td><td class="num">$4.34</td></tr>
-          <tr><td>$0.40</td><td class="num">$3.20</td><td class="num">$4.40</td><td class="num">$5.60</td></tr>
+          <tr><td>$0.22</td><td class="num" data-label="8x">$1.76</td><td class="num" data-label="11x">$2.42</td><td class="num" data-label="14x">$3.08</td></tr>
+          <tr><td>$0.31</td><td class="num" data-label="8x">$2.48</td><td class="num" data-label="11x">$3.41</td><td class="num" data-label="14x">$4.34</td></tr>
+          <tr><td>$0.40</td><td class="num" data-label="8x">$3.20</td><td class="num" data-label="11x">$4.40</td><td class="num" data-label="14x">$5.60</td></tr>
         </tbody>
       </table>
     </div>
@@ -224,13 +224,13 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Main assumptions</td><td class="num">Occupancy slips, cash rent spreads stay negative, 2027 refinancing is expensive or forces asset sales at a discount</td><td class="num">Occupancy holds near 90%, dispositions keep reducing debt, refinancing gets done on the current rate curve</td><td class="num">Occupancy climbs, leasing economics turn positive, development delivers, credit rating stabilizes or improves</td></tr>
-          <tr><td>Hard AFFO/share</td><td class="num">$0.22</td><td class="num">$0.31</td><td class="num">$0.40</td></tr>
-          <tr><td>Value per share</td><td class="num">$1.70</td><td class="num">$3.45</td><td class="num">$5.29</td></tr>
-          <tr><td>Versus $2.86</td><td class="num">-40.7%</td><td class="num">+20.6%</td><td class="num">+84.8%</td></tr>
+          <tr><td>Main assumptions</td><td class="num" data-label="Bear">Occupancy slips, cash rent spreads stay negative, 2027 refinancing is expensive or forces asset sales at a discount</td><td class="num" data-label="Base">Occupancy holds near 90%, dispositions keep reducing debt, refinancing gets done on the current rate curve</td><td class="num" data-label="Bull">Occupancy climbs, leasing economics turn positive, development delivers, credit rating stabilizes or improves</td></tr>
+          <tr><td>Hard AFFO/share</td><td class="num" data-label="Bear">$0.22</td><td class="num" data-label="Base">$0.31</td><td class="num" data-label="Bull">$0.40</td></tr>
+          <tr><td>Value per share</td><td class="num" data-label="Bear">$1.70</td><td class="num" data-label="Base">$3.45</td><td class="num" data-label="Bull">$5.29</td></tr>
+          <tr><td>Versus $2.86</td><td class="num" data-label="Bear">-40.7%</td><td class="num" data-label="Base">+20.6%</td><td class="num" data-label="Bull">+84.8%</td></tr>
         </tbody>
       </table>
     </div>

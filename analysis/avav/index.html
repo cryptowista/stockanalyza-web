@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -147,12 +147,12 @@
 
     <h2 id="valuation">Primary valuation: forward EV to sales</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Scenario</th><th class="num">Fiscal 2028 revenue</th><th class="num">EV to sales</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$2.15 billion</td><td class="num">2.5x</td><td class="num">$102.31</td></tr>
-          <tr><td>Base</td><td class="num">$2.50 billion</td><td class="num">3.2x</td><td class="num">$152.79</td></tr>
-          <tr><td>Bull</td><td class="num">$2.85 billion</td><td class="num">4.0x</td><td class="num">$218.17</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="Fiscal 2028 revenue">$2.15 billion</td><td class="num" data-label="EV to sales">2.5x</td><td class="num" data-label="Value per share">$102.31</td></tr>
+          <tr><td>Base</td><td class="num" data-label="Fiscal 2028 revenue">$2.50 billion</td><td class="num" data-label="EV to sales">3.2x</td><td class="num" data-label="Value per share">$152.79</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="Fiscal 2028 revenue">$2.85 billion</td><td class="num" data-label="EV to sales">4.0x</td><td class="num" data-label="Value per share">$218.17</td></tr>
         </tbody>
       </table>
     </div>
@@ -183,14 +183,14 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Probability</td><td class="num">25%</td><td class="num">50%</td><td class="num">25%</td></tr>
-          <tr><td>Fiscal 2028 revenue</td><td class="num">$2.15 billion</td><td class="num">$2.50 billion</td><td class="num">$2.85 billion</td></tr>
-          <tr><td>EV to sales</td><td class="num">2.5x</td><td class="num">3.2x</td><td class="num">4.0x</td></tr>
+          <tr><td>Probability</td><td class="num" data-label="Bear">25%</td><td class="num" data-label="Base">50%</td><td class="num" data-label="Bull">25%</td></tr>
+          <tr><td>Fiscal 2028 revenue</td><td class="num" data-label="Bear">$2.15 billion</td><td class="num" data-label="Base">$2.50 billion</td><td class="num" data-label="Bull">$2.85 billion</td></tr>
+          <tr><td>EV to sales</td><td class="num" data-label="Bear">2.5x</td><td class="num" data-label="Base">3.2x</td><td class="num" data-label="Bull">4.0x</td></tr>
           <tr class="total"><td>Value per share</td><td class="num">$102.31</td><td class="num">$143.50</td><td class="num">$218.17</td></tr>
-          <tr><td>vs $158.55</td><td class="num">-35.5%</td><td class="num">-9.5%</td><td class="num">+37.6%</td></tr>
+          <tr><td>vs $158.55</td><td class="num" data-label="Bear">-35.5%</td><td class="num" data-label="Base">-9.5%</td><td class="num" data-label="Bull">+37.6%</td></tr>
         </tbody>
       </table>
     </div>
@@ -199,12 +199,12 @@
 
     <h3>Sensitivity: primary value per share</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Revenue \ EV to sales</th><th class="num">2.5x</th><th class="num">3.2x</th><th class="num">4.0x</th></tr></thead>
         <tbody>
-          <tr><td>$2.2 billion</td><td class="num">$104.71</td><td class="num">$134.33</td><td class="num">$168.17</td></tr>
-          <tr><td>$2.5 billion</td><td class="num">$119.13</td><td class="num">$152.79</td><td class="num">$191.25</td></tr>
-          <tr><td>$2.8 billion</td><td class="num">$133.56</td><td class="num">$171.25</td><td class="num">$214.33</td></tr>
+          <tr><td>$2.2 billion</td><td class="num" data-label="2.5x">$104.71</td><td class="num" data-label="3.2x">$134.33</td><td class="num" data-label="4.0x">$168.17</td></tr>
+          <tr><td>$2.5 billion</td><td class="num" data-label="2.5x">$119.13</td><td class="num" data-label="3.2x">$152.79</td><td class="num" data-label="4.0x">$191.25</td></tr>
+          <tr><td>$2.8 billion</td><td class="num" data-label="2.5x">$133.56</td><td class="num" data-label="3.2x">$171.25</td><td class="num" data-label="4.0x">$214.33</td></tr>
         </tbody>
       </table>
     </div>

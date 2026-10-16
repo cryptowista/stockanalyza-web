@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -198,17 +198,17 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Probability</td><td class="num">35%</td><td class="num">45%</td><td class="num">20%</td></tr>
-          <tr><td>Operating adjusted EBITDA ($ million)</td><td class="num">145</td><td class="num">185</td><td class="num">215</td></tr>
-          <tr><td>EV to EBITDA</td><td class="num">4.0x</td><td class="num">5.0x</td><td class="num">6.0x</td></tr>
-          <tr><td>Investment impairment ($ million)</td><td class="num">80 (-10%)</td><td class="num">0</td><td class="num">0</td></tr>
-          <tr><td>Common earnings ($ million) at multiple</td><td class="num">30 at 6x</td><td class="num">50 at 7.5x</td><td class="num">60 at 8x</td></tr>
-          <tr><td>Sum of the parts / earnings value</td><td class="num">$1.58 / $4.48</td><td class="num">$9.20 / $9.33</td><td class="num">$15.74 / $11.94</td></tr>
+          <tr><td>Probability</td><td class="num" data-label="Bear">35%</td><td class="num" data-label="Base">45%</td><td class="num" data-label="Bull">20%</td></tr>
+          <tr><td>Operating adjusted EBITDA ($ million)</td><td class="num" data-label="Bear">145</td><td class="num" data-label="Base">185</td><td class="num" data-label="Bull">215</td></tr>
+          <tr><td>EV to EBITDA</td><td class="num" data-label="Bear">4.0x</td><td class="num" data-label="Base">5.0x</td><td class="num" data-label="Bull">6.0x</td></tr>
+          <tr><td>Investment impairment ($ million)</td><td class="num" data-label="Bear">80 (-10%)</td><td class="num" data-label="Base">0</td><td class="num" data-label="Bull">0</td></tr>
+          <tr><td>Common earnings ($ million) at multiple</td><td class="num" data-label="Bear">30 at 6x</td><td class="num" data-label="Base">50 at 7.5x</td><td class="num" data-label="Bull">60 at 8x</td></tr>
+          <tr><td>Sum of the parts / earnings value</td><td class="num" data-label="Bear">$1.58 / $4.48</td><td class="num" data-label="Base">$9.20 / $9.33</td><td class="num" data-label="Bull">$15.74 / $11.94</td></tr>
           <tr class="total"><td>Triangulated value</td><td class="num">$2.45</td><td class="num">$9.24</td><td class="num">$14.60</td></tr>
-          <tr><td>vs $5.76</td><td class="num">-57.5%</td><td class="num">+60.4%</td><td class="num">+153.4%</td></tr>
+          <tr><td>vs $5.76</td><td class="num" data-label="Bear">-57.5%</td><td class="num" data-label="Base">+60.4%</td><td class="num" data-label="Bull">+153.4%</td></tr>
         </tbody>
       </table>
     </div>
@@ -217,12 +217,12 @@
 
     <h3>Sensitivity: sum of the parts value per share</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Operating EBITDA \ Multiple</th><th class="num">4x</th><th class="num">5x</th><th class="num">6x</th></tr></thead>
         <tbody>
-          <tr><td>$145 million</td><td class="num">$3.02</td><td class="num">$5.62</td><td class="num">$8.21</td></tr>
-          <tr><td>$185 million</td><td class="num">$5.89</td><td class="num">$9.20</td><td class="num">$12.51</td></tr>
-          <tr><td>$215 million</td><td class="num">$8.03</td><td class="num">$11.89</td><td class="num">$15.74</td></tr>
+          <tr><td>$145 million</td><td class="num" data-label="4x">$3.02</td><td class="num" data-label="5x">$5.62</td><td class="num" data-label="6x">$8.21</td></tr>
+          <tr><td>$185 million</td><td class="num" data-label="4x">$5.89</td><td class="num" data-label="5x">$9.20</td><td class="num" data-label="6x">$12.51</td></tr>
+          <tr><td>$215 million</td><td class="num" data-label="4x">$8.03</td><td class="num" data-label="5x">$11.89</td><td class="num" data-label="6x">$15.74</td></tr>
         </tbody>
       </table>
     </div>

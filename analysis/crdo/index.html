@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -154,12 +154,12 @@
     <p>Fiscal 2027 consensus free cash flow of $826.9 million divided by 198 million shares is <strong>$4.18 a share</strong>. A multiple of 33x to 36x, which is meant to reflect growth and quality net of concentration, dilution and cycle risk, gives $137.82 to $150.35. The midpoint of 34.5x gives <strong>$144.08</strong>. The first draft showed the central value as $145; I use the unrounded figure. The multiple is my assumption, not the output of a build, so the grid below tests it.</p>
     <h3>Sensitivity: value per share</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Fiscal 2027 free cash flow \ multiple</th><th class="num">31.5x</th><th class="num">34.5x</th><th class="num">37.5x</th></tr></thead>
         <tbody>
-          <tr><td>$660 million (20% below consensus)</td><td class="num">$105.0</td><td class="num">$115.0</td><td class="num">$125.0</td></tr>
-          <tr><td>$827 million (consensus)</td><td class="num">$131.6</td><td class="num">$144.1</td><td class="num">$156.6</td></tr>
-          <tr><td>$950 million (high case)</td><td class="num">$151.1</td><td class="num">$165.5</td><td class="num">$179.9</td></tr>
+          <tr><td>$660 million (20% below consensus)</td><td class="num" data-label="31.5x">$105.0</td><td class="num" data-label="34.5x">$115.0</td><td class="num" data-label="37.5x">$125.0</td></tr>
+          <tr><td>$827 million (consensus)</td><td class="num" data-label="31.5x">$131.6</td><td class="num" data-label="34.5x">$144.1</td><td class="num" data-label="37.5x">$156.6</td></tr>
+          <tr><td>$950 million (high case)</td><td class="num" data-label="31.5x">$151.1</td><td class="num" data-label="34.5x">$165.5</td><td class="num" data-label="37.5x">$179.9</td></tr>
         </tbody>
       </table>
     </div>
@@ -168,14 +168,14 @@
     <h2 id="secondary">Secondary valuation: ten-year free cash flow model</h2>
     <p>The secondary method does not use the multiple. It starts from fiscal 2026 free cash flow of $407.0 million, grows it along an explicit path, discounts it, and adds net cash of $764.3 million, all divided by 198 million shares. The first draft gave the Base growth path but no inputs for the Bear and Bull cases, so the paths below for those two are mine and are estimates.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Free cash flow, fiscal 2027</td><td class="num">$700 million</td><td class="num">$826 million</td><td class="num">$948 million</td></tr>
-          <tr><td>Growth, years 2 to 10</td><td class="num">32% fading to 4%</td><td class="num">35% fading to 5%</td><td class="num">40% fading to 5%</td></tr>
-          <tr><td>Free cash flow, year 10</td><td class="num">$2.18 billion</td><td class="num">$3.19 billion</td><td class="num">$4.25 billion</td></tr>
-          <tr><td>Discount rate / terminal growth</td><td class="num">11% / 2.5%</td><td class="num">10% / 3.0%</td><td class="num">9% / 3.0%</td></tr>
-          <tr><td>Terminal value share of total</td><td class="num">53%</td><td class="num">61%</td><td class="num">66%</td></tr>
+          <tr><td>Free cash flow, fiscal 2027</td><td class="num" data-label="Bear">$700 million</td><td class="num" data-label="Base">$826 million</td><td class="num" data-label="Bull">$948 million</td></tr>
+          <tr><td>Growth, years 2 to 10</td><td class="num" data-label="Bear">32% fading to 4%</td><td class="num" data-label="Base">35% fading to 5%</td><td class="num" data-label="Bull">40% fading to 5%</td></tr>
+          <tr><td>Free cash flow, year 10</td><td class="num" data-label="Bear">$2.18 billion</td><td class="num" data-label="Base">$3.19 billion</td><td class="num" data-label="Bull">$4.25 billion</td></tr>
+          <tr><td>Discount rate / terminal growth</td><td class="num" data-label="Bear">11% / 2.5%</td><td class="num" data-label="Base">10% / 3.0%</td><td class="num" data-label="Bull">9% / 3.0%</td></tr>
+          <tr><td>Terminal value share of total</td><td class="num" data-label="Bear">53%</td><td class="num" data-label="Base">61%</td><td class="num" data-label="Bull">66%</td></tr>
           <tr class="total"><td>Value per share</td><td class="num">$92.46</td><td class="num">$154.23</td><td class="num">$240.08</td></tr>
         </tbody>
       </table>
@@ -183,12 +183,12 @@
     <p>Base growth runs 103%, then 35%, 28%, 22%, 18%, 14%, 11%, 9%, 7% and 5%. The <strong>secondary Base is $154.23</strong>. The Bear case is not a collapse: it still has free cash flow growing 5.4 times by year 10. For a harsher test, the Base path with fiscal 2027 free cash flow 40% lower gives $94.</p>
     <h3>Sensitivity of the Base model: value per share</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Discount rate \ terminal growth</th><th class="num">2.0%</th><th class="num">2.5%</th><th class="num">3.0%</th></tr></thead>
         <tbody>
-          <tr><td>9%</td><td class="num">$165</td><td class="num">$173</td><td class="num">$183</td></tr>
-          <tr><td>10%</td><td class="num">$142</td><td class="num">$148</td><td class="num">$154</td></tr>
-          <tr><td>11%</td><td class="num">$124</td><td class="num">$128</td><td class="num">$133</td></tr>
+          <tr><td>9%</td><td class="num" data-label="2.0%">$165</td><td class="num" data-label="2.5%">$173</td><td class="num" data-label="3.0%">$183</td></tr>
+          <tr><td>10%</td><td class="num" data-label="2.0%">$142</td><td class="num" data-label="2.5%">$148</td><td class="num" data-label="3.0%">$154</td></tr>
+          <tr><td>11%</td><td class="num" data-label="2.0%">$124</td><td class="num" data-label="2.5%">$128</td><td class="num" data-label="3.0%">$133</td></tr>
         </tbody>
       </table>
     </div>
@@ -217,13 +217,13 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Main assumptions</td><td class="num">Slower optical ramp, order volatility at the largest customers, persistent dilution, higher discount rate</td><td class="num">Fiscal 2027 consensus broadly achieved, gradual growth fade, strong margins</td><td class="num">Sustained share gains, optical integrated well, customer concentration falls, lower discount rate</td></tr>
-          <tr><td>Free cash flow, fiscal 2027</td><td class="num">$700 million</td><td class="num">$827 million</td><td class="num">$948 million</td></tr>
+          <tr><td>Main assumptions</td><td class="num" data-label="Bear">Slower optical ramp, order volatility at the largest customers, persistent dilution, higher discount rate</td><td class="num" data-label="Base">Fiscal 2027 consensus broadly achieved, gradual growth fade, strong margins</td><td class="num" data-label="Bull">Sustained share gains, optical integrated well, customer concentration falls, lower discount rate</td></tr>
+          <tr><td>Free cash flow, fiscal 2027</td><td class="num" data-label="Bear">$700 million</td><td class="num" data-label="Base">$827 million</td><td class="num" data-label="Bull">$948 million</td></tr>
           <tr class="total"><td>Value per share</td><td class="num">$92</td><td class="num">$150</td><td class="num">$240</td></tr>
-          <tr><td>Versus $218.64</td><td class="num">-57.7%</td><td class="num">-31.5%</td><td class="num">+9.8%</td></tr>
+          <tr><td>Versus $218.64</td><td class="num" data-label="Bear">-57.7%</td><td class="num" data-label="Base">-31.5%</td><td class="num" data-label="Bull">+9.8%</td></tr>
         </tbody>
       </table>
     </div>

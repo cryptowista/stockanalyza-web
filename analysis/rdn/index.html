@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -155,12 +155,12 @@
 
     <h2 id="secondary">Secondary valuation: normalized adjusted operating P/E</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Case</th><th class="num">Adjusted operating EPS</th><th class="num">P/E</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$3.80</td><td class="num">7.5x</td><td class="num">$28.50</td></tr>
-          <tr><td>Base</td><td class="num">$4.70</td><td class="num">8.5x</td><td class="num">$39.95</td></tr>
-          <tr><td>Bull</td><td class="num">$5.30</td><td class="num">10x</td><td class="num">$53.00</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="Adjusted operating EPS">$3.80</td><td class="num" data-label="P/E">7.5x</td><td class="num" data-label="Value per share">$28.50</td></tr>
+          <tr><td>Base</td><td class="num" data-label="Adjusted operating EPS">$4.70</td><td class="num" data-label="P/E">8.5x</td><td class="num" data-label="Value per share">$39.95</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="Adjusted operating EPS">$5.30</td><td class="num" data-label="P/E">10x</td><td class="num" data-label="Value per share">$53.00</td></tr>
         </tbody>
       </table>
     </div>
@@ -187,13 +187,13 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Main assumptions</td><td class="num">Mortgage losses rise, Specialty underwriting disappoints, sustainable ROE falls below 10%</td><td class="num">Mortgage stays profitable, Inigo performs acceptably, ROE holds around 12.5-13.5%</td><td class="num">Inigo delivers the promised accretion, Specialty underwriting stays disciplined, book value compounds</td></tr>
-          <tr><td>Adjusted operating EPS</td><td class="num">$3.80</td><td class="num">$4.70</td><td class="num">$5.30</td></tr>
-          <tr><td>Value per share</td><td class="num">$29.00</td><td class="num">$40.50</td><td class="num">$50.00</td></tr>
-          <tr><td>Versus $32.86</td><td class="num">-11.7%</td><td class="num">+23.3%</td><td class="num">+52.2%</td></tr>
+          <tr><td>Main assumptions</td><td class="num" data-label="Bear">Mortgage losses rise, Specialty underwriting disappoints, sustainable ROE falls below 10%</td><td class="num" data-label="Base">Mortgage stays profitable, Inigo performs acceptably, ROE holds around 12.5-13.5%</td><td class="num" data-label="Bull">Inigo delivers the promised accretion, Specialty underwriting stays disciplined, book value compounds</td></tr>
+          <tr><td>Adjusted operating EPS</td><td class="num" data-label="Bear">$3.80</td><td class="num" data-label="Base">$4.70</td><td class="num" data-label="Bull">$5.30</td></tr>
+          <tr><td>Value per share</td><td class="num" data-label="Bear">$29.00</td><td class="num" data-label="Base">$40.50</td><td class="num" data-label="Bull">$50.00</td></tr>
+          <tr><td>Versus $32.86</td><td class="num" data-label="Bear">-11.7%</td><td class="num" data-label="Base">+23.3%</td><td class="num" data-label="Bull">+52.2%</td></tr>
         </tbody>
       </table>
     </div>

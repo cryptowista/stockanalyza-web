@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -152,24 +152,24 @@
 
     <h2 id="valuation">Primary valuation: price to normalized free cash flow</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Case</th><th class="num">FCF/share</th><th class="num">Multiple</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$1.19</td><td class="num">10x</td><td class="num">$11.90</td></tr>
-          <tr><td>Base</td><td class="num">$1.78</td><td class="num">12x</td><td class="num">$21.36</td></tr>
-          <tr><td>Bull</td><td class="num">$2.38</td><td class="num">13x</td><td class="num">$30.94</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="FCF/share">$1.19</td><td class="num" data-label="Multiple">10x</td><td class="num" data-label="Value per share">$11.90</td></tr>
+          <tr><td>Base</td><td class="num" data-label="FCF/share">$1.78</td><td class="num" data-label="Multiple">12x</td><td class="num" data-label="Value per share">$21.36</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="FCF/share">$2.38</td><td class="num" data-label="Multiple">13x</td><td class="num" data-label="Value per share">$30.94</td></tr>
         </tbody>
       </table>
     </div>
     <p>The multiples reflect a non-operated E&P with commodity exposure and no control over drilling pace: cheap relative to a stable business, appropriate for one whose cash flow moves with oil prices it doesn't set. The primary Base is <strong>$21.36</strong>.</p>
     <h3>Sensitivity: FCF per share and multiple</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>FCF/share \ Multiple</th><th class="num">10x</th><th class="num">12x</th><th class="num">14x</th></tr></thead>
         <tbody>
-          <tr><td>$1.19</td><td class="num">$11.90</td><td class="num">$14.28</td><td class="num">$16.66</td></tr>
-          <tr><td>$1.78</td><td class="num">$17.80</td><td class="num">$21.36</td><td class="num">$24.92</td></tr>
-          <tr><td>$2.38</td><td class="num">$23.80</td><td class="num">$28.56</td><td class="num">$33.32</td></tr>
+          <tr><td>$1.19</td><td class="num" data-label="10x">$11.90</td><td class="num" data-label="12x">$14.28</td><td class="num" data-label="14x">$16.66</td></tr>
+          <tr><td>$1.78</td><td class="num" data-label="10x">$17.80</td><td class="num" data-label="12x">$21.36</td><td class="num" data-label="14x">$24.92</td></tr>
+          <tr><td>$2.38</td><td class="num" data-label="10x">$23.80</td><td class="num" data-label="12x">$28.56</td><td class="num" data-label="14x">$33.32</td></tr>
         </tbody>
       </table>
     </div>
@@ -209,13 +209,13 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Main assumptions</td><td class="num">Weaker oil prices, elevated capex, slower reserve replacement as new-well economics tighten</td><td class="num">Guidance-level production, disciplined hedging, about $75M of normalized free cash flow</td><td class="num">Strong oil economics, productive third-party drilling, about $100M of free cash flow</td></tr>
-          <tr><td>FCF/share</td><td class="num">$1.19</td><td class="num">$1.78</td><td class="num">$2.38</td></tr>
-          <tr><td>Value per share</td><td class="num">$12.38</td><td class="num">$21.50</td><td class="num">$29.39</td></tr>
-          <tr><td>Versus $16.75</td><td class="num">-26.1%</td><td class="num">+28.4%</td><td class="num">+75.4%</td></tr>
+          <tr><td>Main assumptions</td><td class="num" data-label="Bear">Weaker oil prices, elevated capex, slower reserve replacement as new-well economics tighten</td><td class="num" data-label="Base">Guidance-level production, disciplined hedging, about $75M of normalized free cash flow</td><td class="num" data-label="Bull">Strong oil economics, productive third-party drilling, about $100M of free cash flow</td></tr>
+          <tr><td>FCF/share</td><td class="num" data-label="Bear">$1.19</td><td class="num" data-label="Base">$1.78</td><td class="num" data-label="Bull">$2.38</td></tr>
+          <tr><td>Value per share</td><td class="num" data-label="Bear">$12.38</td><td class="num" data-label="Base">$21.50</td><td class="num" data-label="Bull">$29.39</td></tr>
+          <tr><td>Versus $16.75</td><td class="num" data-label="Bear">-26.1%</td><td class="num" data-label="Base">+28.4%</td><td class="num" data-label="Bull">+75.4%</td></tr>
         </tbody>
       </table>
     </div>

@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -133,13 +133,13 @@
 
     <h2 id="valuation">Primary valuation: 10-year two-stage DCF</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Parameter</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Hard FCF growth, years 1 to 5</td><td class="num">10%</td><td class="num">14%</td><td class="num">17%</td></tr>
-          <tr><td>Growth fading linearly to year 10</td><td class="num">6%</td><td class="num">8%</td><td class="num">10%</td></tr>
-          <tr><td>Discount rate</td><td class="num">10.0%</td><td class="num">9.0%</td><td class="num">8.5%</td></tr>
-          <tr><td>Terminal growth</td><td class="num">2.0%</td><td class="num">2.5%</td><td class="num">2.75%</td></tr>
+          <tr><td>Hard FCF growth, years 1 to 5</td><td class="num" data-label="Bear">10%</td><td class="num" data-label="Base">14%</td><td class="num" data-label="Bull">17%</td></tr>
+          <tr><td>Growth fading linearly to year 10</td><td class="num" data-label="Bear">6%</td><td class="num" data-label="Base">8%</td><td class="num" data-label="Bull">10%</td></tr>
+          <tr><td>Discount rate</td><td class="num" data-label="Bear">10.0%</td><td class="num" data-label="Base">9.0%</td><td class="num" data-label="Bull">8.5%</td></tr>
+          <tr><td>Terminal growth</td><td class="num" data-label="Bear">2.0%</td><td class="num" data-label="Base">2.5%</td><td class="num" data-label="Bull">2.75%</td></tr>
           <tr class="total"><td>Value per share</td><td class="num">$185.10</td><td class="num">$277.99</td><td class="num">$376.24</td></tr>
         </tbody>
       </table>
@@ -148,12 +148,12 @@
 
     <h3>Sensitivity: Base DCF value per share</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Discount rate \ Terminal growth</th><th class="num">2.0%</th><th class="num">2.5%</th><th class="num">3.0%</th></tr></thead>
         <tbody>
-          <tr><td>8.0%</td><td class="num">$312.20</td><td class="num">$330.40</td><td class="num">$352.20</td></tr>
-          <tr><td>9.0%</td><td class="num">$265.90</td><td class="num">$278.00</td><td class="num">$292.10</td></tr>
-          <tr><td>10.0%</td><td class="num">$231.40</td><td class="num">$239.80</td><td class="num">$249.50</td></tr>
+          <tr><td>8.0%</td><td class="num" data-label="2.0%">$312.20</td><td class="num" data-label="2.5%">$330.40</td><td class="num" data-label="3.0%">$352.20</td></tr>
+          <tr><td>9.0%</td><td class="num" data-label="2.0%">$265.90</td><td class="num" data-label="2.5%">$278.00</td><td class="num" data-label="3.0%">$292.10</td></tr>
+          <tr><td>10.0%</td><td class="num" data-label="2.0%">$231.40</td><td class="num" data-label="2.5%">$239.80</td><td class="num" data-label="3.0%">$249.50</td></tr>
         </tbody>
       </table>
     </div>
@@ -184,12 +184,12 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Probability</td><td class="num">20%</td><td class="num">55%</td><td class="num">25%</td></tr>
+          <tr><td>Probability</td><td class="num" data-label="Bear">20%</td><td class="num" data-label="Base">55%</td><td class="num" data-label="Bull">25%</td></tr>
           <tr class="total"><td>Value per share</td><td class="num">$185.10</td><td class="num">$289.88</td><td class="num">$376.24</td></tr>
-          <tr><td>vs $399.52</td><td class="num">-53.7%</td><td class="num">-27.4%</td><td class="num">-5.8%</td></tr>
+          <tr><td>vs $399.52</td><td class="num" data-label="Bear">-53.7%</td><td class="num" data-label="Base">-27.4%</td><td class="num" data-label="Bull">-5.8%</td></tr>
         </tbody>
       </table>
     </div>

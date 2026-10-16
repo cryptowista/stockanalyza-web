@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -170,12 +170,12 @@
     <h2 id="valuation">Primary valuation: growth-adjusted EV/EBITDA</h2>
     <p>Enterprise value (EV) is market value plus debt minus cash. I apply a multiple to normalized 2027 EBITDA, subtract the 14.5% minority share of the operating business and add net cash of $628.7 million. The multiples are assumptions, not outputs of a peer table I could not build: <strong>14x</strong> in the Bear case, <strong>24x</strong> in the Base and <strong>32x</strong> in the Bull. The Base multiple works out to about 16x my 2028 Base EBITDA, inside the 12x to 18x tier the framework uses for quality manufacturers, which fits growth that is still above 40% a year. The grid below tests it.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Case</th><th class="num">EBITDA 2027</th><th class="num">EV/EBITDA</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$106 million</td><td class="num">14x</td><td class="num">$28</td></tr>
-          <tr><td>Base</td><td class="num">$162 million</td><td class="num">24x</td><td class="num">$59</td></tr>
-          <tr><td>Bull</td><td class="num">$201 million</td><td class="num">32x</td><td class="num">$92</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="EBITDA 2027">$106 million</td><td class="num" data-label="EV/EBITDA">14x</td><td class="num" data-label="Value per share">$28</td></tr>
+          <tr><td>Base</td><td class="num" data-label="EBITDA 2027">$162 million</td><td class="num" data-label="EV/EBITDA">24x</td><td class="num" data-label="Value per share">$59</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="EBITDA 2027">$201 million</td><td class="num" data-label="EV/EBITDA">32x</td><td class="num" data-label="Value per share">$92</td></tr>
         </tbody>
       </table>
     </div>
@@ -183,12 +183,12 @@
 
     <h3>Sensitivity: value per share</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>EBITDA \ EV/EBITDA</th><th class="num">20x</th><th class="num">24x</th><th class="num">28x</th></tr></thead>
         <tbody>
-          <tr><td>$130 million</td><td class="num">$43</td><td class="num">$50</td><td class="num">$56</td></tr>
-          <tr><td>$162 million</td><td class="num">$51</td><td class="num">$59</td><td class="num">$68</td></tr>
-          <tr><td>$200 million</td><td class="num">$61</td><td class="num">$71</td><td class="num">$82</td></tr>
+          <tr><td>$130 million</td><td class="num" data-label="20x">$43</td><td class="num" data-label="24x">$50</td><td class="num" data-label="28x">$56</td></tr>
+          <tr><td>$162 million</td><td class="num" data-label="20x">$51</td><td class="num" data-label="24x">$59</td><td class="num" data-label="28x">$68</td></tr>
+          <tr><td>$200 million</td><td class="num" data-label="20x">$61</td><td class="num" data-label="24x">$71</td><td class="num" data-label="28x">$82</td></tr>
         </tbody>
       </table>
     </div>
@@ -197,16 +197,16 @@
     <h2 id="secondary">Secondary valuation: ten-year free cash flow model</h2>
     <p>The secondary method does not use a multiple. It discounts ten years of free cash flow from 2027 to 2036, deducts the minority share, adds the same net cash and divides by the same shares. Free cash flow is operating profit after 14% tax (China's rate is 15%, and the second-quarter effective rate was 13.9%), plus depreciation, minus capital spending, minus working capital at 25% of each revenue increase, minus SBC. Capital spending is $100 million in 2027, the plan an analyst cited on the call and management confirmed, then $90 million, $80 million and $70 million, and 6% of revenue after that. Interest income is left out because the cash is already in the bridge.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Revenue 2027 / 2028 / 2029</td><td class="num">$330 / 380 / 360 million</td><td class="num">$415 / 590 / 740 million</td><td class="num">$470 / 720 / 960 million</td></tr>
-          <tr><td>Operating margin 2027 / 2029</td><td class="num">27.8% / 18.6%</td><td class="num">35.4% / 36.0%</td><td class="num">39.4% / 42.0%</td></tr>
-          <tr><td>Revenue in 2036</td><td class="num">$443 million</td><td class="num">$1,150 million</td><td class="num">$1,730 million</td></tr>
-          <tr><td>Operating margin, long run</td><td class="num">17%</td><td class="num">32%</td><td class="num">37%</td></tr>
-          <tr><td>Free cash flow 2029</td><td class="num">$37 million</td><td class="num">$137 million</td><td class="num">$217 million</td></tr>
-          <tr><td>Discount rate / terminal growth</td><td class="num">12.5% / 2.0%</td><td class="num">11.0% / 2.5%</td><td class="num">10.0% / 3.0%</td></tr>
-          <tr><td>Terminal value share of total</td><td class="num">47%</td><td class="num">56%</td><td class="num">62%</td></tr>
+          <tr><td>Revenue 2027 / 2028 / 2029</td><td class="num" data-label="Bear">$330 / 380 / 360 million</td><td class="num" data-label="Base">$415 / 590 / 740 million</td><td class="num" data-label="Bull">$470 / 720 / 960 million</td></tr>
+          <tr><td>Operating margin 2027 / 2029</td><td class="num" data-label="Bear">27.8% / 18.6%</td><td class="num" data-label="Base">35.4% / 36.0%</td><td class="num" data-label="Bull">39.4% / 42.0%</td></tr>
+          <tr><td>Revenue in 2036</td><td class="num" data-label="Bear">$443 million</td><td class="num" data-label="Base">$1,150 million</td><td class="num" data-label="Bull">$1,730 million</td></tr>
+          <tr><td>Operating margin, long run</td><td class="num" data-label="Bear">17%</td><td class="num" data-label="Base">32%</td><td class="num" data-label="Bull">37%</td></tr>
+          <tr><td>Free cash flow 2029</td><td class="num" data-label="Bear">$37 million</td><td class="num" data-label="Base">$137 million</td><td class="num" data-label="Bull">$217 million</td></tr>
+          <tr><td>Discount rate / terminal growth</td><td class="num" data-label="Bear">12.5% / 2.0%</td><td class="num" data-label="Base">11.0% / 2.5%</td><td class="num" data-label="Bull">10.0% / 3.0%</td></tr>
+          <tr><td>Terminal value share of total</td><td class="num" data-label="Bear">47%</td><td class="num" data-label="Base">56%</td><td class="num" data-label="Bull">62%</td></tr>
           <tr class="total"><td>Value per share</td><td class="num">$14</td><td class="num">$39</td><td class="num">$69</td></tr>
         </tbody>
       </table>
@@ -214,12 +214,12 @@
     <p>The <strong>secondary Base is $39</strong>. The Base case still has revenue growing from $217 million to $1.15 billion by 2036, and free cash flow in 2027 is slightly negative (-$12 million) because the capacity build and working capital take more than the profit. A beta of 1.9 would justify a higher discount rate than 11%, so the Base is not harsh on that point.</p>
     <h3>Sensitivity of the Base model: value per share</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Discount rate \ terminal growth</th><th class="num">2.0%</th><th class="num">2.5%</th><th class="num">3.0%</th></tr></thead>
         <tbody>
-          <tr><td>10.0%</td><td class="num">$42</td><td class="num">$43</td><td class="num">$45</td></tr>
-          <tr><td>11.0%</td><td class="num">$38</td><td class="num">$39</td><td class="num">$40</td></tr>
-          <tr><td>12.0%</td><td class="num">$34</td><td class="num">$35</td><td class="num">$36</td></tr>
+          <tr><td>10.0%</td><td class="num" data-label="2.0%">$42</td><td class="num" data-label="2.5%">$43</td><td class="num" data-label="3.0%">$45</td></tr>
+          <tr><td>11.0%</td><td class="num" data-label="2.0%">$38</td><td class="num" data-label="2.5%">$39</td><td class="num" data-label="3.0%">$40</td></tr>
+          <tr><td>12.0%</td><td class="num" data-label="2.0%">$34</td><td class="num" data-label="2.5%">$35</td><td class="num" data-label="3.0%">$36</td></tr>
         </tbody>
       </table>
     </div>
@@ -245,9 +245,9 @@
       <table class="wide">
         <thead><tr><th>Method</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th><th class="num">Weight</th></tr></thead>
         <tbody>
-          <tr><td>Primary EV/EBITDA</td><td class="num">$28</td><td class="num">$59</td><td class="num">$92</td><td class="num">50%</td></tr>
-          <tr><td>Ten-year free cash flow model</td><td class="num">$14</td><td class="num">$39</td><td class="num">$69</td><td class="num">30%</td></tr>
-          <tr><td>Forward P/E cross-check</td><td class="num">$25</td><td class="num">$59</td><td class="num">$91</td><td class="num">20%</td></tr>
+          <tr><td>Primary EV/EBITDA</td><td class="num" data-label="Bear">$28</td><td class="num" data-label="Base">$59</td><td class="num" data-label="Bull">$92</td><td class="num" data-label="Weight">50%</td></tr>
+          <tr><td>Ten-year free cash flow model</td><td class="num" data-label="Bear">$14</td><td class="num" data-label="Base">$39</td><td class="num" data-label="Bull">$69</td><td class="num" data-label="Weight">30%</td></tr>
+          <tr><td>Forward P/E cross-check</td><td class="num" data-label="Bear">$25</td><td class="num" data-label="Base">$59</td><td class="num" data-label="Bull">$91</td><td class="num" data-label="Weight">20%</td></tr>
           <tr class="total"><td>Triangulated value</td><td class="num">$23</td><td class="num">$53</td><td class="num">$85</td><td class="num">100%</td></tr>
         </tbody>
       </table>
@@ -260,15 +260,15 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Main assumptions</td><td class="num">Permits and utilization disappoint, indium phosphide prices normalize as competitors add capacity, gross margin falls toward 28%, multiple 14x</td><td class="num">Capacity is 84% filled in 2027, growth fades from 2029, gross margin settles near 42%, multiple 24x</td><td class="num">Capacity targets are met (95% filled in 2027), margins stay near 50% gross, demand keeps growing into the 2030s, multiple 32x</td></tr>
-          <tr><td>EBITDA 2027</td><td class="num">$106 million</td><td class="num">$162 million</td><td class="num">$201 million</td></tr>
-          <tr><td>EPS 2027</td><td class="num">$1.25</td><td class="num">$1.86</td><td class="num">$2.28</td></tr>
-          <tr><td>Free cash flow 2029</td><td class="num">$37 million</td><td class="num">$137 million</td><td class="num">$217 million</td></tr>
+          <tr><td>Main assumptions</td><td class="num" data-label="Bear">Permits and utilization disappoint, indium phosphide prices normalize as competitors add capacity, gross margin falls toward 28%, multiple 14x</td><td class="num" data-label="Base">Capacity is 84% filled in 2027, growth fades from 2029, gross margin settles near 42%, multiple 24x</td><td class="num" data-label="Bull">Capacity targets are met (95% filled in 2027), margins stay near 50% gross, demand keeps growing into the 2030s, multiple 32x</td></tr>
+          <tr><td>EBITDA 2027</td><td class="num" data-label="Bear">$106 million</td><td class="num" data-label="Base">$162 million</td><td class="num" data-label="Bull">$201 million</td></tr>
+          <tr><td>EPS 2027</td><td class="num" data-label="Bear">$1.25</td><td class="num" data-label="Base">$1.86</td><td class="num" data-label="Bull">$2.28</td></tr>
+          <tr><td>Free cash flow 2029</td><td class="num" data-label="Bear">$37 million</td><td class="num" data-label="Base">$137 million</td><td class="num" data-label="Bull">$217 million</td></tr>
           <tr class="total"><td>Value per share</td><td class="num">$23</td><td class="num">$53</td><td class="num">$85</td></tr>
-          <tr><td>Versus $79.79</td><td class="num">-70.6%</td><td class="num">-33.3%</td><td class="num">+6.6%</td></tr>
+          <tr><td>Versus $79.79</td><td class="num" data-label="Bear">-70.6%</td><td class="num" data-label="Base">-33.3%</td><td class="num" data-label="Bull">+6.6%</td></tr>
         </tbody>
       </table>
     </div>

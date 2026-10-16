@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -176,11 +176,11 @@
     <h2 id="capital">Shares, dilution and the debt</h2>
     <p>The share bridge starts with 373,990,561 common shares outstanding on July 24, 2026. Add 12.716 million time-based restricted stock units and 4.713 million performance units at target and you reach 391.4 million, before options. The remaining 4.796 million options need exercise-price-specific treatment. Counting every option and the maximum 9.426 million performance shares would give 400.9 million, which is a ceiling, not an expected count. I use <strong>395 million</strong> diluted shares in every main scenario, a conservative allowance and not a filed count. Reported second quarter weighted diluted shares were 378.1 million, and first half shares were 373.9 million because awards are excluded in a loss period. A separate stress with 450 million shares, including hypothetical proceeds, is in the sensitivity section.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>June 30, 2026, $ millions</th><th class="num">Parent</th><th class="num">Bausch + Lomb</th><th class="num">Consolidated</th></tr></thead>
         <tbody>
-          <tr><td>Principal debt</td><td class="num">15,111</td><td class="num">5,128</td><td class="num">20,239</td></tr>
-          <tr><td>Unrestricted cash</td><td class="num">1,458</td><td class="num">367</td><td class="num">1,825</td></tr>
+          <tr><td>Principal debt</td><td class="num" data-label="Parent">15,111</td><td class="num" data-label="Bausch + Lomb">5,128</td><td class="num" data-label="Consolidated">20,239</td></tr>
+          <tr><td>Unrestricted cash</td><td class="num" data-label="Parent">1,458</td><td class="num" data-label="Bausch + Lomb">367</td><td class="num" data-label="Consolidated">1,825</td></tr>
           <tr class="total"><td>Principal net debt</td><td class="num">13,653</td><td class="num">4,761</td><td class="num">18,414</td></tr>
         </tbody>
       </table>
@@ -190,7 +190,7 @@
       <table class="wide">
         <thead><tr><th>Parent principal maturities, $ millions</th><th class="num">Rest of 2026</th><th class="num">2027</th><th class="num">2028</th><th class="num">2029</th><th class="num">2030</th><th class="num">2031</th><th class="num">After 2031</th></tr></thead>
         <tbody>
-          <tr><td>Amount</td><td class="num">15</td><td class="num">673</td><td class="num">2,326</td><td class="num">1,639</td><td class="num">3,995</td><td class="num">463</td><td class="num">6,000</td></tr>
+          <tr><td>Amount</td><td class="num" data-label="Rest of 2026">15</td><td class="num" data-label="2027">673</td><td class="num" data-label="2028">2,326</td><td class="num" data-label="2029">1,639</td><td class="num" data-label="2030">3,995</td><td class="num" data-label="2031">463</td><td class="num" data-label="After 2031">6,000</td></tr>
         </tbody>
       </table>
     </div>
@@ -199,21 +199,21 @@
     <h2 id="valuation">Primary valuation: parent EV to EBITDA after stock compensation, plus the Bausch + Lomb stake</h2>
     <p>The parent is valued on its normalized EBITDA after SBC at 3.0x, 4.5x and 6.0x in the Bear, Base and Bull cases. These multiples are my assumptions about how long the cash lasts, not measured peer medians; I had no verified peer table. The low Base multiple already reflects a finite Xifaxan life and uncertain replacement, so no premium from ordinary diversified pharma is imported. The formula is: common equity equals normalized parent EBITDA after SBC times the multiple, plus the Bausch + Lomb stake after its haircut, minus parent net debt, minus a $200 million reserve for legacy claims, with a floor of zero, divided by 395 million shares.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>$ millions unless stated</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Parent adjusted EBITDA assumption</td><td class="num">2,650.0</td><td class="num">3,062.5</td><td class="num">3,300.0</td></tr>
-          <tr><td>Recurring items deducted</td><td class="num">-200.0</td><td class="num">-150.0</td><td class="num">-150.0</td></tr>
-          <tr><td>Parent SBC deducted (estimate)</td><td class="num">-80.0</td><td class="num">-68.0</td><td class="num">-55.0</td></tr>
-          <tr><td>Normalized EBITDA after SBC</td><td class="num">2,370.0</td><td class="num">2,844.5</td><td class="num">3,095.0</td></tr>
-          <tr><td>Multiple</td><td class="num">3.0x</td><td class="num">4.5x</td><td class="num">6.0x</td></tr>
-          <tr><td>Parent operating EV</td><td class="num">7,110.0</td><td class="num">12,800.3</td><td class="num">18,570.0</td></tr>
-          <tr><td>BLCO share price assumed</td><td class="num">$12.00</td><td class="num">$17.30</td><td class="num">$22.00</td></tr>
-          <tr><td>Haircut on the stake</td><td class="num">20%</td><td class="num">10%</td><td class="num">0%</td></tr>
-          <tr><td>Stake after haircut</td><td class="num">2,980.3</td><td class="num">4,833.7</td><td class="num">6,829.9</td></tr>
-          <tr><td>Parent net debt</td><td class="num">-13,653.0</td><td class="num">-13,653.0</td><td class="num">-13,653.0</td></tr>
-          <tr><td>Legacy claims reserve</td><td class="num">-200.0</td><td class="num">-200.0</td><td class="num">-200.0</td></tr>
-          <tr><td>Residual before the zero floor</td><td class="num">-3,762.7</td><td class="num">3,781.0</td><td class="num">11,546.9</td></tr>
+          <tr><td>Parent adjusted EBITDA assumption</td><td class="num" data-label="Bear">2,650.0</td><td class="num" data-label="Base">3,062.5</td><td class="num" data-label="Bull">3,300.0</td></tr>
+          <tr><td>Recurring items deducted</td><td class="num" data-label="Bear">-200.0</td><td class="num" data-label="Base">-150.0</td><td class="num" data-label="Bull">-150.0</td></tr>
+          <tr><td>Parent SBC deducted (estimate)</td><td class="num" data-label="Bear">-80.0</td><td class="num" data-label="Base">-68.0</td><td class="num" data-label="Bull">-55.0</td></tr>
+          <tr><td>Normalized EBITDA after SBC</td><td class="num" data-label="Bear">2,370.0</td><td class="num" data-label="Base">2,844.5</td><td class="num" data-label="Bull">3,095.0</td></tr>
+          <tr><td>Multiple</td><td class="num" data-label="Bear">3.0x</td><td class="num" data-label="Base">4.5x</td><td class="num" data-label="Bull">6.0x</td></tr>
+          <tr><td>Parent operating EV</td><td class="num" data-label="Bear">7,110.0</td><td class="num" data-label="Base">12,800.3</td><td class="num" data-label="Bull">18,570.0</td></tr>
+          <tr><td>BLCO share price assumed</td><td class="num" data-label="Bear">$12.00</td><td class="num" data-label="Base">$17.30</td><td class="num" data-label="Bull">$22.00</td></tr>
+          <tr><td>Haircut on the stake</td><td class="num" data-label="Bear">20%</td><td class="num" data-label="Base">10%</td><td class="num" data-label="Bull">0%</td></tr>
+          <tr><td>Stake after haircut</td><td class="num" data-label="Bear">2,980.3</td><td class="num" data-label="Base">4,833.7</td><td class="num" data-label="Bull">6,829.9</td></tr>
+          <tr><td>Parent net debt</td><td class="num" data-label="Bear">-13,653.0</td><td class="num" data-label="Base">-13,653.0</td><td class="num" data-label="Bull">-13,653.0</td></tr>
+          <tr><td>Legacy claims reserve</td><td class="num" data-label="Bear">-200.0</td><td class="num" data-label="Base">-200.0</td><td class="num" data-label="Bull">-200.0</td></tr>
+          <tr><td>Residual before the zero floor</td><td class="num" data-label="Bear">-3,762.7</td><td class="num" data-label="Base">3,781.0</td><td class="num" data-label="Bull">11,546.9</td></tr>
           <tr class="total"><td>Value per share</td><td class="num">$0.00</td><td class="num">$9.57</td><td class="num">$29.23</td></tr>
         </tbody>
       </table>
@@ -221,12 +221,12 @@
     <p>The Bear zero is a modeled wipeout or restructuring outcome, not a claim that the shares must trade at zero today. Two bridge rules matter. BLCO's quoted price is already an equity value after its own debt, so I subtract only the parent's net debt. Subtracting consolidated net debt would deduct BLCO's debt twice. Conversely, adding BLCO's operating value without its debt and minority holders would overstate the stake. I also grant no unverified debt reduction since June 30 and no control premium on the stake, and the 10% haircut is the only deduction for monetization friction.</p>
     <h3>Sensitivity: value per share, Base EBITDA after SBC</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Parent multiple \ BLCO price</th><th class="num">$12.00</th><th class="num">$17.30</th><th class="num">$22.00</th></tr></thead>
         <tbody>
-          <tr><td>3.5x</td><td class="num">$0.00</td><td class="num">$2.37</td><td class="num">$5.70</td></tr>
-          <tr><td>4.5x (Base)</td><td class="num">$5.82</td><td class="num">$9.57</td><td class="num">$12.90</td></tr>
-          <tr><td>5.5x</td><td class="num">$13.02</td><td class="num">$16.77</td><td class="num">$20.10</td></tr>
+          <tr><td>3.5x</td><td class="num" data-label="$12.00">$0.00</td><td class="num" data-label="$17.30">$2.37</td><td class="num" data-label="$22.00">$5.70</td></tr>
+          <tr><td>4.5x (Base)</td><td class="num" data-label="$12.00">$5.82</td><td class="num" data-label="$17.30">$9.57</td><td class="num" data-label="$22.00">$12.90</td></tr>
+          <tr><td>5.5x</td><td class="num" data-label="$12.00">$13.02</td><td class="num" data-label="$17.30">$16.77</td><td class="num" data-label="$22.00">$20.10</td></tr>
         </tbody>
       </table>
     </div>
@@ -234,16 +234,16 @@
     <h3>Pipeline: counted at zero</h3>
     <p>I give the pipeline no value in the main model. RED-C gets zero because both Phase 3 studies missed their primary endpoint. Larsucosterol, acquired from DURECT with up to $350 million of sales milestones, entered a registrational Phase 3 in January 2026 and has breakthrough designation, which is not approval. Amiselimod is in Phase 2 and regulatory evaluation, which does not establish a launch date. As an illustration only, a finite-life risk-adjusted value of larsucosterol, with sales from 2029 to 2038, no terminal value and two assumed milestones of $175 million in 2033 and 2036 (the actual triggers are not established), comes out like this:</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Larsucosterol illustration, $ millions</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Peak annual net sales</td><td class="num">300</td><td class="num">700</td><td class="num">1,200</td></tr>
-          <tr><td>Probability of approval and commercial success</td><td class="num">15%</td><td class="num">30%</td><td class="num">50%</td></tr>
-          <tr><td>After-tax commercial cash margin</td><td class="num">25%</td><td class="num">35%</td><td class="num">40%</td></tr>
-          <tr><td>Discount rate</td><td class="num">18%</td><td class="num">15%</td><td class="num">12%</td></tr>
-          <tr><td>Commercial present value if successful</td><td class="num">136.9</td><td class="num">572.0</td><td class="num">1,312.0</td></tr>
-          <tr><td>Milestone present value if successful</td><td class="num">85.2</td><td class="num">105.7</td><td class="num">132.1</td></tr>
-          <tr><td>Development cost present value</td><td class="num">90.6</td><td class="num">94.6</td><td class="num">98.9</td></tr>
+          <tr><td>Peak annual net sales</td><td class="num" data-label="Bear">300</td><td class="num" data-label="Base">700</td><td class="num" data-label="Bull">1,200</td></tr>
+          <tr><td>Probability of approval and commercial success</td><td class="num" data-label="Bear">15%</td><td class="num" data-label="Base">30%</td><td class="num" data-label="Bull">50%</td></tr>
+          <tr><td>After-tax commercial cash margin</td><td class="num" data-label="Bear">25%</td><td class="num" data-label="Base">35%</td><td class="num" data-label="Bull">40%</td></tr>
+          <tr><td>Discount rate</td><td class="num" data-label="Bear">18%</td><td class="num" data-label="Base">15%</td><td class="num" data-label="Bull">12%</td></tr>
+          <tr><td>Commercial present value if successful</td><td class="num" data-label="Bear">136.9</td><td class="num" data-label="Base">572.0</td><td class="num" data-label="Bull">1,312.0</td></tr>
+          <tr><td>Milestone present value if successful</td><td class="num" data-label="Bear">85.2</td><td class="num" data-label="Base">105.7</td><td class="num" data-label="Bull">132.1</td></tr>
+          <tr><td>Development cost present value</td><td class="num" data-label="Bear">90.6</td><td class="num" data-label="Base">94.6</td><td class="num" data-label="Bull">98.9</td></tr>
           <tr class="total"><td>Illustrative net present value</td><td class="num">-82.8</td><td class="num">45.3</td><td class="num">491.1</td></tr>
         </tbody>
       </table>
@@ -253,25 +253,25 @@
     <p>The second method forecasts the parent's cash year by year and discounts it, so it tests durability and not another multiple. It uses unlevered free cash flow (FCFF): cash after operating costs, taxes, reinvestment and working capital, before interest. For 2027 the Base bridge is $3,062.5 million of EBITDA, minus $150 million of recurring costs, $250 million of cash taxes, $100 million of total reinvestment and $162.5 million of working capital and other items, which gives $2,400 million. These allowances are mine and are not a management breakdown. I then deduct the $68 million of parent stock pay, so 2027 Base FCFF is $2,332 million.</p>
     <p>The valuation date is October 11, so the rest of 2026 sits 0.222 years out and each later year one year further. The discount rates are 14%, 12% and 10% for the Bear, Base and Bull cases, with terminal growth of 0%, 0% and 1%. June 30 net debt is retained because an October balance is not available, which avoids crediting unverified debt reduction but could overstate liabilities if cash built up in the third quarter. The same stake, debt and reserve bridge as in the primary method applies.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Parent FCFF after SBC, $ millions</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Rest of 2026</td><td class="num">432.2</td><td class="num">484.9</td><td class="num">537.8</td></tr>
-          <tr><td>2027</td><td class="num">1,920.0</td><td class="num">2,332.0</td><td class="num">2,545.0</td></tr>
-          <tr><td>2028</td><td class="num">1,020.0</td><td class="num">1,632.0</td><td class="num">2,345.0</td></tr>
-          <tr><td>2029</td><td class="num">720.0</td><td class="num">1,282.0</td><td class="num">2,045.0</td></tr>
-          <tr><td>2030</td><td class="num">720.0</td><td class="num">1,332.0</td><td class="num">2,145.0</td></tr>
-          <tr><td>2031</td><td class="num">720.0</td><td class="num">1,382.0</td><td class="num">2,245.0</td></tr>
-          <tr><td>2032</td><td class="num">720.0</td><td class="num">1,432.0</td><td class="num">2,345.0</td></tr>
-          <tr><td>2033</td><td class="num">720.0</td><td class="num">1,482.0</td><td class="num">2,445.0</td></tr>
-          <tr><td>2034</td><td class="num">720.0</td><td class="num">1,532.0</td><td class="num">2,545.0</td></tr>
-          <tr><td>2035</td><td class="num">720.0</td><td class="num">1,532.0</td><td class="num">2,645.0</td></tr>
-          <tr><td>2036</td><td class="num">720.0</td><td class="num">1,532.0</td><td class="num">2,745.0</td></tr>
-          <tr><td>Discount rate / terminal growth</td><td class="num">14% / 0%</td><td class="num">12% / 0%</td><td class="num">10% / 1%</td></tr>
-          <tr><td>Present value of explicit cash flows</td><td class="num">5,314.5</td><td class="num">9,236.4</td><td class="num">14,813.9</td></tr>
-          <tr><td>Present value of terminal value</td><td class="num">1,347.5</td><td class="num">4,008.4</td><td class="num">11,628.1</td></tr>
-          <tr><td>Parent operating EV</td><td class="num">6,662.0</td><td class="num">13,244.8</td><td class="num">26,442.0</td></tr>
-          <tr><td>Residual after stake, net debt and reserve</td><td class="num">-4,210.7</td><td class="num">4,225.5</td><td class="num">19,418.9</td></tr>
+          <tr><td>Rest of 2026</td><td class="num" data-label="Bear">432.2</td><td class="num" data-label="Base">484.9</td><td class="num" data-label="Bull">537.8</td></tr>
+          <tr><td>2027</td><td class="num" data-label="Bear">1,920.0</td><td class="num" data-label="Base">2,332.0</td><td class="num" data-label="Bull">2,545.0</td></tr>
+          <tr><td>2028</td><td class="num" data-label="Bear">1,020.0</td><td class="num" data-label="Base">1,632.0</td><td class="num" data-label="Bull">2,345.0</td></tr>
+          <tr><td>2029</td><td class="num" data-label="Bear">720.0</td><td class="num" data-label="Base">1,282.0</td><td class="num" data-label="Bull">2,045.0</td></tr>
+          <tr><td>2030</td><td class="num" data-label="Bear">720.0</td><td class="num" data-label="Base">1,332.0</td><td class="num" data-label="Bull">2,145.0</td></tr>
+          <tr><td>2031</td><td class="num" data-label="Bear">720.0</td><td class="num" data-label="Base">1,382.0</td><td class="num" data-label="Bull">2,245.0</td></tr>
+          <tr><td>2032</td><td class="num" data-label="Bear">720.0</td><td class="num" data-label="Base">1,432.0</td><td class="num" data-label="Bull">2,345.0</td></tr>
+          <tr><td>2033</td><td class="num" data-label="Bear">720.0</td><td class="num" data-label="Base">1,482.0</td><td class="num" data-label="Bull">2,445.0</td></tr>
+          <tr><td>2034</td><td class="num" data-label="Bear">720.0</td><td class="num" data-label="Base">1,532.0</td><td class="num" data-label="Bull">2,545.0</td></tr>
+          <tr><td>2035</td><td class="num" data-label="Bear">720.0</td><td class="num" data-label="Base">1,532.0</td><td class="num" data-label="Bull">2,645.0</td></tr>
+          <tr><td>2036</td><td class="num" data-label="Bear">720.0</td><td class="num" data-label="Base">1,532.0</td><td class="num" data-label="Bull">2,745.0</td></tr>
+          <tr><td>Discount rate / terminal growth</td><td class="num" data-label="Bear">14% / 0%</td><td class="num" data-label="Base">12% / 0%</td><td class="num" data-label="Bull">10% / 1%</td></tr>
+          <tr><td>Present value of explicit cash flows</td><td class="num" data-label="Bear">5,314.5</td><td class="num" data-label="Base">9,236.4</td><td class="num" data-label="Bull">14,813.9</td></tr>
+          <tr><td>Present value of terminal value</td><td class="num" data-label="Bear">1,347.5</td><td class="num" data-label="Base">4,008.4</td><td class="num" data-label="Bull">11,628.1</td></tr>
+          <tr><td>Parent operating EV</td><td class="num" data-label="Bear">6,662.0</td><td class="num" data-label="Base">13,244.8</td><td class="num" data-label="Bull">26,442.0</td></tr>
+          <tr><td>Residual after stake, net debt and reserve</td><td class="num" data-label="Bear">-4,210.7</td><td class="num" data-label="Base">4,225.5</td><td class="num" data-label="Bull">19,418.9</td></tr>
           <tr class="total"><td>Value per share</td><td class="num">$0.00</td><td class="num">$10.70</td><td class="num">$49.16</td></tr>
         </tbody>
       </table>
@@ -300,10 +300,10 @@
       <table class="wide">
         <thead><tr><th>2030 stress, $ millions</th><th class="num">FCFF</th><th class="num">Cash interest</th><th class="num">Levered cash</th><th class="num">Per share</th><th class="num">Yield at $6.04</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td class="num">1,400</td><td class="num">1,350</td><td class="num">50</td><td class="num">$0.127</td><td class="num">2.10%</td></tr>
-          <tr><td>FCFF 20% lower</td><td class="num">1,120</td><td class="num">1,350</td><td class="num">-230</td><td class="num">-$0.582</td><td class="num">-9.64%</td></tr>
-          <tr><td>FCFF 40% lower</td><td class="num">840</td><td class="num">1,350</td><td class="num">-510</td><td class="num">-$1.291</td><td class="num">-21.38%</td></tr>
-          <tr><td>450 million shares, no funding assumed</td><td class="num">1,400</td><td class="num">1,350</td><td class="num">50</td><td class="num">$0.111</td><td class="num">1.84%</td></tr>
+          <tr><td>Base</td><td class="num" data-label="FCFF">1,400</td><td class="num" data-label="Cash interest">1,350</td><td class="num" data-label="Levered cash">50</td><td class="num" data-label="Per share">$0.127</td><td class="num" data-label="Yield at $6.04">2.10%</td></tr>
+          <tr><td>FCFF 20% lower</td><td class="num" data-label="FCFF">1,120</td><td class="num" data-label="Cash interest">1,350</td><td class="num" data-label="Levered cash">-230</td><td class="num" data-label="Per share">-$0.582</td><td class="num" data-label="Yield at $6.04">-9.64%</td></tr>
+          <tr><td>FCFF 40% lower</td><td class="num" data-label="FCFF">840</td><td class="num" data-label="Cash interest">1,350</td><td class="num" data-label="Levered cash">-510</td><td class="num" data-label="Per share">-$1.291</td><td class="num" data-label="Yield at $6.04">-21.38%</td></tr>
+          <tr><td>450 million shares, no funding assumed</td><td class="num" data-label="FCFF">1,400</td><td class="num" data-label="Cash interest">1,350</td><td class="num" data-label="Levered cash">50</td><td class="num" data-label="Per share">$0.111</td><td class="num" data-label="Yield at $6.04">1.84%</td></tr>
         </tbody>
       </table>
     </div>
@@ -311,12 +311,12 @@
     <h2 id="triangulation">Valuation triangulation</h2>
     <p>The two Base values are 11.1% apart, inside the 20% convergence band. I take the lower, $9.57, as a cautious central anchor and give no weight to history or PEG. A 50/50 average would be $10.13. Both Bear cases leave a negative residual before the zero floor, so the divergence formula is undefined for them, and I do not present two zeros as 0% divergence.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Method</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Primary: parent EV to EBITDA after SBC plus stake</td><td class="num">$0.00</td><td class="num">$9.57</td><td class="num">$29.23</td></tr>
-          <tr><td>Secondary: patent cliff cash flow model</td><td class="num">$0.00</td><td class="num">$10.70</td><td class="num">$49.16</td></tr>
-          <tr><td>Historical multiples</td><td class="num" colspan="3">not available, 0% weight</td></tr>
+          <tr><td>Primary: parent EV to EBITDA after SBC plus stake</td><td class="num" data-label="Bear">$0.00</td><td class="num" data-label="Base">$9.57</td><td class="num" data-label="Bull">$29.23</td></tr>
+          <tr><td>Secondary: patent cliff cash flow model</td><td class="num" data-label="Bear">$0.00</td><td class="num" data-label="Base">$10.70</td><td class="num" data-label="Bull">$49.16</td></tr>
+          <tr><td>Historical multiples</td><td class="num" colspan="3" data-label="Bear">not available, 0% weight</td></tr>
           <tr class="total"><td>Adopted anchor</td><td class="num">$0.00</td><td class="num">$9.57</td><td class="num">$29.23</td></tr>
         </tbody>
       </table>
@@ -339,17 +339,17 @@
     <p>The price does not assume failure. It assumes that roughly 15% of the Base cash, including the long tail, never arrives, or that the stake is worth less than the haircut implies, or that litigation and financing cost more. The same price could reflect higher required returns, a lower stake value or a dilutive raise, so this is not a unique forecast. What it rules out is the idea that the market has missed the cliff. The question for new money is whether 15% is enough of a cushion when a 20% cut in cash takes the DCF to $3.70.</p>
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th>Bear</th><th>Base</th><th>Bull</th></tr></thead>
         <tbody>
-          <tr><td>Operating thesis</td><td>Early and deep Xifaxan erosion, no replacement, weak refinancing</td><td>Pricing pressure in 2027, generic erosion in 2028 and 2029, partial recovery elsewhere</td><td>Slower erosion, residual generic economics, strong devices, open financing</td></tr>
-          <tr><td>Parent adjusted EBITDA / after recurring items and SBC</td><td>$2,650 million / $2,370 million</td><td>$3,062.5 million / $2,844.5 million</td><td>$3,300 million / $3,095 million</td></tr>
-          <tr><td>Multiple</td><td>3.0x</td><td>4.5x</td><td>6.0x</td></tr>
-          <tr><td>BLCO stake</td><td>$12 less 20%</td><td>$17.30 less 10%</td><td>$22, no haircut</td></tr>
-          <tr><td>Primary value</td><td>$0.00</td><td>$9.57</td><td>$29.23</td></tr>
-          <tr><td>Cash flow model value</td><td>$0.00</td><td>$10.70</td><td>$49.16</td></tr>
+          <tr><td>Operating thesis</td><td data-label="Bear">Early and deep Xifaxan erosion, no replacement, weak refinancing</td><td data-label="Base">Pricing pressure in 2027, generic erosion in 2028 and 2029, partial recovery elsewhere</td><td data-label="Bull">Slower erosion, residual generic economics, strong devices, open financing</td></tr>
+          <tr><td>Parent adjusted EBITDA / after recurring items and SBC</td><td data-label="Bear">$2,650 million / $2,370 million</td><td data-label="Base">$3,062.5 million / $2,844.5 million</td><td data-label="Bull">$3,300 million / $3,095 million</td></tr>
+          <tr><td>Multiple</td><td data-label="Bear">3.0x</td><td data-label="Base">4.5x</td><td data-label="Bull">6.0x</td></tr>
+          <tr><td>BLCO stake</td><td data-label="Bear">$12 less 20%</td><td data-label="Base">$17.30 less 10%</td><td data-label="Bull">$22, no haircut</td></tr>
+          <tr><td>Primary value</td><td data-label="Bear">$0.00</td><td data-label="Base">$9.57</td><td data-label="Bull">$29.23</td></tr>
+          <tr><td>Cash flow model value</td><td data-label="Bear">$0.00</td><td data-label="Base">$10.70</td><td data-label="Bull">$49.16</td></tr>
           <tr class="total"><td>Adopted value per share</td><td>$0.00</td><td>$9.57</td><td>$29.23</td></tr>
-          <tr><td>Versus $6.04</td><td>-100%</td><td>+58.5%</td><td>+383.9%</td></tr>
+          <tr><td>Versus $6.04</td><td data-label="Bear">-100%</td><td data-label="Base">+58.5%</td><td data-label="Bull">+383.9%</td></tr>
         </tbody>
       </table>
     </div>

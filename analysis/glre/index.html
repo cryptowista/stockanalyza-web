@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -159,28 +159,28 @@
     <p>The input that decides everything is the sustainable ROE. The record: 2025 delivered about 11% on average equity, 2024 about 6%, and the five-year path of fully diluted book value per share from $13.42 at the end of 2020 to $20.43 at the end of 2025 is a compound annual rate of <strong>8.77%</strong>, with no dividends paid and some of that growth coming from buybacks below book rather than from earnings. The first half of 2026 annualizes to under 2%. I use <strong>9.0%</strong> as the through-cycle sustainable ROE: better than the trailing book compounding, because underwriting has genuinely improved since 2022, and below the 2025 result, because one good year in five is not a run rate.</p>
     <p>Cost of equity is <strong>12%</strong>. That is my required return for a small reinsurer carrying catastrophe risk and a concentrated, externally managed equity portfolio, not a measured figure from a beta calculation. Long-run growth is <strong>2%</strong>, which implies retaining 22% of earnings. The sensitivity grid below is where the judgment is tested.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Input</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Fully diluted book value per share</td><td class="num">$20.61</td><td class="num">$20.61</td><td class="num">$20.61</td></tr>
-          <tr><td>Sustainable return on equity</td><td class="num">4.5%</td><td class="num">9.0%</td><td class="num">13.0%</td></tr>
-          <tr><td>Cost of equity</td><td class="num">14.0%</td><td class="num">12.0%</td><td class="num">11.0%</td></tr>
-          <tr><td>Long-run growth</td><td class="num">0.0%</td><td class="num">2.0%</td><td class="num">3.0%</td></tr>
-          <tr><td>Justified price to book</td><td class="num">0.32x</td><td class="num">0.70x</td><td class="num">1.25x</td></tr>
+          <tr><td>Fully diluted book value per share</td><td class="num" data-label="Bear">$20.61</td><td class="num" data-label="Base">$20.61</td><td class="num" data-label="Bull">$20.61</td></tr>
+          <tr><td>Sustainable return on equity</td><td class="num" data-label="Bear">4.5%</td><td class="num" data-label="Base">9.0%</td><td class="num" data-label="Bull">13.0%</td></tr>
+          <tr><td>Cost of equity</td><td class="num" data-label="Bear">14.0%</td><td class="num" data-label="Base">12.0%</td><td class="num" data-label="Bull">11.0%</td></tr>
+          <tr><td>Long-run growth</td><td class="num" data-label="Bear">0.0%</td><td class="num" data-label="Base">2.0%</td><td class="num" data-label="Bull">3.0%</td></tr>
+          <tr><td>Justified price to book</td><td class="num" data-label="Bear">0.32x</td><td class="num" data-label="Base">0.70x</td><td class="num" data-label="Bull">1.25x</td></tr>
           <tr class="total"><td>Primary value per share</td><td class="num">$6.62</td><td class="num">$14.43</td><td class="num">$25.76</td></tr>
         </tbody>
       </table>
     </div>
     <h3>Sensitivity: value per share at 2% growth</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Sustainable ROE \ cost of equity</th><th class="num">10%</th><th class="num">12%</th><th class="num">14%</th></tr></thead>
         <tbody>
-          <tr><td>7%</td><td class="num">$12.88</td><td class="num">$10.30</td><td class="num">$8.59</td></tr>
-          <tr><td>8%</td><td class="num">$15.46</td><td class="num">$12.37</td><td class="num">$10.30</td></tr>
-          <tr><td>9%</td><td class="num">$18.03</td><td class="num">$14.43</td><td class="num">$12.02</td></tr>
-          <tr><td>10%</td><td class="num">$20.61</td><td class="num">$16.49</td><td class="num">$13.74</td></tr>
-          <tr><td>11%</td><td class="num">$23.19</td><td class="num">$18.55</td><td class="num">$15.46</td></tr>
+          <tr><td>7%</td><td class="num" data-label="10%">$12.88</td><td class="num" data-label="12%">$10.30</td><td class="num" data-label="14%">$8.59</td></tr>
+          <tr><td>8%</td><td class="num" data-label="10%">$15.46</td><td class="num" data-label="12%">$12.37</td><td class="num" data-label="14%">$10.30</td></tr>
+          <tr><td>9%</td><td class="num" data-label="10%">$18.03</td><td class="num" data-label="12%">$14.43</td><td class="num" data-label="14%">$12.02</td></tr>
+          <tr><td>10%</td><td class="num" data-label="10%">$20.61</td><td class="num" data-label="12%">$16.49</td><td class="num" data-label="14%">$13.74</td></tr>
+          <tr><td>11%</td><td class="num" data-label="10%">$23.19</td><td class="num" data-label="12%">$18.55</td><td class="num" data-label="14%">$15.46</td></tr>
         </tbody>
       </table>
     </div>
@@ -189,22 +189,22 @@
     <h2 id="secondary">Secondary valuation: what a normal year earns</h2>
     <p>The second method ignores the book formula and builds annual earnings from the ground up: premiums times underwriting margin, plus the return on each pot of invested assets, minus the costs that sit outside the combined ratio. The asset base is the June balance sheet: $493.4 million in Solasglas and a separate $775.98 million of cash and fixed maturity investments ($172.9 million of fixed maturity, $76.3 million of unrestricted cash and $526.8 million of restricted cash). Solasglas returns are quoted net of the manager's fees, so those are not deducted twice.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Normalized annual bridge, $ millions</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Net premiums earned</td><td class="num">620.0</td><td class="num">650.0</td><td class="num">690.0</td></tr>
-          <tr><td>Combined ratio, including a normal catastrophe year</td><td class="num">99.5%</td><td class="num">97.0%</td><td class="num">95.0%</td></tr>
-          <tr><td>Underwriting income</td><td class="num">3.1</td><td class="num">19.5</td><td class="num">34.5</td></tr>
-          <tr><td>Solasglas net return</td><td class="num">6.0%</td><td class="num">8.0%</td><td class="num">11.0%</td></tr>
-          <tr><td>Solasglas contribution</td><td class="num">29.6</td><td class="num">39.5</td><td class="num">54.3</td></tr>
-          <tr><td>Cash and fixed maturity yield</td><td class="num">3.0%</td><td class="num">3.5%</td><td class="num">4.0%</td></tr>
-          <tr><td>Cash and fixed maturity contribution</td><td class="num">23.3</td><td class="num">27.2</td><td class="num">31.0</td></tr>
-          <tr><td>Other and private investments</td><td class="num">-2.0</td><td class="num">0.0</td><td class="num">3.0</td></tr>
-          <tr><td>Corporate expenses, interest and tax</td><td class="num">-23.7</td><td class="num">-23.5</td><td class="num">-25.5</td></tr>
+          <tr><td>Net premiums earned</td><td class="num" data-label="Bear">620.0</td><td class="num" data-label="Base">650.0</td><td class="num" data-label="Bull">690.0</td></tr>
+          <tr><td>Combined ratio, including a normal catastrophe year</td><td class="num" data-label="Bear">99.5%</td><td class="num" data-label="Base">97.0%</td><td class="num" data-label="Bull">95.0%</td></tr>
+          <tr><td>Underwriting income</td><td class="num" data-label="Bear">3.1</td><td class="num" data-label="Base">19.5</td><td class="num" data-label="Bull">34.5</td></tr>
+          <tr><td>Solasglas net return</td><td class="num" data-label="Bear">6.0%</td><td class="num" data-label="Base">8.0%</td><td class="num" data-label="Bull">11.0%</td></tr>
+          <tr><td>Solasglas contribution</td><td class="num" data-label="Bear">29.6</td><td class="num" data-label="Base">39.5</td><td class="num" data-label="Bull">54.3</td></tr>
+          <tr><td>Cash and fixed maturity yield</td><td class="num" data-label="Bear">3.0%</td><td class="num" data-label="Base">3.5%</td><td class="num" data-label="Bull">4.0%</td></tr>
+          <tr><td>Cash and fixed maturity contribution</td><td class="num" data-label="Bear">23.3</td><td class="num" data-label="Base">27.2</td><td class="num" data-label="Bull">31.0</td></tr>
+          <tr><td>Other and private investments</td><td class="num" data-label="Bear">-2.0</td><td class="num" data-label="Base">0.0</td><td class="num" data-label="Bull">3.0</td></tr>
+          <tr><td>Corporate expenses, interest and tax</td><td class="num" data-label="Bear">-23.7</td><td class="num" data-label="Base">-23.5</td><td class="num" data-label="Bull">-25.5</td></tr>
           <tr class="total"><td>Normalized net income</td><td class="num">30.3</td><td class="num">62.6</td><td class="num">97.3</td></tr>
-          <tr><td>Return on June equity of $697.7 million</td><td class="num">4.3%</td><td class="num">9.0%</td><td class="num">13.9%</td></tr>
-          <tr><td>Earnings per share on 33.854 million shares</td><td class="num">$0.89</td><td class="num">$1.85</td><td class="num">$2.87</td></tr>
-          <tr><td>Capitalization multiple</td><td class="num">8x</td><td class="num">9x</td><td class="num">11x</td></tr>
+          <tr><td>Return on June equity of $697.7 million</td><td class="num" data-label="Bear">4.3%</td><td class="num" data-label="Base">9.0%</td><td class="num" data-label="Bull">13.9%</td></tr>
+          <tr><td>Earnings per share on 33.854 million shares</td><td class="num" data-label="Bear">$0.89</td><td class="num" data-label="Base">$1.85</td><td class="num" data-label="Bull">$2.87</td></tr>
+          <tr><td>Capitalization multiple</td><td class="num" data-label="Bear">8x</td><td class="num" data-label="Base">9x</td><td class="num" data-label="Bull">11x</td></tr>
           <tr class="total"><td>Secondary value per share</td><td class="num">$7.16</td><td class="num">$16.65</td><td class="num">$31.62</td></tr>
         </tbody>
       </table>
@@ -215,12 +215,12 @@
     <h2 id="history">History and growth diagnostics</h2>
     <p>A proper five-year distribution of price to book is not available to me, so I use dated observations against the book value that was actually published at the time, which avoids crediting the past with a book value nobody knew yet.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Observation</th><th class="num">Price</th><th class="num">Book then known</th><th class="num">Price to book</th></tr></thead>
         <tbody>
-          <tr><td>52 week low, November 2025</td><td class="num">$11.57</td><td class="num">$18.90</td><td class="num">0.61x</td></tr>
-          <tr><td>52 week high, April 2026</td><td class="num">$19.39</td><td class="num">$20.43</td><td class="num">0.95x</td></tr>
-          <tr><td>October 8, 2026 close</td><td class="num">$14.97</td><td class="num">$20.61</td><td class="num">0.73x</td></tr>
+          <tr><td>52 week low, November 2025</td><td class="num" data-label="Price">$11.57</td><td class="num" data-label="Book then known">$18.90</td><td class="num" data-label="Price to book">0.61x</td></tr>
+          <tr><td>52 week high, April 2026</td><td class="num" data-label="Price">$19.39</td><td class="num" data-label="Book then known">$20.43</td><td class="num" data-label="Price to book">0.95x</td></tr>
+          <tr><td>October 8, 2026 close</td><td class="num" data-label="Price">$14.97</td><td class="num" data-label="Book then known">$20.61</td><td class="num" data-label="Price to book">0.73x</td></tr>
         </tbody>
       </table>
     </div>
@@ -256,16 +256,16 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Main assumptions</td><td class="num">Renewal competition and claims consume the underwriting margin, weak fund returns, private marks written down</td><td class="num">Modest underwriting profit, 8% net fund return, no reserve releases, no venture gains</td><td class="num">95% combined ratio, 11% net fund return, profitable Lloyd's growth</td></tr>
-          <tr><td>ROE, cost of equity, growth</td><td class="num">4.5%, 14%, 0%</td><td class="num">9.0%, 12%, 2%</td><td class="num">13.0%, 11%, 3%</td></tr>
-          <tr><td>Primary value</td><td class="num">$6.62</td><td class="num">$14.43</td><td class="num">$25.76</td></tr>
-          <tr><td>Premiums, combined ratio, fund return</td><td class="num">$620M, 99.5%, 6.0%</td><td class="num">$650M, 97.0%, 8.0%</td><td class="num">$690M, 95.0%, 11.0%</td></tr>
-          <tr><td>Secondary value</td><td class="num">$7.16</td><td class="num">$16.65</td><td class="num">$31.62</td></tr>
+          <tr><td>Main assumptions</td><td class="num" data-label="Bear">Renewal competition and claims consume the underwriting margin, weak fund returns, private marks written down</td><td class="num" data-label="Base">Modest underwriting profit, 8% net fund return, no reserve releases, no venture gains</td><td class="num" data-label="Bull">95% combined ratio, 11% net fund return, profitable Lloyd's growth</td></tr>
+          <tr><td>ROE, cost of equity, growth</td><td class="num" data-label="Bear">4.5%, 14%, 0%</td><td class="num" data-label="Base">9.0%, 12%, 2%</td><td class="num" data-label="Bull">13.0%, 11%, 3%</td></tr>
+          <tr><td>Primary value</td><td class="num" data-label="Bear">$6.62</td><td class="num" data-label="Base">$14.43</td><td class="num" data-label="Bull">$25.76</td></tr>
+          <tr><td>Premiums, combined ratio, fund return</td><td class="num" data-label="Bear">$620M, 99.5%, 6.0%</td><td class="num" data-label="Base">$650M, 97.0%, 8.0%</td><td class="num" data-label="Bull">$690M, 95.0%, 11.0%</td></tr>
+          <tr><td>Secondary value</td><td class="num" data-label="Bear">$7.16</td><td class="num" data-label="Base">$16.65</td><td class="num" data-label="Bull">$31.62</td></tr>
           <tr class="total"><td>Value per share (70/30)</td><td class="num">$6.78</td><td class="num">$15.09</td><td class="num">$27.52</td></tr>
-          <tr><td>Versus $14.97</td><td class="num">-54.7%</td><td class="num">+0.8%</td><td class="num">+83.8%</td></tr>
+          <tr><td>Versus $14.97</td><td class="num" data-label="Bear">-54.7%</td><td class="num" data-label="Base">+0.8%</td><td class="num" data-label="Bull">+83.8%</td></tr>
         </tbody>
       </table>
     </div>

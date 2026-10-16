@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -157,12 +157,12 @@
     <p>The primary method multiplies free cash flow per share, after the haircut, by a multiple, and deducts the tax item. For the Base: ($12.50 less $1.00) times 9.0, less $4.41, gives <strong>$99.09</strong>. The 9.0x multiple is the default for the tier called cyclical or risky (8x to 10x range), not a derived value. It fits a company with gross debt near 3.9 times EBITDA, a weak record of free cash flow growth in its new form and a moat that is real but under pricing pressure. The grid tests it.</p>
     <h3>Sensitivity: value per share after the $4.41 tax item</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Free cash flow per share \ multiple</th><th class="num">7x</th><th class="num">9x</th><th class="num">11x</th></tr></thead>
         <tbody>
-          <tr><td>$9.50 (Bear level)</td><td class="num">$62.1</td><td class="num">$81.1</td><td class="num">$100.1</td></tr>
-          <tr><td>$11.50 (Base)</td><td class="num">$76.1</td><td class="num">$99.1</td><td class="num">$122.1</td></tr>
-          <tr><td>$13.00 (Bull level)</td><td class="num">$86.6</td><td class="num">$112.6</td><td class="num">$138.6</td></tr>
+          <tr><td>$9.50 (Bear level)</td><td class="num" data-label="7x">$62.1</td><td class="num" data-label="9x">$81.1</td><td class="num" data-label="11x">$100.1</td></tr>
+          <tr><td>$11.50 (Base)</td><td class="num" data-label="7x">$76.1</td><td class="num" data-label="9x">$99.1</td><td class="num" data-label="11x">$122.1</td></tr>
+          <tr><td>$13.00 (Bull level)</td><td class="num" data-label="7x">$86.6</td><td class="num" data-label="9x">$112.6</td><td class="num" data-label="11x">$138.6</td></tr>
         </tbody>
       </table>
     </div>
@@ -171,12 +171,12 @@
     <h2 id="secondary">Secondary valuation: EV to EBITDA</h2>
     <p>The secondary method applies a multiple to EBITDA that reflects the post-deal company and works down to equity: enterprise value, less net debt of $17.0 billion, less noncontrolling interests of $0.86 billion, less the same $4.41 a share tax item, divided by 264.62 million shares. For the Base, EBITDA of $6.1 billion at 7.5x gives <strong>$100.96</strong>. The $6.1 billion figure is a forward number that includes part of the synergies, not a current one: second quarter adjusted operating income annualizes to $5.3 billion, and adjusted EBITDA is about $5.7 to $5.8 billion on my estimate. It is not independent of the primary method, since both rely on the same earnings power and on multiples I chose.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Scenario</th><th class="num">EBITDA</th><th class="num">EV/EBITDA</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$5.5 billion</td><td class="num">6.5x</td><td class="num">$63.17</td></tr>
-          <tr><td>Base</td><td class="num">$6.1 billion</td><td class="num">7.5x</td><td class="num">$100.96</td></tr>
-          <tr><td>Bull</td><td class="num">$6.5 billion</td><td class="num">8.5x</td><td class="num">$136.86</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="EBITDA">$5.5 billion</td><td class="num" data-label="EV/EBITDA">6.5x</td><td class="num" data-label="Value per share">$63.17</td></tr>
+          <tr><td>Base</td><td class="num" data-label="EBITDA">$6.1 billion</td><td class="num" data-label="EV/EBITDA">7.5x</td><td class="num" data-label="Value per share">$100.96</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="EBITDA">$6.5 billion</td><td class="num" data-label="EV/EBITDA">8.5x</td><td class="num" data-label="Value per share">$136.86</td></tr>
         </tbody>
       </table>
     </div>
@@ -205,18 +205,18 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Main assumptions</td><td class="num">Growth 1% to 2%, slower synergies, integration costs persist</td><td class="num">Growth 4% to 5%, material synergy capture, costs fade</td><td class="num">Growth 6%+, strong synergies, margin gains</td></tr>
-          <tr><td>Adjusted free cash flow per share</td><td class="num">$11.50</td><td class="num">$12.50</td><td class="num">$13.50</td></tr>
-          <tr><td>Less one-time cash costs</td><td class="num">$2.00</td><td class="num">$1.00</td><td class="num">$0.50</td></tr>
-          <tr><td>Primary multiple</td><td class="num">6.5x</td><td class="num">9.0x</td><td class="num">11.0x</td></tr>
-          <tr><td>Primary value (after $4.41 tax item)</td><td class="num">$57.34</td><td class="num">$99.09</td><td class="num">$138.59</td></tr>
-          <tr><td>EBITDA / EV multiple</td><td class="num">$5.5 billion / 6.5x</td><td class="num">$6.1 billion / 7.5x</td><td class="num">$6.5 billion / 8.5x</td></tr>
-          <tr><td>Secondary value</td><td class="num">$63.17</td><td class="num">$100.96</td><td class="num">$136.86</td></tr>
+          <tr><td>Main assumptions</td><td class="num" data-label="Bear">Growth 1% to 2%, slower synergies, integration costs persist</td><td class="num" data-label="Base">Growth 4% to 5%, material synergy capture, costs fade</td><td class="num" data-label="Bull">Growth 6%+, strong synergies, margin gains</td></tr>
+          <tr><td>Adjusted free cash flow per share</td><td class="num" data-label="Bear">$11.50</td><td class="num" data-label="Base">$12.50</td><td class="num" data-label="Bull">$13.50</td></tr>
+          <tr><td>Less one-time cash costs</td><td class="num" data-label="Bear">$2.00</td><td class="num" data-label="Base">$1.00</td><td class="num" data-label="Bull">$0.50</td></tr>
+          <tr><td>Primary multiple</td><td class="num" data-label="Bear">6.5x</td><td class="num" data-label="Base">9.0x</td><td class="num" data-label="Bull">11.0x</td></tr>
+          <tr><td>Primary value (after $4.41 tax item)</td><td class="num" data-label="Bear">$57.34</td><td class="num" data-label="Base">$99.09</td><td class="num" data-label="Bull">$138.59</td></tr>
+          <tr><td>EBITDA / EV multiple</td><td class="num" data-label="Bear">$5.5 billion / 6.5x</td><td class="num" data-label="Base">$6.1 billion / 7.5x</td><td class="num" data-label="Bull">$6.5 billion / 8.5x</td></tr>
+          <tr><td>Secondary value</td><td class="num" data-label="Bear">$63.17</td><td class="num" data-label="Base">$100.96</td><td class="num" data-label="Bull">$136.86</td></tr>
           <tr class="total"><td>Value per share (60/40)</td><td class="num">$59.67</td><td class="num">$99.84</td><td class="num">$137.90</td></tr>
-          <tr><td>Versus $82.18</td><td class="num">-27.4%</td><td class="num">+21.5%</td><td class="num">+67.8%</td></tr>
+          <tr><td>Versus $82.18</td><td class="num" data-label="Bear">-27.4%</td><td class="num" data-label="Base">+21.5%</td><td class="num" data-label="Bull">+67.8%</td></tr>
         </tbody>
       </table>
     </div>

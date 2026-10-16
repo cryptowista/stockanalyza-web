@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -145,13 +145,13 @@
 
     <h2 id="metric">Why free cash flow needs the stock compensation line next to it</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Fiscal year</th><th class="num">Operating cash flow</th><th class="num">Capital spending</th><th class="num">Free cash flow</th></tr></thead>
         <tbody>
-          <tr><td>2024</td><td class="num">$1,370.5 million</td><td class="num">$336.3 million</td><td class="num">$1,034.2 million</td></tr>
-          <tr><td>2025</td><td class="num">$1,681.2 million</td><td class="num">$284.6 million</td><td class="num">$1,396.6 million</td></tr>
-          <tr><td>2026</td><td class="num">$1,750.5 million</td><td class="num">$354.1 million</td><td class="num">$1,396.4 million</td></tr>
-          <tr><td>First half 2027</td><td class="num">$1,244.3 million</td><td class="num">$282.4 million</td><td class="num">$961.9 million</td></tr>
+          <tr><td>2024</td><td class="num" data-label="Operating cash flow">$1,370.5 million</td><td class="num" data-label="Capital spending">$336.3 million</td><td class="num" data-label="Free cash flow">$1,034.2 million</td></tr>
+          <tr><td>2025</td><td class="num" data-label="Operating cash flow">$1,681.2 million</td><td class="num" data-label="Capital spending">$284.6 million</td><td class="num" data-label="Free cash flow">$1,396.6 million</td></tr>
+          <tr><td>2026</td><td class="num" data-label="Operating cash flow">$1,750.5 million</td><td class="num" data-label="Capital spending">$354.1 million</td><td class="num" data-label="Free cash flow">$1,396.4 million</td></tr>
+          <tr><td>First half 2027</td><td class="num" data-label="Operating cash flow">$1,244.3 million</td><td class="num" data-label="Capital spending">$282.4 million</td><td class="num" data-label="Free cash flow">$961.9 million</td></tr>
         </tbody>
       </table>
     </div>
@@ -167,12 +167,12 @@
     <p>Fiscal 2027 consensus free cash flow of $2.65 billion divided by 950 million shares is <strong>$2.79 a share</strong>. The first draft gave a Base of about $140 with no inputs. That value equals a multiple of 50x on this figure, so I use 50x as an explicit assumption. It is not the output of a build: Marvell is growing fast and has a strong design pipeline, which supports a multiple well above a mature chip company's 20x to 25x, but I cannot derive 50x from first principles. The result is <strong>$139.47</strong>. The grid tests the assumption.</p>
     <h3>Sensitivity: value per share</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Fiscal 2027 free cash flow \ multiple</th><th class="num">40x</th><th class="num">50x</th><th class="num">60x</th></tr></thead>
         <tbody>
-          <tr><td>$2.12 billion (20% below consensus)</td><td class="num">$89.3</td><td class="num">$111.6</td><td class="num">$133.9</td></tr>
-          <tr><td>$2.65 billion (consensus)</td><td class="num">$111.6</td><td class="num">$139.5</td><td class="num">$167.4</td></tr>
-          <tr><td>$3.00 billion (13% above consensus)</td><td class="num">$126.3</td><td class="num">$157.9</td><td class="num">$189.5</td></tr>
+          <tr><td>$2.12 billion (20% below consensus)</td><td class="num" data-label="40x">$89.3</td><td class="num" data-label="50x">$111.6</td><td class="num" data-label="60x">$133.9</td></tr>
+          <tr><td>$2.65 billion (consensus)</td><td class="num" data-label="40x">$111.6</td><td class="num" data-label="50x">$139.5</td><td class="num" data-label="60x">$167.4</td></tr>
+          <tr><td>$3.00 billion (13% above consensus)</td><td class="num" data-label="40x">$126.3</td><td class="num" data-label="50x">$157.9</td><td class="num" data-label="60x">$189.5</td></tr>
         </tbody>
       </table>
     </div>
@@ -183,12 +183,12 @@
     <p>That is 28% below the consensus fiscal 2029 figure of $7.17 billion, so the Base path is deliberately more cautious than the analysts. The first draft described a DCF range of $140 to $155 and then used about $165 in its triangulation table. Neither the range nor the $165 follows from its own inputs. With 921 million shares the same model gives $140.6, and with 950 million, $136.3.</p>
     <h3>Sensitivity of the Base model: value per share</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Discount rate \ terminal growth</th><th class="num">2.0%</th><th class="num">2.5%</th><th class="num">3.0%</th></tr></thead>
         <tbody>
-          <tr><td>8.5%</td><td class="num">$154</td><td class="num">$162</td><td class="num">$172</td></tr>
-          <tr><td>9.5%</td><td class="num">$130</td><td class="num">$136</td><td class="num">$143</td></tr>
-          <tr><td>10.5%</td><td class="num">$113</td><td class="num">$117</td><td class="num">$122</td></tr>
+          <tr><td>8.5%</td><td class="num" data-label="2.0%">$154</td><td class="num" data-label="2.5%">$162</td><td class="num" data-label="3.0%">$172</td></tr>
+          <tr><td>9.5%</td><td class="num" data-label="2.0%">$130</td><td class="num" data-label="2.5%">$136</td><td class="num" data-label="3.0%">$143</td></tr>
+          <tr><td>10.5%</td><td class="num" data-label="2.0%">$113</td><td class="num" data-label="2.5%">$117</td><td class="num" data-label="3.0%">$122</td></tr>
         </tbody>
       </table>
     </div>
@@ -218,15 +218,15 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Main assumptions</td><td class="num">AI capital spending digests, custom ramps slip, concentration and dilution persist</td><td class="num">Fiscal 2027 consensus achieved, growth fades from 45% in fiscal 2028</td><td class="num">Consensus through fiscal 2029, then 33% fading to 5%, durable custom share</td></tr>
-          <tr><td>Free cash flow, fiscal 2028</td><td class="num">$3.45 billion</td><td class="num">$3.84 billion</td><td class="num">$4.36 billion</td></tr>
-          <tr><td>Free cash flow, fiscal 2029</td><td class="num">$4.20 billion</td><td class="num">$5.19 billion</td><td class="num">$7.17 billion</td></tr>
-          <tr><td>Discount rate / terminal growth</td><td class="num">10.0% / 2.0%</td><td class="num">9.5% / 2.5%</td><td class="num">9.0% / 3.0%</td></tr>
+          <tr><td>Main assumptions</td><td class="num" data-label="Bear">AI capital spending digests, custom ramps slip, concentration and dilution persist</td><td class="num" data-label="Base">Fiscal 2027 consensus achieved, growth fades from 45% in fiscal 2028</td><td class="num" data-label="Bull">Consensus through fiscal 2029, then 33% fading to 5%, durable custom share</td></tr>
+          <tr><td>Free cash flow, fiscal 2028</td><td class="num" data-label="Bear">$3.45 billion</td><td class="num" data-label="Base">$3.84 billion</td><td class="num" data-label="Bull">$4.36 billion</td></tr>
+          <tr><td>Free cash flow, fiscal 2029</td><td class="num" data-label="Bear">$4.20 billion</td><td class="num" data-label="Base">$5.19 billion</td><td class="num" data-label="Bull">$7.17 billion</td></tr>
+          <tr><td>Discount rate / terminal growth</td><td class="num" data-label="Bear">10.0% / 2.0%</td><td class="num" data-label="Base">9.5% / 2.5%</td><td class="num" data-label="Bull">9.0% / 3.0%</td></tr>
           <tr class="total"><td>Value per share</td><td class="num">$75</td><td class="num">$138</td><td class="num">$251</td></tr>
-          <tr><td>Versus $272.29</td><td class="num">-72.4%</td><td class="num">-49.2%</td><td class="num">-7.9%</td></tr>
+          <tr><td>Versus $272.29</td><td class="num" data-label="Bear">-72.4%</td><td class="num" data-label="Base">-49.2%</td><td class="num" data-label="Bull">-7.9%</td></tr>
         </tbody>
       </table>
     </div>

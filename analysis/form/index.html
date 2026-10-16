@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -153,13 +153,13 @@
     <h2 id="valuation">Primary valuation: growth-adjusted EV/EBITDA</h2>
     <p>Enterprise value (EV) is market value plus debt minus cash. The primary method builds a justified EV/EBITDA multiple: a standard industrial anchor of 16x, plus 6x for structural growth, 2x for the balance sheet and 2x for the moat, minus 2x for cyclicality and customer concentration and 1x for dilution and execution risk. The result is a Base multiple of about <strong>23x</strong>.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Case</th><th class="num">EBITDA</th><th class="num">EV/EBITDA</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$230 million</td><td class="num">23x</td><td class="num">$70.65</td></tr>
-          <tr><td>Base, bridge multiple</td><td class="num">$297 million</td><td class="num">23x</td><td class="num">$90.01</td></tr>
-          <tr><td>Base, scenario multiple</td><td class="num">$297 million</td><td class="num">26x</td><td class="num">$101.21</td></tr>
-          <tr><td>Bull</td><td class="num">$360 million</td><td class="num">30x</td><td class="num">$139.87</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="EBITDA">$230 million</td><td class="num" data-label="EV/EBITDA">23x</td><td class="num" data-label="Value per share">$70.65</td></tr>
+          <tr><td>Base, bridge multiple</td><td class="num" data-label="EBITDA">$297 million</td><td class="num" data-label="EV/EBITDA">23x</td><td class="num" data-label="Value per share">$90.01</td></tr>
+          <tr><td>Base, scenario multiple</td><td class="num" data-label="EBITDA">$297 million</td><td class="num" data-label="EV/EBITDA">26x</td><td class="num" data-label="Value per share">$101.21</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="EBITDA">$360 million</td><td class="num" data-label="EV/EBITDA">30x</td><td class="num" data-label="Value per share">$139.87</td></tr>
         </tbody>
       </table>
     </div>
@@ -167,12 +167,12 @@
 
     <h3>Sensitivity: value per share</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>EBITDA \ EV/EBITDA</th><th class="num">22x</th><th class="num">26x</th><th class="num">30x</th></tr></thead>
         <tbody>
-          <tr><td>$250 million</td><td class="num">$73.3</td><td class="num">$85.9</td><td class="num">$98.4</td></tr>
-          <tr><td>$300 million</td><td class="num">$87.1</td><td class="num">$102.2</td><td class="num">$117.3</td></tr>
-          <tr><td>$350 million</td><td class="num">$100.9</td><td class="num">$118.5</td><td class="num">$136.1</td></tr>
+          <tr><td>$250 million</td><td class="num" data-label="22x">$73.3</td><td class="num" data-label="26x">$85.9</td><td class="num" data-label="30x">$98.4</td></tr>
+          <tr><td>$300 million</td><td class="num" data-label="22x">$87.1</td><td class="num" data-label="26x">$102.2</td><td class="num" data-label="30x">$117.3</td></tr>
+          <tr><td>$350 million</td><td class="num" data-label="22x">$100.9</td><td class="num" data-label="26x">$118.5</td><td class="num" data-label="30x">$136.1</td></tr>
         </tbody>
       </table>
     </div>
@@ -180,11 +180,11 @@
 
     <h2 id="secondary">Secondary valuation: forward P/E and hard free cash flow</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Method</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>2027 EPS of about $3.75 at 22x, 28x, 34x</td><td class="num">$82.50</td><td class="num">$105.00</td><td class="num">$127.50</td></tr>
-          <tr><td>Hard free cash flow of $200 million ($2.51 a share) at 30x to 35x</td><td class="num"></td><td class="num">$75.40 to $87.90</td><td class="num"></td></tr>
+          <tr><td>2027 EPS of about $3.75 at 22x, 28x, 34x</td><td class="num" data-label="Bear">$82.50</td><td class="num" data-label="Base">$105.00</td><td class="num" data-label="Bull">$127.50</td></tr>
+          <tr><td>Hard free cash flow of $200 million ($2.51 a share) at 30x to 35x</td><td class="num" data-label="Bear"></td><td class="num" data-label="Base">$75.40 to $87.90</td><td class="num" data-label="Bull"></td></tr>
         </tbody>
       </table>
     </div>
@@ -213,13 +213,13 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Main assumptions</td><td class="num">Revenue of $1.00 billion, 23% EBITDA margin, AI test demand cools</td><td class="num">Revenue of $1.10 billion, 27% margin, growth holds but 2026 proves close to a peak</td><td class="num">Revenue of $1.20 billion, 30% margin, structural growth and a premium multiple persist</td></tr>
-          <tr><td>EBITDA</td><td class="num">$230 million</td><td class="num">$297 million</td><td class="num">$360 million</td></tr>
+          <tr><td>Main assumptions</td><td class="num" data-label="Bear">Revenue of $1.00 billion, 23% EBITDA margin, AI test demand cools</td><td class="num" data-label="Base">Revenue of $1.10 billion, 27% margin, growth holds but 2026 proves close to a peak</td><td class="num" data-label="Bull">Revenue of $1.20 billion, 30% margin, structural growth and a premium multiple persist</td></tr>
+          <tr><td>EBITDA</td><td class="num" data-label="Bear">$230 million</td><td class="num" data-label="Base">$297 million</td><td class="num" data-label="Bull">$360 million</td></tr>
           <tr class="total"><td>Value per share</td><td class="num">$70.70</td><td class="num">$97.20</td><td class="num">$139.90</td></tr>
-          <tr><td>Versus $146.88</td><td class="num">-51.9%</td><td class="num">-33.8%</td><td class="num">-4.8%</td></tr>
+          <tr><td>Versus $146.88</td><td class="num" data-label="Bear">-51.9%</td><td class="num" data-label="Base">-33.8%</td><td class="num" data-label="Bull">-4.8%</td></tr>
         </tbody>
       </table>
     </div>

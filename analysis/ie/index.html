@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -168,13 +168,13 @@
     <h2 id="valuation">Primary valuation: risked NAV</h2>
     <p>I rebuilt the project's cash flows from the published study parameters: production, recovery, cash cost, sustaining capex of $1.55 billion over the mine life, initial capex spread from late 2026 to 2029, an 18% effective cash tax and real (inflation-adjusted) prices. The full technical report model is not used, so I calibrated the rebuild to four published outputs.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Study output</th><th class="num">Published</th><th class="num">My rebuild</th><th class="num">Gap</th></tr></thead>
         <tbody>
-          <tr><td>After-tax NPV at 8%, $4.75 copper</td><td class="num">$1,519M</td><td class="num">$1,443M</td><td class="num">-5.0%</td></tr>
-          <tr><td>Pre-tax NPV at 8%, $4.75 copper</td><td class="num">$1,900M</td><td class="num">$1,845M</td><td class="num">-2.9%</td></tr>
-          <tr><td>After-tax IRR at $4.75 copper</td><td class="num">18.7%</td><td class="num">19.1%</td><td class="num">+0.4 pp</td></tr>
-          <tr><td>After-tax NPV at 8%, $6.79 copper</td><td class="num">$3,500M</td><td class="num">$3,462M</td><td class="num">-1.1%</td></tr>
+          <tr><td>After-tax NPV at 8%, $4.75 copper</td><td class="num" data-label="Published">$1,519M</td><td class="num" data-label="My rebuild">$1,443M</td><td class="num" data-label="Gap">-5.0%</td></tr>
+          <tr><td>Pre-tax NPV at 8%, $4.75 copper</td><td class="num" data-label="Published">$1,900M</td><td class="num" data-label="My rebuild">$1,845M</td><td class="num" data-label="Gap">-2.9%</td></tr>
+          <tr><td>After-tax IRR at $4.75 copper</td><td class="num" data-label="Published">18.7%</td><td class="num" data-label="My rebuild">19.1%</td><td class="num" data-label="Gap">+0.4 pp</td></tr>
+          <tr><td>After-tax NPV at 8%, $6.79 copper</td><td class="num" data-label="Published">$3,500M</td><td class="num" data-label="My rebuild">$3,462M</td><td class="num" data-label="Gap">-1.1%</td></tr>
         </tbody>
       </table>
     </div>
@@ -202,9 +202,9 @@
       <table class="wide">
         <thead><tr><th>Discount rate \ long-term copper</th><th class="num">$4.00</th><th class="num">$4.75</th><th class="num">$5.20</th><th class="num">$5.50</th><th class="num">$6.00</th></tr></thead>
         <tbody>
-          <tr><td>8%</td><td class="num">$4.43</td><td class="num">$8.28</td><td class="num">$10.58</td><td class="num">$12.12</td><td class="num">$14.69</td></tr>
-          <tr><td>10%</td><td class="num">$2.90</td><td class="num">$6.01</td><td class="num">$7.88</td><td class="num">$9.12</td><td class="num">$11.19</td></tr>
-          <tr><td>12%</td><td class="num">$1.71</td><td class="num">$4.25</td><td class="num">$5.78</td><td class="num">$6.79</td><td class="num">$8.49</td></tr>
+          <tr><td>8%</td><td class="num" data-label="$4.00">$4.43</td><td class="num" data-label="$4.75">$8.28</td><td class="num" data-label="$5.20">$10.58</td><td class="num" data-label="$5.50">$12.12</td><td class="num" data-label="$6.00">$14.69</td></tr>
+          <tr><td>10%</td><td class="num" data-label="$4.00">$2.90</td><td class="num" data-label="$4.75">$6.01</td><td class="num" data-label="$5.20">$7.88</td><td class="num" data-label="$5.50">$9.12</td><td class="num" data-label="$6.00">$11.19</td></tr>
+          <tr><td>12%</td><td class="num" data-label="$4.00">$1.71</td><td class="num" data-label="$4.75">$4.25</td><td class="num" data-label="$5.20">$5.78</td><td class="num" data-label="$5.50">$6.79</td><td class="num" data-label="$6.00">$8.49</td></tr>
         </tbody>
       </table>
     </div>
@@ -237,9 +237,9 @@
       <table class="wide">
         <thead><tr><th>Multiple \ long-term copper</th><th class="num">$4.00</th><th class="num">$4.75</th><th class="num">$5.20</th><th class="num">$5.50</th><th class="num">$6.00</th></tr></thead>
         <tbody>
-          <tr><td>4.0x</td><td class="num">$0.28</td><td class="num">$1.98</td><td class="num">$3.00</td><td class="num">$3.68</td><td class="num">$4.82</td></tr>
-          <tr><td>5.5x</td><td class="num">$2.28</td><td class="num">$4.75</td><td class="num">$6.23</td><td class="num">$7.21</td><td class="num">$8.86</td></tr>
-          <tr><td>7.0x</td><td class="num">$4.29</td><td class="num">$7.52</td><td class="num">$9.45</td><td class="num">$10.75</td><td class="num">$12.90</td></tr>
+          <tr><td>4.0x</td><td class="num" data-label="$4.00">$0.28</td><td class="num" data-label="$4.75">$1.98</td><td class="num" data-label="$5.20">$3.00</td><td class="num" data-label="$5.50">$3.68</td><td class="num" data-label="$6.00">$4.82</td></tr>
+          <tr><td>5.5x</td><td class="num" data-label="$4.00">$2.28</td><td class="num" data-label="$4.75">$4.75</td><td class="num" data-label="$5.20">$6.23</td><td class="num" data-label="$5.50">$7.21</td><td class="num" data-label="$6.00">$8.86</td></tr>
+          <tr><td>7.0x</td><td class="num" data-label="$4.00">$4.29</td><td class="num" data-label="$4.75">$7.52</td><td class="num" data-label="$5.20">$9.45</td><td class="num" data-label="$5.50">$10.75</td><td class="num" data-label="$6.00">$12.90</td></tr>
         </tbody>
       </table>
     </div>
@@ -277,16 +277,16 @@
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <p>One lever moves between the scenarios: the copper deck. Capex, schedule, the 10% rate, the 5.5x multiple, corporate costs and the share count stay the same, so the table shows copper risk on its own. The multiple is deliberately not cut in the Bear, because a trough copper price usually comes with a higher multiple, not a lower one, and cutting both would count the same bad news twice.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Copper deck</td><td class="num">$4.00 flat (the 2026 reserve price)</td><td class="num">$6.00 in 2029 to 2030, fading to $5.20 by 2033</td><td class="num">$7.00 in 2029 to 2030, fading to $6.00 by 2033</td></tr>
-          <tr><td>Project NPV at 10%</td><td class="num">$400.4M</td><td class="num">$1,504.9M</td><td class="num">$2,184.2M</td></tr>
-          <tr><td>Primary value</td><td class="num">$1.08</td><td class="num">$7.88</td><td class="num">$12.06</td></tr>
-          <tr><td>Mid-cycle EBITDA</td><td class="num">$325.7M</td><td class="num">$523.4M</td><td class="num">$655.2M</td></tr>
-          <tr><td>Secondary value</td><td class="num">$0.56</td><td class="num">$6.23</td><td class="num">$9.72</td></tr>
+          <tr><td>Copper deck</td><td class="num" data-label="Bear">$4.00 flat (the 2026 reserve price)</td><td class="num" data-label="Base">$6.00 in 2029 to 2030, fading to $5.20 by 2033</td><td class="num" data-label="Bull">$7.00 in 2029 to 2030, fading to $6.00 by 2033</td></tr>
+          <tr><td>Project NPV at 10%</td><td class="num" data-label="Bear">$400.4M</td><td class="num" data-label="Base">$1,504.9M</td><td class="num" data-label="Bull">$2,184.2M</td></tr>
+          <tr><td>Primary value</td><td class="num" data-label="Bear">$1.08</td><td class="num" data-label="Base">$7.88</td><td class="num" data-label="Bull">$12.06</td></tr>
+          <tr><td>Mid-cycle EBITDA</td><td class="num" data-label="Bear">$325.7M</td><td class="num" data-label="Base">$523.4M</td><td class="num" data-label="Bull">$655.2M</td></tr>
+          <tr><td>Secondary value</td><td class="num" data-label="Bear">$0.56</td><td class="num" data-label="Base">$6.23</td><td class="num" data-label="Bull">$9.72</td></tr>
           <tr class="total"><td>Value per share (70/30)</td><td class="num">$0.93</td><td class="num">$7.38</td><td class="num">$11.35</td></tr>
-          <tr><td>Versus $9.66</td><td class="num">-90.4%</td><td class="num">-23.6%</td><td class="num">+17.5%</td></tr>
+          <tr><td>Versus $9.66</td><td class="num" data-label="Bear">-90.4%</td><td class="num" data-label="Base">-23.6%</td><td class="num" data-label="Bull">+17.5%</td></tr>
         </tbody>
       </table>
     </div>
@@ -295,7 +295,7 @@
       <table class="wide">
         <thead><tr><th>Long-term copper, $/lb</th><th class="num">4.00</th><th class="num">4.50</th><th class="num">4.75</th><th class="num">5.00</th><th class="num">5.20</th><th class="num">5.40</th><th class="num">5.60</th><th class="num">5.80</th><th class="num">6.00</th></tr></thead>
         <tbody>
-          <tr><td>Base value per share</td><td class="num">$2.72</td><td class="num">$4.66</td><td class="num">$5.63</td><td class="num">$6.61</td><td class="num">$7.38</td><td class="num">$8.16</td><td class="num">$8.94</td><td class="num">$9.71</td><td class="num">$10.49</td></tr>
+          <tr><td>Base value per share</td><td class="num" data-label="4.00">$2.72</td><td class="num" data-label="4.50">$4.66</td><td class="num" data-label="4.75">$5.63</td><td class="num" data-label="5.00">$6.61</td><td class="num" data-label="5.20">$7.38</td><td class="num" data-label="5.40">$8.16</td><td class="num" data-label="5.60">$8.94</td><td class="num" data-label="5.80">$9.71</td><td class="num" data-label="6.00">$10.49</td></tr>
         </tbody>
       </table>
     </div>

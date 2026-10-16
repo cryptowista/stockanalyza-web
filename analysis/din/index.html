@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -199,17 +199,17 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Probability</td><td class="num">30%</td><td class="num">50%</td><td class="num">20%</td></tr>
-          <tr><td>Adjusted EBITDA / hard EBITDA ($ million)</td><td class="num">210 / 196.8</td><td class="num">225 / 211.8</td><td class="num">240 / 226.8</td></tr>
-          <tr><td>EV to EBITDA</td><td class="num">6.0x</td><td class="num">7.0x</td><td class="num">8.0x</td></tr>
-          <tr><td>Owner earnings after stock compensation ($ million)</td><td class="num">31.8</td><td class="num">56.8</td><td class="num">76.8</td></tr>
-          <tr><td>Owner earnings multiple</td><td class="num">6x</td><td class="num">7x</td><td class="num">8x</td></tr>
-          <tr><td>Primary / secondary value</td><td class="num">$4.69 / $15.07</td><td class="num">$28.53 / $31.41</td><td class="num">$54.74 / $48.53</td></tr>
+          <tr><td>Probability</td><td class="num" data-label="Bear">30%</td><td class="num" data-label="Base">50%</td><td class="num" data-label="Bull">20%</td></tr>
+          <tr><td>Adjusted EBITDA / hard EBITDA ($ million)</td><td class="num" data-label="Bear">210 / 196.8</td><td class="num" data-label="Base">225 / 211.8</td><td class="num" data-label="Bull">240 / 226.8</td></tr>
+          <tr><td>EV to EBITDA</td><td class="num" data-label="Bear">6.0x</td><td class="num" data-label="Base">7.0x</td><td class="num" data-label="Bull">8.0x</td></tr>
+          <tr><td>Owner earnings after stock compensation ($ million)</td><td class="num" data-label="Bear">31.8</td><td class="num" data-label="Base">56.8</td><td class="num" data-label="Bull">76.8</td></tr>
+          <tr><td>Owner earnings multiple</td><td class="num" data-label="Bear">6x</td><td class="num" data-label="Base">7x</td><td class="num" data-label="Bull">8x</td></tr>
+          <tr><td>Primary / secondary value</td><td class="num" data-label="Bear">$4.69 / $15.07</td><td class="num" data-label="Base">$28.53 / $31.41</td><td class="num" data-label="Bull">$54.74 / $48.53</td></tr>
           <tr class="total"><td>Triangulated value</td><td class="num">$8.33</td><td class="num">$29.54</td><td class="num">$52.57</td></tr>
-          <tr><td>vs $28.68</td><td class="num">-71.0%</td><td class="num">+3.0%</td><td class="num">+83.3%</td></tr>
+          <tr><td>vs $28.68</td><td class="num" data-label="Bear">-71.0%</td><td class="num" data-label="Base">+3.0%</td><td class="num" data-label="Bull">+83.3%</td></tr>
         </tbody>
       </table>
     </div>
@@ -218,12 +218,12 @@
 
     <h3>Sensitivity: primary value per share</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Hard EBITDA \ Multiple</th><th class="num">6x</th><th class="num">7x</th><th class="num">8x</th></tr></thead>
         <tbody>
-          <tr><td>$196.8 million</td><td class="num">$4.69</td><td class="num">$20.24</td><td class="num">$35.78</td></tr>
-          <tr><td>$211.8 million</td><td class="num">$11.80</td><td class="num">$28.53</td><td class="num">$45.26</td></tr>
-          <tr><td>$226.8 million</td><td class="num">$18.91</td><td class="num">$36.83</td><td class="num">$54.74</td></tr>
+          <tr><td>$196.8 million</td><td class="num" data-label="6x">$4.69</td><td class="num" data-label="7x">$20.24</td><td class="num" data-label="8x">$35.78</td></tr>
+          <tr><td>$211.8 million</td><td class="num" data-label="6x">$11.80</td><td class="num" data-label="7x">$28.53</td><td class="num" data-label="8x">$45.26</td></tr>
+          <tr><td>$226.8 million</td><td class="num" data-label="6x">$18.91</td><td class="num" data-label="7x">$36.83</td><td class="num" data-label="8x">$54.74</td></tr>
         </tbody>
       </table>
     </div>

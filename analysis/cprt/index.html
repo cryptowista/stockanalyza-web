@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -149,13 +149,13 @@
       <table class="wide">
         <thead><tr><th>Fiscal year ending July 31, $ millions</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th></tr></thead>
         <tbody>
-          <tr><td>Revenue</td><td class="num">3,501</td><td class="num">3,870</td><td class="num">4,237</td><td class="num">4,647</td><td class="num">4,666</td></tr>
-          <tr><td>Operating income</td><td class="num">1,375</td><td class="num">1,487</td><td class="num">1,572</td><td class="num">1,698</td><td class="num">1,653</td></tr>
-          <tr><td>Operating margin</td><td class="num">39.3%</td><td class="num">38.4%</td><td class="num">37.1%</td><td class="num">36.5%</td><td class="num">35.4%</td></tr>
-          <tr><td>Operating cash flow</td><td class="num">1,177</td><td class="num">1,364</td><td class="num">1,473</td><td class="num">1,800</td><td class="num">1,604</td></tr>
-          <tr><td>Capital expenditure</td><td class="num">337</td><td class="num">517</td><td class="num">511</td><td class="num">569</td><td class="num">337</td></tr>
-          <tr><td>Free cash flow</td><td class="num">839</td><td class="num">848</td><td class="num">962</td><td class="num">1,231</td><td class="num">1,267</td></tr>
-          <tr><td>Stock-based compensation</td><td class="num">39</td><td class="num">40</td><td class="num">35</td><td class="num">38</td><td class="num">39</td></tr>
+          <tr><td>Revenue</td><td class="num" data-label="2022">3,501</td><td class="num" data-label="2023">3,870</td><td class="num" data-label="2024">4,237</td><td class="num" data-label="2025">4,647</td><td class="num" data-label="2026">4,666</td></tr>
+          <tr><td>Operating income</td><td class="num" data-label="2022">1,375</td><td class="num" data-label="2023">1,487</td><td class="num" data-label="2024">1,572</td><td class="num" data-label="2025">1,698</td><td class="num" data-label="2026">1,653</td></tr>
+          <tr><td>Operating margin</td><td class="num" data-label="2022">39.3%</td><td class="num" data-label="2023">38.4%</td><td class="num" data-label="2024">37.1%</td><td class="num" data-label="2025">36.5%</td><td class="num" data-label="2026">35.4%</td></tr>
+          <tr><td>Operating cash flow</td><td class="num" data-label="2022">1,177</td><td class="num" data-label="2023">1,364</td><td class="num" data-label="2024">1,473</td><td class="num" data-label="2025">1,800</td><td class="num" data-label="2026">1,604</td></tr>
+          <tr><td>Capital expenditure</td><td class="num" data-label="2022">337</td><td class="num" data-label="2023">517</td><td class="num" data-label="2024">511</td><td class="num" data-label="2025">569</td><td class="num" data-label="2026">337</td></tr>
+          <tr><td>Free cash flow</td><td class="num" data-label="2022">839</td><td class="num" data-label="2023">848</td><td class="num" data-label="2024">962</td><td class="num" data-label="2025">1,231</td><td class="num" data-label="2026">1,267</td></tr>
+          <tr><td>Stock-based compensation</td><td class="num" data-label="2022">39</td><td class="num" data-label="2023">40</td><td class="num" data-label="2024">35</td><td class="num" data-label="2025">38</td><td class="num" data-label="2026">39</td></tr>
         </tbody>
       </table>
     </div>
@@ -198,16 +198,16 @@
     <h2 id="valuation">Primary valuation: owner free cash flow times a multiple</h2>
     <p>Copart is a Quality Growth company under the framework, so the multiple is built from a base and explicit premiums, not picked. The base for a very stable growing business is 13 times. I add premiums for returns on capital (about 28%), the net cash balance sheet and repeat economics, add a growth premium sized to the per-unit growth I expect, and subtract a risk discount for the lost customer, rising costs and the ACV deal.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Multiple build (P/FCF on owner cash flow)</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Sector base: very stable growing company</td><td class="num">13.0x</td><td class="num">13.0x</td><td class="num">13.0x</td></tr>
-          <tr><td>Growth premium (FCF per unit growth)</td><td class="num">+0.0x</td><td class="num">+2.0x</td><td class="num">+5.0x</td></tr>
-          <tr><td>Return on capital premium (ROIC about 28%)</td><td class="num">+3.0x</td><td class="num">+4.0x</td><td class="num">+5.0x</td></tr>
-          <tr><td>Balance sheet premium (net cash, no debt)</td><td class="num">+2.0x</td><td class="num">+2.0x</td><td class="num">+2.0x</td></tr>
-          <tr><td>Repeat economics premium</td><td class="num">+0.0x</td><td class="num">+1.5x</td><td class="num">+2.0x</td></tr>
-          <tr><td>Dilution penalty (share count falling)</td><td class="num">0.0x</td><td class="num">0.0x</td><td class="num">0.0x</td></tr>
-          <tr><td>Risk discount (customer loss, cost growth, ACV)</td><td class="num">-4.0x</td><td class="num">-2.0x</td><td class="num">-1.0x</td></tr>
+          <tr><td>Sector base: very stable growing company</td><td class="num" data-label="Bear">13.0x</td><td class="num" data-label="Base">13.0x</td><td class="num" data-label="Bull">13.0x</td></tr>
+          <tr><td>Growth premium (FCF per unit growth)</td><td class="num" data-label="Bear">+0.0x</td><td class="num" data-label="Base">+2.0x</td><td class="num" data-label="Bull">+5.0x</td></tr>
+          <tr><td>Return on capital premium (ROIC about 28%)</td><td class="num" data-label="Bear">+3.0x</td><td class="num" data-label="Base">+4.0x</td><td class="num" data-label="Bull">+5.0x</td></tr>
+          <tr><td>Balance sheet premium (net cash, no debt)</td><td class="num" data-label="Bear">+2.0x</td><td class="num" data-label="Base">+2.0x</td><td class="num" data-label="Bull">+2.0x</td></tr>
+          <tr><td>Repeat economics premium</td><td class="num" data-label="Bear">+0.0x</td><td class="num" data-label="Base">+1.5x</td><td class="num" data-label="Bull">+2.0x</td></tr>
+          <tr><td>Dilution penalty (share count falling)</td><td class="num" data-label="Bear">0.0x</td><td class="num" data-label="Base">0.0x</td><td class="num" data-label="Bull">0.0x</td></tr>
+          <tr><td>Risk discount (customer loss, cost growth, ACV)</td><td class="num" data-label="Bear">-4.0x</td><td class="num" data-label="Base">-2.0x</td><td class="num" data-label="Bull">-1.0x</td></tr>
           <tr class="total"><td>Multiple used</td><td class="num">14.0x</td><td class="num">20.5x</td><td class="num">26.0x</td></tr>
         </tbody>
       </table>
@@ -217,26 +217,26 @@
       <table class="wide">
         <thead><tr><th>Base case, $ billions</th><th class="num">FY2027E</th><th class="num">FY2028E</th><th class="num">FY2029E</th><th class="num">FY2030E</th><th class="num">FY2031E</th></tr></thead>
         <tbody>
-          <tr><td>Revenue</td><td class="num">4.81</td><td class="num">5.09</td><td class="num">5.40</td><td class="num">5.72</td><td class="num">6.01</td></tr>
-          <tr><td>Revenue growth</td><td class="num">3%</td><td class="num">6%</td><td class="num">6%</td><td class="num">6%</td><td class="num">5%</td></tr>
-          <tr><td>Operating margin</td><td class="num">34.0%</td><td class="num">34.0%</td><td class="num">34.5%</td><td class="num">34.5%</td><td class="num">34.5%</td></tr>
-          <tr><td>Operating income</td><td class="num">1.63</td><td class="num">1.73</td><td class="num">1.86</td><td class="num">1.97</td><td class="num">2.07</td></tr>
-          <tr><td>After-tax operating income (19.5% tax)</td><td class="num">1.32</td><td class="num">1.39</td><td class="num">1.50</td><td class="num">1.59</td><td class="num">1.67</td></tr>
+          <tr><td>Revenue</td><td class="num" data-label="FY2027E">4.81</td><td class="num" data-label="FY2028E">5.09</td><td class="num" data-label="FY2029E">5.40</td><td class="num" data-label="FY2030E">5.72</td><td class="num" data-label="FY2031E">6.01</td></tr>
+          <tr><td>Revenue growth</td><td class="num" data-label="FY2027E">3%</td><td class="num" data-label="FY2028E">6%</td><td class="num" data-label="FY2029E">6%</td><td class="num" data-label="FY2030E">6%</td><td class="num" data-label="FY2031E">5%</td></tr>
+          <tr><td>Operating margin</td><td class="num" data-label="FY2027E">34.0%</td><td class="num" data-label="FY2028E">34.0%</td><td class="num" data-label="FY2029E">34.5%</td><td class="num" data-label="FY2030E">34.5%</td><td class="num" data-label="FY2031E">34.5%</td></tr>
+          <tr><td>Operating income</td><td class="num" data-label="FY2027E">1.63</td><td class="num" data-label="FY2028E">1.73</td><td class="num" data-label="FY2029E">1.86</td><td class="num" data-label="FY2030E">1.97</td><td class="num" data-label="FY2031E">2.07</td></tr>
+          <tr><td>After-tax operating income (19.5% tax)</td><td class="num" data-label="FY2027E">1.32</td><td class="num" data-label="FY2028E">1.39</td><td class="num" data-label="FY2029E">1.50</td><td class="num" data-label="FY2030E">1.59</td><td class="num" data-label="FY2031E">1.67</td></tr>
           <tr class="total"><td>Owner free cash flow (73% of after-tax operating income)</td><td class="num">0.960</td><td class="num">1.018</td><td class="num">1.095</td><td class="num">1.160</td><td class="num">1.219</td></tr>
         </tbody>
       </table>
     </div>
     <p>Base assumes the margin falls to 34% in FY2027 and then stabilizes, revenue grows 6% a year from FY2028 as pricing continues and international volume grows, and cash conversion is 73% of after-tax operating income. I do not assume further buybacks, so the unit count stays at 931.4 million.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Primary method</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>FY2028E owner free cash flow</td><td class="num">$0.862B</td><td class="num">$1.018B</td><td class="num">$1.165B</td></tr>
-          <tr><td>Multiple (growth-adjusted)</td><td class="num">14x</td><td class="num">20.5x</td><td class="num">26x</td></tr>
-          <tr><td>Value at end of fiscal 2027</td><td class="num">$12.06B</td><td class="num">$20.87B</td><td class="num">$30.30B</td></tr>
-          <tr><td>Discounted to today at 10%</td><td class="num">$11.18B</td><td class="num">$19.33B</td><td class="num">$28.08B</td></tr>
-          <tr><td>Plus FY2027E cash flow still to come, discounted</td><td class="num">$0.65B</td><td class="num">$0.74B</td><td class="num">$0.82B</td></tr>
-          <tr><td>Plus net cash</td><td class="num">$4.40B</td><td class="num">$4.40B</td><td class="num">$4.40B</td></tr>
+          <tr><td>FY2028E owner free cash flow</td><td class="num" data-label="Bear">$0.862B</td><td class="num" data-label="Base">$1.018B</td><td class="num" data-label="Bull">$1.165B</td></tr>
+          <tr><td>Multiple (growth-adjusted)</td><td class="num" data-label="Bear">14x</td><td class="num" data-label="Base">20.5x</td><td class="num" data-label="Bull">26x</td></tr>
+          <tr><td>Value at end of fiscal 2027</td><td class="num" data-label="Bear">$12.06B</td><td class="num" data-label="Base">$20.87B</td><td class="num" data-label="Bull">$30.30B</td></tr>
+          <tr><td>Discounted to today at 10%</td><td class="num" data-label="Bear">$11.18B</td><td class="num" data-label="Base">$19.33B</td><td class="num" data-label="Bull">$28.08B</td></tr>
+          <tr><td>Plus FY2027E cash flow still to come, discounted</td><td class="num" data-label="Bear">$0.65B</td><td class="num" data-label="Base">$0.74B</td><td class="num" data-label="Bull">$0.82B</td></tr>
+          <tr><td>Plus net cash</td><td class="num" data-label="Bear">$4.40B</td><td class="num" data-label="Base">$4.40B</td><td class="num" data-label="Bull">$4.40B</td></tr>
           <tr class="total"><td>Value per diluted unit</td><td class="num">$17.43</td><td class="num">$26.28</td><td class="num">$35.75</td></tr>
         </tbody>
       </table>
@@ -247,25 +247,25 @@
       <table class="wide">
         <thead><tr><th>Multiple \ FY2028E owner FCF</th><th class="num">$0.85B</th><th class="num">$0.95B</th><th class="num">$1.02B (Base)</th><th class="num">$1.10B</th><th class="num">$1.20B</th></tr></thead>
         <tbody>
-          <tr><td>16x</td><td class="num">$19.04</td><td class="num">$20.64</td><td class="num">$21.72</td><td class="num">$23.02</td><td class="num">$24.62</td></tr>
-          <tr><td>18x</td><td class="num">$20.74</td><td class="num">$22.53</td><td class="num">$23.74</td><td class="num">$25.21</td><td class="num">$27.00</td></tr>
-          <tr><td>20.5x</td><td class="num">$22.85</td><td class="num">$24.89</td><td class="num">$26.28</td><td class="num">$27.95</td><td class="num">$29.99</td></tr>
-          <tr><td>23x</td><td class="num">$24.96</td><td class="num">$27.25</td><td class="num">$28.81</td><td class="num">$30.68</td><td class="num">$32.97</td></tr>
-          <tr><td>26x</td><td class="num">$27.50</td><td class="num">$30.09</td><td class="num">$31.85</td><td class="num">$33.97</td><td class="num">$36.55</td></tr>
+          <tr><td>16x</td><td class="num" data-label="$0.85B">$19.04</td><td class="num" data-label="$0.95B">$20.64</td><td class="num" data-label="$1.02B (Base)">$21.72</td><td class="num" data-label="$1.10B">$23.02</td><td class="num" data-label="$1.20B">$24.62</td></tr>
+          <tr><td>18x</td><td class="num" data-label="$0.85B">$20.74</td><td class="num" data-label="$0.95B">$22.53</td><td class="num" data-label="$1.02B (Base)">$23.74</td><td class="num" data-label="$1.10B">$25.21</td><td class="num" data-label="$1.20B">$27.00</td></tr>
+          <tr><td>20.5x</td><td class="num" data-label="$0.85B">$22.85</td><td class="num" data-label="$0.95B">$24.89</td><td class="num" data-label="$1.02B (Base)">$26.28</td><td class="num" data-label="$1.10B">$27.95</td><td class="num" data-label="$1.20B">$29.99</td></tr>
+          <tr><td>23x</td><td class="num" data-label="$0.85B">$24.96</td><td class="num" data-label="$0.95B">$27.25</td><td class="num" data-label="$1.02B (Base)">$28.81</td><td class="num" data-label="$1.10B">$30.68</td><td class="num" data-label="$1.20B">$32.97</td></tr>
+          <tr><td>26x</td><td class="num" data-label="$0.85B">$27.50</td><td class="num" data-label="$0.95B">$30.09</td><td class="num" data-label="$1.02B (Base)">$31.85</td><td class="num" data-label="$1.10B">$33.97</td><td class="num" data-label="$1.20B">$36.55</td></tr>
         </tbody>
       </table>
     </div>
 
     <h2 id="secondary">Secondary valuation: five-year DCF</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>DCF at 10%</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Terminal growth</td><td class="num">3.0%</td><td class="num">4.0%</td><td class="num">4.5%</td></tr>
-          <tr><td>Present value of FY2027E-FY2031E owner cash flow</td><td class="num">$3.39B</td><td class="num">$4.17B</td><td class="num">$4.89B</td></tr>
-          <tr><td>Present value of terminal value</td><td class="num">$8.63B</td><td class="num">$13.37B</td><td class="num">$17.98B</td></tr>
-          <tr><td>Terminal value share</td><td class="num">72%</td><td class="num">76%</td><td class="num">79%</td></tr>
-          <tr><td>Plus net cash</td><td class="num">$4.40B</td><td class="num">$4.40B</td><td class="num">$4.40B</td></tr>
+          <tr><td>Terminal growth</td><td class="num" data-label="Bear">3.0%</td><td class="num" data-label="Base">4.0%</td><td class="num" data-label="Bull">4.5%</td></tr>
+          <tr><td>Present value of FY2027E-FY2031E owner cash flow</td><td class="num" data-label="Bear">$3.39B</td><td class="num" data-label="Base">$4.17B</td><td class="num" data-label="Bull">$4.89B</td></tr>
+          <tr><td>Present value of terminal value</td><td class="num" data-label="Bear">$8.63B</td><td class="num" data-label="Base">$13.37B</td><td class="num" data-label="Bull">$17.98B</td></tr>
+          <tr><td>Terminal value share</td><td class="num" data-label="Bear">72%</td><td class="num" data-label="Base">76%</td><td class="num" data-label="Bull">79%</td></tr>
+          <tr><td>Plus net cash</td><td class="num" data-label="Bear">$4.40B</td><td class="num" data-label="Base">$4.40B</td><td class="num" data-label="Bull">$4.40B</td></tr>
           <tr class="total"><td>Value per diluted unit</td><td class="num">$17.63</td><td class="num">$23.56</td><td class="num">$29.27</td></tr>
         </tbody>
       </table>
@@ -275,9 +275,9 @@
       <table class="wide">
         <thead><tr><th>Discount rate \ terminal growth</th><th class="num">3.0%</th><th class="num">3.5%</th><th class="num">4.0%</th><th class="num">4.5%</th></tr></thead>
         <tbody>
-          <tr><td>9%</td><td class="num">$24.15</td><td class="num">$25.58</td><td class="num">$27.29</td><td class="num">$29.39</td></tr>
-          <tr><td>10%</td><td class="num">$21.39</td><td class="num">$22.39</td><td class="num">$23.55</td><td class="num">$24.93</td></tr>
-          <tr><td>11%</td><td class="num">$19.32</td><td class="num">$20.05</td><td class="num">$20.89</td><td class="num">$21.85</td></tr>
+          <tr><td>9%</td><td class="num" data-label="3.0%">$24.15</td><td class="num" data-label="3.5%">$25.58</td><td class="num" data-label="4.0%">$27.29</td><td class="num" data-label="4.5%">$29.39</td></tr>
+          <tr><td>10%</td><td class="num" data-label="3.0%">$21.39</td><td class="num" data-label="3.5%">$22.39</td><td class="num" data-label="4.0%">$23.55</td><td class="num" data-label="4.5%">$24.93</td></tr>
+          <tr><td>11%</td><td class="num" data-label="3.0%">$19.32</td><td class="num" data-label="3.5%">$20.05</td><td class="num" data-label="4.0%">$20.89</td><td class="num" data-label="4.5%">$21.85</td></tr>
         </tbody>
       </table>
     </div>
@@ -292,8 +292,8 @@
       <table class="wide">
         <thead><tr><th>Triangulation</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th><th class="num">Weight</th></tr></thead>
         <tbody>
-          <tr><td>Primary: growth-adjusted P/FCF</td><td class="num">$17.43</td><td class="num">$26.28</td><td class="num">$35.75</td><td class="num">50%</td></tr>
-          <tr><td>Secondary: DCF</td><td class="num">$17.63</td><td class="num">$23.56</td><td class="num">$29.27</td><td class="num">50%</td></tr>
+          <tr><td>Primary: growth-adjusted P/FCF</td><td class="num" data-label="Bear">$17.43</td><td class="num" data-label="Base">$26.28</td><td class="num" data-label="Bull">$35.75</td><td class="num" data-label="Weight">50%</td></tr>
+          <tr><td>Secondary: DCF</td><td class="num" data-label="Bear">$17.63</td><td class="num" data-label="Base">$23.56</td><td class="num" data-label="Bull">$29.27</td><td class="num" data-label="Weight">50%</td></tr>
           <tr class="total"><td>Triangulated value</td><td class="num">$17.52</td><td class="num">$24.91</td><td class="num">$32.50</td><td class="num">100%</td></tr>
         </tbody>
       </table>
@@ -305,15 +305,15 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Scenario drivers</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Revenue growth FY2027E, then FY2028E-FY2031E</td><td class="num">+1%, then +3% a year</td><td class="num">+3%, then +6% (+5% in FY2031E)</td><td class="num">+5%, then +8% (+7% in FY2031E)</td></tr>
-          <tr><td>Operating margin, FY2027E to FY2031E</td><td class="num">32.0% falling to 31.0%</td><td class="num">34.0% rising to 34.5%</td><td class="num">35.5% rising to 37.0%</td></tr>
-          <tr><td>FY2028E revenue</td><td class="num">$4.85B</td><td class="num">$5.09B</td><td class="num">$5.29B</td></tr>
-          <tr><td>FY2028E owner free cash flow</td><td class="num">$0.862B</td><td class="num">$1.018B</td><td class="num">$1.165B</td></tr>
-          <tr><td>Cash conversion of after-tax operating income</td><td class="num">70%</td><td class="num">73%</td><td class="num">76%</td></tr>
-          <tr><td>Multiple of owner free cash flow</td><td class="num">14x</td><td class="num">20.5x</td><td class="num">26x</td></tr>
+          <tr><td>Revenue growth FY2027E, then FY2028E-FY2031E</td><td class="num" data-label="Bear">+1%, then +3% a year</td><td class="num" data-label="Base">+3%, then +6% (+5% in FY2031E)</td><td class="num" data-label="Bull">+5%, then +8% (+7% in FY2031E)</td></tr>
+          <tr><td>Operating margin, FY2027E to FY2031E</td><td class="num" data-label="Bear">32.0% falling to 31.0%</td><td class="num" data-label="Base">34.0% rising to 34.5%</td><td class="num" data-label="Bull">35.5% rising to 37.0%</td></tr>
+          <tr><td>FY2028E revenue</td><td class="num" data-label="Bear">$4.85B</td><td class="num" data-label="Base">$5.09B</td><td class="num" data-label="Bull">$5.29B</td></tr>
+          <tr><td>FY2028E owner free cash flow</td><td class="num" data-label="Bear">$0.862B</td><td class="num" data-label="Base">$1.018B</td><td class="num" data-label="Bull">$1.165B</td></tr>
+          <tr><td>Cash conversion of after-tax operating income</td><td class="num" data-label="Bear">70%</td><td class="num" data-label="Base">73%</td><td class="num" data-label="Bull">76%</td></tr>
+          <tr><td>Multiple of owner free cash flow</td><td class="num" data-label="Bear">14x</td><td class="num" data-label="Base">20.5x</td><td class="num" data-label="Bull">26x</td></tr>
           <tr class="total"><td>Triangulated value per unit</td><td class="num">$17.52</td><td class="num">$24.91</td><td class="num">$32.50</td></tr>
         </tbody>
       </table>

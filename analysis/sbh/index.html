@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -173,9 +173,9 @@
       <table class="wide">
         <thead><tr><th>Case</th><th class="num">EBITDA after SBC</th><th class="num">EV/EBITDA</th><th class="num">Enterprise value</th><th class="num">Equity value</th><th class="num">Per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$420M</td><td class="num">7.0x</td><td class="num">$2,940M</td><td class="num">$1,597.7M</td><td class="num">$16.56</td></tr>
-          <tr><td>Base</td><td class="num">$440M</td><td class="num">8.5x</td><td class="num">$3,740M</td><td class="num">$2,397.7M</td><td class="num">$24.85</td></tr>
-          <tr><td>Bull</td><td class="num">$455M</td><td class="num">10.0x</td><td class="num">$4,550M</td><td class="num">$3,207.7M</td><td class="num">$33.25</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="EBITDA after SBC">$420M</td><td class="num" data-label="EV/EBITDA">7.0x</td><td class="num" data-label="Enterprise value">$2,940M</td><td class="num" data-label="Equity value">$1,597.7M</td><td class="num" data-label="Per share">$16.56</td></tr>
+          <tr><td>Base</td><td class="num" data-label="EBITDA after SBC">$440M</td><td class="num" data-label="EV/EBITDA">8.5x</td><td class="num" data-label="Enterprise value">$3,740M</td><td class="num" data-label="Equity value">$2,397.7M</td><td class="num" data-label="Per share">$24.85</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="EBITDA after SBC">$455M</td><td class="num" data-label="EV/EBITDA">10.0x</td><td class="num" data-label="Enterprise value">$4,550M</td><td class="num" data-label="Equity value">$3,207.7M</td><td class="num" data-label="Per share">$33.25</td></tr>
         </tbody>
       </table>
     </div>
@@ -183,12 +183,12 @@
 
     <h3>Sensitivity: EBITDA and EV/EBITDA</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>EBITDA \ Multiple</th><th class="num">7.0x</th><th class="num">8.5x</th><th class="num">10.0x</th></tr></thead>
         <tbody>
-          <tr><td>$420M</td><td class="num">$16.6</td><td class="num">$23.1</td><td class="num">$29.6</td></tr>
-          <tr><td>$440M</td><td class="num">$18.0</td><td class="num">$24.9</td><td class="num">$31.7</td></tr>
-          <tr><td>$455M</td><td class="num">$19.1</td><td class="num">$26.2</td><td class="num">$33.2</td></tr>
+          <tr><td>$420M</td><td class="num" data-label="7.0x">$16.6</td><td class="num" data-label="8.5x">$23.1</td><td class="num" data-label="10.0x">$29.6</td></tr>
+          <tr><td>$440M</td><td class="num" data-label="7.0x">$18.0</td><td class="num" data-label="8.5x">$24.9</td><td class="num" data-label="10.0x">$31.7</td></tr>
+          <tr><td>$455M</td><td class="num" data-label="7.0x">$19.1</td><td class="num" data-label="8.5x">$26.2</td><td class="num" data-label="10.0x">$33.2</td></tr>
         </tbody>
       </table>
     </div>
@@ -199,9 +199,9 @@
       <table class="wide">
         <thead><tr><th>Case</th><th class="num">Free cash flow</th><th class="num">Per share</th><th class="num">P/FCF</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$190.0M</td><td class="num">$1.97</td><td class="num">8x</td><td class="num">$15.76</td></tr>
-          <tr><td>Base</td><td class="num">$220.0M</td><td class="num">$2.28</td><td class="num">10x</td><td class="num">$22.80</td></tr>
-          <tr><td>Bull</td><td class="num">$242.5M</td><td class="num">$2.51</td><td class="num">12x</td><td class="num">$30.16</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="Free cash flow">$190.0M</td><td class="num" data-label="Per share">$1.97</td><td class="num" data-label="P/FCF">8x</td><td class="num" data-label="Value per share">$15.76</td></tr>
+          <tr><td>Base</td><td class="num" data-label="Free cash flow">$220.0M</td><td class="num" data-label="Per share">$2.28</td><td class="num" data-label="P/FCF">10x</td><td class="num" data-label="Value per share">$22.80</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="Free cash flow">$242.5M</td><td class="num" data-label="Per share">$2.51</td><td class="num" data-label="P/FCF">12x</td><td class="num" data-label="Value per share">$30.16</td></tr>
         </tbody>
       </table>
     </div>
@@ -229,14 +229,14 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Main assumptions</td><td class="num">BSG keeps shrinking, margin gains fade, cash flow slips below the guided level</td><td class="num">Stable sales, defensible margins, about $220M of free cash flow, buybacks continue</td><td class="num">Margins hold, BSG stabilizes, free cash flow near $240M, the multiple moves toward 10x</td></tr>
-          <tr><td>EBITDA after SBC / free cash flow</td><td class="num">$420M / $190M</td><td class="num">$440M / $220M</td><td class="num">$455M / $242.5M</td></tr>
-          <tr><td>EV/EBITDA / P/FCF</td><td class="num">7.0x / 8x</td><td class="num">8.5x / 10x</td><td class="num">10.0x / 12x</td></tr>
-          <tr><td>Value per share</td><td class="num">$16.24</td><td class="num">$24.03</td><td class="num">$32.02</td></tr>
-          <tr><td>Versus $17.18</td><td class="num">-5.5%</td><td class="num">+39.9%</td><td class="num">+86.4%</td></tr>
+          <tr><td>Main assumptions</td><td class="num" data-label="Bear">BSG keeps shrinking, margin gains fade, cash flow slips below the guided level</td><td class="num" data-label="Base">Stable sales, defensible margins, about $220M of free cash flow, buybacks continue</td><td class="num" data-label="Bull">Margins hold, BSG stabilizes, free cash flow near $240M, the multiple moves toward 10x</td></tr>
+          <tr><td>EBITDA after SBC / free cash flow</td><td class="num" data-label="Bear">$420M / $190M</td><td class="num" data-label="Base">$440M / $220M</td><td class="num" data-label="Bull">$455M / $242.5M</td></tr>
+          <tr><td>EV/EBITDA / P/FCF</td><td class="num" data-label="Bear">7.0x / 8x</td><td class="num" data-label="Base">8.5x / 10x</td><td class="num" data-label="Bull">10.0x / 12x</td></tr>
+          <tr><td>Value per share</td><td class="num" data-label="Bear">$16.24</td><td class="num" data-label="Base">$24.03</td><td class="num" data-label="Bull">$32.02</td></tr>
+          <tr><td>Versus $17.18</td><td class="num" data-label="Bear">-5.5%</td><td class="num" data-label="Base">+39.9%</td><td class="num" data-label="Bull">+86.4%</td></tr>
         </tbody>
       </table>
     </div>

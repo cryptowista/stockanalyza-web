@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -182,12 +182,12 @@
 
     <h2 id="valuation">Primary valuation: price to normalized owner free cash flow</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Case</th><th class="num">Owner earnings per share</th><th class="num">Justified P/FCF</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$7.0</td><td class="num">8.5x</td><td class="num">$59.50</td></tr>
-          <tr><td>Base</td><td class="num">$8.3</td><td class="num">11.0x</td><td class="num">$91.30</td></tr>
-          <tr><td>Bull</td><td class="num">$9.3</td><td class="num">13.0x</td><td class="num">$120.90</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="Owner earnings per share">$7.0</td><td class="num" data-label="Justified P/FCF">8.5x</td><td class="num" data-label="Value per share">$59.50</td></tr>
+          <tr><td>Base</td><td class="num" data-label="Owner earnings per share">$8.3</td><td class="num" data-label="Justified P/FCF">11.0x</td><td class="num" data-label="Value per share">$91.30</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="Owner earnings per share">$9.3</td><td class="num" data-label="Justified P/FCF">13.0x</td><td class="num" data-label="Value per share">$120.90</td></tr>
         </tbody>
       </table>
     </div>
@@ -195,12 +195,12 @@
 
     <h3>Sensitivity: owner earnings per share and multiple</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Owner earnings \ P/FCF</th><th class="num">9x</th><th class="num">11x</th><th class="num">13x</th></tr></thead>
         <tbody>
-          <tr><td>$7.0</td><td class="num">$63</td><td class="num">$77</td><td class="num">$91</td></tr>
-          <tr><td>$8.3</td><td class="num">$75</td><td class="num">$91</td><td class="num">$108</td></tr>
-          <tr><td>$9.3</td><td class="num">$84</td><td class="num">$102</td><td class="num">$121</td></tr>
+          <tr><td>$7.0</td><td class="num" data-label="9x">$63</td><td class="num" data-label="11x">$77</td><td class="num" data-label="13x">$91</td></tr>
+          <tr><td>$8.3</td><td class="num" data-label="9x">$75</td><td class="num" data-label="11x">$91</td><td class="num" data-label="13x">$108</td></tr>
+          <tr><td>$9.3</td><td class="num" data-label="9x">$84</td><td class="num" data-label="11x">$102</td><td class="num" data-label="13x">$121</td></tr>
         </tbody>
       </table>
     </div>
@@ -208,12 +208,12 @@
 
     <h2 id="secondary">Secondary valuation: price to normalized earnings</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Case</th><th class="num">Normalized EPS</th><th class="num">P/E</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$7.2</td><td class="num">8x</td><td class="num">$57.60</td></tr>
-          <tr><td>Base</td><td class="num">$8.5</td><td class="num">11x</td><td class="num">$93.50</td></tr>
-          <tr><td>Bull</td><td class="num">$9.5</td><td class="num">13x</td><td class="num">$123.50</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="Normalized EPS">$7.2</td><td class="num" data-label="P/E">8x</td><td class="num" data-label="Value per share">$57.60</td></tr>
+          <tr><td>Base</td><td class="num" data-label="Normalized EPS">$8.5</td><td class="num" data-label="P/E">11x</td><td class="num" data-label="Value per share">$93.50</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="Normalized EPS">$9.5</td><td class="num" data-label="P/E">13x</td><td class="num" data-label="Value per share">$123.50</td></tr>
         </tbody>
       </table>
     </div>
@@ -242,14 +242,14 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Main assumptions</td><td class="num">Integration disappoints, client and talent losses, weak cash conversion, leverage stays elevated</td><td class="num">Low to mid single-digit organic growth, most synergies kept, cash conversion normalizes, buybacks support per-share value</td><td class="num">Strong integration, healthy organic growth, deleveraging, multiples normalize</td></tr>
-          <tr><td>Owner earnings / EPS per share</td><td class="num">$7.0 / $7.2</td><td class="num">$8.3 / $8.5</td><td class="num">$9.3 / $9.5</td></tr>
-          <tr><td>P/FCF / P/E</td><td class="num">8.5x / 8x</td><td class="num">11x / 11x</td><td class="num">13x / 13x</td></tr>
-          <tr><td>Value per share</td><td class="num">$58.76</td><td class="num">$92.69</td><td class="num">$121.91</td></tr>
-          <tr><td>Versus $76.15</td><td class="num">-22.8%</td><td class="num">+21.7%</td><td class="num">+60.1%</td></tr>
+          <tr><td>Main assumptions</td><td class="num" data-label="Bear">Integration disappoints, client and talent losses, weak cash conversion, leverage stays elevated</td><td class="num" data-label="Base">Low to mid single-digit organic growth, most synergies kept, cash conversion normalizes, buybacks support per-share value</td><td class="num" data-label="Bull">Strong integration, healthy organic growth, deleveraging, multiples normalize</td></tr>
+          <tr><td>Owner earnings / EPS per share</td><td class="num" data-label="Bear">$7.0 / $7.2</td><td class="num" data-label="Base">$8.3 / $8.5</td><td class="num" data-label="Bull">$9.3 / $9.5</td></tr>
+          <tr><td>P/FCF / P/E</td><td class="num" data-label="Bear">8.5x / 8x</td><td class="num" data-label="Base">11x / 11x</td><td class="num" data-label="Bull">13x / 13x</td></tr>
+          <tr><td>Value per share</td><td class="num" data-label="Bear">$58.76</td><td class="num" data-label="Base">$92.69</td><td class="num" data-label="Bull">$121.91</td></tr>
+          <tr><td>Versus $76.15</td><td class="num" data-label="Bear">-22.8%</td><td class="num" data-label="Base">+21.7%</td><td class="num" data-label="Bull">+60.1%</td></tr>
         </tbody>
       </table>
     </div>

@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -186,14 +186,14 @@
 
     <h2 id="history">Historical cross-check</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Year end</th><th class="num">Price</th><th class="num">AFFO per share</th><th class="num">P/AFFO</th></tr></thead>
         <tbody>
-          <tr><td>2021</td><td class="num">$30.11</td><td class="num">$1.82</td><td class="num">16.54x</td></tr>
-          <tr><td>2022</td><td class="num">$32.40</td><td class="num">$1.93</td><td class="num">16.79x</td></tr>
-          <tr><td>2023</td><td class="num">$31.88</td><td class="num">$2.15</td><td class="num">14.83x</td></tr>
-          <tr><td>2024</td><td class="num">$29.21</td><td class="num">$2.26</td><td class="num">12.92x</td></tr>
-          <tr><td>2025</td><td class="num">$28.12</td><td class="num">$2.38</td><td class="num">11.82x</td></tr>
+          <tr><td>2021</td><td class="num" data-label="Price">$30.11</td><td class="num" data-label="AFFO per share">$1.82</td><td class="num" data-label="P/AFFO">16.54x</td></tr>
+          <tr><td>2022</td><td class="num" data-label="Price">$32.40</td><td class="num" data-label="AFFO per share">$1.93</td><td class="num" data-label="P/AFFO">16.79x</td></tr>
+          <tr><td>2023</td><td class="num" data-label="Price">$31.88</td><td class="num" data-label="AFFO per share">$2.15</td><td class="num" data-label="P/AFFO">14.83x</td></tr>
+          <tr><td>2024</td><td class="num" data-label="Price">$29.21</td><td class="num" data-label="AFFO per share">$2.26</td><td class="num" data-label="P/AFFO">12.92x</td></tr>
+          <tr><td>2025</td><td class="num" data-label="Price">$28.12</td><td class="num" data-label="AFFO per share">$2.38</td><td class="num" data-label="P/AFFO">11.82x</td></tr>
         </tbody>
       </table>
     </div>
@@ -218,19 +218,19 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Probability</td><td class="num">30%</td><td class="num">50%</td><td class="num">20%</td></tr>
-          <tr><td>Change in annual rent</td><td class="num">-8.0%</td><td class="num">0.0%</td><td class="num">+2.5%</td></tr>
-          <tr><td>Hard AFFO per share</td><td class="num">$2.02</td><td class="num">$2.37</td><td class="num">$2.44</td></tr>
-          <tr><td>AFFO multiple</td><td class="num">10.5x</td><td class="num">14.0x</td><td class="num">16.0x</td></tr>
-          <tr><td>NAV cap rate</td><td class="num">8.25%</td><td class="num">7.00%</td><td class="num">6.25%</td></tr>
-          <tr><td>Loan value / principal</td><td class="num">80.0%</td><td class="num">95.6%</td><td class="num">99.0%</td></tr>
-          <tr><td>Primary / NAV value</td><td class="num">$21.17 / $19.12</td><td class="num">$33.12 / $29.03</td><td class="num">$39.11 / $35.14</td></tr>
+          <tr><td>Probability</td><td class="num" data-label="Bear">30%</td><td class="num" data-label="Base">50%</td><td class="num" data-label="Bull">20%</td></tr>
+          <tr><td>Change in annual rent</td><td class="num" data-label="Bear">-8.0%</td><td class="num" data-label="Base">0.0%</td><td class="num" data-label="Bull">+2.5%</td></tr>
+          <tr><td>Hard AFFO per share</td><td class="num" data-label="Bear">$2.02</td><td class="num" data-label="Base">$2.37</td><td class="num" data-label="Bull">$2.44</td></tr>
+          <tr><td>AFFO multiple</td><td class="num" data-label="Bear">10.5x</td><td class="num" data-label="Base">14.0x</td><td class="num" data-label="Bull">16.0x</td></tr>
+          <tr><td>NAV cap rate</td><td class="num" data-label="Bear">8.25%</td><td class="num" data-label="Base">7.00%</td><td class="num" data-label="Bull">6.25%</td></tr>
+          <tr><td>Loan value / principal</td><td class="num" data-label="Bear">80.0%</td><td class="num" data-label="Base">95.6%</td><td class="num" data-label="Bull">99.0%</td></tr>
+          <tr><td>Primary / NAV value</td><td class="num" data-label="Bear">$21.17 / $19.12</td><td class="num" data-label="Base">$33.12 / $29.03</td><td class="num" data-label="Bull">$39.11 / $35.14</td></tr>
           <tr class="total"><td>Triangulated value</td><td class="num">$20.45</td><td class="num">$31.69</td><td class="num">$37.72</td></tr>
-          <tr><td>vs $23.965</td><td class="num">-14.7%</td><td class="num">+32.2%</td><td class="num">+57.4%</td></tr>
-          <tr><td>Dividend / hard AFFO</td><td class="num">91.2%</td><td class="num">77.8%</td><td class="num">75.3%</td></tr>
+          <tr><td>vs $23.965</td><td class="num" data-label="Bear">-14.7%</td><td class="num" data-label="Base">+32.2%</td><td class="num" data-label="Bull">+57.4%</td></tr>
+          <tr><td>Dividend / hard AFFO</td><td class="num" data-label="Bear">91.2%</td><td class="num" data-label="Base">77.8%</td><td class="num" data-label="Bull">75.3%</td></tr>
         </tbody>
       </table>
     </div>
@@ -242,19 +242,19 @@
       <table class="wide">
         <thead><tr><th>Hard AFFO per share</th><th class="num">10.5x</th><th class="num">12.0x</th><th class="num">14.0x</th><th class="num">16.0x</th></tr></thead>
         <tbody>
-          <tr><td>$2.02</td><td class="num">$21.17</td><td class="num">$24.20</td><td class="num">$28.23</td><td class="num">$32.27</td></tr>
-          <tr><td>$2.37</td><td class="num">$24.84</td><td class="num">$28.39</td><td class="num">$33.12</td><td class="num">$37.85</td></tr>
-          <tr><td>$2.44</td><td class="num">$25.66</td><td class="num">$29.33</td><td class="num">$34.22</td><td class="num">$39.11</td></tr>
+          <tr><td>$2.02</td><td class="num" data-label="10.5x">$21.17</td><td class="num" data-label="12.0x">$24.20</td><td class="num" data-label="14.0x">$28.23</td><td class="num" data-label="16.0x">$32.27</td></tr>
+          <tr><td>$2.37</td><td class="num" data-label="10.5x">$24.84</td><td class="num" data-label="12.0x">$28.39</td><td class="num" data-label="14.0x">$33.12</td><td class="num" data-label="16.0x">$37.85</td></tr>
+          <tr><td>$2.44</td><td class="num" data-label="10.5x">$25.66</td><td class="num" data-label="12.0x">$29.33</td><td class="num" data-label="14.0x">$34.22</td><td class="num" data-label="16.0x">$39.11</td></tr>
         </tbody>
       </table>
     </div>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Loan asset value</th><th class="num">6.25% cap</th><th class="num">7.00% cap</th><th class="num">8.25% cap</th></tr></thead>
         <tbody>
-          <tr><td>$2,424 million</td><td class="num">$33.59</td><td class="num">$28.60</td><td class="num">$22.32</td></tr>
-          <tr><td>$2,898 million</td><td class="num">$34.01</td><td class="num">$29.03</td><td class="num">$22.74</td></tr>
-          <tr><td>$3,000 million</td><td class="num">$34.10</td><td class="num">$29.12</td><td class="num">$22.83</td></tr>
+          <tr><td>$2,424 million</td><td class="num" data-label="6.25% cap">$33.59</td><td class="num" data-label="7.00% cap">$28.60</td><td class="num" data-label="8.25% cap">$22.32</td></tr>
+          <tr><td>$2,898 million</td><td class="num" data-label="6.25% cap">$34.01</td><td class="num" data-label="7.00% cap">$29.03</td><td class="num" data-label="8.25% cap">$22.74</td></tr>
+          <tr><td>$3,000 million</td><td class="num" data-label="6.25% cap">$34.10</td><td class="num" data-label="7.00% cap">$29.12</td><td class="num" data-label="8.25% cap">$22.83</td></tr>
         </tbody>
       </table>
     </div>

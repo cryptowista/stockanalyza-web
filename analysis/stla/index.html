@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -129,15 +129,15 @@
     <h2 id="quarter">The latest quarter</h2>
     <p>The second quarter looks like a recovery quarter, and the numbers are real, but they start from a low base. Net profit was €293 million against a €1,869 million loss a year earlier. The first half includes a €317 million gain from renegotiated regulatory credit purchase commitments that is excluded from AOI, and €784 million of restructuring, Takata airbag recall and program cancellation charges that are also excluded.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>€ millions</th><th class="num">Q2 2026</th><th class="num">H1 2026</th><th class="num">H1 2025</th></tr></thead>
         <tbody>
-          <tr><td>Net revenues</td><td class="num">43,482</td><td class="num">81,614</td><td class="num">74,261</td></tr>
-          <tr><td>Adjusted operating income (AOI, non-GAAP)</td><td class="num">773</td><td class="num">1,733</td><td class="num">540</td></tr>
-          <tr><td>AOI margin</td><td class="num">1.8%</td><td class="num">2.1%</td><td class="num">0.7%</td></tr>
-          <tr><td>Net profit (loss)</td><td class="num">293</td><td class="num">670</td><td class="num">-2,256</td></tr>
-          <tr><td>Industrial free cash flow</td><td class="num"></td><td class="num">-921</td><td class="num">-3,005</td></tr>
-          <tr><td>Consolidated shipments, thousand units</td><td class="num">1,597</td><td class="num">2,958</td><td class="num">2,664</td></tr>
+          <tr><td>Net revenues</td><td class="num" data-label="Q2 2026">43,482</td><td class="num" data-label="H1 2026">81,614</td><td class="num" data-label="H1 2025">74,261</td></tr>
+          <tr><td>Adjusted operating income (AOI, non-GAAP)</td><td class="num" data-label="Q2 2026">773</td><td class="num" data-label="H1 2026">1,733</td><td class="num" data-label="H1 2025">540</td></tr>
+          <tr><td>AOI margin</td><td class="num" data-label="Q2 2026">1.8%</td><td class="num" data-label="H1 2026">2.1%</td><td class="num" data-label="H1 2025">0.7%</td></tr>
+          <tr><td>Net profit (loss)</td><td class="num" data-label="Q2 2026">293</td><td class="num" data-label="H1 2026">670</td><td class="num" data-label="H1 2025">-2,256</td></tr>
+          <tr><td>Industrial free cash flow</td><td class="num" data-label="Q2 2026"></td><td class="num" data-label="H1 2026">-921</td><td class="num" data-label="H1 2025">-3,005</td></tr>
+          <tr><td>Consolidated shipments, thousand units</td><td class="num" data-label="Q2 2026">1,597</td><td class="num" data-label="H1 2026">2,958</td><td class="num" data-label="H1 2025">2,664</td></tr>
         </tbody>
       </table>
     </div>
@@ -184,19 +184,19 @@
       <li><strong>The multiple of 3.5x</strong> is an assumption, not a peer median (I had no verified peer table). It equals about 10.7 times unlevered owner free cash flow in the Base. The multiple is the same in all three scenarios, so the margin alone separates them and the downside is not counted twice.</li>
     </ul>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th>Bear</th><th>Base</th><th>Bull</th></tr></thead>
         <tbody>
-          <tr><td>Operating thesis</td><td>Tariffs persist, Europe stays loss-making, North America stalls</td><td>North America and Europe recover part of the way</td><td>Plan delivered about 80%, margin approaches 6%</td></tr>
-          <tr><td>Revenue, € billions</td><td class="num">160</td><td class="num">160</td><td class="num">160</td></tr>
-          <tr><td>AOI margin</td><td class="num">1.5%</td><td class="num">4.0%</td><td class="num">6.0%</td></tr>
-          <tr><td>AOI, € billions</td><td class="num">2.4</td><td class="num">6.4</td><td class="num">9.6</td></tr>
-          <tr><td>Less recurring charges, € billions</td><td class="num">-1.2</td><td class="num">-1.2</td><td class="num">-1.2</td></tr>
-          <tr><td>Multiple</td><td class="num">3.5x</td><td class="num">3.5x</td><td class="num">3.5x</td></tr>
-          <tr><td>Enterprise value, € billions</td><td class="num">4.2</td><td class="num">18.2</td><td class="num">29.4</td></tr>
-          <tr><td>Adjusted net cash, € billions</td><td class="num">0.1</td><td class="num">0.1</td><td class="num">0.1</td></tr>
-          <tr><td>Equity value, € billions</td><td class="num">4.31</td><td class="num">18.31</td><td class="num">29.51</td></tr>
-          <tr><td>Per share, €</td><td class="num">1.48</td><td class="num">6.29</td><td class="num">10.14</td></tr>
+          <tr><td>Operating thesis</td><td data-label="Bear">Tariffs persist, Europe stays loss-making, North America stalls</td><td data-label="Base">North America and Europe recover part of the way</td><td data-label="Bull">Plan delivered about 80%, margin approaches 6%</td></tr>
+          <tr><td>Revenue, € billions</td><td class="num" data-label="Bear">160</td><td class="num" data-label="Base">160</td><td class="num" data-label="Bull">160</td></tr>
+          <tr><td>AOI margin</td><td class="num" data-label="Bear">1.5%</td><td class="num" data-label="Base">4.0%</td><td class="num" data-label="Bull">6.0%</td></tr>
+          <tr><td>AOI, € billions</td><td class="num" data-label="Bear">2.4</td><td class="num" data-label="Base">6.4</td><td class="num" data-label="Bull">9.6</td></tr>
+          <tr><td>Less recurring charges, € billions</td><td class="num" data-label="Bear">-1.2</td><td class="num" data-label="Base">-1.2</td><td class="num" data-label="Bull">-1.2</td></tr>
+          <tr><td>Multiple</td><td class="num" data-label="Bear">3.5x</td><td class="num" data-label="Base">3.5x</td><td class="num" data-label="Bull">3.5x</td></tr>
+          <tr><td>Enterprise value, € billions</td><td class="num" data-label="Bear">4.2</td><td class="num" data-label="Base">18.2</td><td class="num" data-label="Bull">29.4</td></tr>
+          <tr><td>Adjusted net cash, € billions</td><td class="num" data-label="Bear">0.1</td><td class="num" data-label="Base">0.1</td><td class="num" data-label="Bull">0.1</td></tr>
+          <tr><td>Equity value, € billions</td><td class="num" data-label="Bear">4.31</td><td class="num" data-label="Base">18.31</td><td class="num" data-label="Bull">29.51</td></tr>
+          <tr><td>Per share, €</td><td class="num" data-label="Bear">1.48</td><td class="num" data-label="Base">6.29</td><td class="num" data-label="Bull">10.14</td></tr>
           <tr class="total"><td>Per share, $ at 1.1202</td><td class="num">$1.66</td><td class="num">$7.05</td><td class="num">$11.36</td></tr>
         </tbody>
       </table>
@@ -207,10 +207,10 @@
       <table class="wide">
         <thead><tr><th>Multiple</th><th class="num">1.5%</th><th class="num">2.5%</th><th class="num">3.0%</th><th class="num">4.0%</th><th class="num">5.0%</th><th class="num">6.0%</th></tr></thead>
         <tbody>
-          <tr><td>3.0x</td><td class="num">$1.43</td><td class="num">$3.28</td><td class="num">$4.20</td><td class="num">$6.05</td><td class="num">$7.90</td><td class="num">$9.74</td></tr>
-          <tr><td>3.5x</td><td class="num">$1.66</td><td class="num">$3.81</td><td class="num">$4.89</td><td class="num">$7.05</td><td class="num">$9.21</td><td class="num">$11.36</td></tr>
-          <tr><td>4.0x</td><td class="num">$1.89</td><td class="num">$4.35</td><td class="num">$5.59</td><td class="num">$8.05</td><td class="num">$10.51</td><td class="num">$12.98</td></tr>
-          <tr><td>4.5x</td><td class="num">$2.12</td><td class="num">$4.89</td><td class="num">$6.28</td><td class="num">$9.05</td><td class="num">$11.82</td><td class="num">$14.60</td></tr>
+          <tr><td>3.0x</td><td class="num" data-label="1.5%">$1.43</td><td class="num" data-label="2.5%">$3.28</td><td class="num" data-label="3.0%">$4.20</td><td class="num" data-label="4.0%">$6.05</td><td class="num" data-label="5.0%">$7.90</td><td class="num" data-label="6.0%">$9.74</td></tr>
+          <tr><td>3.5x</td><td class="num" data-label="1.5%">$1.66</td><td class="num" data-label="2.5%">$3.81</td><td class="num" data-label="3.0%">$4.89</td><td class="num" data-label="4.0%">$7.05</td><td class="num" data-label="5.0%">$9.21</td><td class="num" data-label="6.0%">$11.36</td></tr>
+          <tr><td>4.0x</td><td class="num" data-label="1.5%">$1.89</td><td class="num" data-label="2.5%">$4.35</td><td class="num" data-label="3.0%">$5.59</td><td class="num" data-label="4.0%">$8.05</td><td class="num" data-label="5.0%">$10.51</td><td class="num" data-label="6.0%">$12.98</td></tr>
+          <tr><td>4.5x</td><td class="num" data-label="1.5%">$2.12</td><td class="num" data-label="2.5%">$4.89</td><td class="num" data-label="3.0%">$6.28</td><td class="num" data-label="4.0%">$9.05</td><td class="num" data-label="5.0%">$11.82</td><td class="num" data-label="6.0%">$14.60</td></tr>
         </tbody>
       </table>
     </div>
@@ -219,9 +219,9 @@
       <table class="wide">
         <thead><tr><th>Recurring charges, € billions</th><th class="num">1.5%</th><th class="num">2.5%</th><th class="num">3.0%</th><th class="num">4.0%</th><th class="num">5.0%</th><th class="num">6.0%</th></tr></thead>
         <tbody>
-          <tr><td>0.8</td><td class="num">$2.20</td><td class="num">$4.35</td><td class="num">$5.43</td><td class="num">$7.59</td><td class="num">$9.74</td><td class="num">$11.90</td></tr>
-          <tr><td>1.2</td><td class="num">$1.66</td><td class="num">$3.81</td><td class="num">$4.89</td><td class="num">$7.05</td><td class="num">$9.21</td><td class="num">$11.36</td></tr>
-          <tr><td>1.6</td><td class="num">$1.12</td><td class="num">$3.28</td><td class="num">$4.35</td><td class="num">$6.51</td><td class="num">$8.67</td><td class="num">$10.82</td></tr>
+          <tr><td>0.8</td><td class="num" data-label="1.5%">$2.20</td><td class="num" data-label="2.5%">$4.35</td><td class="num" data-label="3.0%">$5.43</td><td class="num" data-label="4.0%">$7.59</td><td class="num" data-label="5.0%">$9.74</td><td class="num" data-label="6.0%">$11.90</td></tr>
+          <tr><td>1.2</td><td class="num" data-label="1.5%">$1.66</td><td class="num" data-label="2.5%">$3.81</td><td class="num" data-label="3.0%">$4.89</td><td class="num" data-label="4.0%">$7.05</td><td class="num" data-label="5.0%">$9.21</td><td class="num" data-label="6.0%">$11.36</td></tr>
+          <tr><td>1.6</td><td class="num" data-label="1.5%">$1.12</td><td class="num" data-label="2.5%">$3.28</td><td class="num" data-label="3.0%">$4.35</td><td class="num" data-label="4.0%">$6.51</td><td class="num" data-label="5.0%">$8.67</td><td class="num" data-label="6.0%">$10.82</td></tr>
         </tbody>
       </table>
     </div>
@@ -232,23 +232,23 @@
       <table class="wide">
         <thead><tr><th>Owner free cash flow, € billions</th><th class="num">2027</th><th class="num">2028</th><th class="num">2029</th><th class="num">2030</th></tr></thead>
         <tbody>
-          <tr><td>Base margin</td><td class="num">3.0%</td><td class="num">3.5%</td><td class="num">4.0%</td><td class="num">4.0%</td></tr>
-          <tr><td>Base</td><td class="num">-1.3</td><td class="num">-0.2</td><td class="num">0.9</td><td class="num">1.7</td></tr>
-          <tr><td>Bear (margin 1.5%)</td><td class="num">-3.1</td><td class="num">-2.6</td><td class="num">-2.1</td><td class="num">-1.3</td></tr>
-          <tr><td>Bull (margin 4%, 5%, 6%, 6%)</td><td class="num">-0.1</td><td class="num">1.6</td><td class="num">3.3</td><td class="num">4.1</td></tr>
+          <tr><td>Base margin</td><td class="num" data-label="2027">3.0%</td><td class="num" data-label="2028">3.5%</td><td class="num" data-label="2029">4.0%</td><td class="num" data-label="2030">4.0%</td></tr>
+          <tr><td>Base</td><td class="num" data-label="2027">-1.3</td><td class="num" data-label="2028">-0.2</td><td class="num" data-label="2029">0.9</td><td class="num" data-label="2030">1.7</td></tr>
+          <tr><td>Bear (margin 1.5%)</td><td class="num" data-label="2027">-3.1</td><td class="num" data-label="2028">-2.6</td><td class="num" data-label="2029">-2.1</td><td class="num" data-label="2030">-1.3</td></tr>
+          <tr><td>Bull (margin 4%, 5%, 6%, 6%)</td><td class="num" data-label="2027">-0.1</td><td class="num" data-label="2028">1.6</td><td class="num" data-label="2029">3.3</td><td class="num" data-label="2030">4.1</td></tr>
         </tbody>
       </table>
     </div>
     <p>Base enterprise value is €12.0 billion, of which the terminal value is <strong>92%</strong>. Add the reported net cash after the hybrids (€5.1 billion; the restructuring cash is already in the flows) and divide by the share count: <strong>$6.59</strong>. The Bull gives $15.31. In the Bear, owner cash flow is negative every year and the enterprise value is minus €8.0 billion, so I floor the equity value at $0.00. That is a floor, not a forecast: a company in that position would cut spending or raise capital, and the second outcome costs shareholders. A mid-cycle owner free cash flow of €1.7 billion is a 14.6% yield on today's market value, but it is unlevered, before the hybrid coupons, and arrives only at the end of the ramp.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Base DCF per share</th><th class="num">g = 0%</th><th class="num">g = 1%</th><th class="num">g = 2%</th></tr></thead>
         <tbody>
-          <tr><td>Discount rate 9%</td><td class="num">$7.43</td><td class="num">$8.11</td><td class="num">$9.00</td></tr>
-          <tr><td>10%</td><td class="num">$6.73</td><td class="num">$7.26</td><td class="num">$7.93</td></tr>
-          <tr><td>11%</td><td class="num">$6.16</td><td class="num">$6.59</td><td class="num">$7.11</td></tr>
-          <tr><td>12%</td><td class="num">$5.70</td><td class="num">$6.04</td><td class="num">$6.45</td></tr>
-          <tr><td>13%</td><td class="num">$5.31</td><td class="num">$5.59</td><td class="num">$5.92</td></tr>
+          <tr><td>Discount rate 9%</td><td class="num" data-label="g = 0%">$7.43</td><td class="num" data-label="g = 1%">$8.11</td><td class="num" data-label="g = 2%">$9.00</td></tr>
+          <tr><td>10%</td><td class="num" data-label="g = 0%">$6.73</td><td class="num" data-label="g = 1%">$7.26</td><td class="num" data-label="g = 2%">$7.93</td></tr>
+          <tr><td>11%</td><td class="num" data-label="g = 0%">$6.16</td><td class="num" data-label="g = 1%">$6.59</td><td class="num" data-label="g = 2%">$7.11</td></tr>
+          <tr><td>12%</td><td class="num" data-label="g = 0%">$5.70</td><td class="num" data-label="g = 1%">$6.04</td><td class="num" data-label="g = 2%">$6.45</td></tr>
+          <tr><td>13%</td><td class="num" data-label="g = 0%">$5.31</td><td class="num" data-label="g = 1%">$5.59</td><td class="num" data-label="g = 2%">$5.92</td></tr>
         </tbody>
       </table>
     </div>
@@ -256,14 +256,14 @@
 
     <h2 id="history">History and growth diagnostics</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Industrial, € billions</th><th class="num">2024</th><th class="num">2025</th><th class="num">H1 2026</th></tr></thead>
         <tbody>
-          <tr><td>Net revenues</td><td class="num">156.9</td><td class="num">153.5</td><td class="num">81.6</td></tr>
-          <tr><td>AOI</td><td class="num">8.6</td><td class="num">-0.8</td><td class="num">1.7</td></tr>
-          <tr><td>AOI margin</td><td class="num">5.5%</td><td class="num">-0.5%</td><td class="num">2.1%</td></tr>
-          <tr><td>Industrial free cash flow</td><td class="num">-6.0</td><td class="num">-4.5</td><td class="num">-0.9</td></tr>
-          <tr><td>Industrial net financial position, end of period</td><td class="num">15.1</td><td class="num">6.7</td><td class="num">10.0</td></tr>
+          <tr><td>Net revenues</td><td class="num" data-label="2024">156.9</td><td class="num" data-label="2025">153.5</td><td class="num" data-label="H1 2026">81.6</td></tr>
+          <tr><td>AOI</td><td class="num" data-label="2024">8.6</td><td class="num" data-label="2025">-0.8</td><td class="num" data-label="H1 2026">1.7</td></tr>
+          <tr><td>AOI margin</td><td class="num" data-label="2024">5.5%</td><td class="num" data-label="2025">-0.5%</td><td class="num" data-label="H1 2026">2.1%</td></tr>
+          <tr><td>Industrial free cash flow</td><td class="num" data-label="2024">-6.0</td><td class="num" data-label="2025">-4.5</td><td class="num" data-label="H1 2026">-0.9</td></tr>
+          <tr><td>Industrial net financial position, end of period</td><td class="num" data-label="2024">15.1</td><td class="num" data-label="2025">6.7</td><td class="num" data-label="H1 2026">10.0</td></tr>
         </tbody>
       </table>
     </div>
@@ -276,10 +276,10 @@
       <table class="wide">
         <thead><tr><th>Method</th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th><th class="num">Weight</th></tr></thead>
         <tbody>
-          <tr><td>Primary: mid-cycle AOI after recurring charges at 3.5x</td><td class="num">$1.66</td><td class="num">$7.05</td><td class="num">$11.36</td><td class="num">60%</td></tr>
-          <tr><td>Secondary: scenario cash flow model</td><td class="num">$0.00</td><td class="num">$6.59</td><td class="num">$15.31</td><td class="num">40%</td></tr>
-          <tr><td>Divergence</td><td class="num">not defined</td><td class="num">6.7%</td><td class="num">29.6%</td><td class="num"></td></tr>
-          <tr><td>Historical multiples</td><td class="num" colspan="3">not available, 0% weight</td><td class="num">0%</td></tr>
+          <tr><td>Primary: mid-cycle AOI after recurring charges at 3.5x</td><td class="num" data-label="Bear">$1.66</td><td class="num" data-label="Base">$7.05</td><td class="num" data-label="Bull">$11.36</td><td class="num" data-label="Weight">60%</td></tr>
+          <tr><td>Secondary: scenario cash flow model</td><td class="num" data-label="Bear">$0.00</td><td class="num" data-label="Base">$6.59</td><td class="num" data-label="Bull">$15.31</td><td class="num" data-label="Weight">40%</td></tr>
+          <tr><td>Divergence</td><td class="num" data-label="Bear">not defined</td><td class="num" data-label="Base">6.7%</td><td class="num" data-label="Bull">29.6%</td><td class="num" data-label="Weight"></td></tr>
+          <tr><td>Historical multiples</td><td class="num" colspan="3" data-label="Bear">not available, 0% weight</td><td class="num" data-label="Base">0%</td></tr>
           <tr class="total"><td>Adopted</td><td class="num">$1.00</td><td class="num">$6.87</td><td class="num">$12.94</td><td class="num"></td></tr>
         </tbody>
       </table>
@@ -304,13 +304,13 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th>Bear</th><th>Base</th><th>Bull</th></tr></thead>
         <tbody>
-          <tr><td>Primary value</td><td class="num">$1.66</td><td class="num">$7.05</td><td class="num">$11.36</td></tr>
-          <tr><td>Cash flow model value</td><td class="num">$0.00</td><td class="num">$6.59</td><td class="num">$15.31</td></tr>
+          <tr><td>Primary value</td><td class="num" data-label="Bear">$1.66</td><td class="num" data-label="Base">$7.05</td><td class="num" data-label="Bull">$11.36</td></tr>
+          <tr><td>Cash flow model value</td><td class="num" data-label="Bear">$0.00</td><td class="num" data-label="Base">$6.59</td><td class="num" data-label="Bull">$15.31</td></tr>
           <tr class="total"><td>Adopted value per share (60/40)</td><td class="num">$1.00</td><td class="num">$6.87</td><td class="num">$12.94</td></tr>
-          <tr><td>Versus $4.48</td><td class="num">-77.7%</td><td class="num">+53.2%</td><td class="num">+188.9%</td></tr>
+          <tr><td>Versus $4.48</td><td class="num" data-label="Bear">-77.7%</td><td class="num" data-label="Base">+53.2%</td><td class="num" data-label="Bull">+188.9%</td></tr>
         </tbody>
       </table>
     </div>

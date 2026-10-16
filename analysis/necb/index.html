@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -183,24 +183,24 @@
     <h2 id="valuation">Primary valuation: justified price to tangible book value</h2>
     <p>The justified multiple is (ROE minus growth) divided by (cost of equity minus growth). With a sustainable return on equity of 11.14%, a cost of equity of 11.5% and long-run growth of 2.5%, the multiple is 0.96x, which gives a value of <strong>$24.63</strong> per share after the option bridge. The 11.5% cost of equity is my judgment for a small, concentrated lender with thinly traded shares, not a measured figure, and 2.5% growth is deliberately far below the recent 15.6% annual growth in book value per share.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Case</th><th class="num">Sustainable ROE</th><th class="num">Justified P/TBV</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">8.41%</td><td class="num">0.66x</td><td class="num">$17.12</td></tr>
-          <tr><td>Base</td><td class="num">11.14%</td><td class="num">0.96x</td><td class="num">$24.63</td></tr>
-          <tr><td>Bull</td><td class="num">13.26%</td><td class="num">1.20x</td><td class="num">$30.47</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="Sustainable ROE">8.41%</td><td class="num" data-label="Justified P/TBV">0.66x</td><td class="num" data-label="Value per share">$17.12</td></tr>
+          <tr><td>Base</td><td class="num" data-label="Sustainable ROE">11.14%</td><td class="num" data-label="Justified P/TBV">0.96x</td><td class="num" data-label="Value per share">$24.63</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="Sustainable ROE">13.26%</td><td class="num" data-label="Justified P/TBV">1.20x</td><td class="num" data-label="Value per share">$30.47</td></tr>
         </tbody>
       </table>
     </div>
 
     <h3>Sensitivity: sustainable ROE and cost of equity</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Sustainable ROE \ Cost of equity</th><th class="num">10.5%</th><th class="num">11.5%</th><th class="num">12.5%</th></tr></thead>
         <tbody>
-          <tr><td>9.00%</td><td class="num">$20.98</td><td class="num">$18.74</td><td class="num">$16.95</td></tr>
-          <tr><td>11.00%</td><td class="num">$27.17</td><td class="num">$24.25</td><td class="num">$21.91</td></tr>
-          <tr><td>13.00%</td><td class="num">$33.37</td><td class="num">$29.75</td><td class="num">$26.86</td></tr>
+          <tr><td>9.00%</td><td class="num" data-label="10.5%">$20.98</td><td class="num" data-label="11.5%">$18.74</td><td class="num" data-label="12.5%">$16.95</td></tr>
+          <tr><td>11.00%</td><td class="num" data-label="10.5%">$27.17</td><td class="num" data-label="11.5%">$24.25</td><td class="num" data-label="12.5%">$21.91</td></tr>
+          <tr><td>13.00%</td><td class="num" data-label="10.5%">$33.37</td><td class="num" data-label="11.5%">$29.75</td><td class="num" data-label="12.5%">$26.86</td></tr>
         </tbody>
       </table>
     </div>
@@ -208,12 +208,12 @@
     <h2 id="secondary">Secondary valuation: normalized price to earnings</h2>
     <p>Normalized earnings of $40.38 million at 9.5 times earnings, plus the option proceeds and divided by 14.64 million shares, give <strong>$27.06</strong>. The 9.5x multiple is my estimate, not a peer average; I did not build a peer table. The two methods share the same earnings forecast, so they are not fully independent.</p>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Normalized earnings \ P/E</th><th class="num">8.0x</th><th class="num">9.5x</th><th class="num">11.0x</th></tr></thead>
         <tbody>
-          <tr><td>$30.5 million</td><td class="num">$17.52</td><td class="num">$20.64</td><td class="num">$23.77</td></tr>
-          <tr><td>$40.4 million</td><td class="num">$22.92</td><td class="num">$27.06</td><td class="num">$31.20</td></tr>
-          <tr><td>$48.1 million</td><td class="num">$27.13</td><td class="num">$32.06</td><td class="num">$36.98</td></tr>
+          <tr><td>$30.5 million</td><td class="num" data-label="8.0x">$17.52</td><td class="num" data-label="9.5x">$20.64</td><td class="num" data-label="11.0x">$23.77</td></tr>
+          <tr><td>$40.4 million</td><td class="num" data-label="8.0x">$22.92</td><td class="num" data-label="9.5x">$27.06</td><td class="num" data-label="11.0x">$31.20</td></tr>
+          <tr><td>$48.1 million</td><td class="num" data-label="8.0x">$27.13</td><td class="num" data-label="9.5x">$32.06</td><td class="num" data-label="11.0x">$36.98</td></tr>
         </tbody>
       </table>
     </div>
@@ -241,16 +241,16 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Probability (subjective)</td><td class="num">30%</td><td class="num">50%</td><td class="num">20%</td></tr>
-          <tr><td>Average earning assets</td><td class="num">$2,000 million</td><td class="num">$2,000 million</td><td class="num">$2,100 million</td></tr>
-          <tr><td>Net interest margin</td><td class="num">4.65%</td><td class="num">5.10%</td><td class="num">5.30%</td></tr>
-          <tr><td>Total credit provision</td><td class="num">$7.5 million</td><td class="num">$3.75 million</td><td class="num">$2.0 million</td></tr>
-          <tr><td>Normalized earnings</td><td class="num">$30.5 million</td><td class="num">$40.4 million</td><td class="num">$48.1 million</td></tr>
+          <tr><td>Probability (subjective)</td><td class="num" data-label="Bear">30%</td><td class="num" data-label="Base">50%</td><td class="num" data-label="Bull">20%</td></tr>
+          <tr><td>Average earning assets</td><td class="num" data-label="Bear">$2,000 million</td><td class="num" data-label="Base">$2,000 million</td><td class="num" data-label="Bull">$2,100 million</td></tr>
+          <tr><td>Net interest margin</td><td class="num" data-label="Bear">4.65%</td><td class="num" data-label="Base">5.10%</td><td class="num" data-label="Bull">5.30%</td></tr>
+          <tr><td>Total credit provision</td><td class="num" data-label="Bear">$7.5 million</td><td class="num" data-label="Base">$3.75 million</td><td class="num" data-label="Bull">$2.0 million</td></tr>
+          <tr><td>Normalized earnings</td><td class="num" data-label="Bear">$30.5 million</td><td class="num" data-label="Base">$40.4 million</td><td class="num" data-label="Bull">$48.1 million</td></tr>
           <tr class="total"><td>Value per share</td><td class="num">$18.17</td><td class="num">$25.36</td><td class="num">$30.94</td></tr>
-          <tr><td>Versus $25.79</td><td class="num">-29.5%</td><td class="num">-1.7%</td><td class="num">+20.0%</td></tr>
+          <tr><td>Versus $25.79</td><td class="num" data-label="Bear">-29.5%</td><td class="num" data-label="Base">-1.7%</td><td class="num" data-label="Bull">+20.0%</td></tr>
         </tbody>
       </table>
     </div>
@@ -261,8 +261,8 @@
       <table class="wide">
         <thead><tr><th>Additional provision now</th><th class="num">After-tax hit</th><th class="num">Share of equity</th><th class="num">Book value / share</th><th class="num">Bank CET1 ratio after</th></tr></thead>
         <tbody>
-          <tr><td>1% of loans ($19.2 million)</td><td class="num">$13.6 million</td><td class="num">3.75%</td><td class="num">$24.70</td><td class="num">14.46%</td></tr>
-          <tr><td>3% of loans ($57.6 million)</td><td class="num">$40.8 million</td><td class="num">11.26%</td><td class="num">$22.84</td><td class="num">13.27%</td></tr>
+          <tr><td>1% of loans ($19.2 million)</td><td class="num" data-label="After-tax hit">$13.6 million</td><td class="num" data-label="Share of equity">3.75%</td><td class="num" data-label="Book value / share">$24.70</td><td class="num" data-label="Bank CET1 ratio after">14.46%</td></tr>
+          <tr><td>3% of loans ($57.6 million)</td><td class="num" data-label="After-tax hit">$40.8 million</td><td class="num" data-label="Share of equity">11.26%</td><td class="num" data-label="Book value / share">$22.84</td><td class="num" data-label="Bank CET1 ratio after">13.27%</td></tr>
         </tbody>
       </table>
     </div>

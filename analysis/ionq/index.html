@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Montserrat:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
-<link rel="stylesheet" href="/assets/styles.css?v=2">
+<link rel="stylesheet" href="/assets/styles.css?v=4">
 
 <script type="application/ld+json">
 {
@@ -161,9 +161,9 @@
       <table class="wide">
         <thead><tr><th>Scenario</th><th class="num">Core 2027 revenue</th><th class="num">EV/Revenue</th><th class="num">SkyWater</th><th class="num">Net cash end of 2026</th><th class="num">Equity value</th><th class="num">Value per share</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$370 million (+30%)</td><td class="num">5x</td><td class="num">2.0x on $450 million = $900 million</td><td class="num">$1,550 million</td><td class="num">$4,302 million</td><td class="num">$10.62</td></tr>
-          <tr><td>Base</td><td class="num">$456 million (+60%)</td><td class="num">12x</td><td class="num">3.0x = $1,350 million</td><td class="num">$1,550 million</td><td class="num">$8,372 million</td><td class="num">$20.67</td></tr>
-          <tr><td>Bull</td><td class="num">$570 million (+100%)</td><td class="num">20x</td><td class="num">4.5x = $2,025 million</td><td class="num">$1,550 million</td><td class="num">$14,975 million</td><td class="num">$36.97</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="Core 2027 revenue">$370 million (+30%)</td><td class="num" data-label="EV/Revenue">5x</td><td class="num" data-label="SkyWater">2.0x on $450 million = $900 million</td><td class="num" data-label="Net cash end of 2026">$1,550 million</td><td class="num" data-label="Equity value">$4,302 million</td><td class="num" data-label="Value per share">$10.62</td></tr>
+          <tr><td>Base</td><td class="num" data-label="Core 2027 revenue">$456 million (+60%)</td><td class="num" data-label="EV/Revenue">12x</td><td class="num" data-label="SkyWater">3.0x = $1,350 million</td><td class="num" data-label="Net cash end of 2026">$1,550 million</td><td class="num" data-label="Equity value">$8,372 million</td><td class="num" data-label="Value per share">$20.67</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="Core 2027 revenue">$570 million (+100%)</td><td class="num" data-label="EV/Revenue">20x</td><td class="num" data-label="SkyWater">4.5x = $2,025 million</td><td class="num" data-label="Net cash end of 2026">$1,550 million</td><td class="num" data-label="Equity value">$14,975 million</td><td class="num" data-label="Value per share">$36.97</td></tr>
         </tbody>
       </table>
     </div>
@@ -171,12 +171,12 @@
 
     <h3>Sensitivity: primary Base value per share</h3>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th>Core 2027 revenue \ EV/Revenue</th><th class="num">8x</th><th class="num">12x</th><th class="num">16x</th></tr></thead>
         <tbody>
-          <tr><td>$370 million</td><td class="num">$14.48</td><td class="num">$18.13</td><td class="num">$21.79</td></tr>
-          <tr><td>$456 million</td><td class="num">$16.16</td><td class="num">$20.67</td><td class="num">$25.17</td></tr>
-          <tr><td>$570 million</td><td class="num">$18.42</td><td class="num">$24.04</td><td class="num">$29.67</td></tr>
+          <tr><td>$370 million</td><td class="num" data-label="8x">$14.48</td><td class="num" data-label="12x">$18.13</td><td class="num" data-label="16x">$21.79</td></tr>
+          <tr><td>$456 million</td><td class="num" data-label="8x">$16.16</td><td class="num" data-label="12x">$20.67</td><td class="num" data-label="16x">$25.17</td></tr>
+          <tr><td>$570 million</td><td class="num" data-label="8x">$18.42</td><td class="num" data-label="12x">$24.04</td><td class="num" data-label="16x">$29.67</td></tr>
         </tbody>
       </table>
     </div>
@@ -187,9 +187,9 @@
       <table class="wide">
         <thead><tr><th>Scenario</th><th class="num">2031 revenue</th><th class="num">Cumulative cash flow to 2031</th><th class="num">Exit EV/Revenue</th><th class="num">Shares in 2031</th><th class="num">Value per share, 2031</th><th class="num">Present value + SkyWater</th></tr></thead>
         <tbody>
-          <tr><td>Bear</td><td class="num">$716 million (+20% a year)</td><td class="num">-$2.2 billion (financing needed)</td><td class="num">3x</td><td class="num">522 million</td><td class="num">$3.44</td><td class="num">$1.66 + $2.22 = $3.89</td></tr>
-          <tr><td>Base</td><td class="num">$1,556 million (+40% a year)</td><td class="num">-$1.25 billion to 2029, breakeven in 2030</td><td class="num">6x</td><td class="num">472 million</td><td class="num">$21.63</td><td class="num">$10.46 + $3.33 = $13.79</td></tr>
-          <tr><td>Bull</td><td class="num">$3,213 million (+62% a year)</td><td class="num">+$0.9 billion</td><td class="num">10x</td><td class="num">461 million</td><td class="num">$75.74</td><td class="num">$36.62 + $5.00 = $41.62</td></tr>
+          <tr><td>Bear</td><td class="num" data-label="2031 revenue">$716 million (+20% a year)</td><td class="num" data-label="Cumulative cash flow to 2031">-$2.2 billion (financing needed)</td><td class="num" data-label="Exit EV/Revenue">3x</td><td class="num" data-label="Shares in 2031">522 million</td><td class="num" data-label="Value per share, 2031">$3.44</td><td class="num" data-label="Present value + SkyWater">$1.66 + $2.22 = $3.89</td></tr>
+          <tr><td>Base</td><td class="num" data-label="2031 revenue">$1,556 million (+40% a year)</td><td class="num" data-label="Cumulative cash flow to 2031">-$1.25 billion to 2029, breakeven in 2030</td><td class="num" data-label="Exit EV/Revenue">6x</td><td class="num" data-label="Shares in 2031">472 million</td><td class="num" data-label="Value per share, 2031">$21.63</td><td class="num" data-label="Present value + SkyWater">$10.46 + $3.33 = $13.79</td></tr>
+          <tr><td>Bull</td><td class="num" data-label="2031 revenue">$3,213 million (+62% a year)</td><td class="num" data-label="Cumulative cash flow to 2031">+$0.9 billion</td><td class="num" data-label="Exit EV/Revenue">10x</td><td class="num" data-label="Shares in 2031">461 million</td><td class="num" data-label="Value per share, 2031">$75.74</td><td class="num" data-label="Present value + SkyWater">$36.62 + $5.00 = $41.62</td></tr>
         </tbody>
       </table>
     </div>
@@ -229,15 +229,15 @@
 
     <h2 id="scenarios">Bear, base and bull scenarios</h2>
     <div class="table-scroll">
-      <table>
+      <table class="wide">
         <thead><tr><th></th><th class="num">Bear</th><th class="num">Base</th><th class="num">Bull</th></tr></thead>
         <tbody>
-          <tr><td>Core revenue growth after 2026</td><td class="num">30% falling to 12%</td><td class="num">60% falling to 25%</td><td class="num">100% falling to 35%</td></tr>
-          <tr><td>Cash flow to 2031</td><td class="num">-$2.2 billion</td><td class="num">Breakeven in 2030</td><td class="num">+$0.9 billion</td></tr>
-          <tr><td>Primary value (EV/Revenue)</td><td class="num">$10.62</td><td class="num">$20.67</td><td class="num">$36.97</td></tr>
-          <tr><td>Secondary value (path to cash flow)</td><td class="num">$3.89</td><td class="num">$13.79</td><td class="num">$41.62</td></tr>
+          <tr><td>Core revenue growth after 2026</td><td class="num" data-label="Bear">30% falling to 12%</td><td class="num" data-label="Base">60% falling to 25%</td><td class="num" data-label="Bull">100% falling to 35%</td></tr>
+          <tr><td>Cash flow to 2031</td><td class="num" data-label="Bear">-$2.2 billion</td><td class="num" data-label="Base">Breakeven in 2030</td><td class="num" data-label="Bull">+$0.9 billion</td></tr>
+          <tr><td>Primary value (EV/Revenue)</td><td class="num" data-label="Bear">$10.62</td><td class="num" data-label="Base">$20.67</td><td class="num" data-label="Bull">$36.97</td></tr>
+          <tr><td>Secondary value (path to cash flow)</td><td class="num" data-label="Bear">$3.89</td><td class="num" data-label="Base">$13.79</td><td class="num" data-label="Bull">$41.62</td></tr>
           <tr class="total"><td>Value per share (50% / 50%)</td><td class="num">$7.25</td><td class="num">$17.23</td><td class="num">$39.29</td></tr>
-          <tr><td>vs $39.89</td><td class="num">-81.8%</td><td class="num">-56.8%</td><td class="num">-1.5%</td></tr>
+          <tr><td>vs $39.89</td><td class="num" data-label="Bear">-81.8%</td><td class="num" data-label="Base">-56.8%</td><td class="num" data-label="Bull">-1.5%</td></tr>
         </tbody>
       </table>
     </div>
