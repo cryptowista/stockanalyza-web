@@ -1,0 +1,20 @@
+{
+  "ticker": "SSNC",
+  "slug": "ssnc",
+  "name": "SS&C Technologies (SSNC)",
+  "company": "SS&C Technologies Holdings, Inc.",
+  "companyShort": "SS&C Technologies",
+  "date": "2026-10-16",
+  "order": 79,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $84.19",
+  "price": "$84.19",
+  "base": "$86.20",
+  "upside": "2.4",
+  "upsideText": "+2.4%",
+  "maxBuy": "$51.72",
+  "teaser": "Revenue is up $1.2 billion since 2021 but owner free cash flow, after capitalized software and stock pay, is up $6 million. My Base is $86.20, 2.4% above $84.19: fair, not cheap. Hold, with a maximum buy price of $51.72.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $59.14, base $86.20, bull $120.23, current price $84.19, buy zone at or below $51.72\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"59.14\" data-to=\"120.23\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"51.72\"></span>\n        <span class=\"ruler-tick\" data-value=\"59.14\"></span>\n        <span class=\"ruler-tick\" data-value=\"86.20\"></span>\n        <span class=\"ruler-tick\" data-value=\"120.23\"></span>\n        <span class=\"ruler-price\" data-value=\"84.19\"><span>Price $84.19</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"59.14\">Bear<b>$59.14</b></span>\n        <span data-value=\"86.20\">Base<b>$86.20</b></span>\n        <span data-value=\"120.23\">Bull<b>$120.23</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $51.72.</figcaption>\n    </figure>",
+  "llms": "Software and technology-enabled services provider to financial services and healthcare clients (fund administration, investor servicing, Calastone, Intralinks, Blue Prism), fiscal year ending December 31. Valued on the present value of owner free cash flow after capitalized software and stock pay (primary, 60%), cross-checked with enterprise value to EBITDA after stock pay (40%); values are fair value today as of October 15, 2026. Main finding: screeners show about 11.5 times free cash flow, but after $248 million of capitalized software and $268 million of stock pay the multiple is 16.4, and owner free cash flow was $1,178 million in 2021 and $1,185 million in 2025. Bear $59.14, Base $86.20, Bull $120.23. Verdict HOLD at $84.19 (Confidence C, required margin of safety 40%), maximum buy price $51.72."
+}
