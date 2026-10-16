@@ -1,0 +1,20 @@
+{
+  "ticker": "KTB",
+  "slug": "ktb",
+  "name": "Kontoor Brands (KTB)",
+  "company": "Kontoor Brands, Inc.",
+  "companyShort": "Kontoor Brands",
+  "date": "2026-10-16",
+  "order": 78,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $72.94",
+  "price": "$72.94",
+  "base": "$80.99",
+  "upside": "11.0",
+  "upsideText": "+11.0%",
+  "maxBuy": "$48.60",
+  "teaser": "Wrangler and Helly Hansen earn about $465 million of EBITDA and the Lee sale should bring roughly $600 million of cash. My Base is $80.99, 11.0% above $72.94: a fair price for a good business. Hold, with a maximum buy price of $48.60.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $53.70, base $80.99, bull $108.73, current price $72.94, buy zone at or below $48.60\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"53.70\" data-to=\"108.73\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"48.60\"></span>\n        <span class=\"ruler-tick\" data-value=\"53.70\"></span>\n        <span class=\"ruler-tick\" data-value=\"80.99\"></span>\n        <span class=\"ruler-tick\" data-value=\"108.73\"></span>\n        <span class=\"ruler-price\" data-value=\"72.94\"><span>Price $72.94</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"53.70\">Bear<b>$53.70</b></span>\n        <span data-value=\"80.99\">Base<b>$80.99</b></span>\n        <span data-value=\"108.73\">Bull<b>$108.73</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $48.60.</figcaption>\n    </figure>",
+  "llms": "Branded jeans, workwear and outdoor apparel group (Wrangler, Helly Hansen; Lee being sold to Authentic Brands Group for $750 million cash plus an earnout of up to $250 million), fiscal year ending around December 31. Valued on 2026 EBITDA after stock pay for the continuing business (primary, 60%) with the estimated Lee net cash added and net debt subtracted, cross-checked with price to normalized free cash flow (40%); values are fair value today as of October 15, 2026. Main finding: the screen yield of over 10 percent on trailing free cash flow includes 123 million dollars of working capital release and Lee; normalized free cash flow is about 298 million dollars, a 7.4 percent yield. Bear $53.70, Base $80.99, Bull $108.73. Verdict HOLD at $72.94 (Confidence C, required margin of safety 40%), maximum buy price $48.60."
+}
