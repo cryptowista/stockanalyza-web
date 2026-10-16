@@ -35,11 +35,11 @@ The company chooses volume over price. Management says incentives ran about 12% 
 
 | Fiscal year (Nov 30) | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
 | --- | --- | --- | --- | --- | --- | --- |
-| Deliveries (homes) | 59,825 | 66,399 | 73,087 | 80,210 | 82,583 | about 80,700 |
-| Average sales price | $424,000 | $480,000 | $446,000 | $423,000 | $391,000 | about $372,000 |
-| Gross margin on home sales | 26.8% | 27.5% | 23.3% | 22.3% | 17.7% | about 15.6% |
-| SG&A as % of home sales | 7.1% | 6.2% | 6.9% | 7.3% | 8.3% | about 9.2% |
-| Net earnings per diluted share | $14.27 | $15.72 | $13.73 | $14.31 | $7.98 | about $4.84 |
+| Deliveries (homes) | 59,825 | 66,399 | 73,087 | 80,210 | 82,583 | ~80,700 |
+| Average sales price | $424,000 | $480,000 | $446,000 | $423,000 | $391,000 | ~$372,000 |
+| Gross margin on home sales | 26.8% | 27.5% | 23.3% | 22.3% | 17.7% | ~15.6% |
+| SG&A as % of home sales | 7.1% | 6.2% | 6.9% | 7.3% | 8.3% | ~9.2% |
+| Net earnings per diluted share | $14.27 | $15.72 | $13.73 | $14.31 | $7.98 | ~$4.84 |
 
 Gross margin on home sales has fallen from 27.5% in fiscal 2022 to a guided 15.5% to 16.0% in the fourth quarter. SG&A has gone the other way, from 6.2% to about 9.2% of home sales. The two together took the operating margin on homes from about 21% to about 6.6%. The fiscal 2023 gross margin and the SG&A ratios for 2023 to 2025 are my arithmetic from the release tables.
 
