@@ -1,0 +1,20 @@
+{
+  "ticker": "LEN",
+  "slug": "len",
+  "name": "Lennar (LEN)",
+  "company": "Lennar Corporation",
+  "companyShort": "Lennar",
+  "date": "2026-10-16",
+  "order": 80,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $77.69",
+  "price": "$77.69",
+  "base": "$84.81",
+  "upside": "9.2",
+  "upsideText": "+9.2%",
+  "maxBuy": "$50.89",
+  "teaser": "Lennar reported $19.0 billion of earnings over fiscal 2021 to 2025 but generated $13.6 billion of operating cash. My Base is $84.81, 9.2% above $77.69, and the price already needs about 17.5% gross margin by 2031. Hold, with a maximum buy price of $50.89.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $43.71, base $84.81, bull $120.66, current price $77.69, buy zone at or below $50.89\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"43.71\" data-to=\"120.66\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"50.89\"></span>\n        <span class=\"ruler-tick\" data-value=\"43.71\"></span>\n        <span class=\"ruler-tick\" data-value=\"84.81\"></span>\n        <span class=\"ruler-tick\" data-value=\"120.66\"></span>\n        <span class=\"ruler-price\" data-value=\"77.69\"><span>Price $77.69</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"43.71\">Bear<b>$43.71</b></span>\n        <span data-value=\"84.81\">Base<b>$84.81</b></span>\n        <span data-value=\"120.66\">Bull<b>$120.66</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $50.89.</figcaption>\n    </figure>",
+  "llms": "Cyclical U.S. homebuilder with financial services, multifamily and technology investment segments, fiscal year ending November 30. Valued on the present value of returns on book equity above a 10% cost of equity through a five-year margin recovery (primary, 60%), cross-checked with an exit multiple on 2031 net earnings plus dividends and buybacks (40%); values are fair value today as of October 15, 2026. Main finding: net earnings were $19.0 billion over fiscal 2021 to 2025 but operating cash flow was $13.6 billion, and operating cash flow was negative $822 million in the first nine months of fiscal 2026 while $1.36 billion went to buybacks and dividends. The price needs a gross margin on home sales of about 17.5% by 2031, against 15.8% now. Bear $43.71, Base $84.81, Bull $120.66. Verdict HOLD at $77.69 (Confidence C, required margin of safety 40%), maximum buy price $50.89."
+}
