@@ -1,0 +1,20 @@
+{
+  "ticker": "CNXC",
+  "slug": "cnxc",
+  "name": "Concentrix (CNXC)",
+  "company": "Concentrix Corporation",
+  "companyShort": "Concentrix",
+  "date": "2026-10-19",
+  "order": 85,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $27.86",
+  "price": "$27.86",
+  "base": "$53.62",
+  "upside": "92.5",
+  "upsideText": "+92.5%",
+  "maxBuy": "$26.81",
+  "teaser": "At $27.86 the shares trade 48.0% below my Base value of $53.62, an upside of 92.5%, and on my numbers the company turns real cash into the equity. But the two valuation methods differ by 31.8%, which lowers Confidence to D and raises the margin of safety I require to 50%. That puts the maximum buy price at $26.81, 3.8% below the quote. Hold, and wait for a price at or below $26.81 together with evidence that owner cash holds up. The Bear value of $5.94 needs fresh equity and is not a floor.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $5.94, base $53.62, bull $108.44, current price $27.86, buy zone at or below $26.81\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"5.94\" data-to=\"108.44\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"26.81\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.94\"></span>\n        <span class=\"ruler-tick\" data-value=\"53.62\"></span>\n        <span class=\"ruler-tick\" data-value=\"108.44\"></span>\n        <span class=\"ruler-price\" data-value=\"27.86\"><span>Price $27.86</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"5.94\">Bear<b>$5.94</b></span>\n        <span data-value=\"53.62\">Base<b>$53.62</b></span>\n        <span data-value=\"108.44\">Bull<b>$108.44</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $26.81.</figcaption>\n    </figure>",
+  "llms": "Concentrix (CNXC), the customer experience outsourcing company, is valued on owner cash after capital spending, interest, tax, restructuring and a stock pay replacement budget, with an enterprise value to economic EBITA cross-check. Bear $5.94, Base $53.62, Bull $108.44. Verdict Hold at $27.86, maximum buy price $26.81."
+}
