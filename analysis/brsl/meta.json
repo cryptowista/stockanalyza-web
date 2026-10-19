@@ -1,0 +1,20 @@
+{
+  "ticker": "BRSL",
+  "slug": "brsl",
+  "name": "Brightstar Lottery (BRSL)",
+  "company": "Brightstar Lottery PLC",
+  "companyShort": "Brightstar Lottery",
+  "date": "2026-10-19",
+  "order": 84,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $9.44",
+  "price": "$9.44",
+  "base": "$7.96",
+  "upside": "-15.6",
+  "upsideText": "-15.6%",
+  "maxBuy": "$3.58",
+  "teaser": "At $9.44 the shares trade 18.5% above my Base value of $7.96, a downside of 15.6%. The business is a real franchise, but Italian license fees, minority owners and contract investment take most of the cash before it reaches ordinary shareholders, and the 9.7% dividend is paid from borrowing in my Base until about 2029. The two methods differ by 59.6%, so Confidence is D and the required margin of safety is 55%, which puts the maximum buy price at $3.58. Reduce for holders, watchlist for new money. Third quarter results on November 10 are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $1.33, base $7.96, bull $19.79, current price $9.44, buy zone at or below $3.58\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"1.33\" data-to=\"19.79\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"3.58\"></span>\n        <span class=\"ruler-tick\" data-value=\"1.33\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.96\"></span>\n        <span class=\"ruler-tick\" data-value=\"19.79\"></span>\n        <span class=\"ruler-price\" data-value=\"9.44\"><span>Price $9.44</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"1.33\">Bear<b>$1.33</b></span>\n        <span data-value=\"7.96\">Base<b>$7.96</b></span>\n        <span data-value=\"19.79\">Bull<b>$19.79</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $3.58.</figcaption>\n    </figure>",
+  "llms": "Brightstar Lottery (BRSL), the lottery systems and Italian lottery operator formerly known as International Game Technology, is valued on parent owner cash after minority payments, investment and license renewal costs, with a transition to 2029 and a long-run cash cross-check. Bear $1.33, Base $7.96, Bull $19.79. Verdict Reduce at $9.44, maximum buy price $3.58."
+}
