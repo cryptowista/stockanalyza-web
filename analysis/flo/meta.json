@@ -1,0 +1,20 @@
+{
+  "ticker": "FLO",
+  "slug": "flo",
+  "name": "Flowers Foods (FLO)",
+  "company": "Flowers Foods, Inc.",
+  "companyShort": "Flowers Foods",
+  "date": "2026-10-19",
+  "order": 81,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $6.11",
+  "price": "$6.11",
+  "base": "$7.47",
+  "upside": "22.2",
+  "upsideText": "+22.2%",
+  "maxBuy": "$4.48",
+  "teaser": "Flowers Foods generated $306 million of free cash flow over the last 53 weeks and still cut its dividend by 49.5%. My Base is $7.47, 22.2% above $6.11, but the 40% margin of safety puts the maximum buy price at $4.48. Hold, watchlist for new money.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $3.71, base $7.47, bull $10.43, current price $6.11, buy zone at or below $4.48\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"3.71\" data-to=\"10.43\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"4.48\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.71\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.47\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.43\"></span>\n        <span class=\"ruler-price\" data-value=\"6.11\"><span>Price $6.11</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"3.71\">Bear<b>$3.71</b></span>\n        <span data-value=\"7.47\">Base<b>$7.47</b></span>\n        <span data-value=\"10.43\">Bull<b>$10.43</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $4.48.</figcaption>\n    </figure>",
+  "llms": "Flowers Foods (FLO), the U.S. baker of Nature's Own, Dave's Killer Bread, Canyon Bakehouse, Simple Mills, Wonder and Tastykake, is valued on economic EBITDA with a two year transition and cross-checked on capitalized owner cash after a 49.5% dividend cut. Bear $3.71, Base $7.47, Bull $10.43. Verdict Hold at $6.11, maximum buy price $4.48."
+}
