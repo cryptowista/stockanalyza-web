@@ -1,0 +1,20 @@
+{
+  "ticker": "RWS",
+  "slug": "rws",
+  "name": "RWS Holdings (RWS)",
+  "company": "RWS Holdings plc",
+  "companyShort": "RWS Holdings",
+  "date": "2026-10-19",
+  "order": 83,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at 151.77p",
+  "price": "151.77p",
+  "base": "122.76p",
+  "upside": "-19.1",
+  "upsideText": "-19.1%",
+  "maxBuy": "67.52p",
+  "teaser": "At 151.77p the shares trade 19.1% above my Base value of 122.76p. My Base already includes a recovery and an acquisition, so this is not a no-turnaround case. The price needs about 78% of EBITDA to turn into operating cash, against the 65% the company itself aims for, and it needs it for good. The required margin of safety of 45% puts the maximum buy price at 67.52p. Reduce for holders, watchlist for new money. Full-year results to September 30, 2026 are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear 68.58p, base 122.76p, bull 199.49p, current price 151.77p, buy zone at or below 67.52p\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"68.58\" data-to=\"199.49\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"67.52\"></span>\n        <span class=\"ruler-tick\" data-value=\"68.58\"></span>\n        <span class=\"ruler-tick\" data-value=\"122.76\"></span>\n        <span class=\"ruler-tick\" data-value=\"199.49\"></span>\n        <span class=\"ruler-price\" data-value=\"151.77\"><span>Price 151.77p</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"68.58\">Bear<b>68.58p</b></span>\n        <span data-value=\"122.76\">Base<b>122.76p</b></span>\n        <span data-value=\"199.49\">Bull<b>199.49p</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below 67.52p.</figcaption>\n    </figure>",
+  "llms": "RWS Holdings (RWS), the London-listed language, content and IP services group moving into AI data and software, is valued on owner cash after capital spending, interest, leases and stock pay with a two year transition, cross-checked with a sum of the parts. Bear 68.58p, Base 122.76p, Bull 199.49p. Verdict Reduce at 151.77p, maximum buy price 67.52p."
+}
