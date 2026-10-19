@@ -1,0 +1,20 @@
+{
+  "ticker": "GNL",
+  "slug": "gnl",
+  "name": "Global Net Lease (GNL)",
+  "company": "Global Net Lease, Inc.",
+  "companyShort": "Global Net Lease",
+  "date": "2026-10-19",
+  "order": 86,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $7.31",
+  "price": "$7.31",
+  "base": "$6.31",
+  "upside": "-13.7",
+  "upsideText": "-13.7%",
+  "maxBuy": "$3.79",
+  "teaser": "At $7.31 the shares trade 15.9% above my Base value of $6.31, a downside of 13.7%. The 10.4% dividend is real income today, but after property reinvestment, stock pay and recurring costs the cash left per share is about $0.73 against a $0.76 payout, and it drifts lower in my Base as debt is refinanced at higher rates. Confidence is C and the required margin of safety is 40%, which puts the maximum buy price at $3.79. Reduce for holders, watchlist for new money. Third quarter results on November 4 are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $1.85, base $6.31, bull $10.64, current price $7.31, buy zone at or below $3.79\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"1.85\" data-to=\"10.64\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"3.79\"></span>\n        <span class=\"ruler-tick\" data-value=\"1.85\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.31\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.64\"></span>\n        <span class=\"ruler-price\" data-value=\"7.31\"><span>Price $7.31</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"1.85\">Bear<b>$1.85</b></span>\n        <span data-value=\"6.31\">Base<b>$6.31</b></span>\n        <span data-value=\"10.64\">Bull<b>$10.64</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $3.79.</figcaption>\n    </figure>",
+  "llms": "Global Net Lease (GNL), a net lease REIT with industrial, retail and office properties, is valued on AFFO after property reinvestment, stock pay and recurring costs with a 2031 exit, cross-checked with a property net asset value. Bear $1.85, Base $6.31, Bull $10.64. Verdict Reduce at $7.31, maximum buy price $3.79."
+}
