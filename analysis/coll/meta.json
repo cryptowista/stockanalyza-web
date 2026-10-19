@@ -1,0 +1,20 @@
+{
+  "ticker": "COLL",
+  "slug": "coll",
+  "name": "Collegium Pharmaceutical (COLL)",
+  "company": "Collegium Pharmaceutical, Inc.",
+  "companyShort": "Collegium",
+  "date": "2026-10-19",
+  "order": 82,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $23.19",
+  "price": "$23.19",
+  "base": "$27.22",
+  "upside": "17.4",
+  "upsideText": "+17.4%",
+  "maxBuy": "$14.97",
+  "teaser": "At $23.19 the shares trade 14.8% below my Base value of $27.22, upside of 17.4%. That is not enough for a leveraged drug company whose Belbuca franchise can face generics from January 2027, so the required margin of safety of 45% puts the maximum buy price at $14.97. The price is above my whole entry range of about $11.84 to $17.75. It needs 2028 hard EBITDA of about $284 million, against $345 million in my Base. Hold, watchlist for new money. Third quarter results and the final settlement of the August share repurchase are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $1.81, base $27.22, bull $51.88, current price $23.19, buy zone at or below $14.97\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"1.81\" data-to=\"51.88\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"14.97\"></span>\n        <span class=\"ruler-tick\" data-value=\"1.81\"></span>\n        <span class=\"ruler-tick\" data-value=\"27.22\"></span>\n        <span class=\"ruler-tick\" data-value=\"51.88\"></span>\n        <span class=\"ruler-price\" data-value=\"23.19\"><span>Price $23.19</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"1.81\">Bear<b>$1.81</b></span>\n        <span data-value=\"27.22\">Base<b>$27.22</b></span>\n        <span data-value=\"51.88\">Bull<b>$51.88</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $14.97.</figcaption>\n    </figure>",
+  "llms": "Hold at $23.19. Base $27.22, maximum buy price $14.97. Leveraged specialty pharma facing generics on Belbuca and Nucynta."
+}
