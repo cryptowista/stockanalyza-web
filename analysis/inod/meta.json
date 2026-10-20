@@ -1,0 +1,20 @@
+{
+  "ticker": "INOD",
+  "slug": "inod",
+  "name": "Innodata (INOD)",
+  "company": "Innodata Inc.",
+  "companyShort": "Innodata",
+  "date": "2026-10-20",
+  "order": 90,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $54.92",
+  "price": "$54.92",
+  "base": "$51.07",
+  "upside": "-7.0",
+  "upsideText": "-7.0%",
+  "maxBuy": "$30.64",
+  "teaser": "At $54.92 the shares trade 7.5% above my Base value of $51.07, a downside of 7.0%. The growth is real: revenue rose 58% in the second quarter and the operating margin is 18%. But most of the $159 million of first half free cash flow was customer prepayments and unpaid project costs, two customers were 71% of second quarter revenue, and a $300 million share sale program is open. Confidence is C and the required margin of safety is 40%, which puts the maximum buy price at $30.64. Hold for holders, watchlist for new money. Third quarter results on November 5 are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $24.47, base $51.07, bull $71.92, current price $54.92, buy zone at or below $30.64\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"24.47\" data-to=\"71.92\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"30.64\"></span>\n        <span class=\"ruler-tick\" data-value=\"24.47\"></span>\n        <span class=\"ruler-tick\" data-value=\"51.07\"></span>\n        <span class=\"ruler-tick\" data-value=\"71.92\"></span>\n        <span class=\"ruler-price\" data-value=\"54.92\"><span>Price $54.92</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"24.47\">Bear<b>$24.47</b></span>\n        <span data-value=\"51.07\">Base<b>$51.07</b></span>\n        <span data-value=\"71.92\">Bull<b>$71.92</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $30.64.</figcaption>\n    </figure>",
+  "llms": "Provider of data engineering for AI developers, valued on growth multiples of normalized 2028 owner cash and operating profit with a ten-year cash flow cross-check; first half free cash flow was largely customer prepayments and the top two customers are 71 percent of revenue. Bear 24.47, Base 51.07, Bull 71.92. Verdict HOLD at 54.92 (watchlist for new money), maximum buy price 30.64."
+}
