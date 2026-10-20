@@ -1,0 +1,20 @@
+{
+  "ticker": "OTF",
+  "slug": "otf",
+  "name": "Blue Owl Technology Finance (OTF)",
+  "company": "Blue Owl Technology Finance Corp.",
+  "companyShort": "Blue Owl Tech Finance",
+  "date": "2026-10-20",
+  "order": 88,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $9.01",
+  "price": "$9.01",
+  "base": "$10.06",
+  "upside": "11.7",
+  "upsideText": "+11.7%",
+  "maxBuy": "$6.04",
+  "teaser": "At $9.01 the shares trade 10.4% below my Base value of $10.06, an upside of 11.7%, and at 55% of the reported net asset value of $16.48. But net investment income of $0.30 a share does not yet cover the $0.35 regular dividend, a large part of income is paid in kind rather than cash, and the fees went up after the June 2025 listing. Confidence is C and the required margin of safety is 40%, which puts the maximum buy price at $6.04. Hold for holders, watchlist for new money. Third quarter results on November 4 are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $4.24, base $10.06, bull $14.76, current price $9.01, buy zone at or below $6.04\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"4.24\" data-to=\"14.76\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"6.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"4.24\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.06\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.76\"></span>\n        <span class=\"ruler-price\" data-value=\"9.01\"><span>Price $9.01</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"4.24\">Bear<b>$4.24</b></span>\n        <span data-value=\"10.06\">Base<b>$10.06</b></span>\n        <span data-value=\"14.76\">Bull<b>$14.76</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $6.04.</figcaption>\n    </figure>",
+  "llms": "Listed technology lender (business development company) valued on sustainable net investment income against net asset value, cross-checked with a five-year runoff of its loans; the stock trades at 0.55 times reported NAV but income covers only 86 percent of the 0.35 dollar quarterly dividend. Bear 4.24, Base 10.06, Bull 14.76. Verdict HOLD at 9.01 (watchlist for new money), maximum buy price 6.04."
+}
