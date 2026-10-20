@@ -1,0 +1,20 @@
+{
+  "ticker": "TMDX",
+  "slug": "tmdx",
+  "name": "TransMedics (TMDX)",
+  "company": "TransMedics Group, Inc.",
+  "companyShort": "TransMedics",
+  "date": "2026-10-20",
+  "order": 89,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $72.22",
+  "price": "$72.22",
+  "base": "$68.82",
+  "upside": "-4.7",
+  "upsideText": "-4.7%",
+  "maxBuy": "$37.85",
+  "teaser": "At $72.22 the shares trade 4.9% above my Base value of $68.82, a downside of 4.7%. That looks close to fair value, but the range is wide (Bear $25.87, Bull $108.70) and my two methods disagree by 30%: an exit multiple on 2028 EBITDA gives $81.74, a ten-year cash flow model gives $60.20. Owner cash after share-based pay yields 1.7% at today's price. Confidence is C and the required margin of safety is 45%, which puts the maximum buy price at $37.85. Hold for holders, watchlist for new money. Third quarter results are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $25.87, base $68.82, bull $108.70, current price $72.22, buy zone at or below $37.85\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"25.87\" data-to=\"108.70\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"37.85\"></span>\n        <span class=\"ruler-tick\" data-value=\"25.87\"></span>\n        <span class=\"ruler-tick\" data-value=\"68.82\"></span>\n        <span class=\"ruler-tick\" data-value=\"108.70\"></span>\n        <span class=\"ruler-price\" data-value=\"72.22\"><span>Price $72.22</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"25.87\">Bear<b>$25.87</b></span>\n        <span data-value=\"68.82\">Base<b>$68.82</b></span>\n        <span data-value=\"108.70\">Bull<b>$108.70</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $37.85.</figcaption>\n    </figure>",
+  "llms": "Medical technology company selling organ care systems for transplants, valued on a discounted exit multiple on 2028 EBITDA cross-checked with a ten-year owner cash flow model; owner cash yields 1.7 percent and liver is 79 percent of revenue. Bear 25.87, Base 68.82, Bull 108.70. Verdict HOLD at 72.22 (watchlist for new money), maximum buy price 37.85."
+}
