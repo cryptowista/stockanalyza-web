@@ -4,9 +4,9 @@
 
 ROOT, Nasdaq. Published October 20, 2026. Price is an intraday trade at about 8:15 pm Prague time (2:15 pm New York) on October 20, 2026, during the regular session; the October 19 close was $52.32.
 
-## Verdict: HOLD at $52.45
+## Verdict: REDUCE at $52.45
 
-At $52.45 the shares trade 36.5% above my Base value of $38.41, a downside of 26.8%, and at 2.5 times reported book value. The turnaround is real: Root earned $61.3 million in the first half after years of losses. But 46% of first half pretax profit came from releases of old claim reserves, a combined ratio of 91.7% becomes 95.7% without them, and the 2026 tax bill is close to zero. Confidence is C and the required margin of safety is 45%, which puts the maximum buy price at $21.13. Hold for holders, do not add, watchlist for new money. Third quarter results on November 4 are not in this analysis.
+At $52.45 the shares trade 36.5% above my Base value of $38.41, a downside of 26.8%, and at 2.5 times reported book value. The turnaround is real: Root earned $61.3 million in the first half after years of losses. But 46% of first half pretax profit came from releases of old claim reserves, a combined ratio of 91.7% becomes 95.7% without them, and the 2026 tax bill is close to zero. Confidence is C and the required margin of safety is 45%, which puts the maximum buy price at $21.13. Reduce for holders, watchlist for new money. Third quarter results on November 4 are not in this analysis.
 
 - Bear value: $12.41
 - Base value: $38.41
@@ -24,7 +24,7 @@ At $52.45 the shares trade 36.5% above my Base value of $38.41, a downside of 26
 
 Root reported a net combined ratio of 91.7% for the first half of 2026. The combined ratio is claims plus costs divided by premiums earned, so anything below 100% means the insurer made money on policies alone. But $28.5 million of that came from releases of reserves set aside for earlier years, which is 46% of the $61.7 million pretax profit. Take the releases out and the ratio is 95.7%. Still profitable, but a different business from the one in the headline.
 
-At $52.45, an intraday trade at about 8:15 pm Prague time (2:15 pm New York) on October 20, 2026, the shares trade 36.5% above my triangulated Base value of **$38.41**, a downside of 26.8%. The Bear value is $12.41, 76.3% below the price, and the Bull value of $80.11 is 52.7% above it. Confidence is grade C (14/25), the required margin of safety (MOS) is 45%, and the maximum buy price is **$21.13**. The verdict is Hold, do not add, and a watchlist for new money.
+At $52.45, an intraday trade at about 8:15 pm Prague time (2:15 pm New York) on October 20, 2026, the shares trade 36.5% above my triangulated Base value of **$38.41**, a downside of 26.8%. The Bear value is $12.41, 76.3% below the price, and the Bull value of $80.11 is 52.7% above it. Confidence is grade C (14/25), the required margin of safety (MOS) is 45%, and the maximum buy price is **$21.13**. The verdict is Reduce for holders and a watchlist for new money.
 
 Valuation route: a U.S. personal auto insurer, so I value the capital it holds, not its software or its cash flow. Primary method: residual income, which values the common book value plus the profit earned above a 13% cost of equity, with tax losses added once. Secondary method: 11 times normalized earnings. Weights are 70% and 30%. Classification: standard company, an improving insurer, no compounder premium.
 
@@ -203,7 +203,7 @@ Only the most favorable corner, an 11% cost of equity with returns two points hi
 | Full Bull | $80.11 | +52.7% |
 | Bear returns, 15% cost of equity, no tax losses | $28.71 | -45.3% |
 
-Be clear about what this shows. In 10 of the 12 cases the shares are worth less than $52.45. The two cases where they are not are the Bull ones, which need both better underwriting and a larger, profitable premium base. The cautious verdict depends on durability and does not survive every defensible optimistic case. That is why the call is Hold and not Reduce, and why I say so plainly.
+Be clear about what this shows. In 10 of the 12 cases the shares are worth less than $52.45. The two cases where they are not are the Bull ones, which need both better underwriting and a larger, profitable premium base. The cautious verdict depends on durability and does not survive every defensible optimistic case. That is why this call sits close to a line, and I want to say so up front: the Base is 26.8% below the price, which my rules classify as Slightly Overvalued, a band where both Hold and Reduce are allowed. Hold is a reasonable alternative reading of the same numbers. It becomes the call if reserve independent combined ratios stay near 94% with disclosed capital headroom, or if a cost of equity near 11% becomes defensible. I chose Reduce because the Bear is 76.3% below the price against a Bull 52.7% above it, Confidence is C, and the price needs returns 3.3 points above my central path.
 
 ## How the buy price is set
 
@@ -273,29 +273,31 @@ On the insurance scorecard Root scores 4/12: the modeled return above the cost o
 
 ## What I would watch from here
 
-### Supports the thesis
+For a Reduce call the colors describe the thesis, not the share price. Green means the Reduce case holds. Red means it breaks and the call moves toward Hold, so strong results show up as Red here, and that is good news for the stock.
 
-- A combined ratio below 95% without prior year releases, repeated over several quarters.
-- Gross premium growth that is profitable, with retention holding.
-- Disclosed regulatory capital headroom and book value per share rising after all compensation and buybacks.
+### The Reduce case holds
+
+- A combined ratio without prior year releases that stays above 95%.
+- Gross premium still shrinking while net premium grows only because less risk is ceded.
+- Releases staying above a third of pretax profit.
 
 ### Watch closely
 
-- A release adjusted combined ratio between 95% and 98%, or releases above a third of pretax profit again.
-- Gross premium still shrinking while net premium grows only because less risk is ceded.
+- A release adjusted combined ratio between 94% and 95%, or a strong quarter that still leans on releases.
 - Buybacks or distributions announced before capital ratios are disclosed.
+- A preferred dividend turning into a cash payment.
 
-### Breaks the thesis
+### The call would move to Hold
 
-- A release adjusted combined ratio above 100% for several quarters with no price response.
-- Adverse reserve development, a regulatory action or a covenant problem.
-- Dilution or senior claims that stop company profit from becoming common per share value.
+- A release adjusted combined ratio at or below 94.3%, the level the price needs, for several quarters.
+- Profitable gross premium growth with retention holding.
+- Disclosed regulatory capital headroom and book value per share rising after all compensation and buybacks.
 
-## The most important thesis breakers
+## What would change the call
 
-- **Underwriting losses without releases.** The profit has to be there before old reserves are counted.
-- **Capital stress.** Regulatory or loan covenant limits that block cash from reaching common holders.
-- **Claims on the common.** Preferred and employee dilution that absorbs the gains.
+- **Toward Hold: underwriting without releases.** Several quarters near 94% would show the profit is there before old reserves are counted.
+- **Toward Hold: capital room.** Disclosed headroom and permission to return capital.
+- **Toward Sell: underwriting losses.** A release adjusted ratio above 100% for several quarters with no price response, or regulatory or covenant limits that block cash from reaching common holders.
 
 ## Stress test and independent check
 
@@ -309,13 +311,13 @@ Three further points. The price is an intraday trade; the October 19 close was $
 
 Main data limits: I do not know current regulatory capital ratios, how much of the tax losses can really be used, or whether the preferred dividend will be paid in cash. These are why Confidence is C.
 
-## Final verdict: hold, do not add, at $52.45
+## Final verdict: reduce at $52.45
 
 Root has done what few auto insurers manage: it has turned a loss making company into one that earns a real return on its capital. But the headline numbers flatter the result, and a price of 2.5 times book already assumes the improvement lasts through a full pricing cycle with returns 3.3 points better than my central case. The buy ceiling of $21.13 is 60% below the price.
 
-**Verdict: HOLD, do not add, watchlist for new money. Price $52.45, triangulated Base value $38.41, downside 26.8%, Confidence C (14/25), required margin of safety 45%, maximum buy price $21.13.**
+**Verdict: REDUCE at $52.45, do not add, watchlist for new money. Price $52.45, triangulated Base value $38.41, downside 26.8%, Confidence C (14/25), required margin of safety 45%, maximum buy price $21.13.**
 
-For holders this is not a call to sell: whether to hold depends on your cost, position size and taxes, which I do not know. For new money it means waiting, either for a lower price or for several quarters of strong results that do not rely on reserve releases. The November 4 report is the first chance to see one.
+For holders Reduce means trimming, not leaving: how much depends on your cost, position size and taxes, which I do not know. For new money it means waiting, either for a lower price or for several quarters of strong results that do not rely on reserve releases. The November 4 report is the first chance to see one.
 
 ## More analyses on Patreon
 
