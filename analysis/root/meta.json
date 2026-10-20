@@ -1,0 +1,20 @@
+{
+  "ticker": "ROOT",
+  "slug": "root",
+  "name": "Root (ROOT)",
+  "company": "Root, Inc.",
+  "companyShort": "Root",
+  "date": "2026-10-20",
+  "order": 91,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $52.45",
+  "price": "$52.45",
+  "base": "$38.41",
+  "upside": "-26.8",
+  "upsideText": "-26.8%",
+  "maxBuy": "$21.13",
+  "teaser": "At $52.45 the shares trade 36.5% above my Base value of $38.41, a downside of 26.8%, and at 2.5 times reported book value. The turnaround is real: Root earned $61.3 million in the first half after years of losses. But 46% of first half pretax profit came from releases of old claim reserves, a combined ratio of 91.7% becomes 95.7% without them, and the 2026 tax bill is close to zero. Confidence is C and the required margin of safety is 45%, which puts the maximum buy price at $21.13. Hold for holders, do not add, watchlist for new money. Third quarter results on November 4 are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $12.41, base $38.41, bull $80.11, current price $52.45, buy zone at or below $21.13\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"12.41\" data-to=\"80.11\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"21.13\"></span>\n        <span class=\"ruler-tick\" data-value=\"12.41\"></span>\n        <span class=\"ruler-tick\" data-value=\"38.41\"></span>\n        <span class=\"ruler-tick\" data-value=\"80.11\"></span>\n        <span class=\"ruler-price\" data-value=\"52.45\"><span>Price $52.45</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"12.41\">Bear<b>$12.41</b></span>\n        <span data-value=\"38.41\">Base<b>$38.41</b></span>\n        <span data-value=\"80.11\">Bull<b>$80.11</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $21.13.</figcaption>\n    </figure>",
+  "llms": "Listed U.S. personal auto insurer valued on common book value and residual income, cross-checked with normalized earnings; reserve releases made 46 percent of first half pretax profit and the combined ratio is 95.7 percent without them. Bear 12.41, Base 38.41, Bull 80.11. Verdict HOLD, do not add, at 52.45 (watchlist for new money), maximum buy price 21.13."
+}
