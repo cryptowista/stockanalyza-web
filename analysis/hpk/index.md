@@ -1,247 +1,310 @@
 <!-- Markdown version of https://stockanalyza.com/analysis/hpk/ -->
 
-# HighPeak Energy: $92 oil, but the stock is priced for $69
+# HighPeak Energy: the stock has run 45% to $11.39, but my Base value is $7.93
 
-HPK, NASDAQ. Published September 24, 2026. Price as of the September 23, 2026 close.
+HPK, NASDAQ. Published October 20, 2026. Price is the last trade at 5:42 pm New York time on October 19, 2026 (after hours).
 
-## Verdict: HOLD at $7.88
+## Verdict: REDUCE at $11.39
 
-Watchlist for new money. The shares trade 18% below the Base value, but oil prices, $1 billion of net debt and an erratic cash flow record call for a 45% margin of safety, which puts the buy zone at $5.29 or below.
+At $11.39 the shares trade 43.7% above my Base value of $7.93, a downside of 30.4%. The price needs long-run oil near $95 against $79.74 in my Base, and the proposed refinancing puts $450 million of convertible preferred stock ahead of common holders. Confidence is D and the required margin of safety is 50%, which puts the maximum buy price at $3.96. Reduce for holders, watchlist for new money. The financing has been announced but not closed, and third quarter results are not in this analysis.
 
-- Bear value: $3.57
-- Base value: $9.61
-- Bull value: $14.95
-- Upside to base value: 22.0%
-- Maximum buy price: $5.29
-- Required margin of safety: 45%
-- Probability-weighted value: $8.87 (30/50/20)
-- Oil price implied by the share price: about $69 WTI (spot about $92)
-- Dividend: suspended in 2026
-- Business quality: 46/100
-- Valuation score: 62/100
-- Confidence: 16/25, grade C
+- Bear value: $0.00
+- Base value: $7.93
+- Bull value: $16.54
+- Downside to base value: -30.4%
+- Maximum buy price: $3.96
+- Required margin of safety: 50%
+- Oil price the stock needs: about $95 WTI
+- Cash per share, 2027 Base: $1.24
+- Preferred stock ahead of common (proposed): $450 million
+- Business quality: 36/100
+- Valuation score: 23/100
+- Confidence: 10/25, grade D
 
-WTI crude traded around $92 on September 23, 2026, inflated by the conflict around the Strait of Hormuz. HighPeak's shares do not believe it. At $7.88, the market prices this oil-weighted Permian producer as if oil will settle around $69 over the long run. That is a sensible discount, and it leaves the stock inexpensive but not cheap enough to buy.
+HighPeak Energy earned $0.59 a share in the second quarter and has no dividend, but the stock has risen from $7.88 to $11.39 since my September 24 analysis, a gain of 44.5%. On October 6 the company announced a $450 million convertible preferred stock investment and an $800 million bank facility to replace its $1.17 billion term loan. That is real relief on interest and amortization, but it is a deal that has not closed, and it puts a new claim ahead of common holders. I model it as conditional.
 
-At $7.88 on September 23, 2026, the shares trade 18.0% below my triangulated Base value of $9.61, an upside of 22.0%. The Bear value of $3.57 is 54.7% below the price, and the required margin of safety of 45% puts the maximum buy price at $5.29. For existing holders this is a hold. For new money it is a watchlist name.
+At $11.39, the last trade at 5:42 pm New York time on October 19, 2026 (after hours; an XTB screen on the morning of October 20 shows the same price), the shares trade 43.7% above my triangulated Base value of $7.93. The Bear value is $0.00, 100% below the price, and the Bull value of $16.54 is 45.2% above it. Confidence is grade D (10/25), the required margin of safety (MOS) is 50%, and the maximum buy price is **$3.96**. The price is not far-fetched: a generous set of inputs reaches $11.72. But it needs most things to go right at once.
 
-Valuation route: energy producer, oil-weighted Midland Basin exploration and production company. Economic classification: Standard Company (3/12). Primary method: normalized owner earnings after development capex and interest, at a mid-cycle oil price. Secondary method: proved reserve value (PV-10) less net debt. Values are present fair-value estimates, not 12-month price targets. No takeover premium is included.
+Valuation route: a Permian-style shale oil producer, a depleting business. Primary method: a risked proved reserve value (the independent engineer's PV-10 repriced for today's oil price and costs). Secondary method: normalized 2027 EBITDAX at 3, 4 and 5 times. Classification: standard company, not a compounder. This replaces my September 24 analysis, which is archived.
 
 ## What HighPeak is
 
-HighPeak is an independent oil and gas producer in the Midland Basin of West Texas. In Q2 2026 it produced 45.3 thousand barrels of oil equivalent per day, 64% crude oil and 83% liquids. Like every shale producer, its wells decline quickly, so a large part of each year's capital budget is needed just to keep production flat. It has no control over the price it sells at.
+HighPeak Energy drills for oil in the Midland Basin of West Texas, mainly in its Flat Top and Signal Peak areas. In the second quarter it produced 45.3 thousand barrels of oil equivalent a day (MBoe/d), 64% of it crude oil and 83% liquids, and it spent $107.5 million on capital. Its operating costs are low: lease operating expense was $6.43 per barrel of oil equivalent (boe), and total cash costs including taxes and cash overhead were $17.02.
 
-Proved reserves fell from about 199 million barrels of oil equivalent at the end of 2024 to about 174 million at the end of 2025. On September 17, 2026, Reuters reported that HighPeak was exploring a potential sale after acquisition interest. That is strategic optionality, but it is not included in fair value.
+Its weakness is what it takes to stand still. Oil production fell about 15% from a year earlier, to 28,952 barrels a day, and total production fell about 7%. At the end of 2025 proved reserves were 173.9 million boe, 55% of them developed, down 12.6% from a year earlier, and the engineer's PV-10 value fell 39.3% to $2,057 million. Proved reserves equal roughly 10.5 years of first-half production, and developed reserves only about 5.8 years. The company has to keep drilling to hold output.
 
-## The latest quarter
+## The latest results
 
-| Q2 2026 | Result |
-| --- | --- |
-| Net income | $82.3 million, $0.59 per diluted share |
-| EBITDAX | $147.6 million; first half about $281 million |
-| Realized oil price | $98.82 per barrel before hedges, $76.59 after |
-| Net hedge losses | about $55 million |
-| Cash costs | $17.02 per barrel of oil equivalent |
-| Capital expenditures | $107.5 million; first half $185.9 million |
-| Free cash flow | $37.6 million; first half $23.5 million |
-
-Full-year capex guidance is $255 to $285 million, so about two thirds was spent in the first half. Completions were pulled forward to capture lower service costs, which sets up much lower spending and stronger free cash flow in the second half. Management says the 2026 plan is designed to live within cash flow with crude in the mid-to-upper $50s. Hedging protects the downside, but it also gave away about $55 million of the Q2 price spike.
-
-## Why Q2 cannot be annualized
-
-| Period | Free cash flow ($ million) |
-| --- | --- |
-| 2022 | about -807 |
-| 2023 | about -269 |
-| 2024 | +70.5 |
-| 2025 | -10.6 |
-| Trailing 12 months to June 2026 | -7.9 |
-
-The record is poor, partly because earlier years were spent on growth. Q2's $37.6 million came at oil near $100. The honest metric is owner earnings after the capex needed to hold production and after interest, at an oil price that can last. The analysis does not disclose a maintenance capex split, so it is estimated.
-
-A simple sensitivity makes the assumptions visible. Taking management's cash flow breakeven at about $57 WTI and roughly $9.3 million of extra annual owner earnings for each $1 of oil, a rough estimate, the scenarios correspond to these oil prices:
-
-| Scenario | Owner earnings | Per share | Implied WTI, approximate |
-| --- | --- | --- | --- |
-| Bear | $50 million | $0.40 | $62 |
-| Base | $150 million | $1.19 | $73 |
-| Bull | $220 million | $1.74 | $81 |
-
-With spot at $92 including a war premium, a Base built on about $73 oil is a deliberate mid-cycle assumption, not today's price.
-
-## Debt and shares
-
-Debt was about $1,189 million at June 30, 2026 and cash $146.3 million, so net debt is about **$1,043 million**, roughly equal to the market value of the equity. On annualized first-half EBITDAX, net debt is about 1.9x, but that ratio would rise quickly if oil fell. The share count, about 126.45 million, is down about 1.35% in a year. The dividend was suspended in 2026 to accelerate debt reduction; screeners that still show a yield are using the old dividend.
-
-## Primary valuation: normalized owner earnings
-
-| Owner earnings per share \ Multiple | 7x | 9x | 10x |
-| --- | --- | --- | --- |
-| $0.40 (Bear) | $2.77 | $3.56 | $3.95 |
-| $1.19 (Base) | $8.30 | $10.68 | $11.86 |
-| $1.74 (Bull) | $12.18 | $15.66 | $17.40 |
-
-The primary Base value is $1.19 at 9x, or **$10.68**. Owner earnings are after interest, so debt is not subtracted again.
-
-## Secondary valuation: reserve value less debt
-
-Proved reserves at the end of 2025 had a PV-10 of **$2,057 million**. Less $1,043 million of net debt, that leaves $1,014 million, or **$8.02** per share. Three caveats make this an upper-leaning estimate: PV-10 is before income taxes, it uses 2025 SEC prices, and first-half 2026 production has been drawn from those reserves since. Proved developed producing reserves alone had a PV-10 of about $1,354 million, which covers debt with only $2.46 per share to spare. Most of the equity depends on future drilling.
-
-## Screen check
-
-Screeners show HighPeak at about 0.64x book value, 4.4x EV to EBITDA and 2.5x price to cash flow. These look very cheap, but trailing figures include the oil spike, and book value in a shale company reflects past drilling costs, not present value. They deserve a cyclical and leverage discount.
-
-## Valuation triangulation
-
-| Method | Base value | Weight |
+| $ million except per share | Q2 2026 | Note |
 | --- | --- | --- |
-| Normalized owner earnings at 9x | $10.68 | 60% |
-| PV-10 less net debt | $8.02 | 40% |
-| Triangulated Base | $9.61 | 100% |
+| Revenue | 272.4 | Oil sold at $98.82 a barrel before hedges |
+| Net income | 82.3 | $0.59 per share; includes a $108.2m noncash derivative gain |
+| Cash hedge losses | -54.7 | Real cash, stays in my numbers |
+| EBITDAX (company measure) | 147.6 | $49.09 per boe before hedges |
+| Capital spending | 107.5 | First half total: $186.4m |
+| Cash at June 30 | 146.3 | Total debt about $1.19bn |
 
-The methods diverge by 28.4%, inside the framework's warning band of 20% to 30%. That lowers confidence. The same weights apply in all three scenarios.
+The first-half net loss was $45.2 million, or -$0.36 a share. The profit in the second quarter owes a lot to oil near $99 and to the noncash gain on hedges, not to a change in what the business earns in a normal year. The quarterly dividend was suspended in the first quarter of 2026 and none was paid in the first half. The yield of 0.35% still shown on trading screens is stale and I give it no weight. The next report, for the third quarter, is not in this analysis.
 
-## What is the market already pricing in?
+## Which cash to value
 
-At 9x, the $7.88 price implies sustainable owner earnings of about **$111 million** a year, against $150 million in the Base. On the sensitivity above, that corresponds to roughly **$69 WTI**. The market is not pricing today's oil. It is pricing a war premium that fades, persistent leverage and commodity risk. Whether that is too pessimistic depends almost entirely on where oil settles.
+Company EBITDAX leaves out drilling, interest, taxes and compensation. For a business that must keep drilling, I value cash left for common holders after all of those, and I count capital spending in full. The first half of 2026 looks like this:
 
-## Bear, base and bull scenarios
+| $ million, first half of 2026 | Amount |
+| --- | --- |
+| Operating cash flow, after interest and hedge settlements | 180.5 |
+| Oil and gas capital spending | -186.4 |
+| Capital payables timing and other property | -1.2 |
+| Cash after all organic capital | -7.1 |
+| Stock pay, counted as a cost | -1.7 |
+| Hard owner cash, before acquisitions | -8.8 |
+| Add back: operating working capital outflow (timing only) | +30.1 |
+| Hard owner cash before working capital | 21.4 |
+
+Operating cash flow did not cover the drilling program in the first half. The company's own free cash flow of $23.5 million excludes stock pay and other property spending and leaves out the working capital swing. Second quarter free cash flow of $37.6 million included a $34.5 million source from delaying payments to drillers, which can reverse. History tells the same story:
+
+| Year | Operating cash flow, $m | Organic capital, $m | Hard cash, $m |
+| --- | --- | --- | --- |
+| 2023 | 756.4 | 1,110.8 | -380.4 |
+| 2024 | 690.4 | 606.3 | 71.4 |
+| 2025 | 511.6 | 509.2 | 1.8 |
+
+Over the three years hard cash totaled about -$307 million, and 2025 would have been negative without a working capital benefit (about -$38.5 million before it). A good oil price quarter does not yet show a durable owner cash stream.
+
+## Shares, preferred stock and the new financing
+
+| Item | Amount |
+| --- | --- |
+| Common shares (10-Q cover, August 6, 2026) | 126.45 million |
+| Vested options, average strike $11.19 | 12.70 million |
+| Cash if all options were exercised | $142.2 million |
+| Common plus options sharing in dividends | 139.16 million |
+| Proposed preferred stock, converts at $9.50 | 47.37 million shares |
+| Market value of common at $11.39 | $1,440 million |
+
+The options share in common dividends before they are exercised, so cash per share has to be divided by 139.16 million, not 126.45 million. They are barely in the money at $11.39 and have about 3.7 years left, so I assume they lapse in mid-2030 in the long-run path. If the preferred stock converted, it would add 37.5% to the share count.
+
+| Conditional sources, $m | Amount | Conditional uses, $m | Amount |
+| --- | --- | --- | --- |
+| Estimated cash before closing | 146.3 | Repay existing term loan | 1,170.0 |
+| Preferred stock, gross | 450.0 | Fees and costs (my estimate) | 20.0 |
+| New bank borrowing (my Base draw) | 643.7 | Cash kept in the business | 50.0 |
+| Total | 1,240.0 | Total | 1,240.0 |
+
+The $800 million bank facility is a commitment, not $800 million of cash. I assume a draw of $643.7 million at 6.5%, which leaves about $156 million undrawn. Net bank debt after closing is $593.7 million plus the $450 million of preferred stock, so the combined claim is larger than today's net loan by exactly the $20 million of fees. There is no free equity from relabeling debt.
+
+From the company's October 6 filing: the preferred stock costs 6% in cash for the first two years (or 7.5% paid in more stock), then 7.5% in cash (or 9% in stock) until year five, then 10%. On $450 million that is $27 million a year, then $33.75 million, then $45 million, paid before any common dividend. It converts into common at $9.50 at the holder's option, and the company can force conversion after three years only if the stock closes above $14.25 for 30 of 40 trading days. After three years the company can also redeem it for cash at a price that gives the investors a 10% annual return. Two years of paying in stock would lift the claim to about $522 million and the conversion shares to about 55 million. The investors will each appoint a director.
+
+The company expects the deal to close in the fourth quarter of 2026. Its news page lists nothing after the October 6 announcement, so I treat the deal as open. If it fails, the new lower interest cost disappears and the $1.17 billion term loan, with $30 million quarterly principal payments, stays. In the valuation I take the lower of two values for common holders: one that keeps the preferred stock as a claim, and one that converts it into shares.
+
+## The primary valuation: proved reserves
+
+The independent engineer's PV-10 already deducts field operating costs, production taxes, future drilling and abandonment. At the engineer's $65.34 oil price it was $2,057 million. I reprice each category (producing, developed non-producing and undeveloped) for $79.74 oil, add 5% to future costs, and then risk each category: 100% for producing reserves, 90% for developed non-producing and 80% for undeveloped. This is a proxy, not a new reserve report.
+
+| Base primary bridge, $ million | Amount |
+| --- | --- |
+| Producing / developed non-producing / undeveloped, repriced | 1,763.1 / 184.9 / 838.5 |
+| Risked field value before tax | 2,600.3 |
+| Tax and orphan well adjustment | -315.8 |
+| Rolled to October 20 less field cash already produced | 2,179.2 |
+| Corporate costs, 10 year present value | -205.4 |
+| 2026 Q4 and 2027 hedge settlements | -91.2 |
+| Operating asset value | 1,882.6 |
+| New bank debt, cash kept | -643.7, +50.0 |
+| Preferred stock kept as a claim / converted | $6.63 / $7.42 a share |
+
+The lower of the two, $6.63 a share, is my primary Base. The Bear and Bull values are $0.00 and $14.03. No premium is given for undrilled acreage or for a takeover. Two inputs deserve respect: a $100 million error in the cash produced since December moves the value by about $0.79 a share, and a $50 million shortfall in the financing bridge by about $0.40 on the reserve value and $0.24 on the blend.
+
+Oil price and the discount rate move the blend (60% reserve method, 40% EBITDAX method) like this:
+
+| WTI oil price | 8% discount | 10% | 12% | 15% |
+| --- | --- | --- | --- | --- |
+| $55 | $2.00 | $2.00 | $2.00 | $2.00 |
+| $65 | $4.85 | $4.07 | $3.37 | $2.82 |
+| $79.74 (Base) | $9.13 | $7.93 | $6.86 | $5.49 |
+| $90 | $11.44 | $10.36 | $9.09 | $7.39 |
+| $100 | $13.42 | $12.21 | $11.10 | $9.20 |
+
+At $90 oil only the 8% column reaches today's price ($11.44). At $100 oil the 8% and 10% columns do ($13.42 and $12.21), while 12% gives $11.10.
+
+## The secondary valuation: EBITDAX
+
+For 2027 I assume 45,000 boe a day with a 64% oil share, the U.S. government's October forecast of $79.74 for the 2027 average oil price, $20 for natural gas liquids and $0 for gas delivered (second quarter gas sold for -$1.50 per thousand cubic feet). That makes sales of $911.2 million. Cash costs of $13.80 per boe and production taxes of 4.9% leave $639.8 million before hedges. The company's disclosed hedges cost me about $62.7 million at the forecast's quarterly oil path, so EBITDAX is $577.1 million. Then the owner cash for common holders in 2027 is:
+
+| 2027 Base, $ million | Amount |
+| --- | --- |
+| EBITDAX after hedges | 577.1 |
+| Sustaining capital (tested at 270 to 400) | -320.0 |
+| Bank interest at 6.5% | -41.8 |
+| Cash tax | -10.0 |
+| Stock pay and other recurring cash | -5.5 |
+| Preferred stock cash dividend | -27.0 |
+| Owner cash for common | 172.8 |
+| Per dividend-sharing share (139.16 million) | $1.242 |
+
+That is a cash yield of 10.9% on $11.39, but the figure is a cash capacity, not a payout the company has announced. If the preferred stock converted instead, the coupon disappears but there are 186.5 million claims, and cash per share falls to $1.071. The $320 million of capital is my estimate. Management's 2026 budget is $255 million to $285 million and production guidance was 41,000 to 44,000 boe a day, so $320 million for 45,000 is not generous.
+
+| Scenario | 2027 EBITDAX, $m | Multiple | Value a share |
+| --- | --- | --- | --- |
+| Bear | 321.0 | 3.0 times | $0.00 |
+| Base | 577.1 | 4.0 times | $9.87 |
+| Bull | 847.5 | 5.0 times | $20.30 |
+
+Four times is my estimate for a small producer that has to keep drilling and is changing its funding. As a check, Permian Resources (PR) trades at 4.40 times second-quarter EBITDAX, annualized, at a $24.80 share price. It is far larger, with a stronger balance sheet and reserves, and HighPeak gets no premium for looking cheaper. I did not put numbers on Matador and Diamondback, because the parent and consolidated figures and minority interests do not line up cleanly.
+
+Both asset methods start from the same $79.74 oil price and the same funding, so agreement between them would not be independent proof. In any case they do not agree.
+
+## Triangulating the two values
+
+| Value per share today | Bear | Base | Bull | Weight |
+| --- | --- | --- | --- | --- |
+| Risked proved reserves | $0.00 | $6.63 | $14.03 | 60% |
+| Normalized EBITDAX | $0.00 | $9.87 | $20.30 | 40% |
+| Triangulated value | $0.00 | $7.93 | $16.54 | 100% |
+
+The reserve method gets more weight because depletion and the cost of drilling matter most for this kind of company. The Base values differ by 39.2% of their average, above the 30% line at which my framework treats the methods as disagreeing. The reserve method gives no credit for new wells that are not yet proved, while the EBITDAX method assumes the company keeps replacing production at acceptable returns. Confidence is cut one grade, from C to D, for this once.
+
+## What the price already assumes
+
+| Change needed to reach $11.39 | Needed | Base |
+| --- | --- | --- |
+| Long-run WTI oil price | $95.46 | $79.74 |
+| EBITDAX multiple, reserve value unchanged | 6.77 times | 4.0 times |
+| Oil price at which 2027 cash just covers its costs | about $53 to $54 | n/a |
+| Price for a 12% yearly return on cash and a 2031 exit | $11.17 | n/a |
+
+A long-run oil price near $95 is possible during a long supply disruption, but the government's forecast has oil falling in 2027, and I do not extrapolate a $100 world forever. The 12% entry price of $11.17 comes from a different path that assumes the company keeps drilling and sells at 4 times EBITDAX in October 2031 (cash paid out each October 2027 to 2031, with the first cut 10% for transition friction). Its return at $11.39 is 11.5% a year, a little under 12%. That is a return from a franchise that keeps going, not from the reserves on the books, so I do not average it with fair value.
+
+## Bear, Base and Bull
 
 |  | Bear | Base | Bull |
 | --- | --- | --- | --- |
-| Probability | 30% | 50% | 20% |
-| Approximate mid-cycle WTI | $62 | $73 | $81 |
-| Owner earnings ($ million) | 50 | 150 | 220 |
-| Owner earnings multiple | 7x | 9x | 10x |
-| PV-10 ($ million) | 1,646 (-20%) | 2,057 | 2,468 (+20%) |
-| Owner earnings value / reserve value | $2.77 / $4.77 | $10.68 / $8.02 | $17.40 / $11.27 |
-| Triangulated value | $3.57 | $9.61 | $14.95 |
-| vs $7.88 | -54.7% | +22.0% | +89.7% |
+| WTI oil / liquids / gas delivered | $55 / $15 / -$0.50 | $79.74 / $20 / $0 | $100 / $25 / $1.00 |
+| Production, boe a day / oil share | 40,000 / 62% | 45,000 / 64% | 48,000 / 67% |
+| Cash cost per boe | $15.00 | $13.80 | $13.30 |
+| Sustaining capital, $m | 360 | 320 | 330 |
+| Bank interest rate | 9.0% | 6.5% | 5.5% |
+| Reserve cost inflation / undeveloped risk factor | 15% / 50% | 5% / 80% | 0% / 100% |
+| EBITDAX multiple | 3.0 times | 4.0 times | 5.0 times |
+| 2027 owner cash, $m | -129.4 | 172.8 | 424.6 |
+| Value per share today | $0.00 | $7.93 | $16.54 |
+| Against $11.39 | -100.0% | -30.4% | +45.2% |
 
-**Bear:** the war premium unwinds, oil returns to the low $60s, free cash flow shrinks to little more than interest cover and reserve value falls. **Base:** oil settles in the low $70s, capex stays near guidance and debt falls gradually. **Bull:** oil holds around $80, debt falls faster and reserve value rises.
+In the Bear, both methods leave nothing for common holders after the bank and preferred claims. A $0.00 value is a limited-liability floor, not a prediction of bankruptcy: the company would cut drilling, and the bank borrowing base would matter, before that point. The Bull needs $100 oil, more production and cheaper funding together. It is not a price target.
 
-The probability-weighted value is **$8.87**, 12.5% above the price.
+| 2027 stress on the Base | Owner cash, $m | Per share |
+| --- | --- | --- |
+| Base | 172.8 | $1.242 |
+| Oil price 20% lower | 71.8 | $0.516 |
+| Oil price 40% lower | -37.5 | -$0.270 |
+| Production 10% lower | 108.8 | $0.782 |
+| Capital $270m | 222.8 | $1.601 |
+| Capital $400m | 92.8 | $0.667 |
+
+Generous test: keep $79.74 oil, remove reserve cost inflation, risk every category at 100%, use an 8% discount rate, a 5 times multiple, $270 million of capital and a 5.5% bank rate. The blend rises to $11.72, only 2.9% above the price. That weakens any claim that $11.39 is plainly wrong, but it still does not give a 50% margin of safety.
 
 ## How the buy price is set
 
-Confidence C starts at a 40% margin of safety, and commodity cyclicality with leverage adds 5 points, for 45%. A 45% discount to the $9.61 Base gives a **maximum buy price of $5.29**.
+Confidence grade D calls for a margin of safety of at least 50%. I use 50%, the lowest in the band, because the financial statements are detailed and the financing has committed counterparties. The risks that are already in the numbers (oil, capital, reserve risk, financing, dilution) are not charged a second time. The maximum buy price is $7.93 x (1 - 50%) = **$3.96**. Even at that price the Bear value is zero.
 
-## Reasons to own HPK
+Three numbers answer different questions: what the shares are worth ($7.93), what price would give a 12% return on cash and exit ($11.17) and what price leaves a 50% margin of safety ($3.96). The return-based entry does not override the more cautious reserve view.
 
-- **Asset backing.** Proved reserves are worth about $2.06 billion before debt at 2025 prices.
-- **Operating leverage.** Q2 showed how much cash the assets produce at high oil prices, with first-half costs well below guidance.
-- **Capital discipline.** Lower capex, a suspended dividend and debt reduction as the first priority.
-- **A market that prices $69 oil.** If oil settles higher, the equity benefits more than the reserves because of leverage.
-- **Strategic options.** Reported acquisition interest could close the gap to reserve value quickly, though it is not in the Base.
+## The dividend
 
-## What could go wrong?
+There is none. The board suspended the common dividend in the first quarter of 2026, and the company said that would add $20 million to $25 million of yearly liquidity. Preferred holders will rank ahead, with $27 million a year in cash, rising to $33.75 million and $45 million, and paying in stock only increases their claim. I do not forecast a restart. A trading screen yield of 0.35% is not income.
 
-- **Oil prices.** A lasting drop would cut cash flow, reserve value and debt capacity at the same time. This is the main thesis breaker.
-- **Debt.** About $1.04 billion of net debt amplifies every downside move for equity.
-- **Reserve replacement.** Proved reserves fell materially in 2025.
-- **Capital intensity.** Shale declines require constant investment. If required capex is higher than assumed, owner earnings are overstated.
-- **Hedges.** Hedging limits how much of any price spike reaches shareholders.
+## Reasons to own
 
-## Management execution
+- **Low field costs.** $6.43 of lease operating expense per boe and existing infrastructure can produce plenty of cash at $80 to $100 oil.
+- **Financing relief if it closes.** Replacing a $1.17 billion term loan and its amortization could free cash for sensible drilling.
+- **Oil leverage.** The Bull case reaches $16.54 at $100 oil with better operations, and the proved reserves are real, independently estimated assets.
+- **Optionality.** A sale or a new reserve report could recognize inventory that my proved-only Base does not count, with no takeover premium assumed.
 
-Positives: a reduced capital plan, the dividend suspension to preserve liquidity, debt reduction as the priority, production above guidance and costs below it. Negatives: persistent leverage, volatile free cash flow and shrinking reserves. Management credibility scores **13/20**.
+## Main risks
+
+- **Oil price and depletion.** At $55 oil with sticky capital, the common equity is worth nothing in my model. Output has to be replaced every year.
+- **Financing.** The deal can fail, the bank's final terms are not published, the borrowing base can be cut, and the preferred coupon steps up. A second claim on cash comes before common holders.
+- **Dilution.** The preferred stock can convert into 37.5% more shares and the legacy options share in dividends. Counting the cash without the claims overstates the value.
+- **Customers and measurement.** About 88% of first-half sales went to one buyer, Delek, which is not proof of a risk to the revenue but is a credit and logistics point. The reserve proxy has no new well-level decline curves.
 
 ## Stock Analyza scorecard
 
-| Business quality | Score |
-| --- | --- |
-| Moat and pricing power | 7/20 |
-| Return versus cost of capital | 5/20 |
-| Balance sheet | 7/15 |
-| Cash flow quality | 6/15 |
-| Growth and runway | 8/15 |
-| Management and capital allocation | 8/10 |
-| Dilution and alignment | 5/5 |
-| Total | 46/100 |
+| Business quality | Points | Maximum |
+| --- | --- | --- |
+| Cost position and resources | 6 | 20 |
+| Return on capital versus its cost | 6 | 20 |
+| Balance sheet and resilience | 5 | 15 |
+| Cash and metric quality | 5 | 15 |
+| Reinvestment runway | 7 | 15 |
+| Management and capital allocation | 5 | 10 |
+| Dilution and alignment | 2 | 5 |
+| Total | 36 | 100 |
 
-The valuation score is **62/100**: a real discount to Base, but a Bear value far below the price and methods that diverge by 28%.
-
-| Economic classification | Points |
-| --- | --- |
-| Economic return | 0/2 |
-| Revenue growth | 1/2 |
-| FCF per share growth | 0/2 |
-| Balance sheet | 0/1 |
-| Unit economics | 1/1 |
-| Recurring economics | 0/2 |
-| Reinvestment runway | 1/2 |
-| Total: Standard Company | 3/12 |
+The valuation score is 23/100 (highly overvalued under the Base), from 8/40 for the discount to value, 2/20 for protection against the Bear, 5/15 for agreement between methods, 3/10 for history, 4/10 for what the price implies and 1/5 for data quality. Management scores 10 of 20: operating execution and cost control are good, but there is a record of heavy spending, a leveraged balance sheet and financing that costs common holders something.
 
 ## Confidence score
 
-| Confidence | Score |
+| Component | Points of 5 |
 | --- | --- |
-| Data quality and provenance | 4/5 |
-| Business predictability | 2/5 |
-| Valuation robustness | 3/5 |
-| Accounting transparency | 4/5 |
-| Scenario dispersion | 3/5 |
-| Total | 16/25, grade C |
+| Data quality and provenance | 3 |
+| Business predictability | 1 |
+| Valuation robustness | 1 |
+| Accounting transparency | 4 |
+| Scenario dispersion | 1 |
+| Total, grade D (0 to 12) | 10 of 25 |
+
+Before the divergence cut the total was 14 (grade C). The score is a judgment with visible parts, not a probability.
 
 ## What I would watch from here
 
-### Green
+### Supports the thesis
 
-- Net debt falling by more than $100 million a year
-- Net debt to EBITDAX below 1.5x
-- Free cash flow positive in the second half, as guided
-- Production at or above guidance, capex within $255 to $285 million
-- Reserve replacement of 100% or more, stable or rising PV-10
+- Closing of the preferred stock and bank facility, with the final interest margin and covenants matching my Base.
+- 45,000 boe a day and a 64% oil share held with capital at or below $320 million a year.
+- A new independent reserve report with stable or rising value per share.
 
-### Yellow
+### Watch closely
 
-- Flat net debt, or leverage of 1.5x to 2.5x
-- Volatile free cash flow, a modest capex overrun
-- A modest decline in reserves or PV-10
-- A premature dividend restart
+- Closing delayed, or a larger bank draw than $643.7 million by $50 million or more.
+- Production held up only by gas, or by drawing down drilled uncompleted wells.
+- WTI at $65 to $80 or weaker gas prices in the Permian.
 
-### Red
+### Breaks the thesis
 
-- Net debt rising, or leverage above 2.5x
-- Negative free cash flow at normal oil prices
-- A production miss with a capex overrun
-- A persistent, large reserve decline, or PV-10 approaching debt
-- More than 2% share dilution, or a debt-funded payout
+- The financing fails or the borrowing base is cut.
+- Production below 40,000 boe a day, or more than $400 million of capital to hold Base output.
+- Persistent hard cash deficits that need new senior capital.
 
-The next review point is Q3 2026 results, expected in early November 2026, the first quarter with the lower second-half capex.
+## The most important thesis breakers
 
-## The three most important thesis breakers
+- **No financing.** HighPeak cannot refinance, or does so on worse terms than announced. I would then rebuild the valuation from a restructuring view rather than widen a range.
+- **Maintenance capital.** Holding 45,000 boe a day takes $400 million a year or more, which would shrink common cash sharply.
+- **Oil falls.** WTI near $55 while production falls and capital cannot fall as fast; senior claims then absorb the common value.
 
-1. Low oil prices that prevent debt reduction.
-2. Leverage that fails to decline.
-3. Weak reserve replacement.
+## How I checked the model
 
-## Stress test and independent check
+I rebuilt the model and checked the facts against filings and company releases. I reproduced: the 2027 sales, costs and owner cash; the oil hedge cost (about $64.7 million, using the contracts and the October government price path); the financing bridge; the preferred stock and option waterfall for both branches; the primary value from the risked field value through to the share value; the three secondary values; the 60/40 blend, divergence, upside and buy price; the reverse solve for the multiple (6.77 times); the return of 11.5% and the $11.17 entry; the cash per claim series and the growth rates. The $95.46 oil price is consistent with the table above, which brackets $11.39 between $90 and $100. I also reproduced the tax adjustment and the way risk factors reduce the repriced reserve values.
 
-The first draft reconciled arithmetically for its Base, but it never stated which oil price its owner earnings assumed, and its Bear and Bull values of $5.20 and $14.50 did not follow from either method. The recalculation made the oil deck explicit and derived Bear and Bull from both methods with the same weights as Base. The draft's Bear owner earnings of $90 million correspond to about $67 WTI, which is not a real bear case when spot oil is $92 on a war premium that could unwind. Lowering it to $50 million, about $62 oil, moved the Bear value from $5.20 to $3.57. The Base and the buy price are essentially unchanged.
+From the company's own documents I confirmed: second quarter production, prices, earnings, EBITDAX, costs and capital; cash and the August 6 share count; first-half operating cash flow, capital spending, stock pay and the lack of dividends; 2025 reserves and PV-10; 2026 guidance and the dividend suspension; the 2027 hedge book; and the preferred stock and bank commitment terms. The company's news page showed no closing announcement after October 6. The government's October oil forecast, the reserve category tables, the option count and strike, the term loan balance and maturity, the customer share and the peer numbers come from the supplied analysis and I could not independently re-read them. The 5% cost inflation effect on reserves (about $88 million in the Base) cannot be recomputed without the engineer's cost tables.
 
-The strongest bull argument is that Q2 already shows a structurally cheaper, cash-generating model and that debt reduction or a sale could close the gap to reserve value quickly. The strongest bear argument is that the free cash flow is temporary, shale needs more capital than modeled, and PV-10 overstates equity because almost half of proved reserves are undeveloped. The conclusion survives both: fair value is above the price, but the buy threshold is well below it.
+Main data limits: October cash is an estimate, the bank's final pricing is unpublished, there is no updated reserve report or maintenance-only production study, and the share count is from August. These are why Confidence is D.
 
-| Robustness test | Value per share |
-| --- | --- |
-| Base | $9.61 |
-| Base owner earnings $120 million (about $70 oil) | $8.33 |
-| PV-10 15% lower | $8.64 |
-| Owner earnings $120 million at 8x (primary only) | $7.59 |
-| Owner earnings $180 million at 10x (primary only) | $14.23 |
-| Proved developed producing PV-10 less debt | $2.46 |
+## Final verdict: reduce at $11.39
 
-Treat the result as conditional, because maintenance capex and the long-run oil price are estimates, and the oil sensitivity used here is approximate.
+HighPeak has low costs, a possible way out of expensive debt and real oil leverage. But at $11.39 you pay 43.7% more than my Base value, for a stock whose common cash sits behind a $450 million preferred claim, whose reserves have been shrinking and whose financing has not closed. The price needs oil near $95 for the long run.
 
-## Final verdict: hold at $7.88, watchlist for new money
+**Verdict: REDUCE at $11.39, watchlist for new money. Triangulated Base value $7.93, downside 30.4%, Confidence D (10/25), required margin of safety 50%, maximum buy price $3.96.**
 
-HighPeak trades below estimated fair value, but the discount does not fully compensate for oil price risk, leverage and model uncertainty.
+For holders this means reducing, not panicking: the Bull case at $16.54 is real and I show what it needs. For new money it means waiting for a far lower price or a closed financing with a new reserve report and cash that covers the drilling.
 
-**Verdict: HOLD at $7.88, WATCHLIST for new money. Triangulated Base value $9.61, upside 22.0%, Confidence C (16/25). Required margin of safety 45%, maximum buy price $5.29.**
+## Analysis history
 
-For an existing holder, the discount to Base and possible strategic interest support holding. New money waits for $5.29 or below with the thesis intact, or for proof of sustained debt reduction at mid-cycle oil prices.
+| Date | Price | Verdict | Base value | Max buy |
+| --- | --- | --- | --- | --- |
+| October 20, 2026 (this analysis) | $11.39 | Reduce | $7.93 | $3.96 |
+| [September 24, 2026](https://stockanalyza.com/analysis/hpk/2026-09-24/) | $7.88 | Hold | $9.61 | $5.29 |
 
-The main thesis breaker is a lasting low oil price that prevents debt reduction while reserve value declines.
+What changed: the stock rose 44.5%, and the Base value fell from $9.61 to $7.93 because this analysis adds the proposed $450 million preferred stock and the dividend-sharing options, and risks the reserve categories. The two valuations are built differently, so the values are not directly comparable.
 
 ## More analyses on Patreon
 
@@ -249,10 +312,10 @@ This analysis is free. Premium members get every in-depth analysis, the full arc
 
 ## Sources
 
-Primary sources include HighPeak's [Q2 2026 results](https://ir.highpeakenergy.com/news-releases/news-release-details/highpeak-energy-inc-announces-second-quarter-2026-financial-and) and the [Q2 2026 Form 8-K exhibit](https://www.sec.gov/Archives/edgar/data/1792849/000143774926026770/ex_1000791.htm), the [full-year 2025 results and 2026 guidance](https://ir.highpeakenergy.com/news-releases/news-release-details/highpeak-energy-inc-announces-fourth-quarter-and-year-end-2025), the [2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1792849/000143774926007770/hpe20251231_10k.htm) for reserves and PV-10, the [Q2 2026 earnings call](https://www.fool.com/earnings/call-transcripts/2026/08/17/highpeak-energy-hpk-q2-2026-earnings-call-transcript/) and [Reuters on the potential sale](https://www.reuters.com/business/energy/us-shale-oil-producer-highpeak-energy-exploring-sale-sources-say-2026-09-17/). The oil price comes from [Trading Economics](https://tradingeconomics.com/commodity/crude-oil), and share count cross-checks from a [third-party market data aggregator](https://stockanalysis.com/stocks/hpk/statistics/).
+Primary sources include HighPeak Energy's [second quarter 2026 quarterly report on Form 10-Q](https://www.sec.gov/Archives/edgar/data/1792849/000143774926026781/hpe20260630_10q.htm), the [second quarter results release](https://ir.highpeakenergy.com/news-releases/news-release-details/highpeak-energy-inc-announces-second-quarter-2026-financial-and) of August 10, 2026, the [refinancing announcement](https://ir.highpeakenergy.com/news-releases/news-release-details/highpeak-energy-announces-comprehensive-refinancing) of October 6, 2026 and its [Form 8-K](https://www.sec.gov/Archives/edgar/data/1792849/000143774926032094/hpe20261005c_8k.htm), and the [fourth quarter and 2025 results release with 2026 guidance](https://ir.highpeakenergy.com/news-releases/news-release-details/highpeak-energy-inc-announces-fourth-quarter-and-year-end-2025). The reserve report data are from the company's 2025 annual filing, and the oil price path is from the U.S. Energy Information Administration's [Short-Term Energy Outlook](https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf) for October 2026. Peer figures come from the second quarter earnings releases of Permian Resources, Matador and Diamondback.
 
-The reference market price is $7.88, the September 23, 2026 close. Balance sheet figures are as of June 30, 2026, reserves as of December 31, 2025.
+The reference market price is $11.39, the last trade at 5:42 pm New York time on October 19, 2026 (after hours), confirmed by an XTB screen on October 20. Values per share use 126.45 million common shares for the asset methods and 139.16 million dividend-sharing shares for cash per share. October cash, the bank draw, sustaining capital, multiples and the 2027 to 2031 paths are analytical estimates, not company guidance.
 
-**Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. HighPeak is exposed to oil and gas prices, leverage, drilling and reserve risks, and its equity could lose most of its value in an adverse scenario. Investors can lose part or all of their invested capital.
+**Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. HighPeak Energy is exposed to oil and gas prices, reserve depletion, a financing that has not closed, senior preferred claims and dilution. Investors can lose part or all of their invested capital.
 
-Method: Master Investment Analysis Framework v3.1. Approach: Normalized owner earnings with PV-10 cross-check. Confidence: C/16. Data checks: passed with warnings.
+Method: Master Investment Analysis Framework v3.4. Approach: risked proved reserve value cross-checked with normalized EBITDAX. Confidence: D/10. Data checks: passed with warnings. Open data gaps: closing of the financing, an updated reserve report, maintenance capital, and the final bank pricing.
