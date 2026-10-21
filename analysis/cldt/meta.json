@@ -1,0 +1,20 @@
+{
+  "ticker": "CLDT",
+  "slug": "cldt",
+  "name": "Chatham Lodging Trust (CLDT)",
+  "company": "Chatham Lodging Trust",
+  "companyShort": "Chatham Lodging",
+  "date": "2026-10-21",
+  "order": 96,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $14.18",
+  "price": "$14.18",
+  "base": "$10.07",
+  "upside": "-29.0",
+  "upsideText": "-29.0%",
+  "maxBuy": "$6.04",
+  "teaser": "At $14.18 the shares trade 40.8% above my Base value of $10.07, a downside of 29.0%. The business is improving: second quarter adjusted FFO rose 22% to $0.48 a share and July and August room revenue per available room grew 10% and 8%. But after the money that has to go back into the hotels every year, the owner cash behind the shares is $0.64 a claim, so the price is 22 times it, not the 11 times the headline suggests. To justify $14.18 the hotels would have to earn about 29% more than my already generous first year, or about 42% more than the company guides. Confidence is C and the required margin of safety is 40%, which gives a maximum buy price of $6.04. Reduce for holders, watchlist for new money. Third quarter results are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $3.18, base $10.07, bull $18.37, current price $14.18, buy zone at or below $6.04\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"3.18\" data-to=\"18.37\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"6.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.18\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.07\"></span>\n        <span class=\"ruler-tick\" data-value=\"18.37\"></span>\n        <span class=\"ruler-price\" data-value=\"14.18\"><span>Price $14.18</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"3.18\">Bear<b>$3.18</b></span>\n        <span data-value=\"10.07\">Base<b>$10.07</b></span>\n        <span data-value=\"18.37\">Bull<b>$18.37</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $6.04.</figcaption>\n    </figure>",
+  "llms": "Hotel REIT valuation: Reduce at $14.18, Base $10.07, maximum buy price $6.04, Confidence C."
+}
