@@ -1,0 +1,20 @@
+{
+  "ticker": "CION",
+  "slug": "cion",
+  "name": "CION Investment (CION)",
+  "company": "CION Investment Corporation",
+  "companyShort": "CION Investment",
+  "date": "2026-10-21",
+  "order": 95,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $6.36",
+  "price": "$6.36",
+  "base": "$7.01",
+  "upside": "10.3",
+  "upsideText": "+10.3%",
+  "maxBuy": "None",
+  "teaser": "At $6.36 the shares trade 9.3% below my Base value of $7.01, an upside of 10.3%, but that Base is a blend of two methods that disagree by 60%. The earnings method gives $5.99, below the price. The asset method gives $11.12, and the shares trade at 0.47 times reported net asset value, a 53% discount. CION pays $1.20 a year, an 18.9% yield, but in the second quarter net investment income covered 95.5% of the distribution and 24.7% of total income was paid in kind, not in cash. Confidence is D and the required margin of safety is 50%, which gives an indicative cap of $3.51 and no buy zone. Hold for holders, watchlist for new money. Third quarter results on November 5 are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $3.50, base $7.01, bull $9.69, current price $6.36, no buy zone\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"3.50\" data-to=\"9.69\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.01\"></span>\n        <span class=\"ruler-tick\" data-value=\"9.69\"></span>\n        <span class=\"ruler-price\" data-value=\"6.36\"><span>Price $6.36</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"3.50\">Bear<b>$3.50</b></span>\n        <span data-value=\"7.01\">Base<b>$7.01</b></span>\n        <span data-value=\"9.69\">Bull<b>$9.69</b></span>\n      </div>\n      <figcaption>No buy zone. The indicative cap of $3.51 is arithmetic, not an order level.</figcaption>\n    </figure>",
+  "llms": "Externally managed business development company lending to middle-market companies, valued on economic income, distributions and a justified price to net asset value with a stressed realizable NAV cross-check; the two methods differ by 60 percent and a quarter of income is paid in kind. Bear 3.50, Base 7.01, Bull 9.69. Verdict HOLD at 6.36 (watchlist, no buy zone)."
+}
