@@ -1,0 +1,20 @@
+{
+  "ticker": "HG",
+  "slug": "hg",
+  "name": "Hamilton Insurance (HG)",
+  "company": "Hamilton Insurance Group, Ltd.",
+  "companyShort": "Hamilton Insurance",
+  "date": "2026-10-21",
+  "order": 92,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $36.51",
+  "price": "$36.51",
+  "base": "$40.81",
+  "upside": "11.8",
+  "upsideText": "+11.8%",
+  "maxBuy": "$24.48",
+  "teaser": "At $36.51 the shares trade 10.5% below my Base value of $40.81, an upside of 11.8%. Hamilton has built a better underwriting business, with a combined ratio of 92.5% in the first half, but less than a third of its profit in my Base case comes from underwriting. The rest depends on a bond portfolio and a Two Sigma fund, and on reserves for casualty claims that will take years to settle. Confidence is C and the required margin of safety is 40%, which puts the maximum buy price at $24.48. Hold for holders, watchlist for new money. Third quarter results on October 29 are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $22.86, base $40.81, bull $58.52, current price $36.51, buy zone at or below $24.48\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"22.86\" data-to=\"58.52\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"24.48\"></span>\n        <span class=\"ruler-tick\" data-value=\"22.86\"></span>\n        <span class=\"ruler-tick\" data-value=\"40.81\"></span>\n        <span class=\"ruler-tick\" data-value=\"58.52\"></span>\n        <span class=\"ruler-price\" data-value=\"36.51\"><span>Price $36.51</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"22.86\">Bear<b>$22.86</b></span>\n        <span data-value=\"40.81\">Base<b>$40.81</b></span>\n        <span data-value=\"58.52\">Bull<b>$58.52</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $24.48.</figcaption>\n    </figure>",
+  "llms": "Bermuda based specialty insurer and reinsurer, valued on price to book with a five-year fade of return on equity, cross-checked with normalized earnings and a tangible net asset test; the return depends heavily on a Two Sigma fund and casualty reserves. Bear 22.86, Base 40.81, Bull 58.52. Verdict HOLD at 36.51 (watchlist for new money), maximum buy price 24.48."
+}
