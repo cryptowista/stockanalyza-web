@@ -1,0 +1,20 @@
+{
+  "ticker": "ALIT",
+  "slug": "alit",
+  "name": "Alight (ALIT)",
+  "company": "Alight, Inc.",
+  "companyShort": "Alight",
+  "date": "2026-10-21",
+  "order": 93,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $8.60",
+  "price": "$8.60",
+  "base": "$10.75",
+  "upside": "25.0",
+  "upsideText": "+25.0%",
+  "maxBuy": "None",
+  "teaser": "At $8.60 the shares trade 20.0% below my conditional Base value of $10.75, an upside of 25.0%. The discount is thin because Alight owes about $2.0 billion to banks and $463 million under a tax receivable agreement against a market value of $246 million, so a small change in the business moves the shares a lot. The company reported $101 million of free cash flow in the first half, but after the tax payments it also made, the cash left for shareholders was minus $55 million. Refinancing of the 2028 debt was not agreed as of October 14, and the price and funding of the Abett acquisition are not disclosed. Confidence is D and the required margin of safety is 50%, which gives an indicative cap of $5.37 and no buy zone. Hold for holders, watchlist for new money. Third quarter results on November 3 are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Conditional valuation range: bear $0.00, base $10.75, bull $44.61, current price $8.60, no buy zone\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0\" data-to=\"44.61\"></span>\n        <span class=\"ruler-tick\" data-value=\"0\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.75\"></span>\n        <span class=\"ruler-tick\" data-value=\"44.61\"></span>\n        <span class=\"ruler-price\" data-value=\"8.60\"><span>Price $8.60</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0\">Bear<b>$0.00</b></span>\n        <span data-value=\"10.75\">Base<b>$10.75</b></span>\n        <span data-value=\"44.61\">Bull<b>$44.61</b></span>\n      </div>\n      <figcaption>No buy zone. The indicative cap of $5.37 is arithmetic, not an order level.</figcaption>\n    </figure>",
+  "llms": "Leveraged benefits administration company, valued on owner cash after interest, investment, compensation and tax receivable payments with an enterprise value cross-check; conditional on the pre-Abett business, refinancing of about 2.0 billion dollars of debt is unresolved. Bear 0.00, Base 10.75, Bull 44.61. Verdict HOLD at 8.60 (watchlist, no buy zone)."
+}
