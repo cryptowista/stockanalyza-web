@@ -1,0 +1,20 @@
+{
+  "ticker": "IGIC",
+  "slug": "igic",
+  "name": "International General Insurance (IGIC)",
+  "company": "International General Insurance Holdings Ltd.",
+  "companyShort": "International General Insurance",
+  "date": "2026-10-21",
+  "order": 94,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $24.81",
+  "price": "$24.81",
+  "base": "$22.59",
+  "upside": "-9.0",
+  "upsideText": "-9.0%",
+  "maxBuy": "$13.55",
+  "teaser": "At $24.81 the shares trade 9.8% above my Base value of $22.59, a downside of 9.0%. International General Insurance (IGI) is a good specialty underwriter with no financial debt, but the price already assumes a return on equity of about 15.4% in the long run, against the 14.0% in my Base. The first half combined ratio of 92.2% hides a second quarter of 95.1%, and the half depends on $30.6 million of favorable reserve development that arrived in the first quarter. Confidence is C and the required margin of safety is 40%, which puts the maximum buy price at $13.55. Hold for holders, watchlist for new money. Third quarter results on November 3 are not in this analysis.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $12.04, base $22.59, bull $32.33, current price $24.81, buy zone at or below $13.55\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"12.04\" data-to=\"32.33\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"13.55\"></span>\n        <span class=\"ruler-tick\" data-value=\"12.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"22.59\"></span>\n        <span class=\"ruler-tick\" data-value=\"32.33\"></span>\n        <span class=\"ruler-price\" data-value=\"24.81\"><span>Price $24.81</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"12.04\">Bear<b>$12.04</b></span>\n        <span data-value=\"22.59\">Base<b>$22.59</b></span>\n        <span data-value=\"32.33\">Bull<b>$32.33</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $13.55.</figcaption>\n    </figure>",
+  "llms": "Bermuda based specialty insurer and reinsurer, valued on a price to book model with a return on equity transition, cross-checked with normalized earnings and a reserve stressed net asset test; the first half combined ratio of 92.2% leans on first quarter reserve releases. Bear 12.04, Base 22.59, Bull 32.33. Verdict HOLD at 24.81 (watchlist for new money), maximum buy price 13.55."
+}
