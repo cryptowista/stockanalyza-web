@@ -1,0 +1,20 @@
+{
+  "ticker": "GLOB",
+  "slug": "glob",
+  "name": "Globant (GLOB)",
+  "company": "Globant S.A.",
+  "companyShort": "Globant",
+  "date": "2026-10-21",
+  "order": 97,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $41.65",
+  "price": "$41.65",
+  "base": "$36.73",
+  "upside": "-11.8",
+  "upsideText": "-11.8%",
+  "maxBuy": "$20.20",
+  "teaser": "Globant trades at 7.0 times guided adjusted earnings, but owner cash after stock compensation, leases and interest is about $125 million a year, and the price already asks for more.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $16.20, base $36.73, bull $58.49, current price $41.65, buy zone at or below $20.20\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"16.20\" data-to=\"58.49\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"20.20\"></span>\n        <span class=\"ruler-tick\" data-value=\"16.20\"></span>\n        <span class=\"ruler-tick\" data-value=\"36.73\"></span>\n        <span class=\"ruler-tick\" data-value=\"58.49\"></span>\n        <span class=\"ruler-price\" data-value=\"41.65\"><span>Price $41.65</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"16.20\">Bear<b>$16.20</b></span>\n        <span data-value=\"36.73\">Base<b>$36.73</b></span>\n        <span data-value=\"58.49\">Bull<b>$58.49</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $20.20.</figcaption>\n    </figure>",
+  "llms": "Globant is a Luxembourg based IT services and digital engineering group, valued here on the cash that reaches parent shareholders after investment, stock compensation, leases, interest and minority holders. Bear $16.20, Base $36.73, Bull $58.49. Verdict Hold at $41.65, maximum buy price $20.20."
+}
