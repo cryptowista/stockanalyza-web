@@ -1,0 +1,20 @@
+{
+  "ticker": "ZTS",
+  "slug": "zts",
+  "name": "Zoetis (ZTS)",
+  "company": "Zoetis Inc.",
+  "companyShort": "Zoetis",
+  "date": "2026-10-22",
+  "order": 100,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $81.98",
+  "price": "$81.98",
+  "base": "$94.58",
+  "upside": "15.4",
+  "upsideText": "+15.4%",
+  "maxBuy": "$61.48",
+  "teaser": "Zoetis spent $1.19 billion on buybacks in the first half against $829 million of free cash flow. Hold at $81.98.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $56.42, base $94.58, bull $141.56, current price $81.98, buy zone at or below $61.48\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"56.42\" data-to=\"141.56\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"61.48\"></span>\n        <span class=\"ruler-tick\" data-value=\"56.42\"></span>\n        <span class=\"ruler-tick\" data-value=\"94.58\"></span>\n        <span class=\"ruler-tick\" data-value=\"141.56\"></span>\n        <span class=\"ruler-price\" data-value=\"81.98\"><span>Price $81.98</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"56.42\">Bear<b>$56.42</b></span>\n        <span data-value=\"94.58\">Base<b>$94.58</b></span>\n        <span data-value=\"141.56\">Bull<b>$141.56</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $61.48.</figcaption>\n    </figure>",
+  "llms": "Zoetis (ZTS) valuation: hold at $81.98, Base $94.58, Bear $56.42, Bull $141.56, maximum buy price $61.48, Confidence C (17/25)."
+}
