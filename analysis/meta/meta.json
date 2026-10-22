@@ -1,0 +1,20 @@
+{
+  "ticker": "META",
+  "slug": "meta",
+  "name": "Meta Platforms (META)",
+  "company": "Meta Platforms, Inc.",
+  "companyShort": "Meta",
+  "date": "2026-10-22",
+  "order": 98,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $697.52",
+  "price": "$697.52",
+  "base": "$541.26",
+  "upside": "-22.4",
+  "upsideText": "-22.4%",
+  "maxBuy": "$324.75",
+  "teaser": "Ads grow 26%, but free cash flow was negative $2.1 billion after $34.9 billion of capital spending. Hold at $697.52.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $177.18, base $541.26, bull $1,023.37, current price $697.52, buy zone at or below $324.75\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"177.18\" data-to=\"1023.37\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"324.75\"></span>\n        <span class=\"ruler-tick\" data-value=\"177.18\"></span>\n        <span class=\"ruler-tick\" data-value=\"541.26\"></span>\n        <span class=\"ruler-tick\" data-value=\"1023.37\"></span>\n        <span class=\"ruler-price\" data-value=\"697.52\"><span>Price $697.52</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"177.18\">Bear<b>$177.18</b></span>\n        <span data-value=\"541.26\">Base<b>$541.26</b></span>\n        <span data-value=\"1023.37\">Bull<b>$1,023.37</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $324.75.</figcaption>\n    </figure>",
+  "llms": "Meta Platforms (META) valuation: hold at $697.52, Base $541.26, maximum buy price $324.75, Confidence C (13/25)."
+}
