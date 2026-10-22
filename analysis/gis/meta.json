@@ -1,0 +1,20 @@
+{
+  "ticker": "GIS",
+  "slug": "gis",
+  "name": "General Mills (GIS)",
+  "company": "General Mills, Inc.",
+  "companyShort": "General Mills",
+  "date": "2026-10-22",
+  "order": 99,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $32.57",
+  "price": "$32.57",
+  "base": "$34",
+  "upside": "4.4",
+  "upsideText": "+4.4%",
+  "maxBuy": "$20.40",
+  "teaser": "A 7.5% yield from falling cash: $1.82 billion paid out against $1.63 billion of free cash flow. Hold at $32.57.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $23, base $34, bull $44, current price $32.57, buy zone at or below $20.40\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"23\" data-to=\"44\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"20.40\"></span>\n        <span class=\"ruler-tick\" data-value=\"23\"></span>\n        <span class=\"ruler-tick\" data-value=\"34\"></span>\n        <span class=\"ruler-tick\" data-value=\"44\"></span>\n        <span class=\"ruler-price\" data-value=\"32.57\"><span>Price $32.57</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"23\">Bear<b>$23</b></span>\n        <span data-value=\"34\">Base<b>$34</b></span>\n        <span data-value=\"44\">Bull<b>$44</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $20.40.</figcaption>\n    </figure>",
+  "llms": "General Mills (GIS) valuation: hold at $32.57, Base $34, maximum buy price $20.40, Confidence C (14/25)."
+}
