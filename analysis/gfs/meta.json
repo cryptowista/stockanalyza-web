@@ -1,0 +1,20 @@
+{
+  "ticker": "GFS",
+  "slug": "gfs",
+  "name": "GlobalFoundries (GFS)",
+  "company": "GlobalFoundries",
+  "companyShort": "GlobalFoundries",
+  "date": "2026-10-23",
+  "order": 111,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $43.37",
+  "price": "$43.37",
+  "base": "$31.59",
+  "upside": "-27.2",
+  "upsideText": "-27.2%",
+  "maxBuy": "$17.37",
+  "teaser": "Hold at $43.37. Net cash and positive free cash flow, but the shares trade 37% above the Base value of $31.59 and only the Bull case clears the price. Maximum buy price $17.37.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $17.31, base $31.59, bull $53.68, current price $43.37, buy zone at or below $17.37\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"17.31\" data-to=\"53.68\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"17.37\"></span>\n        <span class=\"ruler-tick\" data-value=\"17.31\"></span>\n        <span class=\"ruler-tick\" data-value=\"31.59\"></span>\n        <span class=\"ruler-tick\" data-value=\"53.68\"></span>\n        <span class=\"ruler-price\" data-value=\"43.37\"><span>Price $43.37</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"17.31\">Bear<b>$17.31</b></span>\n        <span data-value=\"31.59\">Base<b>$31.59</b></span>\n        <span data-value=\"53.68\">Bull<b>$53.68</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $17.37.</figcaption>\n    </figure>",
+  "llms": "GlobalFoundries (GFS) valuation at $43.37: Bear $17.31, Base $31.59, Bull $53.68. Hold, do not add. Maximum buy price $17.37, margin of safety 45%, confidence C."
+}
