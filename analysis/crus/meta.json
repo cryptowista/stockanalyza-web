@@ -1,0 +1,20 @@
+{
+  "ticker": "CRUS",
+  "slug": "crus",
+  "name": "Cirrus Logic (CRUS)",
+  "company": "Cirrus Logic, Inc.",
+  "companyShort": "Cirrus Logic",
+  "date": "2026-10-23",
+  "order": 103,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $110.49",
+  "price": "$110.49",
+  "base": "$98.97",
+  "upside": "-10.4",
+  "upsideText": "-10.4%",
+  "maxBuy": "$54.43",
+  "teaser": "About 91% of Cirrus Logic's sales come from Apple and next quarter's guide is below last year's. Hold at $110.49.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $54.90, base $98.97, bull $137.09, current price $110.49, buy zone at or below $54.43\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"54.90\" data-to=\"137.09\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"54.43\"></span>\n        <span class=\"ruler-tick\" data-value=\"54.90\"></span>\n        <span class=\"ruler-tick\" data-value=\"98.97\"></span>\n        <span class=\"ruler-tick\" data-value=\"137.09\"></span>\n        <span class=\"ruler-price\" data-value=\"110.49\"><span>Price $110.49</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"54.90\">Bear<b>$54.90</b></span>\n        <span data-value=\"98.97\">Base<b>$98.97</b></span>\n        <span data-value=\"137.09\">Bull<b>$137.09</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $54.43.</figcaption>\n    </figure>",
+  "llms": "Cirrus Logic (CRUS) valuation: hold at $110.49, Base $98.97, Bear $54.90, Bull $137.09, maximum buy price $54.43, Confidence C (14/25). About 91% of sales come from Apple."
+}
