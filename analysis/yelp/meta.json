@@ -1,0 +1,20 @@
+{
+  "ticker": "YELP",
+  "slug": "yelp",
+  "name": "Yelp (YELP)",
+  "company": "Yelp Inc.",
+  "companyShort": "Yelp",
+  "date": "2026-10-23",
+  "order": 105,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $20.70",
+  "price": "$20.70",
+  "base": "$21.54",
+  "upside": "4.1",
+  "upsideText": "+4.1%",
+  "maxBuy": "$11.85",
+  "teaser": "Yelp's $179.4 million of owner cash shrinks to $107.9 million once taxes and a strong half-year drop out. Hold at $20.70.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $10.31, base $21.54, bull $33.91, current price $20.70, buy zone at or below $11.85\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"10.31\" data-to=\"33.91\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"11.85\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.31\"></span>\n        <span class=\"ruler-tick\" data-value=\"21.54\"></span>\n        <span class=\"ruler-tick\" data-value=\"33.91\"></span>\n        <span class=\"ruler-price\" data-value=\"20.70\"><span>Price $20.70</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"10.31\">Bear<b>$10.31</b></span>\n        <span data-value=\"21.54\">Base<b>$21.54</b></span>\n        <span data-value=\"33.91\">Bull<b>$33.91</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $11.85.</figcaption>\n    </figure>",
+  "llms": "Yelp (YELP) valuation: hold at $20.70, Base $21.54, Bear $10.31, Bull $33.91, maximum buy price $11.85, Confidence C (14/25). Last-twelve-month owner cash of $179.4 million normalizes to $107.9 million."
+}
