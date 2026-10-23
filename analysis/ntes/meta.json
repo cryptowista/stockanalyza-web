@@ -1,0 +1,20 @@
+{
+  "ticker": "NTES",
+  "slug": "ntes",
+  "name": "NetEase (NTES)",
+  "company": "NetEase, Inc.",
+  "companyShort": "NetEase",
+  "date": "2026-10-23",
+  "order": 102,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $118.67",
+  "price": "$118.67",
+  "base": "$125.28",
+  "upside": "5.6",
+  "upsideText": "+5.6%",
+  "maxBuy": "$75.17",
+  "teaser": "NetEase's net cash covers about 30% of the price, yet the games are valued at about 10 times cash flow. Hold at $118.67.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $74.55, base $125.28, bull $180.53, current price $118.67, buy zone at or below $75.17\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"74.55\" data-to=\"180.53\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"75.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"74.55\"></span>\n        <span class=\"ruler-tick\" data-value=\"125.28\"></span>\n        <span class=\"ruler-tick\" data-value=\"180.53\"></span>\n        <span class=\"ruler-price\" data-value=\"118.67\"><span>Price $118.67</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"74.55\">Bear<b>$74.55</b></span>\n        <span data-value=\"125.28\">Base<b>$125.28</b></span>\n        <span data-value=\"180.53\">Bull<b>$180.53</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $75.17.</figcaption>\n    </figure>",
+  "llms": "NetEase (NTES) valuation: hold at $118.67, Base $125.28, Bear $74.55, Bull $180.53, maximum buy price $75.17, Confidence C (15/25). Net cash is about 30% of the price."
+}
