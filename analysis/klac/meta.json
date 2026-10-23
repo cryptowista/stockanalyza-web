@@ -1,0 +1,20 @@
+{
+  "ticker": "KLAC",
+  "slug": "klac",
+  "name": "KLA (KLAC)",
+  "company": "KLA Corporation",
+  "companyShort": "KLA",
+  "date": "2026-10-23",
+  "order": 106,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $147.83",
+  "price": "$147.83",
+  "base": "$85.68",
+  "upside": "-42.0",
+  "upsideText": "-42.0%",
+  "maxBuy": "$51.41",
+  "teaser": "KLA is a great franchise, but $147.83 needs 25.5% revenue growth a year for five years. Reduce, Base $85.68.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $42.48, base $85.68, bull $173.94, current price $147.83, buy zone at or below $51.41\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"42.48\" data-to=\"173.94\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"51.41\"></span>\n        <span class=\"ruler-tick\" data-value=\"42.48\"></span>\n        <span class=\"ruler-tick\" data-value=\"85.68\"></span>\n        <span class=\"ruler-tick\" data-value=\"173.94\"></span>\n        <span class=\"ruler-price\" data-value=\"147.83\"><span>Price $147.83</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"42.48\">Bear<b>$42.48</b></span>\n        <span data-value=\"85.68\">Base<b>$85.68</b></span>\n        <span data-value=\"173.94\">Bull<b>$173.94</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $51.41.</figcaption>\n    </figure>",
+  "llms": "KLA (KLAC) valuation: reduce at $147.83, Base $85.68, Bear $42.48, Bull $173.94, maximum buy price $51.41, Confidence C (13/25). The price implies 25.5% annual revenue growth for five years, against 14.3% in the Base."
+}
