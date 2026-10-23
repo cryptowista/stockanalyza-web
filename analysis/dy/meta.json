@@ -1,0 +1,20 @@
+{
+  "ticker": "DY",
+  "slug": "dy",
+  "name": "Dycom Industries (DY)",
+  "company": "Dycom Industries",
+  "companyShort": "Dycom",
+  "date": "2026-10-23",
+  "order": 108,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $225.16",
+  "price": "$225.16",
+  "base": "$194.45",
+  "upside": "-13.6",
+  "upsideText": "-13.6%",
+  "maxBuy": "$116.67",
+  "teaser": "Do not add. Dycom has a record backlog and the shares are 60% below their high, but the price is still 15.8% above the Base value, and free cash flow in the first half was negative. The buy zone starts at $116.67.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $91.20, base $194.45, bull $357.38, current price $225.16, buy zone at or below $116.67\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"91.20\" data-to=\"357.38\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"116.67\"></span>\n        <span class=\"ruler-tick\" data-value=\"91.20\"></span>\n        <span class=\"ruler-tick\" data-value=\"194.45\"></span>\n        <span class=\"ruler-tick\" data-value=\"357.38\"></span>\n        <span class=\"ruler-price\" data-value=\"225.16\"><span>Price $225.16</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"91.20\">Bear<b>$91.20</b></span>\n        <span data-value=\"194.45\">Base<b>$194.45</b></span>\n        <span data-value=\"357.38\">Bull<b>$357.38</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $116.67.</figcaption>\n    </figure>",
+  "llms": "Telecommunications and digital infrastructure contractor valued on mid-cycle EV to EBITDA and a ten-year cash flow model at equal weight; the price implies about 9.8% revenue growth a year for five years. Bear $91.20, Base $194.45, Bull $357.38. Verdict HOLD at $225.16 (do not add), maximum buy price $116.67."
+}
