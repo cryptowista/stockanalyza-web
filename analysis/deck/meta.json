@@ -1,0 +1,20 @@
+{
+  "ticker": "DECK",
+  "slug": "deck",
+  "name": "Deckers (DECK)",
+  "company": "Deckers Outdoor Corporation",
+  "companyShort": "Deckers",
+  "date": "2026-10-23",
+  "order": 101,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $85.28",
+  "price": "$85.28",
+  "base": "$98.28",
+  "upside": "15.2",
+  "upsideText": "+15.2%",
+  "maxBuy": "$63.88",
+  "teaser": "Deckers raised its profit outlook, but $0.52 a share of it is a one-off tariff refund. Hold at $85.28.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $65.13, base $98.28, bull $124.51, current price $85.28, buy zone at or below $63.88\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"65.13\" data-to=\"124.51\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"63.88\"></span>\n        <span class=\"ruler-tick\" data-value=\"65.13\"></span>\n        <span class=\"ruler-tick\" data-value=\"98.28\"></span>\n        <span class=\"ruler-tick\" data-value=\"124.51\"></span>\n        <span class=\"ruler-price\" data-value=\"85.28\"><span>Price $85.28</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"65.13\">Bear<b>$65.13</b></span>\n        <span data-value=\"98.28\">Base<b>$98.28</b></span>\n        <span data-value=\"124.51\">Bull<b>$124.51</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $63.88.</figcaption>\n    </figure>",
+  "llms": "Deckers (DECK) valuation: hold at $85.28, Base $98.28, Bear $65.13, Bull $124.51, maximum buy price $63.88, Confidence C (15/25). Owner of HOKA and UGG; about $0.52 of the raised earnings guide is a one-off tariff refund."
+}
