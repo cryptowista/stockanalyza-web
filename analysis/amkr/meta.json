@@ -1,0 +1,20 @@
+{
+  "ticker": "AMKR",
+  "slug": "amkr",
+  "name": "Amkor Technology (AMKR)",
+  "company": "Amkor Technology",
+  "companyShort": "Amkor",
+  "date": "2026-10-23",
+  "order": 110,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $39.05",
+  "price": "$39.05",
+  "base": "$31.66",
+  "upside": "-18.9",
+  "upsideText": "-18.9%",
+  "maxBuy": "$15.83",
+  "teaser": "Hold at $39.05. The shares trade 23% above the Base value of $31.66 and the two valuation methods disagree sharply. Maximum buy price $15.83.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $15.23, base $31.66, bull $66.98, current price $39.05, buy zone at or below $15.83\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"15.23\" data-to=\"66.98\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"15.83\"></span>\n        <span class=\"ruler-tick\" data-value=\"15.23\"></span>\n        <span class=\"ruler-tick\" data-value=\"31.66\"></span>\n        <span class=\"ruler-tick\" data-value=\"66.98\"></span>\n        <span class=\"ruler-price\" data-value=\"39.05\"><span>Price $39.05</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"15.23\">Bear<b>$15.23</b></span>\n        <span data-value=\"31.66\">Base<b>$31.66</b></span>\n        <span data-value=\"66.98\">Bull<b>$66.98</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $15.83.</figcaption>\n    </figure>",
+  "llms": "Amkor (AMKR) valuation at $39.05: Bear $15.23, Base $31.66, Bull $66.98. Hold, do not add. Maximum buy price $15.83, margin of safety 50%, confidence C."
+}
