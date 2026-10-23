@@ -1,0 +1,20 @@
+{
+  "ticker": "NRDS",
+  "slug": "nrds",
+  "name": "NerdWallet (NRDS)",
+  "company": "NerdWallet, Inc.",
+  "companyShort": "NerdWallet",
+  "date": "2026-10-23",
+  "order": 104,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $10.91",
+  "price": "$10.91",
+  "base": "$11.63",
+  "upside": "6.6",
+  "upsideText": "+6.6%",
+  "maxBuy": "$6.40",
+  "teaser": "NerdWallet's $119.6 million of owner cash shrinks to $62.0 million once taxes return. Hold at $10.91.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $5.95, base $11.63, bull $19.52, current price $10.91, buy zone at or below $6.40\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"5.95\" data-to=\"19.52\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"6.40\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.95\"></span>\n        <span class=\"ruler-tick\" data-value=\"11.63\"></span>\n        <span class=\"ruler-tick\" data-value=\"19.52\"></span>\n        <span class=\"ruler-price\" data-value=\"10.91\"><span>Price $10.91</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"5.95\">Bear<b>$5.95</b></span>\n        <span data-value=\"11.63\">Base<b>$11.63</b></span>\n        <span data-value=\"19.52\">Bull<b>$19.52</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $6.40.</figcaption>\n    </figure>",
+  "llms": "NerdWallet (NRDS) valuation: hold at $10.91, Base $11.63, Bear $5.95, Bull $19.52, maximum buy price $6.40, Confidence C (14/25). Last-twelve-month owner cash of $119.6 million normalizes to $62.0 million once taxes return."
+}
