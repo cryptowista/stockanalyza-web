@@ -1,0 +1,20 @@
+{
+  "ticker": "COHR",
+  "slug": "cohr",
+  "name": "Coherent Corp (COHR)",
+  "company": "Coherent",
+  "companyShort": "Coherent",
+  "date": "2026-10-23",
+  "order": 109,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $207.82",
+  "price": "$207.82",
+  "base": "$106.37",
+  "upside": "-48.8",
+  "upsideText": "-48.8%",
+  "maxBuy": "$58.50",
+  "teaser": "Reduce at $207.82. Orders are full through 2027 but free cash flow was negative $1 billion; even the Bull value of $203.10 is below the price. Maximum buy price $58.50.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $54.17, base $106.37, bull $203.10, current price $207.82, buy zone at or below $58.50\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"54.17\" data-to=\"203.10\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"58.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"54.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"106.37\"></span>\n        <span class=\"ruler-tick\" data-value=\"203.10\"></span>\n        <span class=\"ruler-price\" data-value=\"207.82\"><span>Price $207.82</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"54.17\">Bear<b>$54.17</b></span>\n        <span data-value=\"106.37\">Base<b>$106.37</b></span>\n        <span data-value=\"203.10\">Bull<b>$203.10</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $58.50.</figcaption>\n    </figure>",
+  "llms": "Coherent (COHR) valuation at $207.82: Bear $54.17, Base $106.37, Bull $203.10. Reduce. Maximum buy price $58.50, margin of safety 45%, confidence C."
+}
