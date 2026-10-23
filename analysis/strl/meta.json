@@ -1,0 +1,20 @@
+{
+  "ticker": "STRL",
+  "slug": "strl",
+  "name": "Sterling Infrastructure (STRL)",
+  "company": "Sterling Infrastructure",
+  "companyShort": "Sterling",
+  "date": "2026-10-23",
+  "order": 107,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $372.83",
+  "price": "$372.83",
+  "base": "$268.73",
+  "upside": "-27.9",
+  "upsideText": "-27.9%",
+  "maxBuy": "$161.24",
+  "teaser": "Do not add. Sterling is a fast-growing, high-return builder of data center and semiconductor sites, but the shares still trade 38.7% above the Base value after falling 63% from the high. The buy zone starts at $161.24.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $143.10, base $268.73, bull $497.05, current price $372.83, buy zone at or below $161.24\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"143.10\" data-to=\"497.05\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"161.24\"></span>\n        <span class=\"ruler-tick\" data-value=\"143.10\"></span>\n        <span class=\"ruler-tick\" data-value=\"268.73\"></span>\n        <span class=\"ruler-tick\" data-value=\"497.05\"></span>\n        <span class=\"ruler-price\" data-value=\"372.83\"><span>Price $372.83</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"143.10\">Bear<b>$143.10</b></span>\n        <span data-value=\"268.73\">Base<b>$268.73</b></span>\n        <span data-value=\"497.05\">Bull<b>$497.05</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $161.24.</figcaption>\n    </figure>",
+  "llms": "Data center, semiconductor and transportation site builder valued on mid-cycle EV to EBITDA and a ten-year cash flow model at equal weight; the price implies about 17% revenue growth a year for five years. Bear $143.10, Base $268.73, Bull $497.05. Verdict HOLD at $372.83 (do not add), maximum buy price $161.24."
+}
