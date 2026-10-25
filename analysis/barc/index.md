@@ -68,7 +68,7 @@ Profit grew by double digits, but the quarter missed. Hargreaves Lansdown put th
 
 ## What the 13.8% return is made of
 
-For a bank the measure that matters is profit on tangible equity after credit costs. The nine-month figure of 13.8% is higher than the third quarter's 11.7% for reasons that will not repeat in full. The US Consumer Bank's 19.9% for the nine months includes a gain on the sale of the AA stake; management expects that division to earn about 12% for the year without it, and the size of the gain is not in the sources I could read. Group impairments were £1,897 million in the nine months (up 9%, a loan loss rate of 55 basis points), and management puts the full year at the top of its 50 to 60 basis point range. It expects a loan loss rate of about 30 basis points in Barclays UK in the fourth quarter, against 20 in the third.
+For a bank the measure that matters is profit on tangible equity after credit costs. The nine-month figure of 13.8% is higher than the third quarter's 11.7% for reasons that will not repeat in full. The US Consumer Bank's 19.9% for the nine months includes a gain of about £225 million on the sale of the American Airlines co-branded card portfolio in April, which also released £3.6 billion of risk-weighted assets; management expects that division to earn about 12% for the year without it. I treat that gain as one-off and leave it out of my forward earnings. Group impairments were £1,897 million in the nine months (up 9%, a loan loss rate of 55 basis points), and management puts the full year at the top of its 50 to 60 basis point range. It expects a loan loss rate of about 30 basis points in Barclays UK in the fourth quarter, against 20 in the third. The sensitivity is large: every extra 50 basis points of loan losses on a book of about £480 billion costs roughly £2.4 billion before tax and about 13p of earnings per share after tax, or a quarter of a year's earnings, so the 57p of 2027 earnings I use is not a floor.
 
 The credit book looks stable on the one measure I could check: the total coverage ratio was 1.2%, unchanged. I could not find Stage 3 (defaulted) balances or a non-performing loan ratio, and that matters most in the US card book, where management expects a loss rate of about 550 basis points for the year. Charges in the first quarter included £228 million on a single Investment Bank exposure, which is covered below.
 
@@ -78,9 +78,9 @@ The common equity tier 1 (CET1) ratio was 14.2% at September 30, equal to £52.4
 
 There were 13,379 million shares at September 30, down 4.4% from 13,996 million a year earlier. Buybacks since 2023 total £5.8 billion and cut the share count by 12%. Tangible book value per share was 410p, which gives tangible equity of £54.9 billion (my arithmetic) and a market value of £54.5 billion at 407p. I did not find a diluted share count, so I use period-end shares and test a 1% dilution below.
 
-Tangible book per share is the number to watch. It was 357p at the end of 2024 and 409p at the end of 2025, then 423p at the end of June 2026 and 410p at the end of September. Earnings per share in the third quarter were 12.3p, so a 13p fall needs an explanation, and the interim dividend of 5.9p explains less than half of it. I could not find the full bridge. The usual cause for a UK bank in a year when the 10-year gilt yield rose by 0.93 points is a fall in the value of hedges and bonds that is recorded directly in equity, but that is my inference, not a disclosed figure. The valuation starts from the reported 410p.
+Tangible book per share is the number to watch. It was 357p at the end of 2024 and 409p at the end of 2025, then 423p at the end of June 2026 and 410p at the end of September. The year-to-date bridge is disclosed: earnings per share of 43.0p were offset by a 24p drag from the cash flow hedge reserve and a 15p net reduction from buybacks and dividends, which leaves about 413p against the reported 410p, so roughly 3p is unexplained. In other words, nine months of profit did not grow value per share, because falling hedge values and capital returns absorbed it. A hedge reserve move is a revaluation, not a new bad loan, and it can reverse when rates fall. It still counts against holders for now. The quarterly path (423p in June to 410p) is not bridged in the sources I read, so the link between the 13p fall and the hedge reserve is my inference. The valuation starts from the reported 410p.
 
-Capital returns are large. Distributions in 2026 are £2.8 billion so far (up 47%), with a planned dividend of £2.0 billion for the year and £2.5 billion of buybacks including the new £500 million. Together that is £4.5 billion, or 8.3% of the market value (my arithmetic).
+Capital returns are large. Distributions in 2026 are £2.8 billion so far (up 47%), with a planned dividend of £2.0 billion for the year and £2.5 billion of buybacks including the new £500 million. Together that is £4.5 billion, or 8.3% of the market value (my arithmetic). That is a payout measure, not an extra return on top of the valuation: the model already counts buybacks through a lower share count and lower capital, and a buyback at 407p to 440p, above the 410p tangible book, trims tangible book per share slightly instead of adding to it.
 
 ## Primary valuation: residual income
 
@@ -205,7 +205,7 @@ The dividend for 2025 was 8.6p a share, and the interim dividend for 2026 is 5.9
 - **Private credit swaps.** Reuters reported on October 19 that the Bank of England is examining whether traders misrepresented illiquid private credit loans to understate their risk, which affects capital treatment. The shares fell 2.7% that day. Management put the mark-to-market of the total return swaps at about £300 million and said the trading book treatment is unchanged under Basel 3.1. A capital add-on is the risk.
 - **The Investment Bank.** It earned 9.5% in the quarter and 13.5% over nine months, and income per unit of risk-weighted assets fell 20 basis points to 6.1%. Weak fixed income trading caused the quarter's miss, and leveraged finance marks cost £39 million.
 - **US cards and UK deposits.** US Consumer Bank losses run at about 550 basis points and costs rose 14% in the quarter. In the UK, competition for deposits, especially term deposits, raises funding costs and pressures the margin.
-- **Execution and capital rules.** Cost cuts of this size can slip, and Basel 3.1 adds £8 billion to £15 billion of risk-weighted assets. Tangible book value is also sensitive to rates, as its 13p fall in the third quarter shows.
+- **Execution and capital rules.** Cost cuts of this size can slip, and Basel 3.1 adds £8 billion to £15 billion of risk-weighted assets from January 2027, and about £11 billion more is expected in the second half of 2027 when the US Consumer Bank moves to an internal-model approach, so £19 billion to £26 billion in total. Tangible book value is also sensitive to rates, as the 24p hedge reserve drag so far this year shows.
 
 ## Management execution
 
@@ -250,7 +250,7 @@ A score of 5 is the first point of the quality growth band, one point above a st
 | Scenario dispersion | 3/5 |
 | Total | 14/25, grade C |
 
-Several inputs I wanted are not available (Stage 3 balances, a diluted share count, the third-quarter tangible book bridge, a peer table), which caps the grade at C.
+Several inputs I wanted are not available (Stage 3 balances, a diluted share count, the quarterly tangible book bridge, a peer table), which caps the grade at C.
 
 ## What I would watch from here
 
@@ -313,7 +313,7 @@ The strongest counter-argument is that Barclays is simply cheap. It earns 12% to
 | Most generous combination | 590p |
 | Most cautious combination | 365p |
 
-The most generous combination is the Bull operating path, a 10% cost of equity, a 13% terminal return and 8.5x on Bull earnings. The most cautious is the Base path with a 12% cost of equity, a 9.5% terminal return and 6.5x. Even the generous case gives a maximum buy price of 295p, below the price. I tested both directions of bias. My choices that lean cautious are the gilt-based cost of equity, a 2028 return below management's target and fourth-quarter impairments at 70 basis points; those that lean generous are using period-end instead of diluted shares and guidance-implied fourth-quarter income. Using management's targets raises the Base by 19p. The tangible book fall in the third quarter, which I could not explain, is the item I would most like to resolve before changing the verdict.
+The most generous combination is the Bull operating path, a 10% cost of equity, a 13% terminal return and 8.5x on Bull earnings. The most cautious is the Base path with a 12% cost of equity, a 9.5% terminal return and 6.5x. Even the generous case gives a maximum buy price of 295p, below the price. I tested both directions of bias. My choices that lean cautious are the gilt-based cost of equity, a 2028 return below management's target and fourth-quarter impairments at 70 basis points; those that lean generous are using period-end instead of diluted shares and guidance-implied fourth-quarter income. Using management's targets raises the Base by 19p. The 13p fall in tangible book in the third quarter, which the year-to-date bridge only partly explains, is the item I would most like to resolve before changing the verdict.
 
 ## Final verdict: hold at 407p, watchlist for new money
 
@@ -321,7 +321,7 @@ Barclays is a sound bank priced fairly. It earns more than its cost of equity, r
 
 **Verdict: HOLD at 407p, watchlist for new money. Triangulated Base value 450p, 10.6% above the price, Confidence C (14/25). Required margin of safety 50%, maximum buy price 225p.**
 
-For an existing holder, the returns and the capital return support holding. New money waits for 225p or below, or for evidence that returns stay above 12% while the tribunal, the MFS claim and the Bank of England review are decided.
+For an existing holder, what matters is the 407p the shares are worth today, not what they once cost, and at that price the returns and the capital return support holding. New money waits for 225p or below, or for evidence that returns stay above 12% while the tribunal, the MFS claim and the Bank of England review are decided.
 
 The main thesis breaker is a second large single-name loss while the loan loss rate rises. At 407p you are not paying for Barclays to be good; you are paying for it not to get worse, and that is exactly what three open cases make hard to promise.
 
@@ -339,4 +339,4 @@ The reference market price is 407.0p, the October 23, 2026 regular session close
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Barclays is exposed to credit losses, UK and US economic and interest rate conditions, investment banking volatility, litigation and regulatory outcomes, capital requirements and valuation risk. Investors can lose part or all of their invested capital.
 
-Method: Master Investment Analysis Framework v3.5. Approach: Ten-year residual income on tangible equity with a forward earnings cross-check. Confidence: C/14. Data checks: passed with warnings. Open data gaps: diluted share count, Stage 3 loans, the reason for the third-quarter fall in tangible book value, and a peer table.
+Method: Master Investment Analysis Framework v3.5. Approach: Ten-year residual income on tangible equity with a forward earnings cross-check. Confidence: C/14. Data checks: passed with warnings. Open data gaps: diluted share count, Stage 3 loans, the quarterly path of tangible book value, and a peer table.
