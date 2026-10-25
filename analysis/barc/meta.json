@@ -1,0 +1,20 @@
+{
+  "ticker": "BARC",
+  "slug": "barc",
+  "name": "Barclays PLC (BARC)",
+  "company": "Barclays PLC",
+  "companyShort": "Barclays",
+  "date": "2026-10-25",
+  "order": 112,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at 407p",
+  "price": "407p",
+  "base": "450p",
+  "upside": "10.6",
+  "upsideText": "+10.6%",
+  "maxBuy": "225p",
+  "teaser": "Barclays trades at its tangible book value and earns more than its cost of equity, but the Base value of 450p is only 10.6% above the price. A motor finance ruling, a lender's collapse and a Bank of England review keep the margin of safety at 50%, so the buy zone is 225p or below.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear 284p, base 450p, bull 546p, current price 407p, buy zone at or below 225p\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"284\" data-to=\"546\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"225\"></span>\n        <span class=\"ruler-tick\" data-value=\"284\"></span>\n        <span class=\"ruler-tick\" data-value=\"450\"></span>\n        <span class=\"ruler-tick\" data-value=\"546\"></span>\n        <span class=\"ruler-price\" data-value=\"407\"><span>Price 407p</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"284\">Bear<b>284p</b></span>\n        <span data-value=\"450\">Base<b>450p</b></span>\n        <span data-value=\"546\">Bull<b>546p</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below 225p.</figcaption>\n    </figure>",
+  "llms": "Barclays PLC (BARC) valuation: Bear 284p, Base 450p, Bull 546p. Hold at 407p, maximum buy 225p."
+}
