@@ -1,0 +1,20 @@
+{
+ "ticker": "HOS",
+ "slug": "hos",
+ "name": "Hornbeck Offshore (HOS)",
+ "company": "Hornbeck Offshore Services, Inc.",
+ "companyShort": "Hornbeck Offshore",
+ "date": "2026-10-26",
+ "order": 113,
+ "verdict": "hold",
+ "verdictLabel": "Hold",
+ "call": "<span class=\"call\">Hold</span> at $7.10",
+ "price": "$7.10",
+ "base": "$7.78",
+ "upside": "9.5",
+ "upsideText": "+9.5%",
+ "maxBuy": "$2.69 (limit; range $2.70 to $4.98)",
+ "teaser": "Hornbeck's 222 million shares become 328 million once warrants are counted. Hold at $7.10, Base $7.78.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $3.42, base $7.78, bull $11.00, current price $7.10, buy zone at or below $2.69\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"3.42\" data-to=\"11.0\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"2.69\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.42\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.78\"></span>\n        <span class=\"ruler-tick\" data-value=\"11.0\"></span>\n        <span class=\"ruler-price\" data-value=\"7.1\"><span>Price $7.10</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"3.42\">Bear<b>$3.42</b></span>\n        <span data-value=\"7.78\">Base<b>$7.78</b></span>\n        <span data-value=\"11.0\">Bull<b>$11.00</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $2.69.</figcaption>\n    </figure>",
+ "llms": "Hornbeck Offshore Services (HOS): hold at $7.10, Base $7.78, 328 million economic shares, buy range $2.70 to $4.98."
+}
