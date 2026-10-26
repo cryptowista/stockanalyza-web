@@ -1,0 +1,20 @@
+{
+ "ticker": "SYF",
+ "slug": "syf",
+ "name": "Synchrony Financial (SYF)",
+ "company": "Synchrony Financial",
+ "companyShort": "Synchrony",
+ "date": "2026-10-26",
+ "order": 114,
+ "verdict": "hold",
+ "verdictLabel": "Hold",
+ "call": "<span class=\"call\">Hold</span> at $73.64",
+ "price": "$73.64",
+ "base": "$71.00",
+ "upside": "-3.6",
+ "upsideText": "-3.6%",
+ "maxBuy": "$41.49 (limit; range $41.50 to $62.26)",
+ "teaser": "Common income fell 18% and EPS 6% as buybacks retired 38 million shares. Hold at $73.64, Base $71.00.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $43.70, base $71.00, bull $91.60, current price $73.64, buy zone at or below $41.49\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"43.7\" data-to=\"91.6\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"41.49\"></span>\n        <span class=\"ruler-tick\" data-value=\"43.7\"></span>\n        <span class=\"ruler-tick\" data-value=\"71.0\"></span>\n        <span class=\"ruler-tick\" data-value=\"91.6\"></span>\n        <span class=\"ruler-price\" data-value=\"73.64\"><span>Price $73.64</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"43.7\">Bear<b>$43.70</b></span>\n        <span data-value=\"71.0\">Base<b>$71.00</b></span>\n        <span data-value=\"91.6\">Bull<b>$91.60</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $41.49.</figcaption>\n    </figure>",
+ "llms": "Synchrony Financial (SYF): hold at $73.64, Base $71.00, buy range $41.50 to $62.26."
+}
