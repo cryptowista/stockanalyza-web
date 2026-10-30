@@ -1,0 +1,20 @@
+{
+ "ticker": "PINS",
+ "slug": "pins",
+ "name": "Pinterest (PINS)",
+ "company": "Pinterest, Inc.",
+ "companyShort": "Pinterest",
+ "date": "2026-10-30",
+ "order": 115,
+ "verdict": "hold",
+ "verdictLabel": "Hold",
+ "call": "<span class=\"call\">Hold</span> at $19.92, do not add",
+ "price": "$19.92",
+ "base": "$14.30",
+ "upside": "-28.2",
+ "upsideText": "-28.2%",
+ "maxBuy": "$6.10 (limit; range $6.10 to $12.51)",
+ "teaser": "Pinterest booked $291.7 million of stock pay against $300.3 million of free cash flow in Q3. Hold at $19.92, Base $14.30.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $5.06, base $14.30, bull $22.13, current price $19.92, buy zone at or below $6.10\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"5.06\" data-to=\"22.13\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"6.10\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.06\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.3\"></span>\n        <span class=\"ruler-tick\" data-value=\"22.13\"></span>\n        <span class=\"ruler-price\" data-value=\"19.92\"><span>Price $19.92</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"5.06\">Bear<b>$5.06</b></span>\n        <span data-value=\"14.3\">Base<b>$14.30</b></span>\n        <span data-value=\"22.13\">Bull<b>$22.13</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $6.10.</figcaption>\n    </figure>",
+ "llms": "Pinterest (PINS) valuation: hold at $19.92, do not add. Base $14.30, Bear $5.06, Bull $22.13, buy range $6.10 to $12.51, maximum buy price $6.10, Confidence B (18.75/25)."
+}
