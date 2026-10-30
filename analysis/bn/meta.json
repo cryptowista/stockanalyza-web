@@ -1,0 +1,20 @@
+{
+ "ticker": "BN",
+ "slug": "bn",
+ "name": "Brookfield Corporation (BN)",
+ "company": "Brookfield Corporation",
+ "companyShort": "Brookfield",
+ "date": "2026-10-30",
+ "order": 116,
+ "verdict": "hold",
+ "verdictLabel": "Hold",
+ "call": "<span class=\"call\">Hold</span> at $39.50",
+ "price": "$39.50",
+ "base": "$32.00",
+ "upside": "-19.0",
+ "upsideText": "-19.0%",
+ "maxBuy": "$19.40 (limit; range $19.40 to $22.89)",
+ "teaser": "Distributable earnings before realizations are $2.39 a share at 16.5x. Hold at $39.50, Base $32.00.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $22.17, base $32.00, bull $42.15, current price $39.50, buy zone at or below $19.40\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"22.17\" data-to=\"42.15\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"19.4\"></span>\n        <span class=\"ruler-tick\" data-value=\"22.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"32.0\"></span>\n        <span class=\"ruler-tick\" data-value=\"42.15\"></span>\n        <span class=\"ruler-price\" data-value=\"39.5\"><span>Price $39.50</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"22.17\">Bear<b>$22.17</b></span>\n        <span data-value=\"32.0\">Base<b>$32.00</b></span>\n        <span data-value=\"42.15\">Bull<b>$42.15</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $19.40.</figcaption>\n    </figure>",
+ "llms": "Brookfield Corporation (BN): hold at $39.50, Base $32.00, buy range $19.40 to $22.89."
+}
