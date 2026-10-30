@@ -1,0 +1,20 @@
+{
+ "ticker": "DGXX",
+ "slug": "dgxx",
+ "name": "Digi Power X (DGXX)",
+ "company": "Digi Power X",
+ "companyShort": "Digi Power X",
+ "date": "2026-10-30",
+ "order": 119,
+ "verdict": "hold",
+ "verdictLabel": "Hold",
+ "call": "<span class=\"call\">Hold</span> at $2.38, watchlist for new money",
+ "price": "$2.38",
+ "base": "$2.42",
+ "upside": "1.7",
+ "upsideText": "+1.7%",
+ "maxBuy": "$1.01 (limit; range $1.01 to $1.14)",
+ "teaser": "A $1.1 billion Cerebras contract, no debt yet and a loan not signed. Hold at $2.38, Base $2.42.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $1.09, base $2.42, bull $5.37, current price $2.38, buy zone at or below $1.01\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"1.09\" data-to=\"5.37\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"1.01\"></span>\n        <span class=\"ruler-tick\" data-value=\"1.09\"></span>\n        <span class=\"ruler-tick\" data-value=\"2.42\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.37\"></span>\n        <span class=\"ruler-price\" data-value=\"2.38\"><span>Price $2.38</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"1.09\">Bear<b>$1.09</b></span>\n        <span data-value=\"2.42\">Base<b>$2.42</b></span>\n        <span data-value=\"5.37\">Bull<b>$5.37</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $1.01.</figcaption>\n    </figure>",
+ "llms": "Digi Power X (DGXX): hold at $2.38, Base $2.42, buy range $1.01 to $1.14."
+}
