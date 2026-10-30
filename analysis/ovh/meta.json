@@ -1,0 +1,20 @@
+{
+ "ticker": "OVH",
+ "slug": "ovh",
+ "name": "OVHcloud (OVH)",
+ "company": "OVH Groupe",
+ "companyShort": "OVHcloud",
+ "date": "2026-10-30",
+ "order": 122,
+ "verdict": "hold",
+ "verdictLabel": "Hold",
+ "call": "<span class=\"call\">Hold</span> at €13.68",
+ "price": "€13.68",
+ "base": "€10.91",
+ "upside": "-20.2",
+ "upsideText": "-20.2%",
+ "maxBuy": "€3.61 (limit; range €3.61 to €7.30)",
+ "teaser": "Price sits between a cash flow value of €7.21 and a multiple value of €14.60. Hold at €13.68, Base €10.91, buy range €3.61 to €7.30.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €4.27, base €10.91, bull €18.04, current price €13.68, buy zone at or below €3.61\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"4.27\" data-to=\"18.04\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"3.61\"></span>\n        <span class=\"ruler-tick\" data-value=\"4.27\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.91\"></span>\n        <span class=\"ruler-tick\" data-value=\"18.04\"></span>\n        <span class=\"ruler-price\" data-value=\"13.68\"><span>Price €13.68</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"4.27\">Bear<b>€4.27</b></span>\n        <span data-value=\"10.91\">Base<b>€10.91</b></span>\n        <span data-value=\"18.04\">Bull<b>€18.04</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €3.61.</figcaption>\n    </figure>",
+ "llms": "OVHcloud (OVH): hold at €13.68, Base €10.91, buy range €3.61 to €7.30."
+}
