@@ -1,0 +1,20 @@
+{
+ "ticker": "SLNH",
+ "slug": "slnh",
+ "name": "Soluna Holdings (SLNH)",
+ "company": "Soluna Holdings",
+ "companyShort": "Soluna",
+ "date": "2026-10-30",
+ "order": 120,
+ "verdict": "sell",
+ "verdictLabel": "Sell",
+ "call": "<span class=\"call\">Sell</span> at $0.70",
+ "price": "$0.70",
+ "base": "$0.21",
+ "upside": "-70.0",
+ "upsideText": "-70.0%",
+ "maxBuy": "$0.08 (limit; range $0.08 to $0.09)",
+ "teaser": "$123 million of preferred stock ranks ahead of the common. Sell at $0.70, Base $0.21.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0.04, base $0.21, bull $0.81, current price $0.70, buy zone at or below $0.08\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0.04\" data-to=\"0.81\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"0.08\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.21\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.81\"></span>\n        <span class=\"ruler-price\" data-value=\"0.7\"><span>Price $0.70</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0.04\">Bear<b>$0.04</b></span>\n        <span data-value=\"0.21\">Base<b>$0.21</b></span>\n        <span data-value=\"0.81\">Bull<b>$0.81</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $0.08.</figcaption>\n    </figure>",
+ "llms": "Soluna Holdings (SLNH): sell at $0.70, Base $0.21, buy range $0.08 to $0.09."
+}
