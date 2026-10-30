@@ -1,0 +1,20 @@
+{
+ "ticker": "QSR",
+ "slug": "qsr",
+ "name": "Restaurant Brands International (QSR)",
+ "company": "Restaurant Brands International",
+ "companyShort": "Restaurant Brands",
+ "date": "2026-10-30",
+ "order": 118,
+ "verdict": "hold",
+ "verdictLabel": "Hold",
+ "call": "<span class=\"call\">Hold</span> at $73.01, do not add",
+ "price": "$73.01",
+ "base": "$58.77",
+ "upside": "-19.5",
+ "upsideText": "-19.5%",
+ "maxBuy": "$38.83 (limit; range $38.83 to $44.60)",
+ "teaser": "18x adjusted earnings and a 3.6% dividend. Hold at $73.01, Base $58.77.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $41.69, base $58.77, bull $74.50, current price $73.01, buy zone at or below $38.83\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"41.69\" data-to=\"74.5\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"38.83\"></span>\n        <span class=\"ruler-tick\" data-value=\"41.69\"></span>\n        <span class=\"ruler-tick\" data-value=\"58.77\"></span>\n        <span class=\"ruler-tick\" data-value=\"74.5\"></span>\n        <span class=\"ruler-price\" data-value=\"73.01\"><span>Price $73.01</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"41.69\">Bear<b>$41.69</b></span>\n        <span data-value=\"58.77\">Base<b>$58.77</b></span>\n        <span data-value=\"74.5\">Bull<b>$74.50</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $38.83.</figcaption>\n    </figure>",
+ "llms": "Restaurant Brands International (QSR): hold at $73.01, Base $58.77, buy range $38.83 to $44.60."
+}
