@@ -1,0 +1,20 @@
+{
+ "ticker": "BTDR",
+ "slug": "btdr",
+ "name": "Bitdeer (BTDR)",
+ "company": "Bitdeer Technologies Group",
+ "companyShort": "Bitdeer",
+ "date": "2026-10-30",
+ "order": 123,
+ "verdict": "sell",
+ "verdictLabel": "Sell",
+ "call": "<span class=\"call\">Sell</span> at $7.58",
+ "price": "$7.58",
+ "base": "$2.74",
+ "upside": "-63.9",
+ "upsideText": "-63.9%",
+ "maxBuy": "$0.64 (limit; range $0.64 to $1.83)",
+ "teaser": "Priced for mining profits to last past the 2028 halving. Sell at $7.58, Base $2.74, buy range $0.64 to $1.83.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $1.02, base $2.74, bull $12.60, current price $7.58, buy zone at or below $0.64\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"1.02\" data-to=\"12.6\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"0.64\"></span>\n        <span class=\"ruler-tick\" data-value=\"1.02\"></span>\n        <span class=\"ruler-tick\" data-value=\"2.74\"></span>\n        <span class=\"ruler-tick\" data-value=\"12.6\"></span>\n        <span class=\"ruler-price\" data-value=\"7.58\"><span>Price $7.58</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"1.02\">Bear<b>$1.02</b></span>\n        <span data-value=\"2.74\">Base<b>$2.74</b></span>\n        <span data-value=\"12.6\">Bull<b>$12.60</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $0.64.</figcaption>\n    </figure>",
+ "llms": "Bitdeer (BTDR): sell at $7.58, Base $2.74, buy range $0.64 to $1.83."
+}
