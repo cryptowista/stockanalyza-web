@@ -1,0 +1,20 @@
+{
+ "ticker": "HHH",
+ "slug": "hhh",
+ "name": "Howard Hughes Holdings (HHH)",
+ "company": "Howard Hughes Holdings",
+ "companyShort": "Howard Hughes",
+ "date": "2026-10-30",
+ "order": 117,
+ "verdict": "sell",
+ "verdictLabel": "Reduce",
+ "call": "<span class=\"call\">Reduce</span> at $75.58",
+ "price": "$75.58",
+ "base": "$51.16",
+ "upside": "-32.3",
+ "upsideText": "-32.3%",
+ "maxBuy": "$29.44 (limit; range $29.44 to $32.58)",
+ "teaser": "Trades at 1.39x my asset value estimate. Reduce at $75.58, Base $51.16.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $20.07, base $51.16, bull $84.96, current price $75.58, buy zone at or below $29.44\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"20.07\" data-to=\"84.96\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"29.44\"></span>\n        <span class=\"ruler-tick\" data-value=\"20.07\"></span>\n        <span class=\"ruler-tick\" data-value=\"51.16\"></span>\n        <span class=\"ruler-tick\" data-value=\"84.96\"></span>\n        <span class=\"ruler-price\" data-value=\"75.58\"><span>Price $75.58</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"20.07\">Bear<b>$20.07</b></span>\n        <span data-value=\"51.16\">Base<b>$51.16</b></span>\n        <span data-value=\"84.96\">Bull<b>$84.96</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $29.44.</figcaption>\n    </figure>",
+ "llms": "Howard Hughes Holdings (HHH): reduce at $75.58, Base $51.16, buy range $29.44 to $32.58."
+}
