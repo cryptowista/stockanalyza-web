@@ -1,0 +1,20 @@
+{
+ "ticker": "DOCN",
+ "slug": "docn",
+ "name": "DigitalOcean (DOCN)",
+ "company": "DigitalOcean Holdings",
+ "companyShort": "DigitalOcean",
+ "date": "2026-10-30",
+ "order": 121,
+ "verdict": "sell",
+ "verdictLabel": "Reduce",
+ "call": "<span class=\"call\">Reduce</span> at $99.97",
+ "price": "$99.97",
+ "base": "$54.60",
+ "upside": "-45.4",
+ "upsideText": "-45.4%",
+ "maxBuy": "$20.78 (limit; range $20.78 to $33.82)",
+ "teaser": "Priced above even the Bull value. Reduce at $99.97, Base $54.60, buy range $20.78 to $33.82.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $25.98, base $54.60, bull $95.89, current price $99.97, buy zone at or below $20.78\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"25.98\" data-to=\"95.89\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"20.78\"></span>\n        <span class=\"ruler-tick\" data-value=\"25.98\"></span>\n        <span class=\"ruler-tick\" data-value=\"54.6\"></span>\n        <span class=\"ruler-tick\" data-value=\"95.89\"></span>\n        <span class=\"ruler-price\" data-value=\"99.97\"><span>Price $99.97</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"25.98\">Bear<b>$25.98</b></span>\n        <span data-value=\"54.6\">Base<b>$54.60</b></span>\n        <span data-value=\"95.89\">Bull<b>$95.89</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $20.78.</figcaption>\n    </figure>",
+ "llms": "DigitalOcean (DOCN): reduce at $99.97, Base $54.60, buy range $20.78 to $33.82."
+}
