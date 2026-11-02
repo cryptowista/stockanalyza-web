@@ -1,0 +1,20 @@
+{
+  "ticker": "YUMC",
+  "slug": "yumc",
+  "name": "Yum China (YUMC)",
+  "company": "Yum China Holdings",
+  "companyShort": "Yum China",
+  "date": "2026-11-02",
+  "order": 127,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $45.78",
+  "price": "$45.78",
+  "base": "$44.94",
+  "upside": "-1.8",
+  "upsideText": "-1.8%",
+  "maxBuy": "$31.38 (limit; range $31.38 to $31.53)",
+  "teaser": "Transactions up 5% but same-store sales up 1%, and the third quarter report is due November 3. Hold at $45.78, Base $44.94, buy range $31.38 to $31.53.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $28.86, base $44.94, bull $60.04, current price $45.78, buy zone at or below $31.38\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"28.86\" data-to=\"60.04\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"31.38\"></span>\n        <span class=\"ruler-tick\" data-value=\"28.86\"></span>\n        <span class=\"ruler-tick\" data-value=\"44.94\"></span>\n        <span class=\"ruler-tick\" data-value=\"60.04\"></span>\n        <span class=\"ruler-price\" data-value=\"45.78\"><span>Price $45.78</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"28.86\">Bear<b>$28.86</b></span>\n        <span data-value=\"44.94\">Base<b>$44.94</b></span>\n        <span data-value=\"60.04\">Bull<b>$60.04</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $31.38.</figcaption>\n    </figure>",
+  "llms": "Yum China (YUMC): hold at $45.78, Base $44.94, buy range $31.38 to $31.53."
+}

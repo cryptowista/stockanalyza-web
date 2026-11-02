@@ -1,0 +1,20 @@
+{
+  "ticker": "LVMH",
+  "slug": "lvmh",
+  "name": "LVMH (MC)",
+  "company": "LVMH Moët Hennessy Louis Vuitton",
+  "companyShort": "LVMH",
+  "date": "2026-11-02",
+  "order": 124,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at €387.00",
+  "price": "€387.00",
+  "base": "€365.25",
+  "upside": "-5.6",
+  "upsideText": "-5.6%",
+  "maxBuy": "€201.83 (limit; range €201.83 to €273.00)",
+  "teaser": "Louis Vuitton and Dior earn about 70% of segment profit and shrank 5% in the third quarter. Hold at €387.00, Base €365.25, buy range €201.83 to €273.00.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €227.94, base €365.25, bull €545.49, current price €387.00, buy zone at or below €201.83\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"227.94\" data-to=\"545.49\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"201.83\"></span>\n        <span class=\"ruler-tick\" data-value=\"227.94\"></span>\n        <span class=\"ruler-tick\" data-value=\"365.25\"></span>\n        <span class=\"ruler-tick\" data-value=\"545.49\"></span>\n        <span class=\"ruler-price\" data-value=\"387\"><span>Price €387.00</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"227.94\">Bear<b>€227.94</b></span>\n        <span data-value=\"365.25\">Base<b>€365.25</b></span>\n        <span data-value=\"545.49\">Bull<b>€545.49</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €201.83.</figcaption>\n    </figure>",
+  "llms": "LVMH (MC): hold at €387.00, Base €365.25, buy range €201.83 to €273.00."
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "DISCO",
+  "slug": "disco",
+  "name": "DISCO (6146)",
+  "company": "DISCO Corporation",
+  "companyShort": "DISCO",
+  "date": "2026-11-02",
+  "order": 126,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at ¥49,540",
+  "price": "¥49,540",
+  "base": "¥34,025",
+  "upside": "-31.3",
+  "upsideText": "-31.3%",
+  "maxBuy": "¥18,978 (limit; range ¥18,978 to ¥20,151)",
+  "teaser": "Great business, but the price is above even the Bull case and December quarter profit is guided down 14%. Reduce at ¥49,540, Base ¥34,025, buy range ¥18,978 to ¥20,151.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear ¥21,078, base ¥34,025, bull ¥49,112, current price ¥49,540, buy zone at or below ¥18,978\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"21078.06\" data-to=\"49112.07\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"18977.6\"></span>\n        <span class=\"ruler-tick\" data-value=\"21078.06\"></span>\n        <span class=\"ruler-tick\" data-value=\"34025.2\"></span>\n        <span class=\"ruler-tick\" data-value=\"49112.07\"></span>\n        <span class=\"ruler-price\" data-value=\"49540\"><span>Price ¥49,540</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"21078.06\">Bear<b>¥21,078</b></span>\n        <span data-value=\"34025.2\">Base<b>¥34,025</b></span>\n        <span data-value=\"49112.07\">Bull<b>¥49,112</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below ¥18,978.</figcaption>\n    </figure>",
+  "llms": "DISCO (6146): reduce at ¥49,540, Base ¥34,025, buy range ¥18,978 to ¥20,151."
+}

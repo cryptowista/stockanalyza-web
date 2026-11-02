@@ -1,0 +1,20 @@
+{
+  "ticker": "SU",
+  "slug": "su",
+  "name": "Schneider Electric (SU)",
+  "company": "Schneider Electric SE",
+  "companyShort": "Schneider Electric",
+  "date": "2026-11-02",
+  "order": 125,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at €237.50",
+  "price": "€237.50",
+  "base": "€230.58",
+  "upside": "-2.9",
+  "upsideText": "-2.9%",
+  "maxBuy": "€122.32 (limit; range €122.32 to €142.85)",
+  "teaser": "Organic growth of 16.9%, a 2.6 billion PTC purchase and 25 million new shares. Hold at €237.50, Base €230.58, buy range €122.32 to €142.85.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €147.31, base €230.58, bull €313.85, current price €237.50, buy zone at or below €122.32\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"147.31\" data-to=\"313.85\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"122.32\"></span>\n        <span class=\"ruler-tick\" data-value=\"147.31\"></span>\n        <span class=\"ruler-tick\" data-value=\"230.58\"></span>\n        <span class=\"ruler-tick\" data-value=\"313.85\"></span>\n        <span class=\"ruler-price\" data-value=\"237.5\"><span>Price €237.50</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"147.31\">Bear<b>€147.31</b></span>\n        <span data-value=\"230.58\">Base<b>€230.58</b></span>\n        <span data-value=\"313.85\">Bull<b>€313.85</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €122.32.</figcaption>\n    </figure>",
+  "llms": "Schneider Electric (SU): hold at €237.50, Base €230.58, buy range €122.32 to €142.85."
+}
