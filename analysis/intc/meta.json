@@ -1,0 +1,20 @@
+{
+  "ticker": "INTC",
+  "slug": "intc",
+  "name": "Intel (INTC)",
+  "company": "Intel Corporation",
+  "companyShort": "Intel",
+  "date": "2026-11-03",
+  "order": 129,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $59.97",
+  "price": "$59.97",
+  "base": "$40.37",
+  "upside": "-32.7",
+  "upsideText": "-32.7%",
+  "maxBuy": "$12.77 (limit; range $12.77 to $19.52)",
+  "teaser": "Revenue up 21% and the worst day since 1974: guidance, the Foundry loss and a price above Base. Reduce at $59.97, Base $40.37, buy range $12.77 to $19.52.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $14.72, base $40.37, bull $74.68, current price $59.97, buy zone at or below $12.77\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"14.72\" data-to=\"74.68\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"12.77\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.72\"></span>\n        <span class=\"ruler-tick\" data-value=\"40.37\"></span>\n        <span class=\"ruler-tick\" data-value=\"74.68\"></span>\n        <span class=\"ruler-price\" data-value=\"59.97\"><span>Price $59.97</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"14.72\">Bear<b>$14.72</b></span>\n        <span data-value=\"40.37\">Base<b>$40.37</b></span>\n        <span data-value=\"74.68\">Bull<b>$74.68</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $12.77.</figcaption>\n    </figure>",
+  "llms": "Intel (INTC): reduce at $59.97, Base $40.37, Bear $14.72, Bull $74.68, buy range $12.77 to $19.52. Revenue up 21% but December guidance is weak and the Foundry still loses money. Confidence D."
+}
