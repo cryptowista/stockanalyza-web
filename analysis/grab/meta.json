@@ -1,0 +1,20 @@
+{
+  "ticker": "GRAB",
+  "slug": "grab",
+  "name": "Grab (GRAB)",
+  "company": "Grab Holdings Limited",
+  "companyShort": "Grab",
+  "date": "2026-11-03",
+  "order": 130,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $2.86",
+  "price": "$2.86",
+  "base": "$3.84",
+  "upside": "34.3",
+  "upsideText": "+34.3%",
+  "maxBuy": "$2.04 (limit; range $2.04 to $2.38)",
+  "teaser": "All three segments profitable and guidance raised, but the buy range is $2.04 to $2.38. Hold at $2.86, Base $3.84.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $2.25, base $3.84, bull $5.65, current price $2.86, buy zone at or below $2.04\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"2.25\" data-to=\"5.65\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"2.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"2.25\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.84\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.65\"></span>\n        <span class=\"ruler-price\" data-value=\"2.86\"><span>Price $2.86</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"2.25\">Bear<b>$2.25</b></span>\n        <span data-value=\"3.84\">Base<b>$3.84</b></span>\n        <span data-value=\"5.65\">Bull<b>$5.65</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $2.04.</figcaption>\n    </figure>",
+  "llms": "Grab (GRAB): hold at $2.86, Base $3.84, Bear $2.25, Bull $5.65, buy range $2.04 to $2.38. All three segments profitable, 2026 guidance raised, Atome acquisition pending. Confidence C."
+}
