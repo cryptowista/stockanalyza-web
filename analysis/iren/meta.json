@@ -1,0 +1,20 @@
+{
+  "ticker": "IREN",
+  "slug": "iren",
+  "name": "IREN Limited (IREN)",
+  "company": "IREN Limited",
+  "companyShort": "IREN",
+  "date": "2026-11-04",
+  "order": 133,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $24.46",
+  "price": "$24.46",
+  "base": "$23.14",
+  "upside": "-5.4",
+  "upsideText": "-5.4%",
+  "maxBuy": "$10.41 (range $6.16 to $14.89 under nearby assumptions)",
+  "teaser": "Almost all of the value sits in 2027 capacity that is not sold yet. Hold at $24.46, Base $23.14, max buy $10.41.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $3.20, base $23.14, bull $59.03, current price $24.46, buy zone at or below $10.41\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"3.20\" data-to=\"59.03\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"10.41\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.20\"></span>\n        <span class=\"ruler-tick\" data-value=\"23.14\"></span>\n        <span class=\"ruler-tick\" data-value=\"59.03\"></span>\n        <span class=\"ruler-price\" data-value=\"24.46\"><span>Price $24.46</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"3.20\">Bear<b>$3.20</b></span>\n        <span data-value=\"23.14\">Base<b>$23.14</b></span>\n        <span data-value=\"59.03\">Bull<b>$59.03</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $10.41.</figcaption>\n    </figure>",
+  "llms": "IREN Limited (IREN): hold at $24.46, Base $23.14, Bear $3.20, Bull $59.03, maximum buy price $10.41. Former bitcoin miner turned AI cloud provider, valued wave by wave: the contracted 2026 fleet, the uncontracted 2027 build and the 2028 sites, less head office costs, debt and new shares. About 94% of the Base comes from 2027 capacity not yet contracted, part of it waiting on a paused Texas grid approval. Confidence D."
+}
