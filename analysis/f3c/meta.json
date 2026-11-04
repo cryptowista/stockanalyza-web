@@ -1,0 +1,20 @@
+{
+  "ticker": "F3C",
+  "slug": "f3c",
+  "name": "SFC Energy (F3C)",
+  "company": "SFC Energy AG",
+  "companyShort": "SFC Energy",
+  "date": "2026-11-04",
+  "order": 135,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at €18.43",
+  "price": "€18.43",
+  "base": "€14.54",
+  "upside": "-21.1",
+  "upsideText": "-21.1%",
+  "maxBuy": "€8.36 (range €6.95 to €9.99 under nearby assumptions)",
+  "teaser": "Without one Ukraine order, sales fell this year. Hold at €18.43, Base €14.54, max buy €8.36.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €7.94, base €14.54, bull €22.22, current price €18.43, buy zone at or below €8.36\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"7.94\" data-to=\"22.22\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"8.36\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.94\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.54\"></span>\n        <span class=\"ruler-tick\" data-value=\"22.22\"></span>\n        <span class=\"ruler-price\" data-value=\"18.43\"><span>Price €18.43</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"7.94\">Bear<b>€7.94</b></span>\n        <span data-value=\"14.54\">Base<b>€14.54</b></span>\n        <span data-value=\"22.22\">Bull<b>€22.22</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €8.36.</figcaption>\n    </figure>",
+  "llms": "SFC Energy (F3C): hold at €18.43, Base €14.54, Bear €7.94, Bull €22.22, maximum buy price €8.36. German fuel cell and power management maker whose record 2026 rests largely on one €42.7 million Ukraine order; valued on normalized free cash flow with that order treated as non-recurring. The price implies a long-run adjusted operating margin of about 17%. Confidence C."
+}
