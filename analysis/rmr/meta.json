@@ -1,0 +1,20 @@
+{
+  "ticker": "RMR",
+  "slug": "rmr",
+  "name": "The RMR Group (RMR)",
+  "company": "The RMR Group Inc.",
+  "companyShort": "RMR Group",
+  "date": "2026-11-04",
+  "order": 132,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $16.61",
+  "price": "$16.61",
+  "base": "$21.02",
+  "upside": "26.5",
+  "upsideText": "+26.5%",
+  "maxBuy": "$12.08 (range $10.66 to $13.83 under nearby assumptions)",
+  "teaser": "An 11% dividend covered before interest but not after it. Hold at $16.61, Base $21.02, max buy $12.08.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $13.00, base $21.02, bull $28.33, current price $16.61, buy zone at or below $12.08\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"13.00\" data-to=\"28.33\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"12.08\"></span>\n        <span class=\"ruler-tick\" data-value=\"13.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"21.02\"></span>\n        <span class=\"ruler-tick\" data-value=\"28.33\"></span>\n        <span class=\"ruler-price\" data-value=\"16.61\"><span>Price $16.61</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"13.00\">Bear<b>$13.00</b></span>\n        <span data-value=\"21.02\">Base<b>$21.02</b></span>\n        <span data-value=\"28.33\">Bull<b>$28.33</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $12.08.</figcaption>\n    </figure>",
+  "llms": "The RMR Group (RMR): hold at $16.61, Base $21.02, Bear $13.00, Bull $28.33, maximum buy price $12.08. External manager of related REITs valued as a sum of the parts; the price implies fee earnings shrinking about 4% a year. Distributable earnings after interest cover 82% of the 10.8% dividend; incentive fees fill the gap. Confidence C."
+}
