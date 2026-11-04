@@ -1,0 +1,20 @@
+{
+  "ticker": "FG",
+  "slug": "fg",
+  "name": "F&G Annuities & Life (FG)",
+  "company": "F&G Annuities & Life, Inc.",
+  "companyShort": "F&G Annuities",
+  "date": "2026-11-04",
+  "order": 131,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $21.50",
+  "price": "$21.50",
+  "base": "$28.26",
+  "upside": "31.4",
+  "upsideText": "+31.4%",
+  "maxBuy": "$16.25 (range $14.64 to $18.10 under nearby assumptions)",
+  "teaser": "Half of book value, and a price that assumes the alternatives never recover. Hold at $21.50, Base $28.26, max buy $16.25.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $19.50, base $28.26, bull $35.55, current price $21.50, buy zone at or below $16.25\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"19.50\" data-to=\"35.55\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"16.25\"></span>\n        <span class=\"ruler-tick\" data-value=\"19.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"28.26\"></span>\n        <span class=\"ruler-tick\" data-value=\"35.55\"></span>\n        <span class=\"ruler-price\" data-value=\"21.50\"><span>Price $21.50</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"19.50\">Bear<b>$19.50</b></span>\n        <span data-value=\"28.26\">Base<b>$28.26</b></span>\n        <span data-value=\"35.55\">Bull<b>$35.55</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $16.25.</figcaption>\n    </figure>",
+  "llms": "F&G Annuities & Life (FG): hold at $21.50, Base $28.26, Bear $19.50, Bull $35.55, maximum buy price $16.25. Fixed indexed annuity insurer at 0.47 times book excluding unrealized losses; the price implies a permanent 6.2% return on equity, about today's run rate, as alternative investments earn about 6% to 7% against a 12% to 14% target. Moody's outlook negative. Confidence C."
+}
