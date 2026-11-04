@@ -1,0 +1,20 @@
+{
+  "ticker": "CMCSA",
+  "slug": "cmcsa",
+  "name": "Comcast (CMCSA)",
+  "company": "Comcast Corporation",
+  "companyShort": "Comcast",
+  "date": "2026-11-04",
+  "order": 134,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $23.67",
+  "price": "$23.67",
+  "base": "$38.01",
+  "upside": "60.6",
+  "upsideText": "+60.6%",
+  "maxBuy": "$21.86 (range $19.02 to $25.41 under nearby assumptions)",
+  "teaser": "The price assumes cable cash flow shrinks about 5% a year forever. Hold at $23.67, Base $38.01, max buy $21.86.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $16.97, base $38.01, bull $57.25, current price $23.67, buy zone at or below $21.86\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"16.97\" data-to=\"57.25\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"21.86\"></span>\n        <span class=\"ruler-tick\" data-value=\"16.97\"></span>\n        <span class=\"ruler-tick\" data-value=\"38.01\"></span>\n        <span class=\"ruler-tick\" data-value=\"57.25\"></span>\n        <span class=\"ruler-price\" data-value=\"23.67\"><span>Price $23.67</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"16.97\">Bear<b>$16.97</b></span>\n        <span data-value=\"38.01\">Base<b>$38.01</b></span>\n        <span data-value=\"57.25\">Bull<b>$57.25</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $21.86.</figcaption>\n    </figure>",
+  "llms": "Comcast (CMCSA): hold at $23.67, Base $38.01, Bear $16.97, Bull $57.25, maximum buy price $21.86. Valued as a sum of the parts ahead of the mid-2027 spin-off of NBCUniversal and Sky: connectivity from long-run cash flow, theme parks, media and studios at multiples, less corporate costs and $79.8 billion of net debt. The price fits connectivity cash flow falling about 5% a year forever. Confidence C."
+}
