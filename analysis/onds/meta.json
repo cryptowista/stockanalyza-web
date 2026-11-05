@@ -1,0 +1,20 @@
+{
+  "ticker": "ONDS",
+  "slug": "onds",
+  "name": "Ondas (ONDS)",
+  "company": "Ondas Inc.",
+  "companyShort": "Ondas",
+  "date": "2026-11-05",
+  "order": 138,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $5.27",
+  "price": "$5.27",
+  "base": "$3.13",
+  "upside": "-40.7",
+  "upsideText": "-40.7%",
+  "maxBuy": "$1.41 (range $1.12 to $1.73 under nearby assumptions)",
+  "teaser": "Revenue is up 13 times, mostly bought with cash and shares. At $5.27 the price assumes a 20% margin by 2029 after share-based pay, above the Bull case. Reduce, with new money waiting for $1.41.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $1.17, base $3.13, bull $6.77, current price $5.27, buy zone at or below $1.41\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"1.17\" data-to=\"6.77\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"1.41\"></span>\n        <span class=\"ruler-tick\" data-value=\"1.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.13\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.77\"></span>\n        <span class=\"ruler-price\" data-value=\"5.27\"><span>Price $5.27</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"1.17\">Bear<b>$1.17</b></span>\n        <span data-value=\"3.13\">Base<b>$3.13</b></span>\n        <span data-value=\"6.77\">Bull<b>$6.77</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $1.41.</figcaption>\n    </figure>",
+  "llms": "Fast-growing U.S. and Israeli drone, counter-drone and defense technology group built through at least 13 acquisitions in 2026, with about $1.4 billion of cash at mid-2026, 195 million warrants and heavy share-based pay, valued on a scenario path to 2029 operating profit after share-based pay. Bear $1.17, Base $3.13, Bull $6.77. Verdict REDUCE at $5.27 (watchlist for new money), maximum buy price $1.41."
+}
