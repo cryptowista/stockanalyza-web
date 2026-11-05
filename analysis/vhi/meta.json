@@ -1,0 +1,20 @@
+{
+  "ticker": "VHI",
+  "slug": "vhi",
+  "name": "Valhi (VHI)",
+  "company": "Valhi, Inc.",
+  "companyShort": "Valhi",
+  "date": "2026-11-05",
+  "order": 140,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $14.55",
+  "price": "$14.55",
+  "base": "$23.45",
+  "upside": "61.2",
+  "upsideText": "+61.2%",
+  "maxBuy": "$13.48 (range $10.67 to $16.59 under nearby assumptions)",
+  "teaser": "Watchlist for new money. Valhi's market value roughly equals its direct Kronos stake, but Contran controls 91% and decides when the discount closes. Confidence C requires a 42.5% margin of safety, so the buy zone starts at $13.48.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $7.79, base $23.45, bull $48.08, current price $14.55, buy zone at or below $13.48\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"7.79\" data-to=\"48.08\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"13.48\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.79\"></span>\n        <span class=\"ruler-tick\" data-value=\"23.45\"></span>\n        <span class=\"ruler-tick\" data-value=\"48.08\"></span>\n        <span class=\"ruler-price\" data-value=\"14.55\"><span>Price $14.55</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"7.79\">Bear<b>$7.79</b></span>\n        <span data-value=\"23.45\">Base<b>$23.45</b></span>\n        <span data-value=\"48.08\">Bull<b>$48.08</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $13.48.</figcaption>\n    </figure>",
+  "llms": "Contran-controlled U.S. holding company owning about 75% of Kronos Worldwide (titanium dioxide) through direct and NLI Holdings stakes, about 72% of CompX and Henderson, Nevada real estate notes, valued on a look-through sum of the parts with Kronos at normalized EBITDA, capitalized group overhead and a 35% holding discount. Bear $7.79, Base $23.45, Bull $48.08. Verdict HOLD at $14.55 (watchlist for new money), maximum buy price $13.48."
+}
