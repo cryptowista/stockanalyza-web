@@ -1,0 +1,20 @@
+{
+  "ticker": "OLN",
+  "slug": "oln",
+  "name": "Olin (OLN)",
+  "company": "Olin Corporation",
+  "companyShort": "Olin",
+  "date": "2026-11-05",
+  "order": 139,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $18.08",
+  "price": "$18.08",
+  "base": "$25.16",
+  "upside": "39.1",
+  "upsideText": "+39.1%",
+  "maxBuy": "$14.46 (range $9.76 to $19.58 under nearby assumptions)",
+  "teaser": "Watchlist for new money. Olin trades 28.1% below the Base value, but each share becomes a share of a heavily indebted OlinHuntsman at the bottom of the chemical cycle. Confidence C requires a 42.5% margin of safety, so the buy zone starts at $14.46.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $7.66, base $25.16, bull $47.41, current price $18.08, buy zone at or below $14.46\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"7.66\" data-to=\"47.41\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"14.46\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.66\"></span>\n        <span class=\"ruler-tick\" data-value=\"25.16\"></span>\n        <span class=\"ruler-tick\" data-value=\"47.41\"></span>\n        <span class=\"ruler-price\" data-value=\"18.08\"><span>Price $18.08</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"7.66\">Bear<b>$7.66</b></span>\n        <span data-value=\"25.16\">Base<b>$25.16</b></span>\n        <span data-value=\"47.41\">Bull<b>$47.41</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $14.46.</figcaption>\n    </figure>",
+  "llms": "U.S. chlor alkali, vinyls, epoxy and Winchester ammunition maker in a pending all-stock merger with Huntsman that closes in the first quarter of 2027, valued as one share of OlinHuntsman on normalized combined EBITDA plus synergies, less the shortfall until normalization and about $4.5 billion of net debt and other claims. Bear $7.66, Base $25.16, Bull $47.41. Verdict HOLD at $18.08 (watchlist for new money), maximum buy price $14.46."
+}
