@@ -1,0 +1,20 @@
+{
+  "ticker": "TEM",
+  "slug": "tem",
+  "name": "Tempus AI (TEM)",
+  "company": "Tempus AI, Inc.",
+  "companyShort": "Tempus AI",
+  "date": "2026-11-06",
+  "order": 142,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $70.43",
+  "price": "$70.43",
+  "base": "$21.76",
+  "upside": "-69.1",
+  "upsideText": "-69.1%",
+  "maxBuy": "$10.04",
+  "teaser": "Do not add. Tempus grows fast, but stock pay is three times its adjusted EBITDA, and at $70.43 the price needs about 21% growth a year for a decade even at bull-case margins; buy range $10.04 to $15.85.",
+  "ruler": "<figure class=\"ruler\" data-min=\"6.5\" data-max=\"71.5\" aria-label=\"Valuation range: bear $6.82, base $21.76, bull $56.63, current price $70.43, buy zone at or below $10.04\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"6.82\" data-to=\"56.63\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"10.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.82\"></span>\n        <span class=\"ruler-tick\" data-value=\"21.76\"></span>\n        <span class=\"ruler-tick\" data-value=\"56.63\"></span>\n        <span class=\"ruler-price\" data-value=\"70.43\"><span>Price $70.43</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"6.82\">Bear<b>$6.82</b></span>\n        <span data-value=\"21.76\">Base<b>$21.76</b></span>\n        <span data-value=\"56.63\">Bull<b>$56.63</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $10.04, the lower end of a $10.04 to $15.85 buy range.</figcaption>\n    </figure>",
+  "llms": "Tempus AI (TEM) sells cancer genomic tests (oncology, hereditary and minimal residual disease) and licenses de-identified clinical and molecular data to drug companies. Valued with a ten-year free cash flow model that counts all stock-based pay as a cost and includes the pending all-stock Personalis acquisition, with a peer revenue multiple as a check only. Stock-based pay of about $215 million in 2026 exceeds adjusted EBITDA of about $65 million; the price implies about 21% revenue growth a year for ten years at bull-case margins. Bear $6.82, Base $21.76, Bull $56.63. Verdict Hold at $70.43 (November 5, 2026 close), do not add, buy range $10.04 to $15.85, maximum buy price $10.04."
+}
