@@ -1,0 +1,20 @@
+{
+  "ticker": "ALAB",
+  "slug": "alab",
+  "name": "Astera Labs (ALAB)",
+  "company": "Astera Labs, Inc.",
+  "companyShort": "Astera Labs",
+  "date": "2026-11-06",
+  "order": 146,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $179.47",
+  "price": "$179.47",
+  "base": "$114.03",
+  "upside": "-36.5",
+  "upsideText": "-36.5%",
+  "maxBuy": "$65.57",
+  "teaser": "Do not add. Astera Labs grew revenue 154%, but at $179.47 the price needs about $6.8 billion of 2028 revenue, close to my Bull case; Base $114.03, buy zone $65.57.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $44.65, base $114.03, bull $191.78, current price $179.47, buy zone at or below $65.57\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"44.65\" data-to=\"191.78\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"65.57\"></span>\n        <span class=\"ruler-tick\" data-value=\"44.65\"></span>\n        <span class=\"ruler-tick\" data-value=\"114.03\"></span>\n        <span class=\"ruler-tick\" data-value=\"191.78\"></span>\n        <span class=\"ruler-price\" data-value=\"179.47\"><span>Price $179.47</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"44.65\">Bear<b>$44.65</b></span>\n        <span data-value=\"114.03\">Base<b>$114.03</b></span>\n        <span data-value=\"191.78\">Bull<b>$191.78</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $65.57.</figcaption>\n    </figure>",
+  "llms": "Astera Labs, Inc. (ALAB) designs connectivity chips for AI server racks: Aries PCIe retimers, Scorpio fabric switches, Taurus Ethernet modules and Leo CXL memory controllers. Valued with a ten-year free cash flow model after stock-based pay and a forward EV/EBIT cross-check on 2028. Third quarter 2026 revenue rose 154% to $584.9 million, yet at $179.47 the price needs about 62% more revenue than the Base in every year, about $6.8 billion in 2028. Bear $44.65, Base $114.03, Bull $191.78. Verdict Hold at $179.47 (November 5, 2026 close), do not add, maximum buy price $65.57."
+}
