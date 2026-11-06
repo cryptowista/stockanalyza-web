@@ -1,0 +1,20 @@
+{
+  "ticker": "PL",
+  "slug": "pl",
+  "name": "Planet Labs (PL)",
+  "company": "Planet Labs PBC",
+  "companyShort": "Planet Labs",
+  "date": "2026-11-06",
+  "order": 143,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $11.37",
+  "price": "$11.37",
+  "base": "$1.67",
+  "upside": "-85.3",
+  "upsideText": "-85.3%",
+  "maxBuy": "No buy zone",
+  "teaser": "Do not add. Planet Labs fell 78% from its June high, but at $11.37 the price still needs about 23% growth a year for a decade at bull-case margins; my Base is $1.67 and there is no buy price yet.",
+  "ruler": "<figure class=\"ruler\" data-min=\"0\" data-max=\"12.4\" aria-label=\"Valuation range: bear $0 (equity value below zero), base $1.67, bull $7.92, current price $11.37, no buy zone\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0\" data-to=\"7.92\"></span>\n        <span class=\"ruler-tick\" data-value=\"0\"></span>\n        <span class=\"ruler-tick\" data-value=\"1.67\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.92\"></span>\n        <span class=\"ruler-price\" data-value=\"11.37\"><span>Price $11.37</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0\">Bear<b>$0</b></span>\n        <span data-value=\"1.67\">Base<b>$1.67</b></span>\n        <span data-value=\"7.92\">Bull<b>$7.92</b></span>\n      </div>\n      <figcaption>Bear $0: in the weak case the business never earns back its capital spending and stock pay, and the value per share falls below zero. No buy zone: see how the buy price is set.</figcaption>\n    </figure>",
+  "llms": "Planet Labs PBC (PL) operates the largest fleet of Earth imaging satellites and sells daily imagery, analytics and, increasingly, satellites and data to defense and government customers. Valued with a ten-year free cash flow model that counts stock-based pay and satellite capital spending in full and treats prepaid revenue like debt, with a revenue multiple as a check only. Down 78% from its June 2026 high, the price still implies about 23% revenue growth a year for ten years at bull-case margins. Bear $0, Base $1.67, Bull $7.92. Verdict Hold at $11.37 (November 5, 2026 close), do not add, no buy price."
+}
