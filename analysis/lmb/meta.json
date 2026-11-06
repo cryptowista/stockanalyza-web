@@ -1,0 +1,20 @@
+{
+  "ticker": "LMB",
+  "slug": "lmb",
+  "name": "Limbach Holdings (LMB)",
+  "company": "Limbach Holdings, Inc.",
+  "companyShort": "Limbach",
+  "date": "2026-11-06",
+  "order": 141,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $54.50",
+  "price": "$54.50",
+  "base": "$57.46",
+  "upside": "5.4",
+  "upsideText": "+5.4%",
+  "maxBuy": "$40.22",
+  "teaser": "Watchlist for new money. Limbach bought two companies and still guides 2026 adjusted EBITDA below its March plan. At $54.50 the price already assumes margins stay low; buy zone $40.22.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $35.45, base $57.46, bull $79.67, current price $54.50, buy zone at or below $40.22\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"35.45\" data-to=\"79.67\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"40.22\"></span>\n        <span class=\"ruler-tick\" data-value=\"35.45\"></span>\n        <span class=\"ruler-tick\" data-value=\"57.46\"></span>\n        <span class=\"ruler-tick\" data-value=\"79.67\"></span>\n        <span class=\"ruler-price\" data-value=\"54.50\"><span>Price $54.50</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"35.45\">Bear<b>$35.45</b></span>\n        <span data-value=\"57.46\">Base<b>$57.46</b></span>\n        <span data-value=\"79.67\">Bull<b>$79.67</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $40.22.</figcaption>\n    </figure>",
+  "llms": "Limbach Holdings (LMB) designs, installs and services mechanical, electrical, plumbing and control systems for hospitals, factories, universities and data centers. Valued with a five-year free cash flow model after stock-based pay and a forward EV/EBITDA cross-check after the CYMCOR and 1901 acquisitions. 2026 adjusted EBITDA guidance fell from a range of $90 to $94 million to $78 to $84 million even with two acquisitions; the price implies a long-term adjusted EBITDA margin of about 10.7%. Bear $35.45, Base $57.46, Bull $79.67. Verdict Hold at $54.50 (November 5, 2026 close), maximum buy price $40.22."
+}
