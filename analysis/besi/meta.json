@@ -1,0 +1,20 @@
+{
+  "ticker": "BESI",
+  "slug": "besi",
+  "name": "Besi (BESI)",
+  "company": "BE Semiconductor Industries N.V.",
+  "companyShort": "Besi",
+  "date": "2026-11-06",
+  "order": 147,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at €143.95",
+  "price": "€143.95",
+  "base": "€120.72",
+  "upside": "-16.1",
+  "upsideText": "-16.1%",
+  "maxBuy": "€69.41",
+  "teaser": "Watchlist for new money. Besi's orders nearly doubled and the stock more than halved, but at €143.95 the price still needs revenue above the company's own top target; Base €120.72, buy zone €69.41.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €49.43, base €120.72, bull €185.73, current price €143.95, buy zone at or below €69.41\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"49.43\" data-to=\"185.73\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"69.41\"></span>\n        <span class=\"ruler-tick\" data-value=\"49.43\"></span>\n        <span class=\"ruler-tick\" data-value=\"120.72\"></span>\n        <span class=\"ruler-tick\" data-value=\"185.73\"></span>\n        <span class=\"ruler-price\" data-value=\"143.95\"><span>Price €143.95</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"49.43\">Bear<b>€49.43</b></span>\n        <span data-value=\"120.72\">Base<b>€120.72</b></span>\n        <span data-value=\"185.73\">Bull<b>€185.73</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €69.41.</figcaption>\n    </figure>",
+  "llms": "BE Semiconductor Industries N.V. (BESI), listed on Euronext Amsterdam, makes chip assembly equipment, including hybrid bonding systems for stacked memory and logic. Valued in EUR with a ten-year free cash flow model and a forward EV/EBIT cross-check on 2028. Third quarter 2026 orders rose 96% to EUR 342.6 million; the price implies about EUR 2.28 billion of 2030 revenue, above the company's EUR 1.7 to 2.2 billion target. Bear EUR 49.43, Base EUR 120.72, Bull EUR 185.73. Verdict Hold at EUR 143.95 (November 6, 2026 Euronext close), maximum buy price EUR 69.41."
+}
