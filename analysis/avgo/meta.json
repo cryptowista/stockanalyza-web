@@ -1,0 +1,20 @@
+{
+  "ticker": "AVGO",
+  "slug": "avgo",
+  "name": "Broadcom (AVGO)",
+  "company": "Broadcom Inc.",
+  "companyShort": "Broadcom",
+  "date": "2026-11-06",
+  "order": 144,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $291.53",
+  "price": "$291.53",
+  "base": "$342.39",
+  "upside": "17.4",
+  "upsideText": "+17.4%",
+  "maxBuy": "$196.88",
+  "teaser": "Watchlist for new money. Broadcom guides AI revenue to double twice, yet at $291.53 the price fits only about 61% of the fiscal 2028 plan; Base $342.39, buy zone $196.88.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $171.30, base $342.39, bull $529.44, current price $291.53, buy zone at or below $196.88\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"171.30\" data-to=\"529.44\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"196.88\"></span>\n        <span class=\"ruler-tick\" data-value=\"171.30\"></span>\n        <span class=\"ruler-tick\" data-value=\"342.39\"></span>\n        <span class=\"ruler-tick\" data-value=\"529.44\"></span>\n        <span class=\"ruler-price\" data-value=\"291.53\"><span>Price $291.53</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"171.30\">Bear<b>$171.30</b></span>\n        <span data-value=\"342.39\">Base<b>$342.39</b></span>\n        <span data-value=\"529.44\">Bull<b>$529.44</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $196.88.</figcaption>\n    </figure>",
+  "llms": "Broadcom Inc. (AVGO) designs custom AI accelerators and networking chips for Google, Anthropic, OpenAI and Meta, other semiconductors, and VMware infrastructure software. Valued with a ten-year free cash flow model after stock-based pay and a forward EV/EBIT cross-check on fiscal 2028. Management guides AI revenue of about $115 billion in fiscal 2027 and $230 billion in fiscal 2028; the price implies about $141 billion in fiscal 2028. Bear $171.30, Base $342.39, Bull $529.44. Verdict Hold at $291.53 (November 5, 2026 close), maximum buy price $196.88."
+}
