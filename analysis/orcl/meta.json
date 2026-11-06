@@ -1,0 +1,20 @@
+{
+  "ticker": "ORCL",
+  "slug": "orcl",
+  "name": "Oracle (ORCL)",
+  "company": "Oracle Corporation",
+  "companyShort": "Oracle",
+  "date": "2026-11-06",
+  "order": 145,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $115.16",
+  "price": "$115.16",
+  "base": "$120.86",
+  "upside": "4.9",
+  "upsideText": "+4.9%",
+  "maxBuy": "$59.59",
+  "teaser": "Watchlist for new money. Oracle's AI build costs up to $95 billion this year; at $115.16 the price is close to my Base of $120.86, with a buy range of $59.59 to $82.91.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $42.71, base $120.86, bull $240.94, current price $115.16, buy zone at or below $59.59\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"42.71\" data-to=\"240.94\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"59.59\"></span>\n        <span class=\"ruler-tick\" data-value=\"42.71\"></span>\n        <span class=\"ruler-tick\" data-value=\"120.86\"></span>\n        <span class=\"ruler-tick\" data-value=\"240.94\"></span>\n        <span class=\"ruler-price\" data-value=\"115.16\"><span>Price $115.16</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"42.71\">Bear<b>$42.71</b></span>\n        <span data-value=\"120.86\">Base<b>$120.86</b></span>\n        <span data-value=\"240.94\">Bull<b>$240.94</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $59.59, the lower end of a $59.59 to $82.91 buy range.</figcaption>\n    </figure>",
+  "llms": "Oracle Corporation (ORCL) sells databases and business software and is building one of the largest AI cloud infrastructure businesses (OCI). Valued with a ten-year free cash flow model after stock-based pay, depreciation and own capital spending, with excess customer prepayments treated like debt and a forward EV/EBIT cross-check on fiscal 2029. Capex was $28.5 billion in one quarter, up to $95 billion planned for fiscal 2027, with $288 billion of data center leases not yet started; the price implies about $164 billion of fiscal 2030 revenue against a $225 billion target. Bear $42.71, Base $120.86, Bull $240.94. Verdict Hold at $115.16 (November 5, 2026 close), buy range $59.59 to $82.91, maximum buy price $59.59."
+}
