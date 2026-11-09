@@ -1,0 +1,20 @@
+{
+  "ticker": "APLE",
+  "slug": "aple",
+  "name": "Apple Hospitality REIT (APLE)",
+  "company": "Apple Hospitality REIT, Inc.",
+  "companyShort": "Apple Hospitality",
+  "date": "2026-11-09",
+  "order": 148,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $18.87",
+  "price": "$18.87",
+  "base": "$18.96",
+  "upside": "0.5",
+  "upsideText": "+0.5%",
+  "maxBuy": "$13.27",
+  "teaser": "Watchlist for new money. Apple Hospitality's hotels are full again and the quarter was strong, but cash earnings per share are back at 2018 levels and $18.87 already pays for the recovery; Base $18.96, buy zone $13.27.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $13.19, base $18.96, bull $22.23, current price $18.87, buy zone at or below $13.27\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"13.19\" data-to=\"22.23\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"13.27\"></span>\n        <span class=\"ruler-tick\" data-value=\"13.19\"></span>\n        <span class=\"ruler-tick\" data-value=\"18.96\"></span>\n        <span class=\"ruler-tick\" data-value=\"22.23\"></span>\n        <span class=\"ruler-price\" data-value=\"18.87\"><span>Price $18.87</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"13.19\">Bear<b>$13.19</b></span>\n        <span data-value=\"18.96\">Base<b>$18.96</b></span>\n        <span data-value=\"22.23\">Bull<b>$22.23</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $13.27.</figcaption>\n    </figure>",
+  "llms": "Apple Hospitality REIT (APLE), listed on the NYSE, owns 216 rooms-focused Hilton, Marriott and Hyatt hotels in 37 states and pays a monthly dividend of $0.96 a year. Valued with a five-year cash flow model to shareholders after hotel capital spending, interest and stock pay, and a private-market asset value of the hotels at a 7.25% cap rate. Third quarter 2026 comparable RevPAR rose 7.3% and MFFO per share 16.3%, but 2026 MFFO per share of about $1.71 is close to the $1.72 of 2018; the price implies a 7.2% cap rate on 2027 hotel income. Bear $13.19, Base $18.96, Bull $22.23. Verdict Hold at $18.87 (November 6, 2026 NYSE close), maximum buy price $13.27."
+}
