@@ -1,0 +1,20 @@
+{
+  "ticker": "ANET",
+  "slug": "anet",
+  "name": "Arista Networks (ANET)",
+  "company": "Arista Networks, Inc.",
+  "companyShort": "Arista Networks",
+  "date": "2026-11-09",
+  "order": 149,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $170.80",
+  "price": "$170.80",
+  "base": "$129.15",
+  "upside": "-24.4",
+  "upsideText": "-24.4%",
+  "maxBuy": "$74.26",
+  "teaser": "Do not add. Arista grew revenue 58.5% and the stock fell 21% from its October high, but $170.80 still equals my Bull case; Base $129.15, buy zone $74.26.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $62.71, base $129.15, bull $170.38, current price $170.80, buy zone at or below $74.26\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"62.71\" data-to=\"170.38\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"74.26\"></span>\n        <span class=\"ruler-tick\" data-value=\"62.71\"></span>\n        <span class=\"ruler-tick\" data-value=\"129.15\"></span>\n        <span class=\"ruler-tick\" data-value=\"170.38\"></span>\n        <span class=\"ruler-price\" data-value=\"170.80\"><span>Price $170.80</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"62.71\">Bear<b>$62.71</b></span>\n        <span data-value=\"129.15\">Base<b>$129.15</b></span>\n        <span data-value=\"170.38\">Bull<b>$170.38</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $74.26.</figcaption>\n    </figure>",
+  "llms": "Arista Networks (ANET), listed on the NYSE, sells Ethernet switches and the EOS operating system for cloud, AI and campus networks; two customers bought 42% of 2025 revenue. Valued with a ten-year free cash flow model with stock pay as a cost and a forward EV/EBIT cross-check on 2028. Third quarter 2026 revenue rose 58.5% to $3.66 billion and management guides about $18.5 billion for 2027; the price implies revenue about 37% above my Base every year, roughly my Bull case. Bear $62.71, Base $129.15, Bull $170.38. Verdict Hold at $170.80 (November 6, 2026 NYSE close), do not add, maximum buy price $74.26."
+}
