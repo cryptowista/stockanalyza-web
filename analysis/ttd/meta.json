@@ -1,0 +1,20 @@
+{
+  "ticker": "TTD",
+  "slug": "ttd",
+  "name": "The Trade Desk (TTD)",
+  "company": "The Trade Desk, Inc.",
+  "companyShort": "The Trade Desk",
+  "date": "2026-11-09",
+  "order": 151,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $14.93",
+  "price": "$14.93",
+  "base": "$17.38",
+  "upside": "16.4",
+  "upsideText": "+16.4%",
+  "maxBuy": "$9.99",
+  "teaser": "Revenue fell 0.5% but beat the company's own floor by $86 million. At $14.93 the stock sits 14.1% below my Base of $17.38; buy zone $9.99.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $8.64, base $17.38, bull $29.59, current price $14.93, buy zone at or below $9.99\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"8.64\" data-to=\"29.59\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"9.99\"></span>\n        <span class=\"ruler-tick\" data-value=\"8.64\"></span>\n        <span class=\"ruler-tick\" data-value=\"17.38\"></span>\n        <span class=\"ruler-tick\" data-value=\"29.59\"></span>\n        <span class=\"ruler-price\" data-value=\"14.93\"><span>Price $14.93</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"8.64\">Bear<b>$8.64</b></span>\n        <span data-value=\"17.38\">Base<b>$17.38</b></span>\n        <span data-value=\"29.59\">Bull<b>$29.59</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $9.99.</figcaption>\n    </figure>",
+  "llms": "The Trade Desk (TTD), listed on Nasdaq, runs the largest independent self-service platform for buying digital advertising and earns a fee on about $13.4 billion of annual ad spend; Amazon's cheaper buying platform and agency fee disputes pressure that fee. Valued with a ten-year free cash flow model with stock pay as a cost and a forward EV/EBIT cross-check on 2028. Third quarter 2026 revenue fell 0.5% to $736.0 million, $86 million above the company's own floor, and the fourth quarter guide is at least $755 million, down 10.8%. Bear $8.64, Base $17.38, Bull $29.59. Verdict Hold at $14.93 (November 9, 2026 Nasdaq close, before the results), maximum buy price $9.99."
+}
