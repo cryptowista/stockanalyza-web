@@ -1,253 +1,291 @@
 <!-- Markdown version of https://stockanalyza.com/analysis/rily/ -->
 
-# BRC Group Holdings: a P/E of 0.5 that is not what it seems
+# BRC Group lost $227 million on one stock in a single quarter; what is left for common shareholders is a thin slice, so the verdict is reduce
 
-RILY, NASDAQ. Formerly B. Riley Financial. Published September 24, 2026. Price as of the September 23, 2026 close.
+RILY, NASDAQ. Formerly B. Riley Financial. Updated November 9, 2026 (first published September 24, 2026). Price as of the November 6, 2026 close. Values in US dollars. Latest reported quarter: July to September 2026, released on November 5, 2026.
 
-## Verdict: HOLD at $5.76
+## Verdict: REDUCE at $3.64
 
-Watchlist for new money. The shares trade 38% below the Base value, but common equity sits behind $1.28 billion of debt and preferred stock, and the share count rose 31% this year. That calls for a 50% margin of safety, which puts the buy zone at $4.62 or below.
+Do not add. At $3.64 the shares trade 70% above my Base value of $2.14. After a $226.7 million loss on Babcock & Wilcox, common shareholders own a thin slice behind $1.32 billion of debt, preferred stock and minority claims, so a small change in the value of the businesses moves the share value by dollars. Confidence is D, and I issue no buy price until the debt schedule and the investment values are clearer.
 
-- Bear value: $2.45
-- Base value: $9.24
-- Bull value: $14.60
-- Upside to base value: 60.4%
-- Maximum buy price: $4.62
-- Required margin of safety: 50%
-- Probability-weighted value: $7.93 (35/45/20)
-- Operating EBITDA implied by the price: about $147 million (Base $185 million)
-- Dividend: none to underwrite
-- Business quality: 39/100
-- Valuation score: 72/100
-- Confidence: 14/25, grade C
+- Bear value: $0.13
+- Base value: $2.14
+- Bull value: $10.13
+- Downside to base value: -41.1%
+- Maximum buy price: No buy zone
+- Required margin of safety: 55%, entry not defined
+- What the price implies: about 6.3 times my normalized operating EBITDA, or $166 million a year of it at my 5.5 times
+- Third quarter 2026: net loss to common $243.0 million ($6.04 a share), operating adjusted EBITDA $2.9 million
+- Claims ahead of common: debt $1,136.0 million, preferred $128.2 million, minority interests $53.1 million
+- Next maturity: $164 million of notes due December 31, 2026, against $145.7 million of cash
+- Dividend: none on the common stock
+- Business quality: 12.5/100
+- Valuation score: 5/100
+- Confidence: 11.25/25, grade D
 
-Screeners show BRC Group Holdings, the former B. Riley Financial, at a P/E of 0.47 and 0.41x free cash flow. Those numbers are an artifact of one-off investment gains, asset sales and debt exchanges. The real question is what is left for common shareholders after debt, preferred stock and a large, hard-to-value investment portfolio. The answer is: more than the price, but with a very wide range.
+Seven weeks ago this analysis said hold at $5.76 and set a buy zone at $4.62. The stock walked into that zone in mid-October, closing at $4.44 on October 19, a little over two weeks before BRC Group reported a $226.7 million loss on a single position, Babcock & Wilcox. My Bear case had assumed a 10% markdown on the whole investment portfolio. The third quarter loss was about 59% of what the largest holding was worth before it (my arithmetic). I got the size of that risk wrong, and anyone who bought at my buy price is down about 21%.
 
-At $5.76 on September 23, 2026, the shares trade 37.7% below my triangulated Base value of $9.24, an upside of 60.4%. The Bear value of $2.45 is 57.5% below the price, and the required margin of safety of 50% puts the maximum buy price at $4.62. For existing holders this is a hold. For new money it is a watchlist name.
+So this is a rebuild, not a touch-up. The new Base value is $2.14, 41.1% below the $3.64 close of November 6. The Bear value is $0.13 and the Bull value $10.13; I assign no probabilities. The verdict is Reduce, and there is no buy zone: the common stock is now a thin residual behind much larger claims, and two inputs that decide its value, the debt schedule beyond 2027 and the current worth of the remaining stakes, are not disclosed well enough to price an entry.
 
-Valuation route: Holding companies and conglomerates, a leveraged diversified financial services holding company in a special situation. Economic classification: Standard Company (4/12). Primary method: sum of the parts, operating EBITDA at a multiple less net debt and preferred stock, with a holding company discount. Secondary method: normalized common earnings. Values are present fair-value estimates, not 12-month price targets.
+Valuation route: a leveraged financial holding company with operating businesses and a portfolio of stakes. The primary method is a sum of the parts: operating EBITDA at a multiple, plus cash and investments with explicit haircuts, minus debt, preferred stock and minority interests. The cross-check capitalizes normalized common earnings. Both use the same 40.2 million shares. Values are present fair-value estimates in US dollars, not 12-month price targets.
 
-## What BRC Group is
+## What BRC Group is now
 
-BRC Group combines capital markets (B. Riley Securities), wealth management, communications businesses, a consumer products segment, a direct lending platform and a large portfolio of proprietary investments. It is not a deposit-funded bank. After a severe crisis in 2024, including delayed filings and a Nasdaq delisting notice, it spent 2025 and 2026 selling assets, exchanging debt and restoring filing compliance, which it regained in January 2026.
+BRC Group is the former B. Riley Financial: an investment bank and brokerage (B. Riley Securities), a wealth manager with about $12.8 billion of client assets and 181 advisors, a cluster of legacy telecom and internet businesses (Lingo, magicJack, Marconi Wireless, UOL), the Targus consumer products business and a book of proprietary stakes. It sold GA Group to Oaktree on November 3 for $62.3 million, mostly as a debt reduction, and restored 100% ownership of B. Riley Securities in October.
 
-The character of the company remains high risk. It increasingly behaves like a holding company with proprietary investments, and its $804.5 million investment portfolio cannot be treated as excess cash. That justifies lower multiples, an explicit holding company discount and a high margin of safety.
+It is also buying. In September it agreed to acquire Sangoma, a communications software company, for an enterprise value of $203.7 million, funded mainly by $212.3 million of new term loans at the telecom subsidiaries and about $54 million of equity, with Sangoma holders getting about 4% of BRC's shares. Management expects $35 million to $40 million of EBITDA from it including savings. A company that just lost $226.7 million on one stock is adding $140.8 million of subsidiary debt to grow its oldest business line.
 
-## The latest quarter
+## The latest results
 
-| Q2 2026 | Result |
+| $ million | Q3 2026 | Q3 2025 | 9 months 2026 |
+| --- | --- | --- | --- |
+| Total revenue | 33.0 | 277.9 | 624.2 |
+| Investment gains (losses) | -128.3 | 33.7 | 6.3 |
+| Net income to common | -243.0 | 89.1 | -13.2 |
+| Operating adjusted EBITDA | 2.9 | 54.9 | 103.3 |
+| Company-defined net debt | 562.3 | n/a | 627.0 at end of 2025 |
+
+Capital markets reported negative revenue of $90.2 million because of $125.7 million of trading losses, mostly on Babcock & Wilcox. The communications businesses earned $13.2 million and are, by management's account, ahead of budget; Targus lost $4.3 million again. Company-defined net debt, which subtracts cash and investments at book from debt, was $562.3 million at the end of September. In June it was $285.2 million.
+
+## Which numbers to trust
+
+- **Operating adjusted EBITDA changed definition again.** It now also excludes the GA Group stake and the minority share of investment gains. Prior periods were recast, but the release gives only nine-month and third-quarter figures, so I cannot rebuild the quarters.
+- **It also adds back a trading spread.** $55.4 million of "fixed income and variable rate transaction spread" was excluded in nine months. If part of that is a recurring cost of running the trading book, operating EBITDA is overstated. I do not adjust it, but it is one more reason for a low multiple.
+- **The second quarter was not as good as it looked.** $17.4 million of third quarter losses reversed a second quarter gain and marked down a SpaceX carried interest. Over nine months the two quarters net out, which is why I use the nine-month total of $103.3 million, annualized to $137.8 million.
+- **Book value is now negative.** BRC stockholders' deficit was $97.7 million at the end of September, before the $128.2 million preferred liquidation preference. Price to book is not meaningful.
+
+## Debt, senior claims and dilution
+
+| September 30, 2026 | $ million |
 | --- | --- |
-| Revenue | $239.1 million (prior year $225.3 million); first half $591.2 million, up 44% |
-| Net income to common shareholders | $18.5 million, $0.45 per diluted share (prior year $137.5 million) |
-| Adjusted EBITDA / Operating Adjusted EBITDA | $61.3 million / $66.0 million, the best core quarter since Q3 2023 |
-| First half net income to common shareholders | $229.8 million, $6.47 per diluted share, mostly investment gains in Q1 |
-| Total debt / company-defined net debt | $1.28 billion / $285.2 million (from $627.0 million at the end of 2025) |
-| Total investments | $804.5 million |
+| Senior notes, term loans, revolver | 1,136.0 |
+| Preferred stock, liquidation preference | 128.2 |
+| Minority interests | 53.1 |
+| Cash and restricted cash, net clearing receivable | 165.1 |
+| Total investments at book | 408.6 |
+| Of which Babcock & Wilcox | 160.3 |
 
-In August the company called for full redemption of $142.1 million of its 6.50% notes due 2026, removing a near-term maturity. The consumer products segment still lost $5.7 million in the quarter.
+The next test is close: $164 million of senior notes due December 31, 2026, which management plans to repay from cash, operating cash flow and asset sales. Against September cash of $145.7 million plus the $10.6 million of GA cash and the $26.5 million incremental term loan, that leaves about $19 million (my arithmetic, before operating cash flow and the up to $50 million management hopes to raise from SpaceX-linked shares), and Sangoma needs about $38 million of parent equity in January. Management says there are no senior note maturities in 2027; it did not confirm an analyst's estimate of at least $800 million due in 2028 and later.
 
-## Why the screen multiples mislead
-
-First-half earnings were driven by trading and investment gains, especially $262.2 million of adjusted EBITDA in Q1, when operating adjusted EBITDA was only $34.6 million. Those gains do not repeat on schedule. The honest metric is the value of the operating businesses plus realizable investments, minus every claim ahead of common shareholders, minus a discount for opacity. Q2's $66 million of operating adjusted EBITDA is not simply annualized: the Base uses $185 million a year, below the $264 million a Q2 run rate would suggest and below the first half annualized.
-
-Company-defined net debt already subtracts cash and the investment portfolio at book value from total debt. Investments are therefore counted once, at book, inside net debt, and not added again.
-
-## Claims ahead of common shareholders
-
-| June 30, 2026 | $ million |
-| --- | --- |
-| Total debt | 1,280 |
-| Company-defined net debt, after cash and investments | 285.2 |
-| Preferred stock, liquidation preference | 126.2 |
-| Stockholders' equity (book) | 142.2 |
-
-Shares outstanding rose from 30.60 million at the end of 2025 to 40.20 million at June 30, 2026, about **31%** in six months. Book value is about $3.54 per share, so the stock trades at 1.6x book.
+There are 40.2 million common shares, up from 30.6 million at the end of 2025, a 31% increase; about 8.4 million of them came from swapping $69.1 million of notes for stock. The preferred liquidation preference rose from $122.1 million to $128.2 million this year, the same amount as the dividends recorded, which suggests those dividends are accruing rather than being paid in cash (my reading of the filing).
 
 ## Primary valuation: sum of the parts
 
+The Base takes nine-month operating EBITDA of $103.3 million, annualizes it to $137.8 million and adds $7.5 million of the $5 million to $10 million of legal and accounting savings management targets for 2027, for $145.3 million. I apply 5.5 times: legacy telecom deserves about 4 times, wealth management and a small-cap investment bank more, and the whole is a holding structure with a weak record. Babcock & Wilcox stays at its September book value, the $92.4 million of private stakes take a 25% haircut because they are illiquid and management hopes to sell them only in 2027 or 2028, and the rest of the investments stay at book. Sangoma is left out until it closes.
+
 | Base bridge | $ million |
 | --- | --- |
-| Normalized operating adjusted EBITDA | 185.0 |
-| Enterprise value at 5.0x | 925.0 |
-| Less company-defined net debt | -285.2 |
-| Less preferred liquidation preference | -126.2 |
-| Value before discount | 513.6 |
-| Complexity, realization and governance discount of 28% | -143.8 |
-| Common equity value | 369.8 |
+| Operating businesses, $145.3 million at 5.5 times | 798.9 |
+| Plus cash and net clearing receivable | 165.1 |
+| Plus investments after haircut | 385.5 |
+| Less debt | -1,136.0 |
+| Less preferred stock | -128.2 |
+| Less minority interests | -53.1 |
+| Common equity | 32.2 |
 
-Divided by 40.2 million shares, the primary Base value is **$9.20**.
+Divided by 40.2 million shares, that is **$0.80** a share. The number is small because the cushion is small, and it moves fast: every $10 million of EBITDA at 5.5 times is worth $1.37 a share, and half a turn of multiple is worth about $1.81.
+
+| Operating EBITDA | 4.5 times | 5.5 times | 6.5 times |
+| --- | --- | --- | --- |
+| $115 million | $0.00 | $0.00 | $0.00 |
+| $145.3 million | $0.00 | $0.80 | $4.42 |
+| $175 million | $0.52 | $4.87 | $9.22 |
+
+Where the claims exceed the value of the assets the common is worth nothing on this method, so I floor those cells at zero. In practice shares in that position can still trade above zero as an option on a recovery, which is what the Bull case captures.
 
 ## Secondary valuation: normalized common earnings
 
-Sustainable common earnings of $45 to $55 million at a distressed 7x to 8x give $7.84 to $10.95 per share. At the midpoints, $50 million at 7.5x gives $375 million, or **$9.33** per share.
+The cross-check starts from the same $145.3 million and subtracts what the common holders do not get: $9.7 million of stock pay, $30.0 million of depreciation and amortization, $62.3 million of interest (the third quarter run rate less the notes due in December), $8.1 million of preferred dividends and $4.3 million for minority holders, and adds $2.6 million of interest and dividend income. Tax losses keep cash tax near zero. That leaves $33.4 million of common earnings. At 5 times, a low multiple for a leveraged, hard-to-read company, that is $167.0 million, or **$4.16** a share.
 
-## Historical cross-check
+| Base, same claims and shares | Sum of the parts | Common earnings | Market price |
+| --- | --- | --- | --- |
+| Common equity, $ million | 32.2 | 167.0 | 146.3 |
+| Implied times operating EBITDA | 5.5 | 6.4 | 6.3 |
+| Value per share | $0.80 | $4.16 | $3.64 |
 
-Historical multiples are structurally unreliable after asset sales, debt exchanges, a dividend cut, investment marks and heavy dilution. The stock traded above $50 in 2023 and collapsed in 2024. History supports a persistent discount, not automatic mean reversion.
+The two methods are far apart, and the table shows why. A price of 5 times common earnings sounds cheap, but with $1.15 billion of net claims behind it, it implies that the operating businesses are worth 6.4 times EBITDA, more than I would pay for this mix. The earnings method also ignores that $385.5 million of investments earn almost nothing while the debt that carries them costs about 6% a year. Both views are defensible, so I keep both visible rather than average the gap away.
+
+## History and update check
+
+| Input | September 2026 analysis | This update |
+| --- | --- | --- |
+| Price | $5.76 | $3.64 |
+| Total investments | $804.5 million | $408.6 million |
+| Company-defined net debt | $285.2 million | $562.3 million |
+| Normalized operating EBITDA | $185 million | $145.3 million |
+| Minority interests deducted | no | $53.1 million |
+| Base value | $9.24 | $2.14 |
+
+Most of the fall in value comes from the investment portfolio: roughly $227 million lost on one stock, and the rest from sales and other changes the filing does not split out, in a quarter when the company also redeemed $142.1 million of notes. The old Base also assumed about $46 million of operating EBITDA a quarter; the third quarter delivered $2.9 million, $20.3 million before the reversals. And the September analysis left out the $53.1 million of minority interests, which is worth $1.32 a share on its own. The old buy price of $4.62 is withdrawn, not adjusted.
 
 ## Valuation triangulation
 
-| Method | Base value | Weight |
-| --- | --- | --- |
-| Sum of the parts | $9.20 | 70% |
-| Normalized common earnings | $9.33 | 30% |
-| Triangulated Base | $9.24 | 100% |
+- Sum of the parts (weight 60%): $0.80.
+- Normalized common earnings (weight 40%): $4.16.
+- Base value: **$2.14**, inside the method range of $0.80 to $4.16.
+- The sum of the parts gets more weight because it counts every asset and every claim once; the earnings method is a check on the multiple, not a second opinion on the balance sheet.
 
-The methods diverge by only 1.4%. That convergence is less reassuring than it looks, because both depend on the same normalization of a volatile business.
+The price of $3.64 sits inside that range, nearer the earnings end. If you accept that the businesses are worth about 6.3 times EBITDA and that the investments are worth their book value, today's price is roughly fair. If either is too generous, the common is worth very little.
 
 ## What is the market already pricing in?
 
-At $5.76, common equity is worth about $232 million. Reversing the Base bridge at 5x with the same discount, the price implies operating adjusted EBITDA of about **$147 million**, close to the Bear operating level. The market is pricing weaker normalized earnings, investment impairments, refinancing setbacks, further dilution and legal or regulatory risk, or a mix of all of them.
+| Reverse valuation at $3.64 | Result |
+| --- | --- |
+| Market value of the common | $146.3 million |
+| Implied value of the operating businesses | $913.0 million |
+| Times my normalized operating EBITDA | 6.3 |
+| Or operating EBITDA needed at 5.5 times | about $166 million |
+| Price to my normalized common earnings | 4.4 times |
+
+The market is not pricing a collapse. It is pricing a company that keeps its businesses, refinances its debt, sells its stakes near book and earns more than it did this year. That is closer to my Bull than to my Base.
 
 ## Bear, base and bull scenarios
 
-|  | Bear | Base | Bull |
-| --- | --- | --- | --- |
-| Probability | 35% | 45% | 20% |
-| Operating adjusted EBITDA ($ million) | 145 | 185 | 215 |
-| EV to EBITDA | 4.0x | 5.0x | 6.0x |
-| Investment impairment ($ million) | 80 (-10%) | 0 | 0 |
-| Common earnings ($ million) at multiple | 30 at 6x | 50 at 7.5x | 60 at 8x |
-| Sum of the parts / earnings value | $1.58 / $4.48 | $9.20 / $9.33 | $15.74 / $11.94 |
-| Triangulated value | $2.45 | $9.24 | $14.60 |
-| vs $5.76 | -57.5% | +60.4% | +153.4% |
+| Case | Operating EBITDA | Multiple | Babcock & Wilcox / private stakes | Earnings multiple | Value | Versus price |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bear | $115 million | 4.5 | -30% / -40% | 4 | $0.13 | -96.5% |
+| Base | $145.3 million | 5.5 | 0% / -25% | 5 | $2.14 | -41.1% |
+| Bull | $175 million | 6.5 | +20% / 0% | 6 | $10.13 | +178.3% |
 
-**Bear:** the Q2 rebound fades, investment marks fall and refinancing gets harder, all of which reinforce each other in a leveraged holding company, so lowering both earnings and multiple is justified. **Base:** capital markets and wealth recovery partly persists and the balance sheet keeps stabilizing. **Bull:** strong capital markets, successful asset monetization and further deleveraging.
+- **Bear:** small-cap capital markets stay weak, the telecom businesses keep shrinking and the stakes have to be sold below book to meet maturities. The claims then exceed the assets, so the sum of the parts is zero; common earnings of $3.2 million give $0.31. Value $0.13.
+- **Base:** as described above. Sum of the parts $0.80, common earnings $4.16.
+- **Bull:** capital markets recover, Sangoma and the savings lift EBITDA to $175 million, Babcock & Wilcox recovers 20% and the private stakes sell at book. Sum of the parts $10.60, common earnings $9.43.
 
-The probability-weighted value is **$7.93**, 37.7% above the price, even with a 35% Bear probability.
+Each case blends the two methods 60/40. In the Bear, lower earnings, a lower multiple and lower asset values move together on purpose: forced sellers of stakes get worse prices exactly when their operating businesses are weakest.
 
-### Sensitivity: sum of the parts value per share
+## Why there is no buy price
 
-| Operating EBITDA \ Multiple | 4x | 5x | 6x |
-| --- | --- | --- | --- |
-| $145 million | $3.02 | $5.62 | $8.21 |
-| $185 million | $5.89 | $9.20 | $12.51 |
-| $215 million | $8.03 | $11.89 | $15.74 |
+Confidence is D, which would mean a margin of safety of 55%. Applied to $2.14 that gives $0.96, but I do not publish it, because the number would be more precise than the model. Half a turn of multiple moves the Base by about $1.81, a 30% change in the Babcock & Wilcox value by about $0.48 (from $2.14 to $1.66), and dropping the cost savings by $0.85. The common stock is a residual that small assumptions can erase or double.
 
-Before any investment impairment, with the 28% discount. A 10% investment impairment removes about $1.44 per share from each cell.
-
-## How the buy price is set
-
-Confidence C starts at a 40% margin of safety. Five points are added for leverage and five for opacity, for 50%. Half of the $9.24 Base gives a **maximum buy price of $4.62**. A distressed reference around $3.20 to $3.70 applies only if no new thesis-breaking event explains the fall.
+I would set a buy price again when four things are known: the December 31 notes repaid without new shares, a full maturity schedule for the senior notes due in 2028 and later with a credible refinancing plan, two quarters of operating EBITDA of at least $35 million under a stable definition, and the size of the Babcock & Wilcox stake so it can be marked to market.
 
 ## Dividend
 
-Common shares should not be owned for income. The common dividend was cut sharply during the balance sheet stress, and screeners showing past payouts are out of date. Preferred securities are separate, senior claims.
+The common stock pays no dividend. The preferred stock comes first, and its liquidation preference has been growing by the amount of its dividends this year. Do not own the common for income.
 
-## Reasons to own RILY
+## Reasons to own BRC Group
 
-- **Core recovery.** Q2 operating adjusted EBITDA of $66 million was the best core quarter in nearly three years.
-- **Rapid deleveraging.** Company-defined net debt fell by $341.7 million in the first half, and the 2026 notes are being redeemed.
-- **Real franchises.** Capital markets, wealth management and communications have standalone value.
-- **A large discount.** $5.76 is well below both the Base and the probability-weighted value.
-- **Optionality.** Asset monetization and stronger capital markets could accelerate deleveraging.
+- The communications businesses earned $39.7 million in nine months and are tracking ahead of budget.
+- Total debt fell $291.7 million this year, and management says there are no senior note maturities in 2027.
+- Wealth management has about $12.8 billion of client assets, and B. Riley Securities is wholly owned again.
+- Sangoma, if it closes, more than doubles the communications revenue and adds $35 million to $40 million of EBITDA by management's estimate.
+- A recovery in small-cap deals and in Babcock & Wilcox could lift the equity sharply, as the Bull shows.
 
 ## What could go wrong?
 
-- **Refinancing.** Solvency stress or forced asset sales. This is the main thesis breaker.
-- **Investment marks.** A concentrated portfolio at book value could be worth materially less when sold.
-- **Dilution.** The share count already rose 31% this year, and more issuance would absorb much of the upside.
-- **Governance and regulation.** Past reporting delays and regulatory uncertainty keep the discount justified.
+- Liquidity. The $164 million due December 31 nearly uses up September's cash before Sangoma's $38 million of equity in January.
+- Refinancing. Hundreds of millions of notes come due from 2028, and the company has not published a plan.
+- Concentration. One listed stake caused a $226.7 million loss in a quarter; the remaining $160.3 million of it can move just as fast.
+- Dilution. The share count is up 31% this year; more note-for-stock swaps would take value from existing holders.
+- Disclosure. A second change to the EBITDA definition this year, a growing preferred claim and no share count for the largest stake make the company hard to value from outside.
+
+The options market prices large moves. At-the-money implied volatility averaged about 71% in October, which suggests a typical one-month move of about 20%, or $0.74, either way. I could not get a reliable read on the relative price of downside protection, so I draw no tail-risk conclusion from it, and none of this changes the value.
 
 ## Management execution
 
-Positives: sharp net debt reduction, an improved core result and restored filing compliance. Negatives: prior filing delays, major dilution, volatile investment marks and complicated adjusted accounting. Management credibility scores **8/20**, mixed.
+- Debt was cut by $291.7 million this year and filings are on time again.
+- The GA Group sale reduced the Oaktree loan to $43.7 million and removed its prepayment fees.
+- A single concentrated stake was allowed to grow large enough to erase most of the year's progress.
+- The share count rose 31% in nine months, partly through note-for-stock swaps.
+- The EBITDA definition changed again, and the company is borrowing at its subsidiaries for a new acquisition before the December maturity is paid.
+
+On my ten-point management check (two points each), BRC Group scores 5 of 20, down from 8.
 
 ## Stock Analyza scorecard
 
 | Business quality | Score |
 | --- | --- |
-| Moat | 10/20 |
-| Economic return | 7/20 |
-| Balance sheet | 5/15 |
-| Earnings quality | 5/15 |
-| Growth and runway | 5/15 |
-| Management and capital allocation | 4/10 |
-| Dilution and governance | 3/5 |
-| Total | 39/100 |
+| Franchise and pricing power | 5/20 |
+| Return on capital over its cost | 0/20 |
+| Balance sheet and resilience | 3.75/15 |
+| Earnings quality | 0/15 |
+| Growth and reinvestment runway | 0/15 |
+| Management and capital allocation | 2.5/10 |
+| Dilution and governance | 1.25/5 |
+| Total | 12.5/100 |
 
-The valuation score is **72/100**: a large discount to Base and converging methods, offset by a Bear value far below the price.
+The valuation score is **5 of 100**.
 
-| Economic classification | Points |
+| Valuation score | Score |
 | --- | --- |
-| Economic return | 1/2 |
-| Economic value growth | 0/2 |
-| Per-share value growth | 0/2 |
-| Balance sheet | 0/1 |
-| Franchise economics | 1/1 |
-| Recurring economics | 1/2 |
-| Reinvestment runway | 1/2 |
-| Total: Standard Company | 4/12 |
+| Discount to the Base (the price is 70% above it) | 0/50 |
+| Price against the Bear (-96.5%) | 0/30 |
+| What the price assumes (between Base and Bull) | 5/20 |
+| Total | 5/100 |
+
+On the economic score for holding companies the company reaches 2 of 12, a standard company with no evidence of per-share value creation. Business quality and valuation are shown separately and are not averaged.
 
 ## Confidence score
 
 | Confidence | Score |
 | --- | --- |
-| Data quality and provenance | 4/5 |
-| Business predictability | 2/5 |
-| Valuation robustness | 3/5 |
-| Accounting transparency | 2/5 |
-| Scenario dispersion | 3/5 |
-| Total | 14/25, grade C |
+| Historical data and sources (filings; stake size and maturity schedule missing) | 3.75/5 |
+| Accounting and ownership (changed definitions, accruing preferred) | 1.25/5 |
+| Evidence for forward assumptions (no guidance, volatile markets) | 1.25/5 |
+| Model construction (two independent recomputations agree) | 2.5/5 |
+| Independent challenge (two methods, reverse valuation, no peer set) | 2.5/5 |
+| Total | 11.25/25, grade D |
+
+The grade measures how well the model is identified, not the chance of a loss.
 
 ## What I would watch from here
 
+The next tests come before the next report: the $164 million repayment on December 31, the Sangoma closing in January and the size of any new share issue. The fourth quarter report, expected in early 2027, then has to show operating EBITDA of at least $35 million without new definition changes and a disclosed maturity schedule for the notes due from 2028.
+
 ### Green
 
-- Operating adjusted EBITDA of $55 million or more a quarter
-- Net debt below $300 million and falling, total debt falling
-- Dilution below 2%
-- Investments stable or realized close to book value
-- Timely filings
+- December notes repaid without new shares or new holding company debt.
+- Operating EBITDA of $35 million or more a quarter on an unchanged definition.
+- Private stakes sold at or above book value.
 
 ### Yellow
 
-- Operating adjusted EBITDA of $35 to $55 million a quarter
-- Net debt of $300 to $500 million, flat total debt
-- Dilution of 2% to 10%
-- A moderate decline in investment values, or a filing warning
+- December notes repaid with a new term loan or revolver draw.
+- Operating EBITDA between $20 million and $35 million a quarter.
+- Up to 10% more shares through note swaps.
 
 ### Red
 
-- Operating adjusted EBITDA below $35 million a quarter
-- Net debt above $500 million and rising, or total debt rising materially
-- More than 10% additional dilution
-- A major investment impairment
-- A new delisting process
-
-Review at each quarterly report, material financing, asset sale, legal or regulatory event, or equity issuance.
+- December notes not repaid on time, or repaid with a large share issue.
+- Another large loss on Babcock & Wilcox or another single stake.
+- Preferred dividends formally suspended, or a covenant amendment on the term loans.
 
 ## The three most important thesis breakers
 
-1. Renewed refinancing stress.
-2. A major investment impairment.
-3. More than 10% additional dilution.
+1. A failed or dilutive refinancing of the December notes or the 2028 maturities, which leads toward the Bear.
+2. Forced sales of stakes below book value to meet maturities.
+3. A capital markets recovery with stakes sold near book and EBITDA near $175 million, which leads toward the Bull and would make today's price cheap.
 
 ## Stress test and independent check
 
-The first draft's Base bridge reconciled, but three things were corrected. Its sensitivity table did not follow its own bridge: at 4x and 6x most cells were off by $0.40 to $0.70 per share. It rounded the weighted Base of $9.14 up to the higher primary value of $9.20, which the framework does not allow, and its secondary value of $9.00 had no stated inputs; at the midpoints of its own ranges it is $9.33. Finally, its Bear and Bull values of $2.70 and $15.10 were not derived from either method. They are now built from both, and the Bear case adds a 10% investment impairment, because investment marks are one of the main risks. The Base moved from $9.20 to $9.24, the Bear from $2.70 to $2.45, the Bull from $15.10 to $14.60 and the buy price from $4.60 to $4.62. The verdict is unchanged.
+I rebuilt both methods and all three scenarios in a second, separately written script, and the results match to the cent. That checks the arithmetic, not the assumptions.
 
-The strongest counter-argument is that the Q2 operating result may be a cyclical peak, investment marks may reverse, company-defined net debt may overstate realizable liquidity and further dilution could consume the upside. The Base already normalizes below the Q2 run rate, applies a large discount and requires a 50% margin of safety.
-
-| Robustness test | Base value |
+| Input | Status |
 | --- | --- |
-| Base | $9.24 |
-| Holding discount 20% / 35% | $9.95 / $8.61 |
-| Investments 10% below book | $8.23 |
-| Multiple 4.5x | $8.08 |
-| Operating EBITDA $160 million | $7.67 |
+| Third quarter results, balance sheet, EBITDA reconciliation | SEC filing, November 5, 2026 |
+| December maturity, SpaceX shares, Sangoma, GA sale | Earnings call, November 5, 2026, as reported |
+| Normalized EBITDA, multiples, haircuts | My assumptions |
+| Interest run rate, cash after the December repayment | My arithmetic |
+| Babcock & Wilcox share count, notes due from 2028 | Not disclosed |
 
-Every single test keeps the Base above the price, but combinations of lower EBITDA and a lower multiple can push value below it. The thesis is not robust enough for a higher confidence grade.
+My broker shows $3.64 for the November 6 close; another quote shows $3.65. Debt is at the carrying amount in the filing, slightly below the principal owed. The weakest point of the model is that the value of the common depends on two numbers I cannot see, the current worth of the stakes and the cost of refinancing in 2028. The strongest bull argument is that the operating businesses alone earn well over $100 million a year. The strongest bear argument is that the same was true in September, and a single position still wiped out most of the equity in one quarter.
 
-## Final verdict: hold at $5.76, watchlist for new money
+## Final verdict: reduce at $3.64
 
-BRC Group has substantial recovery upside if the operating recovery and deleveraging continue, but common equity still carries unusually high capital structure, dilution, investment mark and governance risk.
+BRC Group still owns real businesses, and its communications arm is having a good year. But a holding company is only as safe as its riskiest stake, and the third quarter showed which one that was. What remains for common shareholders is a small slice behind $1.32 billion of claims, priced as if everything goes right.
 
-**Verdict: HOLD at $5.76, WATCHLIST for new money. Triangulated Base value $9.24, upside 60.4%, Confidence C (14/25). Required margin of safety 50%, maximum buy price $4.62.**
+**Verdict: REDUCE at $3.64, do not add. Base $2.14, 41.1% below the price, Bear $0.13, Bull $10.13, Confidence D (11.25/25). No buy zone until the December repayment, the 2028 maturity schedule and the value of the remaining stakes are known.**
 
-For an existing holder with a position sized for this risk, the discount supports holding. New money waits for $4.62 or below with no new thesis-breaking event, or for proof that deleveraging continues without more dilution.
+For an existing holder the original cost is irrelevant; at $3.64 the shares pay for a recovery that the third quarter made less likely, so I would use any strength to reduce. Short of a full turnaround, the four conditions in the buy price section are what would make me look at the stock again.
 
-The main thesis breaker is a deterioration in asset values or refinancing capacity that reverses deleveraging and forces dilution or distressed sales.
+## Analysis history
+
+| Date | Price | Verdict | Base value | Max buy |
+| --- | --- | --- | --- | --- |
+| November 9, 2026 (this analysis) | $3.64 | Reduce | $2.14 | No buy zone |
+| [September 24, 2026](https://stockanalyza.com/analysis/rily/2026-09-24/) | $5.76 | Hold | $9.24 | $4.62 |
+
+What changed: the stock fell 36.8%, and the Base value fell from $9.24 to $2.14 after the $226.7 million Babcock & Wilcox loss, a lower normalized EBITDA and the minority interests the first analysis left out. The old buy price was reached in October and is withdrawn.
 
 ## More analyses on Patreon
 
@@ -255,10 +293,10 @@ This analysis is free. Premium members get every in-depth analysis, the full arc
 
 ## Sources
 
-Primary sources include BRC Group Holdings' [June 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1464790/000146479026000046/rily-20260630.htm), the [Q2 2026 earnings release](https://www.sec.gov/Archives/edgar/data/1464790/000146479026000045/rily-20260630xex991.htm), the [Q1 2026 earnings release](https://www.sec.gov/Archives/edgar/data/1464790/000146479026000033/rily-20260331xex991.htm) and the [2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1464790/000146479026000024/rily-20251231.htm). The note redemption and company overview come from a [third-party market data aggregator](https://stockanalysis.com/stocks/rily/).
+Primary sources are BRC Group's [third quarter 2026 results](https://www.sec.gov/Archives/edgar/data/0001464790/000146479026000058/rily-20260930xex991.htm) (SEC filing, November 5, 2026), the [third quarter 2026 earnings call](https://www.fool.com/earnings/call-transcripts/2026/11/06/brc-group-rily-q3-2026-earnings-call-transcript/) and the call summary by [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/b-riley-financial-rily-said-191452563.html). Figures from June 2026 come from the [September 2026 analysis](/analysis/rily/2026-09-24/) and the filings it cites.
 
-The reference market price is $5.76, the September 23, 2026 close. Balance sheet figures are as of June 30, 2026.
+The reference price is $3.64, the November 6, 2026 close as shown by my broker; price history is from [StockAnalysis](https://stockanalysis.com/stocks/rily/history/) and option data from [Options Analysis Suite](https://www.optionsanalysissuite.com/stocks/rily/history).
 
-**Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. BRC Group Holdings is highly leveraged and exposed to investment, refinancing, dilution, governance and regulatory risks, and its common equity could lose most of its value. Investors can lose part or all of their invested capital.
+**Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. BRC Group Holdings is highly leveraged and exposed to refinancing, liquidity, concentrated investment, dilution, disclosure and regulatory risks, and its common equity could lose most or all of its value. Investors can lose part or all of their invested capital.
 
-Method: Master Investment Analysis Framework v3.1. Approach: Sum of the parts with normalized earnings cross-check. Confidence: C/14. Data checks: passed with warnings.
+Method: Master Investment Analysis Framework v4.3. Approach: sum of the parts of operating businesses, cash and investments with explicit haircuts, minus debt, preferred stock and minority interests, with a normalized common earnings cross-check on the same share count. Confidence: D/11.25. Data checks: passed with warnings. Conditional research only. Open data gaps: Babcock & Wilcox share count, senior note maturities from 2028, recast quarterly operating EBITDA, cost of the B. Riley Securities buyout.
