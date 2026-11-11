@@ -1,0 +1,20 @@
+{
+  "ticker": "DKNG",
+  "slug": "dkng",
+  "name": "DraftKings (DKNG)",
+  "company": "DraftKings Inc.",
+  "companyShort": "DraftKings",
+  "date": "2026-11-11",
+  "order": 154,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $19.36",
+  "price": "$19.36",
+  "base": "$25.98",
+  "upside": "34.2",
+  "upsideText": "+34.2%",
+  "maxBuy": "$14.94",
+  "teaser": "DraftKings cut its 2026 profit guide by $575 million to fund Predictions. The stock trades 25% below my Base, but the Bear sits 66% lower: hold, buy at $14.94.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $6.55, base $25.98, bull $42.44, current price $19.36, buy zone at or below $14.94\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"6.55\" data-to=\"42.44\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"14.94\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.55\"></span>\n        <span class=\"ruler-tick\" data-value=\"25.98\"></span>\n        <span class=\"ruler-tick\" data-value=\"42.44\"></span>\n        <span class=\"ruler-price\" data-value=\"19.36\"><span>Price $19.36</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"6.55\">Bear<b>$6.55</b></span>\n        <span data-value=\"25.98\">Base<b>$25.98</b></span>\n        <span data-value=\"42.44\">Bull<b>$42.44</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $14.94.</figcaption>\n    </figure>",
+  "llms": "DraftKings (DKNG) at $19.36 on November 10, 2026: Hold. US online sports betting and casino operator spending $650 to $700 million on Predictions in 2026. Valued on owner free cash flow after stock pay: Bear $6.55, Base $25.98, Bull $42.44; maximum buy price $14.94 (margin of safety 42.5%, confidence C)."
+}
