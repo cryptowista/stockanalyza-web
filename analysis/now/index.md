@@ -1,390 +1,356 @@
 <!-- Markdown version of https://stockanalyza.com/analysis/now/ -->
 
-# ServiceNow: $4.6 billion of free cash flow, $2.2 billion of it paid out in stock
+# ServiceNow lost a third of its value in two weeks and landed on my Base value
 
-NOW, NYSE. Published October 11, 2026. Price as of the October 9, 2026 regular session close. All figures are in US dollars. Share counts and per-share figures reflect the 5-for-1 split.
+NOW, NYSE. Published November 11, 2026. Price as of the November 10, 2026 regular session close. All figures are in US dollars; share counts reflect the 5-for-1 split. Latest reported quarter: July to September 2026, released on October 28, 2026. This is an update of the October 11, 2026 analysis.
 
-## Verdict: HOLD at $140.86
+## Verdict: HOLD at $99.61
 
-Hold, do not add. At $140.86 the shares trade 31.0% above my Base value of $107.52, and the Bear case sits 63.2% below the price. The price is almost exactly my Bull value of $141.62: the market is paying for growth about 4 points a year above my Base for five years, or for stock pay that shrinks far faster than it has. The buy zone starts at $59.14.
+At $99.61 ServiceNow trades 2.6% below my Base value of $102.24, which is fair value, not a bargain. The price now fits my Base growth less about 1 point a year. Confidence is C, the required margin of safety is 42.5%, and new money waits for $58.79 or less. The Bear case sits 49.5% below the price.
 
-- Bear value: $51.88
-- Base value: $107.52
-- Bull value: $141.62
-- Upside to base value: -23.7%
-- Maximum buy price: $59.14
-- Required margin of safety: 45%
-- Enterprise value / owner free cash flow, 2027 Base (Base fair value uses 30x): 38.0x
-- Free cash flow yield, last twelve months (after stock pay): 3.1% (1.6%)
-- Net debt (net cash $8.6 billion at year-end 2025): $0.8 billion
-- Business quality: 63/100
-- Valuation score: 23/100
-- Confidence: 14/25, grade C
+- Bear value: $50.30
+- Base value: $102.24
+- Bull value: $135.12
+- Upside to base value: +2.6%
+- Maximum buy price: $58.79
+- Required margin of safety: 42.5%
+- Enterprise value / owner free cash flow, 2027 Base: 28.0x
+- Free cash flow yield, last twelve months (after stock pay): 4.5% (2.3%)
+- Net debt, September 30, 2026: $0.56 billion
+- Business quality: 52.5/100
+- Valuation score: 35/100
+- Confidence: 16.25/25, grade C
 
-ServiceNow reported $4.58 billion of free cash flow over the last twelve months, a 31% margin, and the stock trades at 32 times that figure. The same twelve months cost $2.19 billion in stock-based compensation, 14.8% of revenue. A company that pays its staff in shares and then buys shares back to offset them is paying in cash either way. After that cost, free cash flow is $2.40 billion and the multiple is 61. Free cash flow was flat ($4.58 billion in 2025 and $4.58 billion over the last twelve months), and stock pay kept rising, so free cash flow after stock pay *fell* by $226 million while subscription revenue was still growing 24.5%.
+On October 28 ServiceNow closed at $150.13 and, after the bell, raised its free cash flow guidance for 2026. On October 29 the stock lost 27%, its worst day as a public company, and by November 10 it was at $99.61, 34% below the close before the report. A month ago I called it a hold at $140.86 because the price equalled my Bull case. The market has now walked all the way down to the Base.
 
-At the October 9, 2026 close of $140.86, ServiceNow's market value is $145.6 billion. My triangulated Base value is $107.52 a share, so the price is 31.0% above it. The Bear value is $51.88 and the Bull value is $141.62. The required margin of safety (MOS), the discount to fair value I need before buying, is 45%, so the maximum buy price is **$59.14**, 58% below today's price. The business is excellent: revenue grew about 22% a year for four years, renewal is 98%, and the balance sheet is rated A. The question is only what the stock pays for it.
+My Base value is $102.24, 2.6% above the price. The Bear value is $50.30 and the Bull value is $135.12. That makes the stock fairly valued: a sound business at a price that pays for the expected outcome and leaves nothing for mistakes. The required margin of safety is 42.5%, so the buy price is $58.79. The verdict is Hold, with new money waiting.
 
-Valuation route: SaaS and technology growth. Subtype: enterprise workflow platform with subscription revenue above 97% of the total. Economic classification: Compounder (9/12, at the lower boundary). Primary method: two-stage cash flow model (DCF) of owner free cash flow, which is free cash flow minus stock-based compensation, in three scenarios. Secondary method: a forward multiple of 2027 owner free cash flow, from the enterprise value to free cash flow tiers. Values are present fair value estimates, not 12 month price targets.
+Valuation route: enterprise workflow software with 97% subscription revenue, valued with a two-stage cash flow model of owner free cash flow (free cash flow minus stock-based compensation), cross-checked with a forward multiple of 2027 owner free cash flow. Values are present fair-value estimates, not 12-month price targets.
+
+## What changed since October
+
+| Item | October 11 | November 11 |
+| --- | --- | --- |
+| Share price | $140.86 | $99.61 |
+| 2027 revenue growth, Base | 19% | 18% |
+| Stock pay, % of revenue, 2031 Base | 12% | 12.5% |
+| Bear / Base / Bull | $51.88 / $107.52 / $141.62 | $50.30 / $102.24 / $135.12 |
+| Required margin of safety | 45% | 42.5% |
+| Maximum buy price | $59.14 | $58.79 |
+
+The Base fell $5.28, and almost all of it comes from two changes in the business, not from the price. Stock pay rose to 15.1% of revenue over the last twelve months instead of falling, so I keep it half a point higher in every year; that costs $2.43 a share. Contracted revenue for the next twelve months is guided to grow 18.5% in the fourth quarter, so I cut growth by 1 point a year; that costs $2.80. The newer balance sheet, the extra quarter and the higher share count net out to almost zero.
+
+The buy price barely moved, from $59.14 to $58.79. My current rules start a grade C company at 42.5% and add only for risks that sit nowhere else in the model. The October version started at 40%, added 5 points each for accounting opacity and for the AI risk, and took 5 off for the balance sheet. Now the AI risk sits in the Bear case and the acquisition add-backs and stock pay are already deducted, so none of those adjustments survives.
 
 ## What ServiceNow is
 
-ServiceNow sells a workflow platform that large organizations use to run IT service, customer service, employee service and, increasingly, security and AI agents. Subscription revenue was $3.88 billion in the second quarter, 97% of the $3.99 billion total. The customer base is large and sticky: 658 customers pay more than $5 million a year (up about 23%), the renewal rate was 98% in the quarter, and remaining performance obligations (contracted revenue not yet recognized) are $29.0 billion.
+ServiceNow sells a workflow platform that large organizations use to run IT service, customer service, employee service and, increasingly, security and AI agents. Subscription revenue was $3.99 billion in the third quarter, 97% of the $4.11 billion total. 680 customers pay more than $5 million a year, up 23%, and contracted revenue not yet recognized stands at $29.7 billion.
 
-Three facts define the setup:
+What sank the stock was not the quarter but the next one. Current remaining performance obligations, the contracted revenue due within twelve months, grew 20.5% in the third quarter and are guided to grow 18.5% in the fourth. That number includes about 1.75 points from Armis, the security company bought for $7.6 billion in April, according to one independent analysis of the guide. Investors read the slowdown as the first sign that AI agents will shrink seat-based software.
 
-- **Growth is still above 20%, but guided down.** Subscription revenue grew 24.5% in the second quarter (23% in constant currency), and the guide for the third quarter is 20.5% (20% in constant currency). Full-year subscription revenue guidance was raised to $15.76 to $15.78 billion, +22.5%. Part of this growth is bought: Moveworks (closed December 2025), Veza (March 2026) and Armis (April 2026). The company does not split organic growth in the release (UNAVAILABLE). My estimate is that the three deals add roughly 2 to 4 points in the second quarter (ESTIMATED).
-- **The balance sheet changed in seven months.** Net cash of $8.6 billion at the end of 2025 became net debt of $0.8 billion on June 30, 2026, after $8.8 billion of acquisitions and $2.2 billion of buybacks in the first half. The free cash flow of those six months, $2.0 billion, covered a fraction.
-- **The stock fell, then recovered.** The 52-week range is $81.24 to $192.97. At $140.86 the shares are 27% below the high and 73% above the low. The setup is a software stock that was sold off on fears about AI replacing seat-based software and has since rebounded.
+Management read it differently. Early renewals pulled about half of the third quarter's beat in contracted revenue into that quarter, more on-premise deals cost a quarter point, and about half a point of backlog sits outside the metric but will still become revenue. CEO Bill McDermott said true acceleration would come "in 2027". There is no 2027 guidance yet.
 
-## The latest quarter
+The company also stopped telling the market how much growth it bought. Armis had more than $340 million of annual recurring revenue at the end of 2025, growing more than 50%, and Moveworks and Veza add more. My estimate is that acquisitions supplied roughly 4 of the 21 points of subscription growth in the third quarter, which leaves organic growth around 16% to 18%.
 
-The second quarter was strong on growth and margin, and light on cash. Non-GAAP operating margin of 29.5% was about 300 basis points above guidance, according to a call summary. The subscription gross margin was 80.5% on the non-GAAP measure and 73.5% under GAAP. GAAP operating income was only $162 million, a 4% margin, which includes stock pay, amortization of acquired intangibles and deal costs (my reading).
+## The latest results
 
-| $ millions | Q2 2026 | H1 2026 | Comment |
+| $ millions | Q3 2026 | Q3 2025 | 9M 2026 |
 | --- | --- | --- | --- |
-| Subscription revenue | 3,877 | 7,548 | +24.5% in Q2; H1 2025 was 6,118 |
-| Total revenue | 3,987 | 7,757 | +24% in Q2; H1 2025 was 6,303 |
-| Operating income, GAAP | 162 | 665 | 4.0% and 8.5% margins |
-| Operating income, non-GAAP | 1,173 | 2,372 | 29.5% and 30.5% margins |
-| Net income, GAAP | 298 | 767 | Q2 includes a $51 million one-time tax benefit |
-| Operating cash flow | 587 | 2,257 | 14.5% and 29% of revenue |
-| Capital expenditure | 114 | 255 |  |
-| Free cash flow (operating cash flow minus capex) | 473 | 2,002 | 11.9% and 25.8% of revenue |
-| Free cash flow as the company reports it (non-GAAP) | 634 | 2,299 | 16% and 29.5% |
-| Stock-based compensation (cash flow statement) | 652 | 1,199 | 16.4% and 15.5% of revenue |
-| Diluted shares, millions | 1,034 | 1,037 | Q3 guide 1,050; full-year guide 1,040 |
+| Subscription revenue | 3,988 | 3,299 | 11,536 |
+| Total revenue | 4,106 | 3,407 | 11,863 |
+| Subscription gross margin, non-GAAP | 80% | 83% | 81% |
+| Operating income, GAAP | 385 | 572 | 1,050 |
+| Operating income, non-GAAP | 1,338 | 1,140 | 3,710 |
+| Operating cash flow | 839 | 813 | 3,096 |
+| Capital expenditure | 91 | 235 | 346 |
+| Free cash flow (cash flow minus capex) | 748 | 578 | 2,750 |
+| Free cash flow, company definition | 822 | 592 | 3,121 |
+| Stock-based compensation | 630 | 492 | 1,829 |
+| Share buybacks | 0 | 584 | 2,225 |
+| Diluted shares, millions | 1,043 | 1,048 | 1,039 |
 
-Two things matter in the table. First, the company's non-GAAP free cash flow is $297 million above operating cash flow minus capex in the half and $161 million above in the quarter. The extract I read does not say what is added back (UNAVAILABLE); I read the gap as acquisition-related cash costs (ESTIMATED), and I use operating cash flow minus capex throughout. Second, the backlog is growing more slowly than revenue: current remaining performance obligations were $13.20 billion, +21% (+21.5% in constant currency), and the guide for the third quarter is +19.5%.
+Revenue beat its guide, the adjusted operating margin held at 32.5%, and adjusted earnings per share of $1.00 missed the consensus by two cents. The subscription gross margin is the line that moved: 80% against 83% a year ago on the company's own measure, and 73.5% against 80% under GAAP. Part of that is amortization of acquired technology, part is the cost of running AI.
 
-| Guidance | Q3 2026 | Full year 2026 |
-| --- | --- | --- |
-| Subscription revenue, $ millions | 3,975 to 3,980 | 15,760 to 15,780 |
-| Subscription revenue growth (constant currency) | 20.5% (20%) | 22.5% (21%) |
-| Operating margin, GAAP / non-GAAP | 8% / 31% | 10% / 31.5% |
-| Free cash flow margin (non-GAAP) |  | 35% |
-| Diluted shares | 1.05 billion | 1.04 billion |
+The company's free cash flow adds back $371 million of acquisition costs over nine months. I use the stricter figure, operating cash flow minus capital spending. Full-year guidance moved from 35% to 36% of revenue on the company's measure, driven by lower capital spending, which on my measure is about 33%. Interest expense reached $81 million in the quarter, against $6 million a year earlier, and severance cost $87 million. McDermott said headcount "has actually slightly declined".
 
-The full-year free cash flow guide of 35% implies about $5.7 billion on total revenue of about $16.2 billion (my estimate from the subscription guide and the 2.8% share of services, ESTIMATED). The first half delivered $2.3 billion on the company's measure, so the second half has to deliver $3.4 billion, which is seasonally normal for a business that collects heavily in the fourth quarter. I model the year at a 32% margin on the stricter measure, about $5.2 billion, rather than at the guide.
+## Why stock pay is the number that matters
 
-## Why free cash flow is the wrong number to stop at
+| $ millions | 2021 | 2023 | 2025 | Last 12 months |
+| --- | --- | --- | --- | --- |
+| Revenue | 5,896 | 8,971 | 13,278 | 15,431 |
+| Free cash flow | 1,799 | 2,704 | 4,576 | 4,750 |
+| Free cash flow margin | 30.5% | 30.1% | 34.5% | 30.8% |
+| Stock-based compensation | 1,131 | 1,604 | 1,955 | 2,323 |
+| As % of revenue | 19.2% | 17.9% | 14.7% | 15.1% |
+| Owner free cash flow | 668 | 1,100 | 2,621 | 2,427 |
+| As % of revenue | 11.3% | 12.3% | 19.7% | 15.7% |
 
-Stock-based compensation is a real cost. The company hands employees shares instead of cash, then spends cash buying shares back so the count does not grow. Over 2021 to 2025 ServiceNow spent $6.0 billion on buybacks against $7.8 billion of stock pay, and its diluted share count still rose from about 1,016 million to 1,047 million (implied from free cash flow and free cash flow per share, ESTIMATED). In the first half of 2026 it bought back 20.2 million shares for $2.33 billion, an average of $115.76, 18% below today's price. Repurchases were zero in the second quarter, the quarter the Armis deal closed.
+ServiceNow pays its staff in shares and then spends cash buying shares back so the count does not grow. Over 2021 to 2025 it spent $6.0 billion on buybacks against $7.8 billion of stock pay, and the diluted share count still rose. I count stock pay as a cost and value owner free cash flow.
 
-I therefore value ServiceNow on **owner free cash flow**: operating cash flow, minus capital expenditure, minus stock-based compensation taken at the cash flow statement figure. This follows the framework's rule that stock pay cannot be left out of a free cash flow multiple. The tax shield from stock pay is ignored, which slightly understates owner cash flow.
+For four years the burden fell, from 19.2% of revenue to 14.7%, and the owner margin rose from 11% to almost 20%. The last twelve months reversed it: stock pay 15.1%, owner margin 15.7%. Some of that is acquired staff, and the cuts in headcount may help in 2027. Until it shows up in the numbers, I model a slower decline than in October.
 
-| $ millions | 2021 | 2022 | 2023 | 2024 | 2025 | Last 12 months |
-| --- | --- | --- | --- | --- | --- | --- |
-| Revenue | 5,896 | 7,245 | 8,971 | 10,984 | 13,278 | 14,733 |
-| Revenue growth | 30.5% | 22.9% | 23.8% | 22.4% | 20.9% |  |
-| Free cash flow | 1,799 | 2,173 | 2,704 | 3,415 | 4,576 | 4,580 |
-| Free cash flow margin | 30.5% | 30.0% | 30.1% | 31.1% | 34.5% | 31.1% |
-| Stock-based compensation | 1,131 | 1,401 | 1,604 | 1,746 | 1,955 | 2,185 |
-| As % of revenue | 19.2% | 19.3% | 17.9% | 15.9% | 14.7% | 14.8% |
-| Owner free cash flow (free cash flow minus stock pay) | 668 | 772 | 1,100 | 1,669 | 2,621 | 2,395 |
-| As % of revenue | 11.3% | 10.7% | 12.3% | 15.2% | 19.7% | 16.3% |
-| Buybacks | 612 | 427 | 997 | 1,396 | 2,610 | 4,019 |
-
-The trend through 2025 was the investment case in one line: the stock pay burden fell from 19.2% to 14.7% of revenue and owner free cash flow margin rose from 11.3% to 19.7%. The last twelve months break that trend: stock pay rose to 14.8% and the owner margin slipped to 16.3%. Part of that is acquired staff, and part is that free cash flow in the first half of 2026 grew less than revenue. Whether 2025 was the new level or the peak is the central question in this analysis.
+The fourth quarter carries an unusual load. To reach a 33% margin on my measure for 2026, ServiceNow needs about $2.6 billion of free cash flow in the last three months, 30% more than a year ago, and 68% of my 2026 owner free cash flow lands in that one quarter (57% in 2025).
 
 ## Debt, shares and capital allocation
 
-| June 30, 2026, $ millions | Amount | Note |
-| --- | --- | --- |
-| Cash and equivalents | 2,503 | Reported |
-| Marketable securities, current and long-term | 4,204 | Reported (2,161 + 2,043) |
-| Short-term debt | -2,082 | Reported; mostly commercial paper (my reading) |
-| Long-term debt | -5,435 | Reported; includes $4.0 billion of senior notes sold in May at 4.25% to 6.30%, per a news report |
-| Net debt used in the bridge | -810 | $0.78 a share |
-| Strategic investments, not counted | 2,073 | Illiquid; would add $2.00 a share if fully realized |
-| Operating lease liabilities, not counted | 936 | Lease costs are already in free cash flow |
-| Goodwill and intangibles | 13,618 | 43% of total assets; equity of $12,516 is below this, so tangible equity is negative |
+| September 30, 2026, $ millions | Amount |
+| --- | --- |
+| Cash and equivalents | 2,393 |
+| Marketable securities, current and long-term | 4,568 |
+| Short-term debt (mostly commercial paper) | -2,086 |
+| Long-term debt | -5,438 |
+| Net debt used in the bridge | -563 |
+| Strategic investments, not counted | 2,050 |
+| Goodwill and intangibles | 13,606 |
 
-The acquisitions were Armis ($7.6 billion preliminary consideration in cash, closed April 20, 2026), Veza (about $1.2 billion, March 2, 2026) and Moveworks ($2.4 billion, closed December 15, 2025, of which $1.5 billion in stock, about 9.6 million shares, and $0.9 billion in cash). Financing was a $4.0 billion term loan drawn and repaid within the half, commercial paper and about $3.9 billion of net proceeds from senior notes. I could not read the debt note itself, so the tranche list, covenants, interest cost and the remaining buyback authorization are UNAVAILABLE. A rough estimate of annual interest on $7.5 billion of debt is $0.35 to $0.40 billion (ESTIMATED).
+Net debt is $0.54 a share and small against about $5 billion of yearly free cash flow. The strategic investments would add $1.97 a share if fully realized; I leave them out because they are illiquid. I use 1,043 million diluted shares from the third quarter and test the guided 1,050 million below.
 
-The company pays no dividend (none appears in the cash flow lines I read). Capital return is buybacks only. I use **1,034 million** diluted shares (second quarter, reported; 1,033.9 million outstanding at June 30). The third-quarter guide of 1.05 billion would lower the Base by about $1.60 a share, and I test it below.
+The buyback record is the weak part. ServiceNow bought 20.2 million shares at an average of about $115.70 in the first nine months of 2026, all before July, and none in the third quarter, when it was digesting $9.2 billion of acquisitions. At $99.61 those purchases are 14% under water. Gross debt is now $7.5 billion, including $4 billion of senior notes sold in May and $2.1 billion of short-term borrowing.
 
 ## Primary valuation: two-stage cash flow model after stock pay
 
-The framework classifies ServiceNow as a Compounder (score 9/12), so the preferred engine is a two-stage DCF. Stage one runs from the second half of 2026 to 2031 with explicit revenue, free cash flow margin and stock pay in each scenario. Stage two fades growth from 2032 to 2036 and then applies a terminal growth rate of 3.5% in the Base. Cash flows are discounted at **10%**, the cost of equity of a company with a beta near 1.1 and an A credit rating. I value at October 11 using the June 30 balance sheet and add back the second-half cash flow in the model, not in net debt.
+ServiceNow still scores as a compounder on my 12-point score (9 of 12), so the main method is a two-stage DCF, a discounted cash flow model. Stage one runs to 2031 with explicit revenue, free cash flow margin and stock pay. Stage two fades growth from 9% to 5% by 2036, then applies 3.5% terminal growth. The discount rate is 10%, a cost of equity for an A-rated company with a beta near 1.1. Only fourth quarter 2026 cash flow counts for this year, because the September balance sheet already holds the first nine months.
 
 | Base, $ billions | 2026E | 2027E | 2028E | 2029E | 2030E | 2031E |
 | --- | --- | --- | --- | --- | --- | --- |
-| Revenue growth | +22% | 19.0% | 16.5% | 14.5% | 12.5% | 11.0% |
-| Revenue | 16.2 | 19.3 | 22.5 | 25.7 | 28.9 | 32.1 |
-| Free cash flow margin | 32.0% | 34.0% | 34.5% | 35.0% | 35.5% | 36.0% |
-| Free cash flow | 5.2 | 6.6 | 7.7 | 9.0 | 10.3 | 11.6 |
-| Stock pay, % of revenue | 14.5% | 14.0% | 13.5% | 13.0% | 12.5% | 12.0% |
-| Owner free cash flow | 2.8 | 3.9 | 4.7 | 5.7 | 6.7 | 7.7 |
+| Revenue growth | 22.2% | 18.0% | 15.5% | 13.5% | 11.5% | 10.0% |
+| Revenue | 16.2 | 19.2 | 22.1 | 25.1 | 28.0 | 30.8 |
+| Free cash flow margin | 33.0% | 34.0% | 34.5% | 35.0% | 35.5% | 36.0% |
+| Stock pay, % of revenue | 15.2% | 14.5% | 14.0% | 13.5% | 13.0% | 12.5% |
+| Owner free cash flow | 2.9 | 3.7 | 4.5 | 5.4 | 6.3 | 7.2 |
 
-How these numbers are built (my assumptions, not guidance): 2026 revenue is the subscription guide plus services, about $16.2 billion, the same in all three scenarios because two quarters are done or guided. Growth fades from 19% in 2027, which includes a part-year of Armis, to 11% in 2031, then 9%, 8%, 7%, 6% and 5% through 2036. The free cash flow margin rises from 32% on the stricter measure to 36% as the 2025 level of 34.5% is rebuilt and the acquisitions are absorbed. Stock pay falls 0.5 point a year, which is less than the 4.5 points it fell over the last four years. Only the $2.4 billion of second-half 2026 owner cash flow counts for 2026, because the first half is already in the balance sheet.
+The 2026 revenue is the subscription guide plus services, the same in every scenario. 2027 growth of 18% matches the contracted revenue guide and includes the last months of Armis as an acquisition. The margin climbs back toward the 2025 level, and stock pay falls half a point a year, a third of the pace of 2021 to 2025. These are my assumptions, not guidance.
 
-Base enterprise value is $109.5 billion, of which the terminal value is **59%**. Subtract net debt of $0.81 billion and divide by 1,034 million shares: **$105.14**. The Bear gives $48.89 and the Bull $153.13.
+Base enterprise value is $104.0 billion, of which the terminal value is 59%. After net debt and 1,043 million shares, the primary Base is **$99.15**. Bear gives $46.68 and Bull $147.13.
 
 | Base DCF per share | Terminal growth 2.5% | 3.5% | 4.5% |
 | --- | --- | --- | --- |
-| Discount rate 9% | $112.9 | $126.1 | $145.2 |
-| 10% | $96.2 | $105.1 | $117.3 |
-| 11% | $83.6 | $89.9 | $98.0 |
-| 12% | $73.7 | $78.2 | $84.0 |
+| Discount rate 9% | $106.3 | $118.7 | $136.6 |
+| 10% | $90.8 | $99.1 | $110.5 |
+| 11% | $79.0 | $84.9 | $92.5 |
+| 12% | $69.7 | $74.0 | $79.4 |
 
-The discount rate is the largest single lever. At 9% with 4.5% terminal growth the Base DCF reaches the price ($145.2), but a 4.5% perpetual growth rate for a company already above a 10% cost of capital after stock pay is a strong claim.
+The discount rate is still the biggest lever: one point is worth $14 to $20 a share. Ignoring stock pay entirely would lift the Base DCF to $155.28, which is roughly where the stock traded before the report.
 
 ## Secondary valuation: forward multiple of owner free cash flow
 
-The DCF depends on a 10-year path. The second method asks what a buyer would pay in the next two years. It applies a multiple to 2027E owner free cash flow, which is revenue times free cash flow margin minus stock pay. The multiple comes from the tiers for enterprise value to free cash flow: 20 to 30 times for growth below 15% and 30 to 50 times for growth of 20% to 40%. Those tiers are written for reported free cash flow. I apply the **low end of the tier** to owner free cash flow, which is stricter than the framework, because owner free cash flow is 40% below reported. The Bear uses 20 times (growth below 15%), the Base 30 times (growth of 19% is at the boundary) and the Bull 30 times (growth of 21%). Using the same multiple in the Base and the Bull keeps the operating difference in revenue, margin and stock pay and avoids counting good news twice.
+The second method asks what a buyer would pay over the next year. It applies a multiple to 2027 owner free cash flow. The Base uses 30 times: an owner cash yield of 3.3%, which at a 10% required return needs owner cash flow per share to grow about 7% a year for a very long time, or mid-teens for five years and then fade. That matches the Base path. The Bear uses 20 times, a mature software multiple, and the Bull also uses 30 times so the good news in revenue and margin is not counted twice.
 
-|  | Bear | Base | Bull |
+| 2027E | Bear | Base | Bull |
 | --- | --- | --- | --- |
-| Operating thesis | AI agents cut seat growth, stock pay stays high | Growth fades, stock pay falls slowly | Growth stays above 20%, stock pay falls to 10% |
-| 2027E revenue, $ billions | 18.5 (+14%) | 19.3 (+19%) | 19.6 (+21%) |
+| Revenue, $ billions (growth) | 18.3 (+13%) | 19.2 (+18%) | 19.5 (+20%) |
 | Free cash flow margin | 31% | 34% | 35% |
-| Stock pay, % of revenue | 15% | 14% | 13% |
-| Owner free cash flow margin | 16% | 20% | 22% |
-| 2027E owner free cash flow, $ billions | 2.96 | 3.86 | 4.31 |
+| Stock pay, % of revenue | 15% | 14.5% | 14% |
+| Owner free cash flow, $ billions | 2.94 | 3.74 | 4.09 |
 | Multiple | 20x | 30x | 30x |
-| Enterprise value, $ billions | 59.1 | 115.7 | 129.4 |
-| Net debt, $ billions | -0.8 | -0.8 | -0.8 |
-| Per share | $56.37 | $111.08 | $124.34 |
+| Enterprise value, $ billions | 58.7 | 112.0 | 122.7 |
+| Per share | $55.74 | $106.89 | $117.12 |
 
-The market multiple for comparison is 38.0 times 2027E Base owner free cash flow, and 51.7 times 2026E. Sensitivity of the Base value ($ per share) to the multiple and the 2027E owner margin (2027E revenue of $19.3 billion):
+| Base value per share | Owner margin 17% | 19.5% | 21% | 23% |
+| --- | --- | --- | --- | --- |
+| 20x | $61.9 | $71.1 | $76.6 | $83.9 |
+| 25x | $77.5 | $89.0 | $95.9 | $105.1 |
+| 30x | $93.1 | $106.9 | $115.2 | $126.2 |
+| 35x | $108.7 | $124.8 | $134.4 | $147.3 |
 
-| Multiple | 17% | 19% | 20% | 21% | 23% |
-| --- | --- | --- | --- | --- | --- |
-| 20x | $62.6 | $70.1 | $73.8 | $77.5 | $85.0 |
-| 25x | $78.5 | $87.8 | $92.4 | $97.1 | $106.4 |
-| 30x | $94.3 | $105.5 | $111.1 | $116.7 | $127.9 |
-| 35x | $110.1 | $123.2 | $129.7 | $136.3 | $149.3 |
-| 40x | $126.0 | $140.9 | $148.4 | $155.8 | $170.7 |
-
-The multiple is an assumption (ESTIMATED), and I had no verified peer table. To reach today's price at a 20% owner margin, the multiple has to be 38 times. The two methods share the same operating inputs, so they are not fully independent; they differ in how they treat the long-run fade and the terminal value.
-
-## Growth quality and diagnostics
-
-**Free cash flow growth.** From 2021 to 2025 free cash flow grew from $1,799 million to $4,576 million, a 26.3% annual rate over four years (+$2,777 million), and free cash flow per share from $1.77 to $4.37, 25.4% a year. Free cash flow after stock pay grew from $668 million to $2,621 million, 40.7% a year, but that start is a low base, so I flag LOW\_BASE\_DISTORTION on that rate and do not rely on it. The free cash flow margin was 30% to 31% for four years and then jumped to 34.5% in 2025. The last twelve months fell back to 31.1%. That one step up is the cash flow quality question: part of it may be timing (capex fell from $868 million in 2025 to $728 million over the last twelve months, and working capital moves with the collection calendar). Classification: STRUCTURAL\_WITH\_EXECUTION\_RISK, also ACQUISITION\_AFFECTED. Forecast reliability: MEDIUM. Estimate dispersion and revisions: UNAVAILABLE.
-
-Forward yields on today's enterprise value of $146.5 billion: 2026E free cash flow of $5.2 billion is 3.5% (1.9% after stock pay), and 2027E Base is 4.5% (2.6% after stock pay). The stress test on the Base DCF: with owner free cash flow 20% lower from 2029 on, the value is $85.8; 40% lower, $66.4. The Rule of 40 (revenue growth plus free cash flow margin) is 57.5 on the guide (22.5% plus 35%) and 43.0 after stock pay.
-
-**PEG.** The reported price to earnings is 87.8 on GAAP earnings of $1.61 a share and the PEG shown by the broker data is 1.55 (Morningstar, as of October 11, 2026; the growth basis is not stated). The forward P/E of about 31 on a data site is on adjusted earnings. Dividing a GAAP multiple by a non-GAAP growth rate would mix bases, so I flag ACCOUNTING\_BASIS\_MISMATCH. Growth durability: NORMALIZING with acquisitions in it. CYCLICAL\_DISTORTION: LOW, because subscription revenue has no real cycle. The PEG is a diagnostic and does not set the Base, the margin of safety or the verdict. The free cash flow growth valuation ratio, the multiple of owner free cash flow divided by its growth, is 61 divided by 25 (free cash flow per share growth), about 2.4.
-
-**Cash flow quality gate.** Operating cash flow was $5.3 billion in the last twelve months against $1.7 billion of net income, a ratio of 3.2. Most of the gap is stock pay ($2.2 billion) and amortization. Free cash flow after stock pay is 1.4 times net income. The gate passes, but the stock pay and the company's own non-GAAP free cash flow definition are why I call the accounting transparency moderate.
+The market pays 28.0 times 2027 Base owner free cash flow today, against 38.0 times in October. Both methods use the same operating inputs, so their agreement checks the long-run fade and the terminal value, not the forecast itself.
 
 ## Valuation triangulation
 
-The two Base values differ by 5.5%, the Bear values by 14.2% and the Bull values by 20.8%, which is just inside the warning band of 20% to 30%. I weight the DCF 60% because it is the engine for a Compounder and the one that carries the explicit fade. I weight the multiple 40% because it is a market-style check and rests on one assumed multiple. A 50/50 split gives $108.11 and a 70/30 split $106.93, so the weighting moves the Base by less than $0.60.
-
 | Method | Bear | Base | Bull | Weight |
 | --- | --- | --- | --- | --- |
-| Primary: two-stage DCF after stock pay | $48.89 | $105.14 | $153.13 | 60% |
-| Secondary: forward multiple of 2027E owner free cash flow | $56.37 | $111.08 | $124.34 | 40% |
-| Divergence | 14.2% | 5.5% | 20.8% |  |
-| Historical multiples | not available, 0% weight | | | 0% |
-| Adopted | $51.88 | $107.52 | $141.62 |  |
+| Two-stage DCF after stock pay | $46.68 | $99.15 | $147.13 | 60% |
+| Forward multiple of 2027 owner free cash flow | $55.74 | $106.89 | $117.12 | 40% |
+| Gap between methods | 17.7% | 7.5% | 22.7% |  |
+| Adopted | $50.30 | $102.24 | $135.12 |  |
+
+The DCF carries 60% because it holds the explicit fade; the multiple carries 40% as a market-style check. The Bull gap of 22.7% sits in my warning band. It comes from ten years of rising margins in the DCF against one fixed multiple, and I show both values rather than pretending the blended $135.12 is precise.
 
 ## What is the market already pricing in?
 
-The price asks for more than my Base. Holding my Base margins fixed, the shares are worth $140.86 only if revenue grows about **4.0 points a year faster than my Base** in each year: 23.0% in 2027, 20.5% in 2028, 18.5%, 16.5% and 15.0% in 2031, then 13% fading to 9%. The company's own guide for the third quarter is 20.5%. Holding my Base growth fixed, the price needs an owner free cash flow margin **7.8 points higher in every year** (for example, stock pay at about 4% to 7% of revenue rather than 12% to 14.5%).
-
-| Measure at $140.86 | Value |
+| Measure at $99.61 | Value |
 | --- | --- |
-| Enterprise value | $146.5 billion |
-| Enterprise value / last twelve months free cash flow | 32.0x |
-| Enterprise value / last twelve months owner free cash flow | 61.2x |
-| Enterprise value / 2026E owner free cash flow | 51.7x |
-| Enterprise value / 2027E Base owner free cash flow | 38.0x |
-| DCF value if stock pay is ignored (for scale, not accepted) | $161.1 |
+| Enterprise value | $104.5 billion |
+| Times last twelve months free cash flow | 22.0x |
+| Times last twelve months owner free cash flow | 43.0x |
+| Times 2027 Base owner free cash flow | 28.0x |
+| Growth that fits the price, Base margins | about 1.0 point a year below Base |
+| Or owner margin, Base growth | 0.55 points below Base |
+| Or discount rate, Base cash flows | 10.3% |
 
-The last line is the point: on free cash flow before stock pay, the shares are worth more than the price. On free cash flow after stock pay, they are not. The market is pricing ServiceNow as if the stock pay either does not matter or disappears. The same price could also reflect a lower required return than my 10%, and a long-run margin higher than I model, so this is not a unique forecast.
+In October the price needed growth 4 points a year above my Base. Now it needs about 1 point below it. Put simply, the market has stopped paying for the Bull case and started pricing ServiceNow on cash flow after stock pay.
+
+Options price the next month's swing at about 14% either way (implied volatility 49.5% on November 10, with puts slightly dearer than calls). That is high for a $100 billion company, and it means a move to my buy price is not an exotic event for this stock. It does not change the value.
 
 ## Bear, base and bull scenarios
 
-|  | Bear | Base | Bull |
-| --- | --- | --- | --- |
-| Revenue growth 2027 / 2031 | 14% / 7% | 19% / 11% | 21% / 13% |
-| Free cash flow margin 2031 | 30% | 36% | 40% |
-| Stock pay, % of revenue 2031 | 15% | 12% | 10.5% |
-| Owner free cash flow margin 2031 | 15% | 24% | 29.5% |
-| DCF value | $48.89 | $105.14 | $153.13 |
-| Forward multiple value | $56.37 | $111.08 | $124.34 |
-| Adopted value per share (60/40) | $51.88 | $107.52 | $141.62 |
-| Versus $140.86 | -63.2% | -23.7% | +0.5% |
+| Case | Growth 2027 / 2031 | FCF margin 2031 | Stock pay 2031 | Value | Versus price |
+| --- | --- | --- | --- | --- | --- |
+| Bear | 13% / 7% | 30% | 15% | $50.30 | -49.5% |
+| Base | 18% / 10% | 36% | 12.5% | $102.24 | +2.6% |
+| Bull | 20% / 12% | 40% | 10.5% | $135.12 | +35.7% |
 
-These are scenarios, not probabilities, and not one-year targets. I publish no probability-weighted return because I cannot support the weights. The Bear is not a bankruptcy case: it is a company that keeps growing in the high single digits, keeps stock pay at 15% of revenue and ends with a free cash flow margin about 4 points below 2025, and the valuation falls to a mature software multiple. One assumption at a time on the Base DCF of $105.14:
+- **Bear:** AI agents cut seat growth, organic growth drops to the low teens in 2027 and to 7% by 2031, AI compute keeps the margin near 30%, stock pay stays at 15%, and the terminal growth rate is 2.5%. This is not a bankruptcy case; it is a mature software company valued like one.
+- **Base:** growth fades from 18% to 10% by 2031, the margin rebuilds to 36%, stock pay drifts down to 12.5%.
+- **Bull:** AI consumption lifts revenue per user as management promises, growth holds at 20% next year and 12% in 2031, the margin reaches 40% and stock pay falls to 10.5%.
 
-| Test | Value per share |
+| One change at a time, Base DCF $99.15 | Value |
 | --- | --- |
-| Stock pay stays at 15% of revenue | $92.7 |
-| Stock pay falls to 11% by 2029 | $109.7 |
-| Free cash flow margin 2 points lower / higher | $96.0 / $114.3 |
-| Revenue growth 2 points lower / higher every year | $97.0 / $113.8 |
-| 2026 revenue of $15.9 billion / $16.5 billion | $103.2 / $107.1 |
-| Net debt $2.5 billion higher (more M&A or buybacks) | $102.7 |
-| Net debt $3.0 billion lower (second-half cash builds) | $108.0 |
-| Diluted shares of 1,050 million / 1,040 million | $103.5 / $104.5 |
-| Strategic investments of $2.07 billion counted in full | +$2.00 |
+| Stock pay stays at 15% of revenue | $89.41 |
+| Stock pay falls to 11% by 2029 | $105.60 |
+| Free cash flow margin 2 points lower / higher | $90.67 / $107.62 |
+| Revenue growth 2 points lower / higher every year | $91.43 / $107.40 |
+| Net debt $2.5 billion higher (another deal) | $96.75 |
+| 1,050 million diluted shares | $98.48 |
+| Fourth quarter free cash flow only 15% above last year | $98.86 |
 
-The tests move the Base by 10% or less each, except the discount rate. No single input reaches the price. It takes growth, margin and stock pay moving together in the company's favor, which is what the Bull case is.
+| Bought at $99.61, held about 3 years | Return a year |
+| --- | --- |
+| Base, at my value at the end of 2029 | 9.4% |
+| Base, if the 28x multiple did not change | 21.5% |
+| Bear | -14.2% |
+| Bull | 24.2% |
+
+ServiceNow pays no dividend, so every case relies on owner cash flow, kept as cash or spent on buybacks, and on the value at the end. In the Base, owner free cash flow grows 19% a year from 2027 to 2030, but my own model has the multiple falling from 28 to about 19.5 times as growth slows. The business has to do all the work and absorb a shrinking multiple too. That is why fair value earns roughly the 10% discount rate and no more. These returns are my arithmetic, not forecasts.
 
 ## How the buy price is set
 
-A Confidence score of 14/25 is grade C, which starts the MOS at 40% (the framework range is 35% to 50%). I add 5 points for accounting opacity, because the company's non-GAAP free cash flow exceeds operating cash flow minus capex by an undisclosed amount and the acquisition accounting is preliminary. I add 5 points for a binary structural risk: whether AI agents shrink the seat-based software model is not knowable from the numbers. I subtract 5 points for the balance sheet, an A rating and net debt of 0.2 times free cash flow. Concentration adds nothing and the method gap in the Base is 5.5%. The result is **45%**, under the 60% ceiling, so a price is issued.
+The required margin of safety follows the confidence grade, and grade C starts at 42.5%. I add nothing: the AI risk is in the Bear case, stock pay is deducted in full, and the gap between methods is in the confidence score. $102.24 times 0.575 is **$58.79**. On the DCF alone it would be $57.01, on the multiple alone $61.46.
 
-Maximum buy price: $107.52 times (1 - 0.45) = **$59.14**. At that price the enterprise value would be $62.0 billion, 16.1 times 2027E Base owner free cash flow and 12.0 times 2026E free cash flow before stock pay. The price today is 138% above that level (the maximum buy price is 58% below it), so the verdict is Hold, not Buy.
+The verdict does not hinge on any single input. A buy at $99.61 would need a Base value of $173.23, well above my Bull. At $58.79 the enterprise value would be about $62 billion, 16.6 times 2027 Base owner free cash flow.
+
+| Entry price | Base return a year to end of 2029 |
+| --- | --- |
+| $60 | 28.6% |
+| $70 | 22.4% |
+| $80 | 17.3% |
+| $90 | 13.0% |
+| $99.61 | 9.4% |
+
+For an existing holder, the price now sits on the Base, which is a level to hold. I would review a holding above the Bull value of $135.12, where the price again needs everything to go right.
 
 ## Dividend and capital return
 
-ServiceNow pays no dividend that I could find. In the first half of 2026 it spent $2.2 billion on buybacks and $8.8 billion on acquisitions, and none on buybacks in the second quarter. The remaining authorization is UNAVAILABLE. Neither valuation assumes a dividend. Buybacks are modeled only through the share count; I do not credit them separately, because stock pay is already deducted in full.
+There is no dividend. Capital goes back through buybacks, $2.2 billion this year, all of it in the first half and at higher prices than today. Neither method credits buybacks separately, because stock pay is already deducted in full.
 
-## Reasons to own NOW
+## Reasons to own ServiceNow
 
-- **Retention is exceptional.** A 98% renewal rate and $29.0 billion of remaining performance obligations, about 1.8 times 2026E revenue.
-- **Growth at scale.** Revenue grew from $5.9 billion to $13.3 billion in four years, and subscription growth is still 20% or more on the third-quarter guide.
-- **Large deals are rising.** 658 customers above $5 million, and 123 transactions above $1 million of net new contract value in the quarter, up nearly 40%.
-- **AI is becoming revenue.** The release says AI crossed $1 billion of annual contract value in the second quarter, and a call summary says first-time AI buyers grew more than 45%.
-- **Stock pay has been falling.** From 19.2% to 14.7% of revenue between 2021 and 2025. If that continues, the Bull case is within reach.
-- **Financial strength.** The new notes are rated A with a stable outlook (S&P, per a news report), and free cash flow of about $5 billion a year covers net debt in less than a year.
-
-The Bull value of $141.62 is the price. It is reachable, but it is not a bargain.
+- **The price no longer needs the Bull case.** It fits my Base growth less 1 point a year.
+- **Retention and backlog.** $29.7 billion of contracted revenue, about 1.8 times 2026 revenue, and 680 customers above $5 million a year.
+- **AI is turning into revenue.** Annual AI contract value is targeted at $1.7 billion or more by year end, and AI net new contract value grew 65% in the quarter.
+- **Cash generation.** Free cash flow of $4.75 billion over twelve months, with the guide raised to 36% of revenue on the company's measure.
+- **Costs are being cut.** McDermott said headcount has slightly declined while large deals grew: 19 deals above $5 million of net new contract value, more than double a year ago.
 
 ## What could go wrong?
 
-- **Thesis breaker: AI cuts seat-based demand.** If customers need fewer licenses, growth falls below the 17% that supports my Base. Each 2 points of growth is worth about $8 a share.
-- **Stock pay does not fall.** If it stays at 15% of revenue every year, the Base DCF falls to $92.7. The company has not shown that the last twelve months' increase is temporary.
-- **Gross margin.** Management expects short-term pressure from hyperscaler partnerships and AI usage, according to a call summary.
-- **Acquisition integration.** $9.8 billion of cash acquisitions in twelve months, with sales and marketing headcount growing fast partly through acquisitions. Further large deals would add debt and dilution.
-- **Backlog deceleration.** Current remaining performance obligations are guided to grow 19.5% in the third quarter, down from 21%.
-- **Impairment.** Goodwill and intangibles of $13.6 billion are 43% of assets, and tangible equity is negative.
-- **Federal and timing.** The call summary says second-quarter federal results were partly lifted by the timing of on-premises revenue, which may not repeat.
-- **Valuation.** The shares fell from $192.97 to $81.24 within the last year. At 61 times owner free cash flow, a change in sentiment can move the price by 30% without a change in the business.
-
-I assign no probability to any of these, and the price does not prove they are all discounted.
+- **Thesis breaker: AI shrinks seats faster than consumption grows.** Management talks of raising revenue per user fivefold; the third quarter shows the ambition, not the proof. Each 2 points of growth a year is worth about $8 a share.
+- **Stock pay does not fall.** At 15% of revenue for good, the Base DCF falls to $89.41.
+- **Gross margin keeps sliding.** AI compute and hyperscaler partnerships cost money; the subscription gross margin is already 3 points below last year.
+- **The fourth quarter.** Two thirds of my 2026 owner cash flow has to arrive in it.
+- **More acquisitions.** $9.2 billion spent this year and gross debt of $7.5 billion. Another large deal would add debt and blur organic growth further.
+- **Sentiment.** The stock fell 34% after one report, mostly on one metric. It can fall further without any change in my value; the 52-week low is $81.24.
 
 ## Management execution
 
-The record in the data I have is good on operations and mixed on capital allocation. In the second quarter the company beat its operating margin guidance by about 300 basis points (call summary), raised its full-year subscription guide, and delivered 123 large deals. Capital allocation is harder to judge. The company bought back 20.2 million shares at an average of $115.76 in the first half, and then spent $8.8 billion on three acquisitions and moved from $8.6 billion of net cash to $0.8 billion of net debt. Over five years the buybacks covered only 77% of stock pay and the share count still rose. Longer guidance history and insider ownership are UNAVAILABLE. **Assessment: 13/20 on the framework's credibility scale, good. The next test is the third quarter report on October 28 and a clear second-half free cash flow figure.**
-
-Character change: the shift from a net cash organic compounder to an acquirer with debt is a real change, but the deals are adjacent (security, identity, AI) and the balance sheet remains A-rated. I do not classify it as negative, so the verdict is not lowered. A further large deal would change that.
+Operationally the record is good: revenue beat, the margin guide held, and the free cash flow guide went up. The capital allocation record is weaker: buybacks at about $116 a share this year, none after the price fell, and $9.2 billion of acquisitions while the company stopped disclosing how much growth they bring. I score management credibility at 13 out of 20, unchanged from October. The first real test of the "acceleration in 2027" promise is the 2027 guidance at the end of January.
 
 ## Stock Analyza scorecard
 
-| Economic classification (SaaS scorecard) | Score |
+| Business quality | Score |
 | --- | --- |
-| Economic return (ROIC, mature free cash flow profile) | 0/2 |
-| Revenue growth, 4-year annual rate 22.5% | 2/2 |
-| Free cash flow per share growth, 25.4% a year | 2/2 |
-| Balance sheet | 1/1 |
-| Unit economics (gross margin, retention, Rule of 40) | 1/1 |
-| Recurring revenue (97% subscription, 98% renewal) | 2/2 |
-| Reinvestment runway | 1/2 |
-| Total: Compounder | 9/12 |
+| Franchise and pricing power | 15/20 |
+| Return on capital over its cost | 0/20 |
+| Balance sheet and resilience | 11.25/15 |
+| Cash and earnings quality | 7.5/15 |
+| Growth and reinvestment runway | 11.25/15 |
+| Management and capital allocation | 5/10 |
+| Dilution and governance | 2.5/5 |
+| Total | 52.5/100 |
 
-The score sits at the boundary between Quality Growth (5 to 8) and Compounder (9 to 12), and I say so openly. I gave economic return 0 because the reported return on invested capital is 9.4% (Morningstar), close to my 10% cost of capital, after stock pay and $13.6 billion of acquired goodwill and intangibles. The return before acquisitions and before stock pay is much higher, but the framework asks for returns that hold after both. I gave the reinvestment runway 1 because the market is large but the effect of AI on it is uncertain. At 8, the engine would be a growth-adjusted multiple, and the multiple method already carries 40% of the weight. No hard disqualifier applies: growth is not predominantly acquired, and per-share owner free cash flow has grown. The return-below-cost-of-capital test is the one to watch. Business quality is **63/100**:
+The October score was 63 on an older scale. The new scale grades each part on evidence and gives no points for a return on capital that does not beat its cost: the reported return on invested capital of about 9.4% is close to my 10%, after stock pay and $13.6 billion of acquired goodwill and intangibles.
 
-| Business quality component | Score | Reason |
-| --- | --- | --- |
-| Moat and pricing power | 17/20 | Mission-critical workflow platform, 98% renewal, 658 customers above $5 million |
-| Economic returns versus cost of capital | 5/20 | Reported ROIC 9.4% is about the cost of capital after stock pay and acquired goodwill |
-| Balance sheet | 11/15 | A rating, net debt $0.8 billion, but debt rose from $1.5 billion to $7.5 billion in six months |
-| Cash and earnings quality | 9/15 | Free cash flow margin 31% to 34%, but stock pay of 15% of revenue and a non-GAAP cash flow definition |
-| Growth and reinvestment runway | 12/15 | Backlog +21%, AI above $1 billion of contract value, growth slowing |
-| Management and capital allocation | 6/10 | Operations good, buybacks at $116 and $8.8 billion of deals in one half |
-| Dilution, governance and minority alignment | 3/5 | Share count up about 3% in four years despite $6.0 billion of buybacks |
-| Total | 63/100 |  |
+| Valuation | Score |
+| --- | --- |
+| Discount to Base value (2.6%) | 25/50 |
+| Price against the Bear value (-49.5%) | 0/30 |
+| What the price implies (about the Base) | 10/20 |
+| Total | 35/100 |
 
-The valuation score is **23/100**:
-
-| Valuation component | Score | Reason |
-| --- | --- | --- |
-| Discount to Base | 0/40 | Price is 31.0% above Base |
-| Protection against the Bear case | 1/20 | Bear is 63.2% below the price |
-| Agreement between methods | 12/15 | Base 5.5%, Bear 14.2%, Bull 20.8% (warning) |
-| Historical relative valuation | 5/10 | No usable synchronized history, neutral score |
-| Reverse valuation asymmetry | 2/10 | The price needs about 4 points a year of extra growth for five years |
-| Data and model quality | 3/5 | Debt note, buyback authorization and peers missing; the multiple is an assumption |
-| Total | 23/100 |  |
-
-The two scores say different things. The business is good, 63 out of 100, and the entry price is poor, 23 out of 100. A good company at a price that already pays for the good outcome is a hold, not a buy.
+On my 12-point score for software companies ServiceNow keeps 9 points: 2 each for growth, free cash flow per share growth and recurring revenue, 1 each for balance sheet, unit economics and runway, and 0 for return on capital. It is still a compounder, at the lower edge.
 
 ## Confidence score
 
-| Confidence | Score |
+| Area | Score |
 | --- | --- |
-| Data quality / source provenance | 4/5 |
-| Predictability | 3/5 |
-| Valuation robustness | 2/5 |
-| Accounting transparency | 3/5 |
-| Scenario dispersion | 2/5 |
-| Total | 14/25, grade C |
-
-Data quality is high because the numbers come from the company's filings, but I could not read the debt note, the lease note or the buyback authorization. Predictability is middling: renewal is stable, but the effect of AI is not. Robustness is low because 59% of the DCF value is terminal and the discount rate moves the Base from $78 to $126. Transparency is moderate because of the non-GAAP free cash flow definition. Dispersion is wide, $51.88 to $141.62.
+| Historical data and sources | 3.75/5 |
+| Accounting and ownership (stock pay, acquisition add-backs) | 3.75/5 |
+| Evidence for the forecast (organic growth not disclosed, AI effect) | 2.5/5 |
+| Model construction | 3.75/5 |
+| Independent checks (methods share inputs) | 2.5/5 |
+| Total | 16.25/25, grade C |
 
 ## What I would watch from here
 
 ### Green
 
-- Subscription revenue growth at or above 22% (constant currency 20% or more)
-- Current remaining performance obligations growth at or above 20% in constant currency
-- Stock-based compensation at or below 13% of revenue
-- Free cash flow (operating cash flow minus capex) at or above 33% of revenue for the year
-- Renewal rate at or above 98%
-- Net debt below 1 times free cash flow, no new deal above $2 billion
-- Diluted shares at or below 1.04 billion
+- 2027 subscription growth guided at 19% or more in constant currency
+- Contracted revenue for the next twelve months growing 19% or more
+- Stock pay below 14% of revenue for a full year
+- Buybacks resumed below $100 a share
 
 ### Yellow
 
-- Subscription growth between 18% and 22%
-- Current remaining performance obligations growth between 17% and 20%
-- Stock pay between 13% and 16% of revenue
-- Free cash flow between 30% and 33% of revenue
-- Renewal rate between 96% and 98%
-- Diluted shares between 1.04 and 1.06 billion
+- 2027 subscription growth guided at 16% to 19%
+- Contracted revenue growth of 16% to 19% (fourth quarter guide: 18.5%)
+- Stock pay at 14% to 15.5% of revenue (last twelve months: 15.1%)
+- Non-GAAP subscription gross margin at 79% to 81% (third quarter: 80%)
 
 ### Red
 
-- Subscription growth below 18%
-- Current remaining performance obligations growth below 17%
-- Stock pay above 16% of revenue
-- Free cash flow below 30% of revenue, or the full-year guide of 35% is cut
-- Renewal rate below 96%
-- Net debt above 2 times free cash flow, or a new acquisition above $2 billion financed with debt
+- 2027 subscription growth guided below 16%
+- Stock pay above 15.5% of revenue
+- Full-year 2026 free cash flow below 31% of revenue on my measure
+- Subscription gross margin below 79%
+- Another acquisition above $3 billion
 
-On the evidence I have, today's dashboard is mixed. Green: renewal of 98%, net debt of 0.2 times free cash flow, and second-quarter subscription growth of 24.5%. Yellow: the third-quarter growth guide of 20.5%, backlog growth guided to 19.5%, first-half stock pay of 15.5% of revenue, free cash flow of 25.8% of revenue in the first half (seasonally low, with the full-year guide of 35%), and the third-quarter share guide of 1.05 billion. The next hard date is the third quarter report on October 28, 2026.
+The fourth quarter report, expected at the end of January 2027, is the decisive one. It should show free cash flow near $2.6 billion on my measure, contracted revenue growth of at least 18.5%, a first 2027 guide of 18% or better and stock pay at or below 15% of revenue. A guide below 16% would move me toward the Bear; growth of 19% with falling stock pay would raise the Base and could lift the confidence grade.
 
 ## The three most important thesis breakers
 
-1. Growth falls below 17% before stock pay falls. Revenue growth and stock pay are both inputs to the same owner free cash flow, and the Bear case is the two going the wrong way together.
-2. Stock pay stays near 15% of revenue. At that level the Base DCF falls to $92.7 and the triangulated Base to about $98.
-3. On the upside, growth stays above 20% through 2028 while stock pay drops toward 11% by 2029. That is the path to the Bull of $141.62, and it can be seen in four or five quarterly reports.
+1. Organic growth falling into the low teens as AI agents replace seats faster than consumption pricing grows.
+2. Stock pay stuck at 15% or more of revenue.
+3. Another large, debt-funded acquisition that hides the organic trend.
 
 ## Stress test and independent check
 
-I built this analysis from the company's filings and checked it in two passes. Inputs were read from the Form 8-K for the second quarter of 2026 (results, guidance, balance sheet, cash flow, share counts), the Form 10-Q for the quarter (acquisition notes, share repurchases, leases, balance sheet; the later notes were cut off in the copy I read), a financial data site for the October 9 close, the annual statements and cash flow history, a call summary and a news report on the bond sale. The closing price of $140.86 differs from a broker quote of $140.84 by 0.01%, so no price warning applies. Every table was recomputed from raw inputs a second time with a separate script, and the figures here reproduce.
+I rebuilt the October model from its published inputs (within 0.3% of its enterprise value), then rolled it forward with the third quarter balance sheet and the changes above, so the update follows the same method. The DCF, the multiple, the triangulation, the buy price, the reverse valuation and the return table were recalculated in a separate script.
 
-The first pass was too generous in three places, and I corrected them:
+| Input | Status |
+| --- | --- |
+| Revenue, cash flow, stock pay, balance sheet, guidance | Q3 2026 release and 10-Q, as reported |
+| Contracted revenue commentary, AI metrics | Earnings call |
+| Acquired growth, 2026 margin on my measure | My estimates |
+| Growth path, margins, stock pay, discount rate, multiples | My assumptions |
+| Price | November 10 close, $99.61 |
 
-| Item | First pass | Corrected |
-| --- | --- | --- |
-| 2026 free cash flow margin | 34% (as guided) | 32% (operating cash flow minus capex; guided figure includes an undisclosed add-back) |
-| Bear multiple of owner free cash flow | 22x | 20x (low end of the tier, same rule for all scenarios) |
-| Bull multiple of owner free cash flow | 38x | 30x (same low-end rule) |
-| Triangulated Base per share | $109.04 | $107.52 |
-| Triangulated Bull per share | $158.31 | $141.62 |
+The weakest point is the one the market is fighting over: organic growth. ServiceNow does not disclose it, and my 16% to 18% is an estimate from deal announcements. My conservative choices are using the stricter free cash flow measure and deducting all stock pay; the generous one is a stock pay glide to 12.5%, which has not yet started again. The strongest bull argument is that the price now fits my Base less 1 point of growth, after a single quarter's metric. The strongest bear argument is that a 10% return from fair value is all the Base offers, with half the price at risk in the Bear.
 
-The first Bear multiple of 22 times gave a 28.5% divergence from the DCF. I did not choose the new multiple to fix that: I applied one rule, the low end of the tier, to every scenario, which set the Bear at 20, and the divergence fell as a result. All corrections went one way, down. I counted no corrections up. Because of that, I ran a bias test with the most generous reasonable combination: growth and margin 1 point higher every year, stock pay falling to 10% by 2031, a 9% discount rate, 4% terminal growth and a 30 times multiple. That gives a DCF of $163.64, a multiple value of $123.30 and a triangulated $147.50, with a maximum buy price of $81.13, still below today's price. The conservative combination (growth 1.5 points lower, margin 1 point lower, stock pay flat at 15%, an 11% discount rate, 3% terminal growth and a 20 times multiple) gives $66.04, with a maximum buy price of $36.32. **So the verdict is sensitive to my inputs.** Under the generous combination the shares would be 4.5% below the value of $147.50, a Hold; under the conservative one the downside would be 53%, a Reduce. My Base of $107.52 implies a downside of 23.7%, a Hold under the framework (Reduce starts at a downside of 30%), but only 6 points from that line. The price sits between the two readings, closer to the generous end.
+## Final verdict: hold at $99.61
 
-The strongest case against my Base is that stock pay is on its way to 10% and growth stays above 20%, in which case the Base is too low by about $34 a share, the gap to the Bull. The strongest case for a lower value is that AI agents shrink seat counts, and the 45% margin of safety is the price of that doubt.
+The business barely changed in a month: my Base fell 5%, the price fell 29%. In October the market paid for free cash flow before stock pay. At $99.61 it pays for free cash flow after stock pay, and for the first time since I started following the stock, the two numbers agree.
 
-The values marked as estimates are: 2026 revenue of $16.2 billion; all growth, margin and stock pay paths; the 10% discount rate and 3.5% terminal growth; the fade from 2032 to 2036; the 20, 30 and 30 times multiples; the acquisition contribution to growth; the reading of the free cash flow add-back as acquisition costs; interest cost on the new debt; and the implied share counts for 2021 to 2025. Not available to me: organic growth, net revenue retention, the debt note and tranche terms, the buyback authorization, unrecognized stock compensation and share units outstanding, Armis, Veza and Moveworks revenue and their effect on guidance, a verified peer multiple table, a synchronized valuation history and consensus estimates. The bond terms and the A rating come from a news report, not the filing. The call details (the 300 basis point margin beat, first-time AI buyers, hyperscaler gross margin pressure) come from a call summary.
+**Verdict: HOLD at $99.61, watchlist for new money. Base $102.24, 2.6% above the price, Bear $50.30, Bull $135.12, Confidence C (16.25/25). Required margin of safety 42.5%, maximum buy price $58.79, range $57.01 to $61.46 under the two methods.**
 
-The weakest points are the 10% discount rate and the treatment of stock pay as a full cash cost, which together carry the gap between my Base and the price. Without the stock pay deduction the Base DCF is $161. This is conditional research, with the verdict sensitive to inputs I could not fully verify.
+Agreement is not a discount. New money waits for $58.79, or for a 2027 guide that shows organic growth and falling stock pay, which would move the Base rather than the price.
 
-## Final verdict: hold at $140.86
+## Analysis history
 
-ServiceNow at $140.86 is a very good business at a price that equals my Bull case. It is 31.0% above my Base of $107.52 and 138% above the maximum buy price of $59.14. The shares already pay for growth of 4 points a year above my Base for five years, or for a stock pay bill that falls to a third of today's within a few years. A margin of safety is about being paid for being wrong, and at $59.14 I would be paid for it.
+| Date | Price | Verdict | Base value | Max buy |
+| --- | --- | --- | --- | --- |
+| November 11, 2026 (this analysis) | $99.61 | Hold | $102.24 | $58.79 |
+| [October 11, 2026](https://stockanalyza.com/analysis/now/2026-10-11/) | $140.86 | Hold | $107.52 | $59.14 |
 
-**Verdict: HOLD at $140.86. Triangulated Base value $107.52, downside 23.7%, Confidence C (14/25). Required margin of safety 45%, maximum buy price $59.14.**
-
-The company earns $4.6 billion of free cash flow and pays $2.2 billion of it to its employees in shares, and the price assumes the second number goes away.
+What changed: slower contracted revenue growth and stock pay that rose instead of falling cut the Base from $107.52 to $102.24; the new margin of safety rules moved the buy price from $59.14 to $58.79. The verdict is unchanged, but the reason is different: in October the price was far above the Base, now it sits on it.
 
 ## More analyses on Patreon
 
@@ -392,10 +358,10 @@ This analysis is free. Premium members get every in-depth analysis, the full arc
 
 ## Sources
 
-Primary sources include ServiceNow's [Form 8-K for the second quarter of 2026](https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000072/erq2fy26.htm) (results, guidance, balance sheet, cash flow, share counts) and its [Form 10-Q for the quarter ended June 30, 2026](https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000076/now-20260630.htm) (acquisitions, share repurchases, leases, balance sheet). The closing price, market value and annual history come from [StockAnalysis for NOW](https://stockanalysis.com/stocks/now/), its [income statement](https://stockanalysis.com/stocks/now/financials/) and [cash flow statement](https://stockanalysis.com/stocks/now/financials/cash-flow-statement/) pages. The call details come from a [GuruFocus call summary](https://www.gurufocus.com/news/8973413/servicenow-inc-now-q2-2026-earnings-call-highlights-robust-growth-in-subscription-revenue-and-ai-adoption), the bond terms and rating from [Börse Express](https://www.boerse-express.com/news/articles/servicenow-aktie-4-milliarden-dollar-fuer-armis-refinanzierung-904621), and the third quarter date from [ServiceNow's announcement](https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-to-Announce-Third-Quarter-2026-Financial-Results-on-October-28/default.aspx). Return on invested capital, price to earnings and PEG are from the XTB instrument data (Morningstar), as of October 11, 2026.
+Primary sources are ServiceNow's [third quarter 2026 results](https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/erq3fy26.htm) (October 28, 2026), the [10-Q for the quarter](https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000096/now-20260930.htm), the [second quarter 2026 results](https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000072/erq2fy26.htm) and the [full-year 2025 results](https://www.sec.gov/Archives/edgar/data/1373715/000137371526000005/erq4fy25.htm). Call statements come from the [earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-servicenow-q3-2026-revenue-beats-shares-sink-after-hours-93CH-4981127). Armis revenue at signing comes from the [acquisition announcement](https://investor.servicenow.com/news/news-details/2025/ServiceNow-to-acquire-Armis-to-expand-cyber-exposure-and-security-across-the-full-attack-surface-in-IT-OT-and-medical-devices-for-companies-governments-and-critical-infrastructure-worldwide), and the Armis share of the contracted revenue guide from an [independent analysis of the quarter](https://nikhs.substack.com/p/servicenow-3q26-earnings-permission).
 
-The reference market price is the October 9, 2026 regular session close of $140.86. Cash, debt and balance sheet items are as of June 30, 2026, and shares are the second quarter weighted diluted count. Third quarter results were not yet available. The growth, margin, stock pay and multiple paths, the discount rate and terminal growth are analytical estimates, not company guidance.
+Prices: the November 10 close of $99.61 and the November 9 close of $102.76 from [FinancialContent](https://markets.financialcontent.com/wss/quote?Symbol=ny%3Anow); earlier closes from [StockAnalysis](https://stockanalysis.com/stocks/now/history/). The 27% fall on October 29 is reported by [CNBC](https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html) and [The Motley Fool](https://www.fool.com/coverage/market-movers/2026/10/30/why-servicenow-stock-plunged-this-week/). Implied volatility from [AlphaQuery](https://www.alphaquery.com/stock/NOW/volatility-option-statistics/30-day/iv-call) and [Options Analysis Suite](https://www.optionsanalysissuite.com/stocks/now/volatility). The return on invested capital is from Morningstar, as cited in the October analysis. Broker price targets and ratings are not used.
 
-**Disclaimer.** This analysis is a structured fundamental research output, not personalized investment advice. It is provided solely for research and educational purposes and is not financial, legal or tax advice. ServiceNow's shares fell about 58% from their 52-week high to their 52-week low, the company has taken on $7.5 billion of debt for acquisitions, and its valuation depends on long-range growth and margin assumptions. Its shares can lose a large part of their value, and investors can lose part or all of their invested capital.
+**Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Values are estimates, not forecasts or trading instructions. Software stocks can move sharply on changes in growth expectations, and ServiceNow carries acquisition, technology and valuation risks. Investors can lose part or all of their invested capital.
 
-Method: Master Investment Analysis Framework v3.3. Approach: Two-stage DCF after stock-based compensation with a forward multiple cross-check. Confidence: C/14. Data checks: passed with warnings. Conditional research only.
+Method: Master Investment Analysis Framework v4.3. Approach: two-stage cash flow model of free cash flow after stock-based compensation at a 10% discount rate, cross-checked with 30 times 2027 owner free cash flow. Confidence: C/16.25. Data checks: passed with warnings. Open data gaps: organic growth, debt tranches and covenants, remaining buyback authorization.
