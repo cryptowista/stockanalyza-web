@@ -1,0 +1,20 @@
+{
+  "ticker": "QLYS",
+  "slug": "qlys",
+  "name": "Qualys (QLYS)",
+  "company": "Qualys, Inc.",
+  "companyShort": "Qualys",
+  "date": "2026-11-12",
+  "order": 156,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $172.51",
+  "price": "$172.51",
+  "base": "$148.70",
+  "upside": "-13.8",
+  "upsideText": "-13.8%",
+  "maxBuy": "$104.09",
+  "teaser": "The business is excellent at turning sales into cash, and the price already pays for it. At $172.51 Qualys trades 16% above my Base value of $148.70, and the Base earns about 6.9% a year over five years. New money waits for $104.09 or less; existing holders can stay, with a review above $182.67.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $113.30, base $148.70, bull $182.67, current price $172.51, buy zone at or below $104.09\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"113.30\" data-to=\"182.67\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"104.09\"></span>\n        <span class=\"ruler-tick\" data-value=\"113.30\"></span>\n        <span class=\"ruler-tick\" data-value=\"148.70\"></span>\n        <span class=\"ruler-tick\" data-value=\"182.67\"></span>\n        <span class=\"ruler-price\" data-value=\"172.51\"><span>Price $172.51</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"113.30\">Bear<b>$113.30</b></span>\n        <span data-value=\"148.70\">Base<b>$148.70</b></span>\n        <span data-value=\"182.67\">Bull<b>$182.67</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $104.09.</figcaption>\n    </figure>",
+  "llms": "Qualys is a cloud security and compliance software company that guides a free cash flow margin in the low 40s and holds about $808 million of net cash. At $172.51 the stock trades at 23.1 times owner free cash flow, which is free cash flow after stock compensation and a tax adjustment. Bear $113.30, Base $148.70, Bull $182.67. Verdict: Hold at $172.51, maximum buy price $104.09."
+}
