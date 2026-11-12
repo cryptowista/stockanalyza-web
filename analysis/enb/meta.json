@@ -1,0 +1,20 @@
+{
+  "ticker": "ENB",
+  "slug": "enb",
+  "name": "Enbridge (ENB)",
+  "company": "Enbridge Inc.",
+  "companyShort": "Enbridge",
+  "date": "2026-11-12",
+  "order": 155,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $48.22",
+  "price": "$48.22",
+  "base": "$47.77",
+  "upside": "-0.9",
+  "upsideText": "-0.9%",
+  "maxBuy": "$27.47",
+  "teaser": "Enbridge keeps about C$4.3 billion a year after its dividend against C$10 to C$11 billion of growth room. At $48.22 the stock sits on my $47.77 Base: hold, buy at $27.47.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $38.03, base $47.77, bull $54.74, current price $48.22, buy zone at or below $27.47\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"38.03\" data-to=\"54.74\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"27.47\"></span>\n        <span class=\"ruler-tick\" data-value=\"38.03\"></span>\n        <span class=\"ruler-tick\" data-value=\"47.77\"></span>\n        <span class=\"ruler-tick\" data-value=\"54.74\"></span>\n        <span class=\"ruler-price\" data-value=\"48.22\"><span>Price $48.22</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"38.03\">Bear<b>$38.03</b></span>\n        <span data-value=\"47.77\">Base<b>$47.77</b></span>\n        <span data-value=\"54.74\">Bull<b>$54.74</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $27.47.</figcaption>\n    </figure>",
+  "llms": "Enbridge (ENB) at $48.22 on November 12, 2026 (live quote): Hold. North American pipeline and gas utility group, valued on dividends plus an exit at an 8.5% Canadian cost of equity and cross-checked with EV/EBITDA after all claims: Bear $38.03, Base $47.77, Bull $54.74; maximum buy price $27.47 (margin of safety 42.5%, confidence C)."
+}
