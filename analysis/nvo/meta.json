@@ -1,0 +1,20 @@
+{
+  "ticker": "NVO",
+  "slug": "nvo",
+  "name": "Novo Nordisk (NVO)",
+  "company": "Novo Nordisk A/S",
+  "companyShort": "Novo Nordisk",
+  "date": "2026-11-12",
+  "order": 158,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $40.65",
+  "price": "$40.65",
+  "base": "$35.50",
+  "upside": "-12.7",
+  "upsideText": "-12.7%",
+  "maxBuy": "$20.41",
+  "teaser": "Novo Nordisk is still a very profitable company, and the stock is a notch above what I think the cash flow supports. At $40.65 it trades 14% above my Base value of $35.50, and the Base earns about 4.2% a year over five years. New money waits for $20.41 or less; existing holders can stay, with a review above $46.68.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $20.13, base $35.50, bull $46.68, current price $40.65, buy zone at or below $20.41\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"20.13\" data-to=\"46.68\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"20.41\"></span>\n        <span class=\"ruler-tick\" data-value=\"20.13\"></span>\n        <span class=\"ruler-tick\" data-value=\"35.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"46.68\"></span>\n        <span class=\"ruler-price\" data-value=\"40.65\"><span>Price $40.65</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"20.13\">Bear<b>$20.13</b></span>\n        <span data-value=\"35.50\">Base<b>$35.50</b></span>\n        <span data-value=\"46.68\">Bull<b>$46.68</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $20.41.</figcaption>\n    </figure>",
+  "llms": "Novo Nordisk (NVO), Danish maker of Ozempic, Wegovy and the Wegovy pill, valued on ten years of free cash flow through the December 2032 US semaglutide patent expiry plus a justified forward earnings multiple. Bear $17.39 DCF, adopted Bear $20.13, Base $35.50, Bull $46.68. Price $40.65, upside -12.7%. Verdict Hold at $40.65, maximum buy price $20.41. Nine-month free cash flow DKK 83.8 billion against a full-year guide of DKK 60 to 70 billion."
+}
