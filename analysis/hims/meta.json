@@ -1,0 +1,20 @@
+{
+  "ticker": "HIMS",
+  "slug": "hims",
+  "name": "Hims & Hers (HIMS)",
+  "company": "Hims & Hers Health, Inc.",
+  "companyShort": "Hims & Hers",
+  "date": "2026-11-12",
+  "order": 159,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $19.73",
+  "price": "$19.73",
+  "base": "$10.56",
+  "upside": "-46.5",
+  "upsideText": "-46.5%",
+  "maxBuy": "$6.07",
+  "teaser": "Revenue grew 49% but gross margin fell 17 points, and the price already asks for close to management's 2030 margin target.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0.00, base $10.56, bull $25.87, current price $19.73, buy zone at or below $6.07\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0.00\" data-to=\"25.87\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"6.07\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.56\"></span>\n        <span class=\"ruler-tick\" data-value=\"25.87\"></span>\n        <span class=\"ruler-price\" data-value=\"19.73\"><span>Price $19.73</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0.00\">Bear<b>$0.00</b></span>\n        <span data-value=\"10.56\">Base<b>$10.56</b></span>\n        <span data-value=\"25.87\">Bull<b>$25.87</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $6.07.</figcaption>\n    </figure>",
+  "llms": "Hims & Hers Health (HIMS), consumer telehealth platform: revenue up 49% in Q3 2026 but gross margin fell from 74% to 57% and adjusted EBITDA guidance was cut a third time. Valued on owner free cash flow after stock compensation with acquisition payments counted as debt. Bear $0.00, Base $10.56, Bull $25.87. Verdict reduce at $19.73, maximum buy price $6.07."
+}
