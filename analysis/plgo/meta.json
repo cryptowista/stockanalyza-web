@@ -1,0 +1,20 @@
+{
+  "ticker": "PLGO",
+  "slug": "plgo",
+  "name": "Pelagos Insurance Capital (PLGO)",
+  "company": "Pelagos Insurance Capital Limited",
+  "companyShort": "Pelagos",
+  "date": "2026-11-12",
+  "order": 157,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $28.83",
+  "price": "$28.83",
+  "base": "$29.95",
+  "upside": "3.9",
+  "upsideText": "+3.9%",
+  "maxBuy": "$17.22",
+  "teaser": "Pelagos earns a good return on a book that is growing, and the price already reflects it. At $28.83 the stock trades at 1.08 times book value and 4% below my Base value of $29.95. With confidence at C the required margin of safety is 42.5%, so new money waits for $17.22 or less. Existing holders can stay, with a review above $39.48.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $21.98, base $29.95, bull $39.48, current price $28.83, buy zone at or below $17.22\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"21.98\" data-to=\"39.48\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"17.22\"></span>\n        <span class=\"ruler-tick\" data-value=\"21.98\"></span>\n        <span class=\"ruler-tick\" data-value=\"29.95\"></span>\n        <span class=\"ruler-tick\" data-value=\"39.48\"></span>\n        <span class=\"ruler-price\" data-value=\"28.83\"><span>Price $28.83</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"21.98\">Bear<b>$21.98</b></span>\n        <span data-value=\"29.95\">Base<b>$29.95</b></span>\n        <span data-value=\"39.48\">Bull<b>$39.48</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $17.22.</figcaption>\n    </figure>",
+  "llms": "Pelagos Insurance Capital (PLGO), formerly Fidelis Insurance Holdings, is a Bermuda specialty insurer and reinsurer that works with The Fidelis Partnership. At $28.83 the stock trades at 1.08 times book value per share of $26.60, with a 92.4% combined ratio over nine months and a quarterly dividend raised to $0.22. Bear $21.98, Base $29.95, Bull $39.48. Verdict: Hold at $28.83, maximum buy price $17.22 (margin of safety 42.5%, confidence C)."
+}
