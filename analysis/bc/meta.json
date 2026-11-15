@@ -1,0 +1,20 @@
+{
+  "ticker": "BC",
+  "slug": "bc",
+  "name": "Brunello Cucinelli (BC.IT)",
+  "company": "Brunello Cucinelli S.p.A.",
+  "companyShort": "Brunello Cucinelli",
+  "date": "2026-11-15",
+  "order": 161,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at €87.80",
+  "price": "€87.80",
+  "base": "€56.93",
+  "upside": "-35.2",
+  "upsideText": "-35.2%",
+  "maxBuy": "€32.74",
+  "teaser": "Cucinelli trades at 15 times EBITDA, but after rent and boutique investment only 18% of it becomes free cash flow. Reduce at €87.80.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €37.86, base €56.93, bull €71.78, current price €87.80, buy zone at or below €32.74\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"37.86\" data-to=\"71.78\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"32.74\"></span>\n        <span class=\"ruler-tick\" data-value=\"37.86\"></span>\n        <span class=\"ruler-tick\" data-value=\"56.93\"></span>\n        <span class=\"ruler-tick\" data-value=\"71.78\"></span>\n        <span class=\"ruler-price\" data-value=\"87.80\"><span>Price €87.80</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"37.86\">Bear<b>€37.86</b></span>\n        <span data-value=\"56.93\">Base<b>€56.93</b></span>\n        <span data-value=\"71.78\">Bull<b>€71.78</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €32.74.</figcaption>\n    </figure>",
+  "llms": "Brunello Cucinelli is an Italian luxury house (cashmere and understated clothing, 141 own boutiques) valued at 15.2 times 2026E EBITDA before rent, but only about 18% of that EBITDA becomes free cash flow after rent, capital spending and tax. The ten year cash flow model after lease payments gives a Base of EUR 39.63 and the multiple of 2027 EBITDA gives EUR 82.89, a 71% method gap. Bear EUR 37.86, Base EUR 56.93, Bull EUR 71.78. Verdict reduce at EUR 87.80, maximum buy price EUR 32.74."
+}
