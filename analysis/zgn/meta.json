@@ -1,0 +1,20 @@
+{
+  "ticker": "ZGN",
+  "slug": "zgn",
+  "name": "Ermenegildo Zegna (ZGN)",
+  "company": "Ermenegildo Zegna N.V.",
+  "companyShort": "Zegna",
+  "date": "2026-11-15",
+  "order": 160,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $13.79, do not add",
+  "price": "$13.79",
+  "base": "$10.15",
+  "upside": "-26.4",
+  "upsideText": "-26.4%",
+  "maxBuy": "$5.83",
+  "teaser": "Zegna trades at 9.9 times EBITDA, but after rent and shop investment only 13% of that EBITDA becomes free cash flow. Hold at $13.79, do not add.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $6.32, base $10.15, bull $13.91, current price $13.79, buy zone at or below $5.83\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"6.32\" data-to=\"13.91\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"5.83\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.32\"></span>\n        <span class=\"ruler-tick\" data-value=\"10.15\"></span>\n        <span class=\"ruler-tick\" data-value=\"13.91\"></span>\n        <span class=\"ruler-price\" data-value=\"13.79\"><span>Price $13.79</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"6.32\">Bear<b>$6.32</b></span>\n        <span data-value=\"10.15\">Base<b>$10.15</b></span>\n        <span data-value=\"13.91\">Bull<b>$13.91</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $5.83.</figcaption>\n    </figure>",
+  "llms": "Ermenegildo Zegna Group is an Italian luxury menswear company (ZEGNA, Thom Browne, Tom Ford Fashion) valued at 9.9 times 2026E EBITDA before rent, but only about 13% of that EBITDA becomes free cash flow after rent, capital spending and tax. The ten year cash flow model after lease payments gives a Base of $8.40 and the multiple of 2027 EBITDA gives $12.77, a 41% method gap. Bear $6.32, Base $10.15, Bull $13.91. Verdict hold at $13.79, do not add, maximum buy price $5.83."
+}
