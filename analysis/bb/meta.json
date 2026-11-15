@@ -1,0 +1,20 @@
+{
+  "ticker": "BB",
+  "slug": "bb",
+  "name": "BlackBerry (BB)",
+  "company": "BlackBerry Limited",
+  "companyShort": "BlackBerry",
+  "date": "2026-11-15",
+  "order": 163,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $8.90",
+  "price": "$8.90",
+  "base": "$4.91",
+  "upside": "-44.8",
+  "upsideText": "-44.8%",
+  "maxBuy": "$2.95",
+  "teaser": "BlackBerry is profitable and QNX is growing 27%, but at $8.90 the shares are priced above my Bull case.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $2.89, base $4.91, bull $6.50, current price $8.90, buy zone at or below $2.95\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"2.89\" data-to=\"6.50\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"2.95\"></span>\n        <span class=\"ruler-tick\" data-value=\"2.89\"></span>\n        <span class=\"ruler-tick\" data-value=\"4.91\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.50\"></span>\n        <span class=\"ruler-price\" data-value=\"8.90\"><span>Price $8.90</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"2.89\">Bear<b>$2.89</b></span>\n        <span data-value=\"4.91\">Base<b>$4.91</b></span>\n        <span data-value=\"6.50\">Bull<b>$6.50</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $2.95.</figcaption>\n    </figure>",
+  "llms": "BlackBerry (BB) valued with a segment discounted cash flow and a sum of the parts after its Q2 FY2027 results. QNX grew 27% but the price is above the Bull case. Bear $2.89, Base $4.91, Bull $6.50. Verdict Reduce at $8.90, maximum buy price $2.95."
+}
