@@ -1,0 +1,20 @@
+{
+  "ticker": "BAC",
+  "slug": "bac",
+  "name": "Bank of America (BAC)",
+  "company": "Bank of America Corporation",
+  "companyShort": "Bank of America",
+  "date": "2026-11-15",
+  "order": 162,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $51.02, watchlist for new money",
+  "price": "$51.02",
+  "base": "$48.45",
+  "upside": "-5.0",
+  "upsideText": "-5.0%",
+  "maxBuy": "$31.49",
+  "teaser": "Bank of America earns about 15% on tangible equity and pays out almost all of it, but at $51.02 the shares already price that in.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $33.47, base $48.45, bull $60.32, current price $51.02, buy zone at or below $31.49\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"33.47\" data-to=\"60.32\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"31.49\"></span>\n        <span class=\"ruler-tick\" data-value=\"33.47\"></span>\n        <span class=\"ruler-tick\" data-value=\"48.45\"></span>\n        <span class=\"ruler-tick\" data-value=\"60.32\"></span>\n        <span class=\"ruler-price\" data-value=\"51.02\"><span>Price $51.02</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"33.47\">Bear<b>$33.47</b></span>\n        <span data-value=\"48.45\">Base<b>$48.45</b></span>\n        <span data-value=\"60.32\">Bull<b>$60.32</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $31.49.</figcaption>\n    </figure>",
+  "llms": "Bank of America (BAC) valued with residual income on tangible equity and forward earnings after its Q3 2026 results and $1.2 billion AML penalty. Bear $33.47, Base $48.45, Bull $60.32. Verdict Hold at $51.02, maximum buy price $31.49."
+}
