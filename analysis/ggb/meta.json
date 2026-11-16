@@ -1,0 +1,20 @@
+{
+  "ticker": "GGB",
+  "slug": "ggb",
+  "name": "Gerdau (GGB)",
+  "company": "Gerdau S.A.",
+  "companyShort": "Gerdau",
+  "date": "2026-11-16",
+  "order": 165,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $4.39, do not add",
+  "price": "$4.39",
+  "base": "$4.99",
+  "upside": "13.8",
+  "upsideText": "+13.8%",
+  "maxBuy": "$3.00",
+  "teaser": "Gerdau trades at 4.5x trailing EBITDA, but a 40% margin of safety puts the buy price at $3.00. Hold at $4.39, do not add.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $2.47, base $4.99, bull $7.46, current price $4.39, buy zone at or below $3.00\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"2.47\" data-to=\"7.46\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"3.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"2.47\"></span>\n        <span class=\"ruler-tick\" data-value=\"4.99\"></span>\n        <span class=\"ruler-tick\" data-value=\"7.46\"></span>\n        <span class=\"ruler-price\" data-value=\"4.39\"><span>Price $4.39</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"2.47\">Bear<b>$2.47</b></span>\n        <span data-value=\"4.99\">Base<b>$4.99</b></span>\n        <span data-value=\"7.46\">Bull<b>$7.46</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $3.00.</figcaption>\n    </figure>",
+  "llms": "Gerdau (GGB, NYSE) is a Brazilian steelmaker earning about three quarters of EBITDA in North America. Trades at 4.5x trailing EBITDA. Bear $2.47, Base $4.99, Bull $7.46. Verdict hold at $4.39, do not add, maximum buy price $3.00."
+}
