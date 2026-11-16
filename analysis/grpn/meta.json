@@ -1,0 +1,20 @@
+{
+  "ticker": "GRPN",
+  "slug": "grpn",
+  "name": "Groupon (GRPN)",
+  "company": "Groupon, Inc.",
+  "companyShort": "Groupon",
+  "date": "2026-11-16",
+  "order": 167,
+  "verdict": "sell",
+  "verdictLabel": "Sell",
+  "call": "<span class=\"call\">Sell</span> at $12.40",
+  "price": "$12.40",
+  "base": "$5.96",
+  "upside": "-51.9",
+  "upsideText": "-51.9%",
+  "maxBuy": "$2.98",
+  "teaser": "Groupon guides to $62 million of EBITDA but burned $45.8 million of cash in the quarter. Sell at $12.40, Base $5.96, max buy $2.98.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0.96, base $5.96, bull $12.17, current price $12.40, buy zone at or below $2.98\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0.96\" data-to=\"12.17\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"2.98\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.96\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.96\"></span>\n        <span class=\"ruler-tick\" data-value=\"12.17\"></span>\n        <span class=\"ruler-price\" data-value=\"12.40\"><span>Price $12.40</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0.96\">Bear<b>$0.96</b></span>\n        <span data-value=\"5.96\">Base<b>$5.96</b></span>\n        <span data-value=\"12.17\">Bull<b>$12.17</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $2.98.</figcaption>\n    </figure>",
+  "llms": "Groupon runs an online marketplace for local deals. At $12.40 it trades at 9.9 times guided 2026 adjusted EBITDA, while free cash flow over four quarters was $8.8 million. Bear $0.96, Base $5.96, Bull $12.17. Verdict sell at $12.40, maximum buy price $2.98."
+}
