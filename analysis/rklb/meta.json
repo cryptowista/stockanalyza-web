@@ -1,0 +1,20 @@
+{
+  "ticker": "RKLB",
+  "slug": "rklb",
+  "name": "Rocket Lab (RKLB)",
+  "company": "Rocket Lab Corporation",
+  "companyShort": "Rocket Lab",
+  "date": "2026-11-16",
+  "order": 166,
+  "verdict": "sell",
+  "verdictLabel": "Sell",
+  "call": "<span class=\"call\">Sell</span> at $61.53",
+  "price": "$61.53",
+  "base": "$25.16",
+  "upside": "-59.1",
+  "upsideText": "-59.1%",
+  "maxBuy": "$12.58",
+  "teaser": "Rocket Lab doubled its backlog in a quarter, but $61.53 is above my Bull value of $43.68. Sell, maximum buy $12.58.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $12.19, base $25.16, bull $43.68, current price $61.53, buy zone at or below $12.58\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"12.19\" data-to=\"43.68\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"12.58\"></span>\n        <span class=\"ruler-tick\" data-value=\"12.19\"></span>\n        <span class=\"ruler-tick\" data-value=\"25.16\"></span>\n        <span class=\"ruler-tick\" data-value=\"43.68\"></span>\n        <span class=\"ruler-price\" data-value=\"61.53\"><span>Price $61.53</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"12.19\">Bear<b>$12.19</b></span>\n        <span data-value=\"25.16\">Base<b>$25.16</b></span>\n        <span data-value=\"43.68\">Bull<b>$43.68</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $12.58.</figcaption>\n    </figure>",
+  "llms": "Rocket Lab (RKLB, Nasdaq) launches small satellites and builds spacecraft, with record revenue and a 3.6 billion dollar backlog. Trades at 38x 2026 revenue. Bear $12.19, Base $25.16, Bull $43.68. Verdict sell at $61.53, maximum buy price $12.58."
+}
