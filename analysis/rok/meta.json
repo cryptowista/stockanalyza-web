@@ -1,0 +1,20 @@
+{
+  "ticker": "ROK",
+  "slug": "rok",
+  "name": "Rockwell Automation (ROK)",
+  "company": "Rockwell Automation, Inc.",
+  "companyShort": "Rockwell Automation",
+  "date": "2026-11-16",
+  "order": 164,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $402.46",
+  "price": "$402.46",
+  "base": "$273.59",
+  "upside": "-32.0",
+  "upsideText": "-32.0%",
+  "maxBuy": "$164.15",
+  "teaser": "Rockwell had a record year, but at $402.46 the shares trade above my Bull case of $344. Reduce, maximum buy $164.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $167, base $274, bull $344, current price $402.46, buy zone at or below $164\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"167.36\" data-to=\"343.74\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"164.15\"></span>\n        <span class=\"ruler-tick\" data-value=\"167.36\"></span>\n        <span class=\"ruler-tick\" data-value=\"273.59\"></span>\n        <span class=\"ruler-tick\" data-value=\"343.74\"></span>\n        <span class=\"ruler-price\" data-value=\"402.46\"><span>Price $402.46</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"167.36\">Bear<b>$167</b></span>\n        <span data-value=\"273.59\">Base<b>$274</b></span>\n        <span data-value=\"343.74\">Bull<b>$344</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $164.</figcaption>\n    </figure>",
+  "llms": "Rockwell Automation (ROK, NYSE) makes industrial automation hardware and software. After a record fiscal 2026 the shares trade at 20x mid-cycle EBITDA. Bear $167, Base $274, Bull $344. Verdict reduce at $402.46, maximum buy price $164."
+}
