@@ -1,0 +1,20 @@
+{
+  "ticker": "MU",
+  "slug": "mu",
+  "name": "Micron (MU)",
+  "company": "Micron Technology, Inc.",
+  "companyShort": "Micron",
+  "date": "2026-11-17",
+  "order": 176,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $693.60",
+  "price": "$693.60",
+  "base": "$735.81",
+  "upside": "6.1",
+  "upsideText": "+6.1%",
+  "maxBuy": "$331.11",
+  "teaser": "Earnings at a record, valued at about 4 times next year. Base $735.81 against $693.60. Hold, maximum buy price $331.11.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $368.66, base $735.81, bull $1458.46, current price $693.60, buy zone at or below $331.11\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"368.66\" data-to=\"1458.46\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"331.11\"></span>\n        <span class=\"ruler-tick\" data-value=\"368.66\"></span>\n        <span class=\"ruler-tick\" data-value=\"735.81\"></span>\n        <span class=\"ruler-tick\" data-value=\"1458.46\"></span>\n        <span class=\"ruler-price\" data-value=\"693.60\"><span>Price $693.60</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"368.66\">Bear<b>$368.66</b></span>\n        <span data-value=\"735.81\">Base<b>$735.81</b></span>\n        <span data-value=\"1458.46\">Bull<b>$1458.46</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $331.11.</figcaption>\n    </figure>",
+  "llms": "Micron Technology (MU) is a memory chipmaker (DRAM, NAND, HBM) at a record cyclical peak. Fiscal 2026 revenue was $133.2 billion and net income $85.0 billion; first quarter fiscal 2027 revenue is guided to $61.5 billion. Bear $368.66, Base $735.81, Bull $1,458.46. Verdict Hold at $693.60, maximum buy price $331.11."
+}
