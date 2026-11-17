@@ -1,0 +1,20 @@
+{
+  "ticker": "CRM",
+  "slug": "crm",
+  "name": "Salesforce (CRM)",
+  "company": "Salesforce, Inc.",
+  "companyShort": "Salesforce",
+  "date": "2026-11-17",
+  "order": 173,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $193.63",
+  "price": "$193.63",
+  "base": "$224.48",
+  "upside": "15.9",
+  "upsideText": "+15.9%",
+  "maxBuy": "$129.08",
+  "teaser": "Net income of $3.5 billion included $2.6 billion of paper gains. Cash flow is strong, but debt funds the buyback. Hold, maximum buy price $129.08.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $105.56, base $224.48, bull $334.60, current price $193.63, buy zone at or below $129.08\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"105.56\" data-to=\"334.60\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"129.08\"></span>\n        <span class=\"ruler-tick\" data-value=\"105.56\"></span>\n        <span class=\"ruler-tick\" data-value=\"224.48\"></span>\n        <span class=\"ruler-tick\" data-value=\"334.60\"></span>\n        <span class=\"ruler-price\" data-value=\"193.63\"><span>Price $193.63</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"105.56\">Bear<b>$105.56</b></span>\n        <span data-value=\"224.48\">Base<b>$224.48</b></span>\n        <span data-value=\"334.60\">Bull<b>$334.60</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $129.08.</figcaption>\n    </figure>",
+  "llms": "Salesforce (CRM) is a U.S. subscription software company. At the $193.63 reference price, my triangulated Bear, Base and Bull values are $105.56, $224.48 and $334.60. Free cash flow is strong at about $15 billion guided for fiscal 2027, but organic growth is about 6% to 7%, stock pay is about 9% of revenue and $39.5 billion of debt funds the buyback. Verdict Hold, maximum buy price $129.08."
+}
