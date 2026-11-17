@@ -1,0 +1,20 @@
+{
+  "ticker": "HOOD",
+  "slug": "hood",
+  "name": "Robinhood (HOOD)",
+  "company": "Robinhood Markets, Inc.",
+  "companyShort": "Robinhood",
+  "date": "2026-11-17",
+  "order": 177,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $68.46",
+  "price": "$68.46",
+  "base": "$43.71",
+  "upside": "-36.2",
+  "upsideText": "-36.2%",
+  "maxBuy": "$19.67",
+  "teaser": "Record revenue, net income down 14%. Base $43.71 against $68.46. Reduce, maximum buy price $19.67.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $18.50, base $43.71, bull $80.71, current price $68.46, buy zone at or below $19.67\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"18.50\" data-to=\"80.71\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"19.67\"></span>\n        <span class=\"ruler-tick\" data-value=\"18.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"43.71\"></span>\n        <span class=\"ruler-tick\" data-value=\"80.71\"></span>\n        <span class=\"ruler-price\" data-value=\"68.46\"><span>Price $68.46</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"18.50\">Bear<b>$18.50</b></span>\n        <span data-value=\"43.71\">Base<b>$43.71</b></span>\n        <span data-value=\"80.71\">Bull<b>$80.71</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $19.67.</figcaption>\n    </figure>",
+  "llms": "Robinhood Markets (HOOD) is an online broker and financial platform. Third quarter 2026 revenue rose 12% to a record $1.42 billion while net income fell 14% to $476 million. Bear $18.50, Base $43.71, Bull $80.71. Verdict Reduce at $68.46, maximum buy price $19.67."
+}
