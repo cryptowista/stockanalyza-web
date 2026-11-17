@@ -1,0 +1,20 @@
+{
+  "ticker": "UNM",
+  "slug": "unm",
+  "name": "Unum Group (UNM)",
+  "company": "Unum Group",
+  "companyShort": "Unum",
+  "date": "2026-11-17",
+  "order": 171,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $78.68",
+  "price": "$78.68",
+  "base": "$71.73",
+  "upside": "-8.8",
+  "upsideText": "-8.8%",
+  "maxBuy": "$41.24",
+  "teaser": "Group disability benefit costs are sharply higher than a year ago while a Fortitude Re deal reshaped the long-term care block. Hold, do not add.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $48.68, base $71.73, bull $87.42, current price $78.68, buy zone at or below $41.24\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"48.68\" data-to=\"87.42\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"41.24\"></span>\n        <span class=\"ruler-tick\" data-value=\"48.68\"></span>\n        <span class=\"ruler-tick\" data-value=\"71.73\"></span>\n        <span class=\"ruler-tick\" data-value=\"87.42\"></span>\n        <span class=\"ruler-price\" data-value=\"78.68\"><span>Price $78.68</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"48.68\">Bear<b>$48.68</b></span>\n        <span data-value=\"71.73\">Base<b>$71.73</b></span>\n        <span data-value=\"87.42\">Bull<b>$87.42</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $41.24.</figcaption>\n    </figure>",
+  "llms": "Unum Group (UNM), U.S. workplace insurer with a Closed Block of long-term care policies, valued with justified price to book and a sum-of-the-parts check. Hold, do not add."
+}
