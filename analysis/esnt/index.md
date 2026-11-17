@@ -1,175 +1,180 @@
 <!-- Markdown version of https://stockanalyza.com/analysis/esnt/ -->
 
-# Essent: a 13% return on equity, priced just below book value
+# Essent: in September I valued it at $75.40, now the stock is $65.23 and my value is $67.71
 
-ESNT, NYSE. Published September 30, 2026. Price is the September 30, 2026 intraday quote, down 3.97% on the day. It is not a closing price.
+ESNT, NYSE. Published November 17, 2026. Price as of the November 16, 2026 regular session close.
 
-## Verdict: HOLD at $60.49
+## Verdict: HOLD at $65.23
 
-Watchlist for new money below $56.55. Essent trades at 0.96x book value while earning a 13.4% annualized return on equity. The catch is that management itself describes the credit environment behind that return as benign, and the stock has already fallen 12.1% in two weeks without any change in the reported numbers.
+Do not add at this price. Essent trades at 1.04x book value and earns about 12% on it, but the stock is only 3.7% below my Base value and 37.6% above the maximum buy price of $47.40. Defaults rose to 2.75%, the loss provision nearly doubled in a year, and net income was flat.
 
-- Bear value: $53.30
-- Base value: $75.40
-- Bull value: $95.90
-- Upside to base value: 24.6%
-- Maximum buy price: $56.55
-- Required margin of safety: 25%
-- Price / book value: 0.96x
-- Q2 annualized ROE: 13.4%
-- Dividend yield: 2.3%
-- Business quality: 78/100
-- Confidence: 21/25, grade B
+- Bear value: $50.27
+- Base value: $67.71
+- Bull value: $85.63
+- Upside to base value: 3.8%
+- Maximum buy price: $47.40
+- Required margin of safety: 30%
+- Price / book value: 1.04x
+- Q3 annualized ROE: About 12%
+- Dividend yield: 2.1%
+- Business quality: 74/100
+- Confidence: 20/25, grade B
 
-Essent's net income fell 2.9% in the second quarter, from $195.3 million to $189.7 million. Earnings per share rose 7.8%, from $1.93 to $2.08. Both statements are true, and the gap between them is a diluted share count that shrank 9.6% in a year.
+In September I valued Essent at $75.40 a share and the stock at $60.49. Two months later the stock is $65.23 and my Base value is $67.71. The gap between price and value went from 24.6% to 3.7%, and the stock closed only part of it. I closed the rest by lowering my own number.
 
-Essent sells private mortgage insurance, and it has done three things at once: earned an annualized return on equity of 13.4% in the second quarter, grown book value per share 10.6% in twelve months (12.9% counting dividends), and bought back shares at a pace few insurers of its size match. At $60.49, the September 30, 2026 intraday quote, the stock trades at 0.96x the June 30 book value of $63.01.
+Essent sells private mortgage insurance, and the third quarter showed what that business looks like when credit stops improving. Net income was $163.4 million against $164.2 million a year earlier, down 0.5%. Earnings per share rose 9.0%, from $1.67 to $1.82, because the diluted share count fell from 98.5 million to 89.8 million. The provision for losses was $83.5 million against $44.9 million a year ago, and the default rate rose to 2.75%. At $65.23, the November 16, 2026 close, the stock trades at 1.04x the September 30 book value of $62.58.
 
-My triangulated Base value is $75.40, which is 24.6% above the price. The Bear value of $53.30 is 11.9% below it and the Bull value of $95.90 is 58.5% above it. For a Confidence B score the framework requires a 25% margin of safety, which puts the maximum buy price at $56.55. The shares would have to fall about 11.3% to get there. Until then this is a hold: a good business priced well below my Base value, but not yet inside the margin of safety that pays for being wrong about the credit cycle.
+My triangulated Base value is **$67.71**, which is 3.8% above the price. The Bear value of $50.27 is 22.9% below it and the Bull value of $85.63 is 31.3% above it. For a Confidence B score the framework requires a 30% margin of safety, which puts the maximum buy price at **$47.40**, 27.3% below the current price. The downside to Bear is about six times the upside to Base. This is a hold, and new money should not add here.
 
-Valuation route: Insurance, U.S. private mortgage insurance with a reinsurance segment. Economic classification: Quality Growth (8/12). Primary method: justified price to book value (residual income logic). Secondary method: normalized price to earnings. Values are present fair value estimates, not 12 month price targets.
+Valuation route: Specialty finance, U.S. private mortgage insurance with a reinsurance segment. Economic classification: Quality Growth (7.5/12). Primary method: justified price to book value (residual income logic). Secondary method: normalized price to earnings. Values are present fair value estimates, not 12 month price targets.
 
-## What Essent does and why book value is the number to watch
+## What changed since September
 
-Essent Guaranty insures a slice of the loss (27.4% of the loan balance on average) on U.S. home loans made with small down payments. The borrower pays a monthly premium, and Essent pays a claim only if the loan defaults and the home sells for too little. At June 30 it had $249.7 billion of insurance in force (up 1.2% from a year earlier) across 801,140 policies, with a weighted average credit score of 747 and an original loan to value ratio of 93%. Of that insurance in force, 97% is covered by reinsurance, which Essent's CEO says provides capital relief and reduces tail risk.
+The September analysis assumed a sustainable return on equity of 12.5% and a price to book multiple of 1.20x, and it put normalized earnings per share at $7.50. The third quarter delivered a return of about 12%, and no quarter-end reading since December 2024 has been above 1.1x book, so a 1.20x multiple needed a re-rating nobody had paid for. I now use an 11.5% return, 1.08x book and $7.20 of normalized EPS. That lowers the Base from $75.40 to $67.71, a drop of 10.2%.
 
-Persistency, the share of policies still in force after twelve months, was 84.0%, down from 85.8% a year earlier. Nearly half the portfolio carries a mortgage rate of 5.5% or lower, so borrowers have little reason to refinance and cancel coverage. New business is healthy (new insurance written was $14.1 billion, up 12.8%), but management expects portfolio growth to stay subdued while affordability limits mortgage originations.
+The maximum buy price fell from $56.55 to $47.40. Part of that is the lower Base, and part is the margin of safety, which rose from 25% to 30% under the current framework for a Confidence B score. The September analysis also contained an internal inconsistency in how far the stock had to fall to reach the buy zone (6.5% in one place, 11.3% in another). The figures here are consistent.
 
-The second engine is a reinsurance segment, mostly mortgage risk sharing with the government sponsored enterprises (Fannie Mae and Freddie Mac). Its net premiums written were $248.8 million in the first half of 2026, against $30.6 million in the first half of 2025. Management describes the property and casualty part of it as not yet material. A small title insurance business sits in the corporate segment.
+## What Essent does and where growth has stalled
+
+Essent insures part of the loss on U.S. home loans made with small down payments. The borrower pays a monthly premium, and Essent pays a claim only if the loan defaults and the home sells for too little. Insurance in force was $250.1 billion at September 30, up 0.5% from $248.8 billion a year earlier. New insurance written was $12.1 billion, flat year over year and down from $14.1 billion in the second quarter. Persistency, the share of policies still in force after twelve months, was 83.3%, down from 86.0% a year ago.
+
+Revenue is growing faster than the core business. Total revenue rose 17.4% to $374.18 million, and the difference comes from reinsurance, where net premiums written were $330.3 million in nine months against $49.3 million a year earlier. Reinsurance is mostly property and casualty quota share, a new line with limited history. It earns on the same capital that backs the mortgage insurance. Its combined ratio (losses and expenses as a share of premium) was 84.7% in the third quarter, against 39.6% for mortgage insurance.
 
 ## The latest quarter
 
-| Q2 2026 (quarter ended June 30, 2026) | Result |
+| Q3 2026 (quarter ended September 30, 2026) | Result |
 | --- | --- |
-| Book value per share | $63.01, up 10.6% year over year (12.9% including dividends) |
-| Net income / diluted EPS | $189.7 million and $2.08, versus $195.3 million and $1.93 a year earlier |
-| Return on average equity (annualized) | 13.4%, versus 12.0% in Q1 and 12.7% for the first half |
-| Total revenues | $362.7 million, up 13.6% from $319.1 million |
-| Mortgage insurance | Pretax income $212.6 million (versus $220.1 million), combined ratio 28.4% (versus 22.3%), loss provision $29.4 million (versus $15.3 million), default rate 2.53% |
-| Reinsurance segment | Net premiums earned $43.6 million (versus $13.9 million), pretax income $17.1 million (versus $18.3 million), combined ratio 77.9% |
-| Income from other invested assets | $19.4 million, versus $4.5 million a year earlier |
-| Capital (Essent Guaranty) | PMIERs sufficiency 172% ($3.60 billion available assets against $2.09 billion required), risk to capital 8.5 to 1, statutory capital $3.7 billion |
-| Capital returns | 5.8 million shares repurchased for $348 million through July 31 (about $60.00 a share), quarterly dividend $0.35 |
-| Holding company | $1.11 billion of cash and investments, $500 million of senior notes due 2029, debt to capital 8.1% |
+| Book value per share | $62.58, down from $63.01 at June 30 |
+| Net income / diluted EPS | $163.4 million and $1.82, versus $164.2 million and $1.67 a year earlier |
+| Return on average equity (annualized) | About 12% |
+| Total revenue | $374.18 million, up 17.4% |
+| Provision for losses (group) | $83.5 million, versus $49.0 million in Q2 and $44.9 million a year ago |
+| Mortgage default rate | 2.75% (21,919 loans), versus 2.53% in Q2 and 2.29% a year ago |
+| Combined ratio, third quarter / nine months | Mortgage insurance 39.6% / 34.3%, reinsurance 84.7% / 79.3% |
+| Insurance in force / persistency | $250.1 billion / 83.3% |
+| Capital | PMIERs sufficiency 177% ($3.71 billion available against $2.10 billion required), risk to capital 8.2 to 1 |
+| Capital returns | 7.7 million shares repurchased for $474 million from January 1 to October 31, quarterly dividend $0.35 |
+| Holding company | $959.1 million of cash and investments, down from $1.11 billion at June 30 |
 
-Revenue grew while profit fell, and two lines explain most of it. The provision for losses across the group was $49.0 million against $17.1 million a year earlier, nearly three times as much, because credit losses are returning from a very low base. Working the other way, income from other invested assets rose by $14.9 million. By my estimate (assuming an 18% tax rate) that added about $0.13 per share compared with the year-earlier level, which is worth remembering before anyone multiplies $2.08 by four.
+PMIERs stands for Private Mortgage Insurer Eligibility Requirements, the capital standard set by Fannie Mae and Freddie Mac. A sufficiency ratio of 177% means Essent holds $1.77 of eligible assets for every $1.00 the standard requires, and excess assets rose to $1.62 billion.
 
-PMIERs stands for Private Mortgage Insurer Eligibility Requirements, the capital standard set by Fannie Mae and Freddie Mac. A sufficiency ratio of 172% means Essent holds $1.72 of eligible assets for every $1.00 the standard requires.
+The second quarter had flattered earnings: $2.08 of EPS included $19.4 million of income from other invested assets, against $4.5 million a year earlier, and a low loss provision. The third quarter's $1.82 is closer to the run rate. Annualized, it is $7.28.
 
 ## Which numbers matter for Essent
 
-For an insurer, free cash flow is the wrong headline metric. Book value per share, the return on equity that drives it, and capital strength are the right ones. Book value per share of $63.01 and an annualized return on equity of 13.4% are the anchors.
+For an insurer, free cash flow is the wrong headline metric. Book value per share, the return on equity that drives it, and capital strength are the right ones. Book value per share of $62.58 and a return on equity of about 12% are the anchors.
 
-My normalized estimates for a full mortgage cycle are adjusted earnings per share of **$6.60** in the Bear case, **$7.50** in the Base case and **$8.20** in the Bull case, with sustainable return on equity of about 10.5%, 12.5% and 14.5%. The Base EPS is 9.9% below the $8.32 you would get by annualizing the second quarter, and 4.9% above the trailing twelve month figure of $7.15. Net income was $690.0 million in 2025, $729.4 million in 2024 and $696.4 million in 2023, so the Base case asks for earnings per share above last year's $6.90 but not above what a benign credit year has already delivered.
-
-One consistency note. Base EPS of $7.50 is 11.9% of current book value per share, a little below the 12.5% return on equity used in the book value method. The earnings method is therefore slightly more conservative than the book value method, and I have left it that way.
+My normalized earnings per share are **$6.00** in the Bear case, **$7.20** in the Base case and **$8.20** in the Bull case, with sustainable return on equity of 9.5%, 11.5% and 13.5%. The Base sits just below four times the third quarter ($7.28) and close to the trailing twelve months ($7.2). It is 13.5% below the $8.32 you would get by annualizing the second quarter. Higher defaults and the reinsurance costs are offset by a smaller share count.
 
 ## Shares and capital structure
 
-Shares outstanding fell from 95.46 million at year-end 2025 to 89.88 million at June 30, 2026, a decline of 5.8% in six months. The 5.8 million shares repurchased through July 31 equal 6.1% of the year-end count. Total equity fell 1.6% over the same period, from $5.757 billion to $5.663 billion, while book value per share rose 4.5%, from $60.31 to $63.01. Book value per share is growing because the share count is shrinking faster than equity, which is exactly what a buyback below or near book value is supposed to do.
+Diluted shares fell 8.8% in a year. Essent bought back stock at about $61.60, which is 98% of the current book value per share. Buying near book value is close to neutral for the shareholders who stay, and it raises per-share earnings without raising net income, which was flat. Above book value and on a thin spread between return on equity and cost of equity, each additional buyback does less. I use the current share count and do not model more repurchases in the Base case.
 
-The average repurchase price of about $60.00 was 95% of the current book value per share. Leverage is low: $500 million of senior notes due in 2029 at a weighted average rate of 6.25%, a debt to capital ratio of 8.1% and $500 million of undrawn committed credit capacity. The holding companies carry $1.11 billion of cash and investments.
+Leverage is low: $500 million of 6.25% senior notes due in 2029 (debt to capital of 8.1% at June 30) and a $500 million credit line that is undrawn. There are no convertibles or preferred shares. The board approved a new $500 million repurchase authorization through the end of 2028 in November.
 
 ## Primary valuation: justified price to book value
 
-The justified price to book multiple is (ROE minus growth) divided by (cost of equity minus growth). It asks what multiple of book a stock deserves given the return it earns on that book.
+The justified price to book multiple is (ROE minus growth) divided by (cost of equity minus growth). It asks what multiple of book a stock deserves given the return it earns on that book. Growth of 3% and a cost of equity of 10.9% are my estimates, carried from September so the two analyses can be compared.
 
 | Case | Sustainable ROE | P/B | Book value / share | Value per share |
 | --- | --- | --- | --- | --- |
-| Bear | 10.5% | 0.85x | $63.01 | $53.56 |
-| Base | 12.5% | 1.20x | $63.01 | $75.61 |
-| Bull | 14.5% | 1.50x | $63.01 | $94.52 |
+| Bear | 9.5% | 0.82x | $62.58 | $51.49 |
+| Base | 11.5% | 1.08x | $62.58 | $67.33 |
+| Bull | 13.5% | 1.33x | $62.58 | $83.18 |
 
-With long-run growth of 3%, a Base multiple of 1.20x on a 12.5% return implies a cost of equity of about 10.9%. Growth and cost of equity are my estimates, not company data. On the same inputs a 10.5% return would justify 0.95x and a 14.5% return would justify 1.45x. The Bear multiple of 0.85x is therefore a deliberate extra discount for credit stress, and the Bull multiple of 1.50x is 0.05x more generous than the formula.
+The Base multiple of 1.08x comes from the formula and the observed return, not from a tier. It sits inside the 1.0x to 1.1x range the stock has traded in since December 2024. The market price of 1.04x implies a sustainable return of about 11.2%, close to my Base of 11.5%.
 
-### Sensitivity to book value and the multiple
+### Sensitivity to return on equity and cost of equity
 
-| Book value per share | 0.85x | 1.20x | 1.50x |
+| ROE | Cost of equity 10.0% | 10.9% | 11.9% |
 | --- | --- | --- | --- |
-| $60.00 | $51.0 | $72.0 | $90.0 |
-| $63.01 | $53.6 | $75.6 | $94.5 |
-| $67.00 | $57.0 | $80.4 | $100.5 |
+| 10.5% | $67.0 | $59.4 | $52.7 |
+| 11.5% | $76.0 | $67.3 | $59.8 |
+| 12.5% | $84.9 | $75.3 | $66.8 |
+
+One point of return on equity is worth about $7.90 a share, or 12%, and one point of cost of equity is worth $7.50 to $9.80, or 11% to 15%. A $2 change in book value per share moves value by about $2.20, or 3%. The return and cost of equity are the two inputs that decide the result, and both are close to my 15% flag level.
 
 ## Secondary valuation: normalized price to earnings
 
 | Case | Normalized EPS | P/E | Value per share |
 | --- | --- | --- | --- |
-| Bear | $6.60 | 8x | $52.80 |
-| Base | $7.50 | 10x | $75.00 |
-| Bull | $8.20 | 12x | $98.40 |
+| Bear | $6.00 | 8.0x | $48.00 |
+| Base | $7.20 | 9.5x | $68.40 |
+| Bull | $8.20 | 11.0x | $90.20 |
 
-At $60.49 the stock trades at 8.5x trailing earnings of $7.15 and 8.1x Base EPS. The Base case therefore needs a P/E of 10x, above where the shares trade today. The **secondary Base is $75.00**, and it lands almost exactly on the primary method partly because both Base cases assume the market pays more than it does now.
+I use 9.5x because an earnings yield of 10.5% is close to the 10.9% cost of equity, and September's 10x assumed higher earnings. At $65.23 the stock trades at 9.1x Base EPS. The **secondary Base is $68.40**. On a common basis it agrees with the book value method: 9.5x on $7.20 is 1.09x book, against 1.08x. Both methods depend on return on equity, so the agreement does not make me more confident.
 
 ## Historical multiples as context
 
-Since the end of 2024 price to book has stayed between 1.0x and 1.1x, and at 0.96x the stock now sits below every quarter-end reading in that period. Quarter-end readings from December 2024 to September 2025 ran from 1.01x to 1.09x, after 1.27x in September 2024. The Base multiple of 1.20x is above every reading since December 2024, so the Base case assumes a re-rating and not just an unchanged multiple applied to a higher book value. I give the history no formal weight in the triangulation, but I tested it (see the robustness table): at 1.10x book the Base value falls to $71.30.
+Since December 2024 price to book has stayed between 1.0x and 1.1x, with quarter-end readings from 1.01x to 1.09x, after 1.27x in September 2024. The Base multiple of 1.08x is inside that range. September's 1.20x was above every reading since December 2024. Book value per share plus dividends grew about 9% over twelve months, against 12.9% in the second quarter, and book value fell from $63.01 to $62.58 in the quarter as unrealized investment losses and buybacks weighed.
 
 ## Valuation triangulation
 
 | Method | Base value | Weight |
 | --- | --- | --- |
-| Justified price / book value | $75.61 | 65% |
-| Normalized price / earnings | $75.00 | 35% |
-| Triangulated Base | $75.40 | 100% |
+| Justified price / book value | $67.33 | 65% |
+| Normalized price / earnings | $68.40 | 35% |
+| Triangulated Base | $67.71 | 100% |
 
-The two Base values differ by 0.8%, far below the 20% warning threshold. The weighted result is $75.40 and I use it unrounded. Applying the same 65/35 weights to the Bear and Bull cases gives **$53.30** and **$95.90**.
+The two Base values differ by 1.6%, far below the 20% warning threshold. The weighted result is $67.71 and I use it unrounded. The same 65/35 weights applied to the Bear and Bull cases give **$50.27** and **$85.63**.
 
 ## What is the market already pricing in?
 
-At $60.49 and a book value of $63.01, the stock trades at 0.96x book. Working backward through the justified multiple with the same 3% growth and 10.9% cost of equity, that price implies a sustainable return on equity of about **10.6%**. That is 2.8 points below the 13.4% reported for the second quarter and 2.1 points below the 12.7% for the first half, and almost exactly my Bear assumption of 10.5%. The market is pricing the Bear return, not a collapse: it is allowing for higher credit losses, slower growth in insurance in force, or smaller capital returns.
+At $65.23 the stock trades at 1.04x book and 9.1x Base earnings. Working backward, the price implies a sustainable return on equity of about **11.2%**, which is only 0.3 points above the cost of equity. On November 6, when the stock closed at $63.41 after falling 7.6% in a day, the implied return was 11.0%, a return that only just covers the cost of equity. The market now treats Essent as an average-return financial and not as a franchise earning a spread over its cost of capital. It does not price a credit shock.
 
 ## Bear, base and bull scenarios
 
 |  | Bear | Base | Bull |
 | --- | --- | --- | --- |
-| Main assumptions | Credit losses rise from today's low level, sustainable ROE about 10.5% | Credit normalizes gradually, ROE about 12.5%, the multiple re-rates to about 1.2x book | Credit stays benign, reinsurance earns its capital, ROE about 14.5% |
-| Normalized EPS | $6.60 | $7.50 | $8.20 |
-| Value per share | $53.30 | $75.40 | $95.90 |
-| Versus $60.49 | -11.9% | +24.6% | +58.5% |
+| Main assumptions | Credit losses rise, ROE 9.5% | Credit normalizes gradually, ROE 11.5%, P/B 1.08x | Credit stays benign, ROE 13.5% |
+| Normalized EPS | $6.00 | $7.20 | $8.20 |
+| Value per share | $50.27 | $67.71 | $85.63 |
+| Versus $65.23 | -22.9% | +3.8% | +31.3% |
 
-I assign no probabilities to the scenarios. The upside to Base (+24.6%) is about twice the downside to Bear (-11.9%), a reasonable skew but not the margin of safety the framework asks for before calling a stock a buy.
+I assign no probabilities, because the credit cycle is not something I can put numbers on. An equal-weight illustration (25/50/25) gives $67.83, which is the Base. The skew is the point: the stock has 22.9% of downside to Bear and 3.8% of upside to Base.
 
 ## How the buy price is set
 
-A Confidence B score carries a base margin of safety (MOS), the discount to estimated value that I require before calling a stock a buy, of 25%. Applied to the $75.40 Base, the **maximum buy price is $56.55**. A stricter 30% margin would put the reference price at $52.78. The maximum buy price sits 6.1% above the Bear value of $53.30, so at that price the downside to the pessimistic case would be small. The shares would need to fall about 6.5% from $60.49 to reach it.
+A Confidence B score carries a margin of safety of 30%, the discount to estimated value I require before calling a stock a buy. I add nothing on top, because credit and policy risk are already in the Bear return on equity and multiple. Applied to the $67.71 Base, the **maximum buy price is $47.40**. If the Base were $59.80 or $75.30 (the primary method at the two corners of the sensitivity table) the limit would be $41.90 or $52.70. The maximum buy price is 5.7% below the Bear value of $50.27, and at $47.40 the stock would trade 24% below book value.
 
 ## Dividend
 
-The quarterly dividend is $0.35, or $1.40 a year, up from $1.24 paid in 2025. The yield is 2.3% at $60.49 and the payout ratio is about 19% of Base EPS. At the current share count the dividend costs roughly $126 million a year, a fraction of the $348 million spent on buybacks in seven months. Total shareholder yield matters more than the dividend alone here.
+The quarterly dividend is $0.35, or $1.40 a year, a 2.1% yield at $65.23. That is about 19% of normalized EPS and costs roughly $126 million a year. Buybacks of $474 million in ten months are almost four times that. Holding company cash and investments of $959.1 million, down from $1.11 billion in June, and statutory dividends from the insurance subsidiaries fund both.
 
 ## Reasons to own ESNT
 
-- **Book value compounding.** Book value per share plus dividends has grown 12.9% in twelve months and at about 18.5% a year since the 2013 IPO, according to the company.
-- **Strong capital.** PMIERs sufficiency of 172% with $1.5 billion of excess assets, risk to capital of 8.5 to 1, and 97% of insurance in force reinsured.
-- **Stable credit today.** A default rate of 2.53%, flat from the prior quarter, on a portfolio with an average credit score of 747.
-- **A shrinking share count.** Diluted shares are down 9.6% year over year, and buybacks have been done near book value.
-- **A price below book value.** 0.96x book for a business earning 12% to 13% on it is a modest discount, and it is below every quarter-end reading since December 2024.
+- **Strong capital.** PMIERs sufficiency of 177% with $1.62 billion of excess assets and risk to capital of 8.2 to 1.
+- **About 12% return on equity.** Earned with a payout of 19% of EPS, so book value keeps compounding.
+- **Book value growth.** About 9% a year including dividends.
+- **A shrinking share count.** Diluted shares are down 8.8% in a year.
+- **A price close to Base.** No valuation premium is needed for the Base case to work.
 
 ## What could go wrong?
 
-- **Thesis breaker: credit deterioration.** Rising unemployment or falling home prices would raise defaults and claim severity. The group loss provision has already nearly tripled from a very low base, and the return on equity being paid for today comes from that base.
-- **Growth is paused.** Insurance in force grew 1.2%, persistency slipped 1.8 points, and management expects affordability to keep limiting new business.
-- **Policy risk.** On September 15, 2026, mortgage insurer shares fell after FHFA Director Bill Pulte announced that Fannie Mae and Freddie Mac would align policies so servicers can proactively contact borrowers who are eligible to drop mortgage insurance. Reports described it as a small change. Essent shares are down 12.1% from the September 14 close of $68.80. That includes the 3.97% drop in today's quote, for which I found no specific news.
-- **Reinsurance is new territory.** Premiums written rose about eight times in a year, and the segment's loss ratio went from 0.3% to 42.9% in the second quarter as the book grew. Its pretax income fell slightly while premiums more than tripled.
-- **Earnings quality of the latest quarter.** Income from other invested assets and a benign loss environment flatter the $2.08.
+- **Thesis breaker: credit deterioration.** The default rate rose from 2.29% to 2.75% in a year and the group provision nearly doubled to $83.5 million. A rise in unemployment or a fall in home prices would add to both.
+- **Core growth has stalled.** Insurance in force grew 0.5%, new insurance written was flat and persistency fell 2.7 points in a year.
+- **Policy risk.** A September announcement by the Federal Housing Finance Agency on servicers contacting borrowers who can drop mortgage insurance, and any change to GSE or PMIERs rules, could lower premium income or raise capital needs.
+- **Reinsurance is new.** Premiums written grew about seven times in a year, and its combined ratio was 84.7% in the quarter. A book this young has not yet shown how it behaves in a downturn.
+- **Per-share growth comes from buybacks.** Net income was flat, and the buyback is less accretive at 1.04x book than it was at 0.95x.
 
 ## Management execution
 
-Management kept book value per share compounding while returning capital, repurchased stock near book value, kept leverage at 8.1% of capital, expanded reinsurance protection to 97% of insurance in force, and grew a second segment. The open question is whether that segment earns an adequate return for its tail risk. **Assessment: 16/20, good. The next test is whether a reinsurance segment whose loss ratio moved from 0.3% to 42.9% in a year earns its capital.**
+Management kept returning capital (a $474 million buyback, a $0.35 dividend and a new $500 million authorization) and kept PMIERs capital strong, while growing a second segment. The record is mixed. Management targeted about $320 million of non-mortgage reinsurance premiums for the year, and nine-month reinsurance premiums written are $330.3 million, though the two figures use different definitions. Against that, growth in the core business has stopped. The Form 4 filings also show that the CEO sold 49,042 shares on November 5, the day the stock reached its high of about $70. I draw no conclusion without knowing whether the sale was under a pre-arranged plan. **Assessment: 15/20, good, down from 16. The next test is whether defaults stabilize below 3% while reinsurance earns its capital.**
 
 ## Stock Analyza scorecard
 
 | Economic classification | Score |
 | --- | --- |
 | ROE spread versus cost of equity | 1/2 |
-| Book value plus dividends growth | 2/2 |
+| Book value plus dividends growth | 1.5/2 |
 | Per-share earnings growth | 1/2 |
 | Solvency | 1/1 |
 | Underwriting economics | 1/1 |
 | Recurring economics | 1/2 |
 | Reinvestment runway | 1/2 |
-| Total: Quality Growth | 8/12 |
+| Total: Quality Growth | 7.5/12 |
 
-Mortgage-credit cyclicality keeps Essent out of the Compounder class. Business quality is **78/100**: franchise and moat 15/20, economic return 15/20, balance sheet 13/15, underwriting quality 12/15, growth and runway 9/15, management and allocation 9/10, dilution and governance 5/5.
+Mortgage-credit cyclicality keeps Essent out of the Compounder class, and the score is half a point below September's 8/12 because book value growth slowed. Business quality is **74/100**: franchise and moat 14/20, economic return 14/20, balance sheet 13/15, underwriting quality 11/15, growth and runway 8/15, management and allocation 9/10, dilution and governance 5/5. September's score was 78. The valuation score is **47/100**: discount to Base 6/40, protection versus Bear 5/20, agreement between methods 15/15, history 9/10, asymmetry 7/10, data and model 5/5.
 
 ## Confidence score
 
@@ -177,12 +182,12 @@ Mortgage-credit cyclicality keeps Essent out of the Compounder class. Business q
 | --- | --- |
 | Data quality / source provenance | 5/5 |
 | Predictability | 3/5 |
-| Valuation robustness | 5/5 |
+| Valuation robustness | 4/5 |
 | Accounting transparency | 4/5 |
 | Scenario dispersion | 4/5 |
-| Total | 21/25, grade B |
+| Total | 20/25, grade B |
 
-The filings are detailed and the two valuation methods agree. Predictability is marked down because mortgage credit is cyclical. Valuation robustness is the score I would challenge first, since the Base value depends on a multiple above every reading since December 2024.
+The third quarter release gave me capital, credit and segment data in full. Predictability is marked down because mortgage credit is cyclical. Credit cycle and policy risk are outcome risks and I do not count them in the score.
 
 ## What I would watch from here
 
@@ -193,8 +198,6 @@ The filings are detailed and the two valuation methods agree. Predictability is 
 - Default rate below 3%
 - PMIERs sufficiency above 150%
 - Risk to capital at or below 10 to 1
-- Insurance in force growing and new insurance written stable or growing
-- Reinsurance protection above 90% of insurance in force
 - Share count falling
 
 ### Yellow
@@ -204,8 +207,6 @@ The filings are detailed and the two valuation methods agree. Predictability is 
 - Default rate 3% to 5%
 - PMIERs sufficiency 125% to 150%
 - Risk to capital 10 to 15 to 1
-- Insurance in force flat, new insurance written in moderate decline
-- Reinsurance protection 75% to 90%
 - Share count stable
 
 ### Red
@@ -215,55 +216,47 @@ The filings are detailed and the two valuation methods agree. Predictability is 
 - Default rate above 5%
 - PMIERs sufficiency below 125%
 - Risk to capital above 15 to 1
-- Insurance in force in sustained decline, new insurance written in severe decline
-- Reinsurance protection below 75%
 - Dilution above 2%
 
-Today's readings are green on every line: 13.4% return on equity, 12.9% growth, a 2.53% default rate, 172% PMIERs sufficiency, 8.5 to 1 risk to capital, 97% reinsurance protection and a falling share count. Review with the third-quarter report, currently expected around November 6, 2026.
+Today's readings are green on every line, though two sit at the edge: the default rate of 2.75% is below 3% and rising, and the return on equity of about 12% is on the boundary. PMIERs sufficiency is 177%, risk to capital 8.2 to 1, book value plus dividends is growing about 9%, and the share count is falling. The case improves if the default rate falls while insurance in force grows more than 3%. Next review: fourth quarter results, expected around February 2027.
 
 ## The three most important thesis breakers
 
-1. Sustained credit deterioration that pushes normalized return on equity below the cost of equity and erodes book value.
+1. Sustained credit deterioration that pushes the return on equity below the cost of equity and erodes book value.
 2. A change in PMIERs, GSE policy or housing finance that raises capital requirements or lowers premium economics.
 3. Losses in the reinsurance segment that show its returns do not cover its tail risk.
 
 ## Stress test and independent check
 
-The first draft's arithmetic for the two valuation methods was correct: $63.01 x 1.20 = $75.61 and $7.50 x 10 = $75.00, within 1% of each other. The corrections came in the step after that, where the results were rounded in different directions, and in the price.
-
-| Item | First draft | Corrected |
-| --- | --- | --- |
-| Base value | $76, rounded up from the weighted $75.40 | $75.40, the weighted result, unrounded |
-| Bear value | $55, while the weighted result is $53.29 | $53.30 |
-| Bull value | $94, while the weighted result is $95.88 | $95.90 |
-| Upside to Base | +19.7% at about $63.50, an unconfirmed intraday quote | +24.6% at $60.49, the September 30 intraday quote |
-| Maximum buy price | $57.00 | $56.55 |
-| Q2 earnings detail | Loss provision, other invested assets income and reinsurance loss ratio not covered | Added to the quarter table and the risks |
-| Historical price to book | Annual multiples from 2021 to 2025 that I could not tie to a source | Replaced with quarter-end readings I could source (1.01x to 1.09x since December 2024) |
-
-The largest change is in the Bear case. Rounding it up by $1.70 made the downside look like 9.1% at today's price when the weighted figure is 11.9%. None of these corrections changes the Hold verdict, and the Base value moves by only $0.60.
-
-The strongest counter-thesis for the bulls: a mortgage insurer earning 13% on equity, trading at book, with 9.6% fewer shares than a year ago, is priced as if the return will not last, and it does not need to last at 13% to earn a fair result. The strongest counter-thesis for the bears: mortgage insurers earn their best returns exactly when credit is benign, the loss provision has already nearly tripled, and the stock has traded between 1.0x and 1.1x book since the end of 2024, so even today's 0.96x is only a small discount to its own recent history.
+I recomputed every value in Python. The third quarter capital, credit and segment figures are taken from the release, and I confirmed the segment combined ratios there (39.6% for mortgage insurance and 84.7% for reinsurance). The growth rate of 3% and the cost of equity of 10.9% are my estimates and are carried from September. Options data was not available and plays no role. The strongest counter-thesis for the bulls: a benign credit environment that keeps the return on equity at 13% and the multiple at 1.3x would give about $81.
 
 | Robustness check | Result |
 | --- | --- |
-| Justified P/B, Base (12.5% ROE, 3% growth, 10.9% cost of equity) | 1.20x, or $75.61 |
-| Same formula at 10.5% ROE | 0.95x, or $59.70 (Bear uses 0.85x) |
-| Same formula at 14.5% ROE | 1.45x, or $91.53 (Bull uses 1.50x) |
-| Base with P/B at 1.10x and P/E unchanged at 10x | $71.30, +17.9%, still Undervalued |
-| Base EPS versus annualized Q2 EPS of $8.32 | 9.9% lower |
-| Implied sustainable ROE at $60.49 | About 10.6%, below the 13.4% reported |
-| Maximum buy price versus the Bear value | $56.55 is 6.1% above $53.30 |
+| Primary value with the September 12.5% return | $75.30, maximum buy price $52.70 on that value alone, still below the price |
+| Primary value with 11.5% return and 9.9% cost of equity | $77.10, maximum buy price about $54 on that value alone |
+| Implied sustainable ROE at the price | About 11.2%, against 11.5% in the Base |
+| Base EPS versus annualized Q2 EPS of $8.32 | 13.5% lower |
+| Maximum buy price versus the Bear value | $47.40 is 5.7% below $50.27 |
+| Maximum buy price versus book value | 24% below $62.58 |
 
-Audit flags: the EPS scenarios, the sustainable return on equity ranges, the 3% growth rate and the 10.9% cost of equity are my estimates, not company guidance. The Base value is sensitive to the multiple: at 1.10x book it drops to $71.30 and the upside to 17.9%, still above the 15% threshold for Undervalued. The reference price is an intraday quote, not a closing price, and it moved 3.97% during the day. I treat the result as conditional for that reason.
+The strongest counter-thesis for the bears: mortgage insurers earn their best returns when credit is benign, the provision has already nearly doubled in a year, and growth has stopped. None of the tests puts the price below the maximum buy price, so the Hold verdict is stable. The reference price is a regular session close, and the stock was above $70 on November 5, so the range this month has been wide.
 
-## Final verdict: hold at $60.49, watchlist for new money below $56.55
+## Final verdict: hold at $65.23, do not add
 
-Essent is a high-quality insurer with a strong balance sheet, a falling share count and a return on equity above 13%. Its stock is priced just below book value, a meaningful discount to my Base value, but still 7.0% above the maximum buy price and so short of a discount that covers a turn in the credit cycle. Management has been a buyer at about $60 a share. At $60.49 you would be paying almost exactly what the company itself paid this year.
+Essent is a well-capitalized insurer earning about 12% on its equity, with a falling share count and a stock priced at 3.7% below my Base value. That is not enough margin: the price is 37.6% above the maximum buy price, defaults are rising and growth has stalled. Existing holders have no thesis breaker to act on. New money should wait.
 
-**Verdict: HOLD at $60.49. Triangulated Base value $75.40, upside 24.6%, Confidence B (21/25). Required margin of safety 25%, maximum buy price $56.55.**
+**Verdict: HOLD at $65.23. Triangulated Base value $67.71, upside 3.8%, Confidence B (20/25). Required margin of safety 30%, maximum buy price $47.40.**
 
-The case improves if the price falls into the buy zone with credit still stable, which needs a further drop of about 6.5%, or if the third-quarter report shows the reinsurance segment earning its capital while the default rate stays near 2.5%.
+The case improves if the price falls toward $50 with credit still stable, or if return on equity evidence above 12.5% lifts the Base. A buyer in September at $60.49 is up 7.8%, and the Base value they were buying against is now 10.2% lower.
+
+## Analysis history
+
+| Date | Price | Verdict | Base value | Maximum buy price |
+| --- | --- | --- | --- | --- |
+| November 17, 2026 | $65.23 | Hold | $67.71 | $47.40 |
+| [September 30, 2026](https://stockanalyza.com/analysis/esnt/2026-09-30/) | $60.49 | Hold | $75.40 | $56.55 |
+
+The September price was an intraday quote. The September maximum buy price used a 25% margin of safety. The current framework uses 30% at Confidence B.
 
 ## More analyses on Patreon
 
@@ -271,10 +264,10 @@ This analysis is free. Premium members get every in-depth analysis, the full arc
 
 ## Sources
 
-Primary sources include Essent Group's second-quarter 2026 earnings release and financial supplement (August 7, 2026), the second-quarter earnings call and presentation, and the 2025 Form 10-K. Market data comes from StockAnalysis (price history and statistics) and Yahoo Finance (historical price to book readings). The policy item comes from Yahoo Finance reporting on the September 15, 2026 announcement by the Federal Housing Finance Agency director.
+Primary sources include Essent Group's third-quarter 2026 earnings release (November 6, 2026), the third-quarter earnings call, Form 4 insider filings, and my September 30, 2026 analysis. Call and segment details were cross-checked against MarketBeat, Earnings Whispers and Motley Fool summaries, and the September 15, 2026 policy announcement by the Federal Housing Finance Agency as reported at the time.
 
-The reference market price is $60.49, the September 30, 2026 intraday quote from the XTB trading app, down 3.97% on the day. Balance sheet and capital figures are as of June 30, 2026, taken from the earnings release and call. Normalized EPS, sustainable return on equity, growth, cost of equity and scenario values are analytical estimates, not company guidance.
+The reference market price is $65.23, the November 16, 2026 regular session close from Finviz. Balance sheet and capital figures are as of September 30, 2026, taken from the earnings release. Normalized EPS, sustainable return on equity, growth, cost of equity and scenario values are analytical estimates, not company guidance.
 
 **Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Essent Group is exposed to U.S. mortgage-credit cycles, GSE and housing-finance policy, and to a fast-growing reinsurance segment with limited history. Investors can lose part or all of their invested capital.
 
-Method: Master Investment Analysis Framework v3.1. Approach: Justified P/BV / residual-income sector equivalent. Confidence: B/21. Data checks: passed with warnings.
+Method: Master Investment Analysis Framework v4.3. Approach: justified price to book value (residual income) with a normalized P/E cross-check. Confidence: B/20. Data checks: passed with warnings.
