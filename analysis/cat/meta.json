@@ -1,0 +1,20 @@
+{
+  "ticker": "CAT",
+  "slug": "cat",
+  "name": "Caterpillar (CAT)",
+  "company": "Caterpillar Inc.",
+  "companyShort": "Caterpillar",
+  "date": "2026-11-17",
+  "order": 178,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $564.50",
+  "price": "$564.50",
+  "base": "$430.37",
+  "upside": "-23.8",
+  "upsideText": "-23.8%",
+  "maxBuy": "$247.46",
+  "teaser": "Record $78.1 billion backlog, shares 47% off their high. Base $430.37 against $564.50. Hold, do not add, maximum buy price $247.46.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $232.19, base $430.37, bull $713.07, current price $564.50, buy zone at or below $247.46\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"232.19\" data-to=\"713.07\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"247.46\"></span>\n        <span class=\"ruler-tick\" data-value=\"232.19\"></span>\n        <span class=\"ruler-tick\" data-value=\"430.37\"></span>\n        <span class=\"ruler-tick\" data-value=\"713.07\"></span>\n        <span class=\"ruler-price\" data-value=\"564.50\"><span>Price $564.50</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"232.19\">Bear<b>$232.19</b></span>\n        <span data-value=\"430.37\">Base<b>$430.37</b></span>\n        <span data-value=\"713.07\">Bull<b>$713.07</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $247.46.</figcaption>\n    </figure>",
+  "llms": "Caterpillar (CAT) makes construction, mining and power equipment with a captive finance arm. Third quarter 2026 sales rose 17% to $20.7 billion and backlog reached a record $78.1 billion. Bear $232.19, Base $430.37, Bull $713.07. Verdict Hold at $564.50, do not add, maximum buy price $247.46."
+}
