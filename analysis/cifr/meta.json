@@ -1,0 +1,20 @@
+{
+  "ticker": "CIFR",
+  "slug": "cifr",
+  "name": "Cipher Digital (CIFR)",
+  "company": "Cipher Digital Inc.",
+  "companyShort": "Cipher Digital",
+  "date": "2026-11-17",
+  "order": 174,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $6.29",
+  "price": "$6.29",
+  "base": "$3.40",
+  "upside": "-45.9",
+  "upsideText": "-45.9%",
+  "maxBuy": "$1.53",
+  "teaser": "Net income of $31.6 million came from a $127 million paper gain. $16.6 billion of leases, $6.7 billion of debt. Reduce, maximum buy price $1.53.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0.50, base $3.40, bull $9.34, current price $6.29, buy zone at or below $1.53\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0.50\" data-to=\"9.34\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"1.53\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.50\"></span>\n        <span class=\"ruler-tick\" data-value=\"3.40\"></span>\n        <span class=\"ruler-tick\" data-value=\"9.34\"></span>\n        <span class=\"ruler-price\" data-value=\"6.29\"><span>Price $6.29</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0.50\">Bear<b>$0.50</b></span>\n        <span data-value=\"3.40\">Base<b>$3.40</b></span>\n        <span data-value=\"9.34\">Bull<b>$9.34</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $1.53.</figcaption>\n    </figure>",
+  "llms": "Cipher Digital (CIFR) develops and leases Texas data centers to AI and cloud tenants, with $16.6 billion of contracted revenue and about $6.7 billion of debt. At the $6.29 reference price, my triangulated Bear, Base and Bull values are $0.50, $3.40 and $9.34. Operating cash flow is negative and the equity is a thin residual after debt. Verdict Reduce, maximum buy price $1.53."
+}
