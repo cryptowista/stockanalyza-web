@@ -1,0 +1,20 @@
+{
+  "ticker": "KR",
+  "slug": "kr",
+  "name": "Kroger (KR)",
+  "company": "The Kroger Co.",
+  "companyShort": "Kroger",
+  "date": "2026-11-17",
+  "order": 179,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $70.43",
+  "price": "$70.43",
+  "base": "$76.94",
+  "upside": "9.2",
+  "upsideText": "+9.2%",
+  "maxBuy": "$44.24",
+  "teaser": "Hold. Steady cash flow and a shrinking share count, but identical sales are flat. Base $76.94, maximum buy $44.24.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $52.93, base $76.94, bull $109.43, current price $70.43, buy zone at or below $44.24\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"52.93\" data-to=\"109.43\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"44.24\"></span>\n        <span class=\"ruler-tick\" data-value=\"52.93\"></span>\n        <span class=\"ruler-tick\" data-value=\"76.94\"></span>\n        <span class=\"ruler-tick\" data-value=\"109.43\"></span>\n        <span class=\"ruler-price\" data-value=\"70.43\"><span>Price $70.43</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"52.93\">Bear<b>$52.93</b></span>\n        <span data-value=\"76.94\">Base<b>$76.94</b></span>\n        <span data-value=\"109.43\">Bull<b>$109.43</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $44.24.</figcaption>\n    </figure>",
+  "llms": "Kroger (KR) is a US grocery retailer. At $70.43 my triangulated Base is $76.94 (Bear $52.93, Bull $109.43). Verdict hold at $70.43, maximum buy price $44.24, Confidence C (17/25)."
+}
