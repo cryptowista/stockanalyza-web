@@ -1,0 +1,20 @@
+{
+  "ticker": "NBIS",
+  "slug": "nbis",
+  "name": "Nebius (NBIS)",
+  "company": "Nebius Group N.V.",
+  "companyShort": "Nebius",
+  "date": "2026-11-17",
+  "order": 175,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $106.51",
+  "price": "$106.51",
+  "base": "$52.17",
+  "upside": "-51.0",
+  "upsideText": "-51.0%",
+  "maxBuy": "$23.48",
+  "teaser": "Revenue up 571%, but $27 billion of capex this year and $40 to $45 billion next. Base $52.17 against $106.51. Reduce, maximum buy price $23.48.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $5.00, base $52.17, bull $334.49, current price $106.51, buy zone at or below $23.48\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"5.00\" data-to=\"334.49\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"23.48\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"52.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"334.49\"></span>\n        <span class=\"ruler-price\" data-value=\"106.51\"><span>Price $106.51</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"5.00\">Bear<b>$5.00</b></span>\n        <span data-value=\"52.17\">Base<b>$52.17</b></span>\n        <span data-value=\"334.49\">Bull<b>$334.49</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $23.48.</figcaption>\n    </figure>",
+  "llms": "Nebius Group (NBIS) is an AI cloud company that rents GPU capacity. Third quarter 2026 revenue rose 571% to $980.8 million, with remaining performance obligation of $38.7 billion, but 2027 capital spending is guided to $40 to $45 billion. Bear $5.00, Base $52.17, Bull $334.49. Verdict Reduce at $106.51, maximum buy price $23.48."
+}
