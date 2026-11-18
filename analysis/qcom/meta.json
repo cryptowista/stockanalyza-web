@@ -1,0 +1,20 @@
+{
+  "ticker": "QCOM",
+  "slug": "qcom",
+  "name": "Qualcomm (QCOM)",
+  "company": "Qualcomm Incorporated",
+  "companyShort": "Qualcomm",
+  "date": "2026-11-18",
+  "order": 183,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $165.94",
+  "price": "$165.94",
+  "base": "$112.27",
+  "upside": "-32.3",
+  "upsideText": "-32.3%",
+  "maxBuy": "$64.55 (range $54.44 to $76.76 across my discount rate, exit multiple and growth choices; the price is above all of them)",
+  "teaser": "The price works only if $3.45 billion of stock pay is free: $165.94 is 47.8% above my Base of $112.27. Reduce.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $61.84, base $112.27, bull $186.73, current price $165.94, buy zone at or below $64.55\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"61.84\" data-to=\"186.73\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"64.55\"></span>\n        <span class=\"ruler-tick\" data-value=\"61.84\"></span>\n        <span class=\"ruler-tick\" data-value=\"112.27\"></span>\n        <span class=\"ruler-tick\" data-value=\"186.73\"></span>\n        <span class=\"ruler-price\" data-value=\"165.94\"><span>Price $165.94</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"61.84\">Bear<b>$61.84</b></span>\n        <span data-value=\"112.27\">Base<b>$112.27</b></span>\n        <span data-value=\"186.73\">Bull<b>$186.73</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $64.55.</figcaption>\n    </figure>",
+  "llms": "Qualcomm (QCOM): reduce at $165.94. Base $112.27, Bear $61.84, Bull $186.73. Smartphone chips and patent licensing; the price works only if stock compensation of $3.45 billion is treated as free. Maximum buy price $64.55."
+}
