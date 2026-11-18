@@ -1,0 +1,20 @@
+{
+  "ticker": "MLM",
+  "slug": "mlm",
+  "name": "Martin Marietta (MLM)",
+  "company": "Martin Marietta Materials, Inc.",
+  "companyShort": "Martin Marietta",
+  "date": "2026-11-18",
+  "order": 187,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $502.37",
+  "price": "$502.37",
+  "base": "$428.56",
+  "upside": "-14.7",
+  "upsideText": "-14.7%",
+  "maxBuy": "$225.00 (range $185 to $287 across my discount rate, exit multiple and terminal growth choices; the price is above all of them)",
+  "teaser": "Record third-quarter revenue and EBITDA came with 34% lower earnings per share, because $12.7 billion of net debt now sits behind the Lhoist deal. Hold, do not add.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $270.44, base $428.56, bull $642.01, current price $502.37, buy zone at or below $225.00\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"270.44\" data-to=\"642.01\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"225.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"270.44\"></span>\n        <span class=\"ruler-tick\" data-value=\"428.56\"></span>\n        <span class=\"ruler-tick\" data-value=\"642.01\"></span>\n        <span class=\"ruler-price\" data-value=\"502.37\"><span>Price $502.37</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"270.44\">Bear<b>$270.44</b></span>\n        <span data-value=\"428.56\">Base<b>$428.56</b></span>\n        <span data-value=\"642.01\">Bull<b>$642.01</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $225.00.</figcaption>\n    </figure>",
+  "llms": "Martin Marietta Materials is a US aggregates producer that added Lhoist North America's lime and magnesia business in August 2026 for $12.9 billion. Valued on EBITDA with debt paydown and an exit multiple, cross-checked by free cash flow before interest. Bear $270.44, Base $428.56, Bull $642.01. Verdict Hold at $502.37, maximum buy price $225.00."
+}
