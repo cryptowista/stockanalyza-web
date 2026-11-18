@@ -1,0 +1,20 @@
+{
+  "ticker": "VMC",
+  "slug": "vmc",
+  "name": "Vulcan Materials (VMC)",
+  "company": "Vulcan Materials Company",
+  "companyShort": "Vulcan Materials",
+  "date": "2026-11-18",
+  "order": 188,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $274.84",
+  "price": "$274.84",
+  "base": "$232.34",
+  "upside": "-15.5",
+  "upsideText": "-15.5%",
+  "maxBuy": "$121.98 (range $104 to $146 across my discount rate, exit multiple and terminal growth choices; the price is above all of them)",
+  "teaser": "Profit a ton rose while shipments fell 3%, but the price already assumes pricing keeps beating cost. Two methods disagree by 44%.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $166.46, base $232.34, bull $346.86, current price $274.84, buy zone at or below $121.98\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"166.46\" data-to=\"346.86\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"121.98\"></span>\n        <span class=\"ruler-tick\" data-value=\"166.46\"></span>\n        <span class=\"ruler-tick\" data-value=\"232.34\"></span>\n        <span class=\"ruler-tick\" data-value=\"346.86\"></span>\n        <span class=\"ruler-price\" data-value=\"274.84\"><span>Price $274.84</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"166.46\">Bear<b>$166.46</b></span>\n        <span data-value=\"232.34\">Base<b>$232.34</b></span>\n        <span data-value=\"346.86\">Bull<b>$346.86</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $121.98.</figcaption>\n    </figure>",
+  "llms": "Vulcan Materials is a US producer of construction aggregates. At $274.84 it trades at 15.7 times my 2027 EBITDA estimate, with profit a ton up while shipments fell 3% in the third quarter of 2026. Bear $166.46, Base $232.34, Bull $346.86. Verdict Hold, do not add, at $274.84, maximum buy price $121.98."
+}
