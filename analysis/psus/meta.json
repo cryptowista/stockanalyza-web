@@ -1,0 +1,20 @@
+{
+  "ticker": "PSUS",
+  "slug": "psus",
+  "name": "Pershing Square USA (PSUS)",
+  "company": "Pershing Square USA, Ltd.",
+  "companyShort": "Pershing Square USA",
+  "date": "2026-11-18",
+  "order": 181,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $34.58",
+  "price": "$34.58",
+  "base": "$38.45",
+  "upside": "11.2",
+  "upsideText": "+11.2%",
+  "maxBuy": "$22.11 (range $18.57 to $27.62 across my method and input choices; the price is above all of them)",
+  "teaser": "Trades 32.6% below net asset value, but the discount equals about 18 years of the fund's 2.2% yearly cost. Hold at $34.58, Base $38.45.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $21.88, base $38.45, bull $60.61, current price $34.58, buy zone at or below $22.11\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"21.88\" data-to=\"60.61\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"22.11\"></span>\n        <span class=\"ruler-tick\" data-value=\"21.88\"></span>\n        <span class=\"ruler-tick\" data-value=\"38.45\"></span>\n        <span class=\"ruler-tick\" data-value=\"60.61\"></span>\n        <span class=\"ruler-price\" data-value=\"34.58\"><span>Price $34.58</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"21.88\">Bear<b>$21.88</b></span>\n        <span data-value=\"38.45\">Base<b>$38.45</b></span>\n        <span data-value=\"60.61\">Bull<b>$60.61</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $22.11.</figcaption>\n    </figure>",
+  "llms": "Pershing Square USA (PSUS): hold at $34.58, Base $38.45, Bear $21.88, Bull $60.61. A closed-end fund trading 32.6% below net asset value of $51.27; costs of about 2.2% a year explain most of the discount. Maximum buy price $22.11."
+}
