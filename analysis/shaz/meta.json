@@ -1,0 +1,20 @@
+{
+  "ticker": "SHAZ",
+  "slug": "shaz",
+  "name": "SharonAI (SHAZ)",
+  "company": "SharonAI Holdings Inc.",
+  "companyShort": "SharonAI",
+  "date": "2026-11-18",
+  "order": 184,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $22.32",
+  "price": "$22.32",
+  "base": "$18.74",
+  "upside": "-16.0",
+  "upsideText": "-16.0%",
+  "maxBuy": "$8.43 (range $6.54 to $12.95 across my discount rate, margin and share count choices; the price is above all of them)",
+  "teaser": "Sharon AI owes suppliers $1.24 billion and earned $9.9 million last quarter. $22.32 is 19.1% above my Base of $18.74. Hold, do not add.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0.00, base $18.74, bull $44.31, current price $22.32, buy zone at or below $8.43\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0\" data-to=\"44.31\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"8.43\"></span>\n        <span class=\"ruler-tick\" data-value=\"0\"></span>\n        <span class=\"ruler-tick\" data-value=\"18.74\"></span>\n        <span class=\"ruler-tick\" data-value=\"44.31\"></span>\n        <span class=\"ruler-price\" data-value=\"22.32\"><span>Price $22.32</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0\">Bear<b>$0.00</b></span>\n        <span data-value=\"18.74\">Base<b>$18.74</b></span>\n        <span data-value=\"44.31\">Bull<b>$44.31</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $8.43.</figcaption>\n    </figure>",
+  "llms": "SharonAI (SHAZ): hold, do not add, at $22.32. Base $18.74, Bear $0.00, Bull $44.31. Australian GPU cloud operator with a $9.6 billion contract book that is mostly not yet billing. Maximum buy price $8.43."
+}
