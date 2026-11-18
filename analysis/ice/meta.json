@@ -1,0 +1,20 @@
+{
+  "ticker": "ICE",
+  "slug": "ice",
+  "name": "Intercontinental Exchange (ICE)",
+  "company": "Intercontinental Exchange, Inc.",
+  "companyShort": "Intercontinental Exchange",
+  "date": "2026-11-18",
+  "order": 182,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $172.22",
+  "price": "$172.22",
+  "base": "$142.44",
+  "upside": "-17.3",
+  "upsideText": "-17.3%",
+  "maxBuy": "$81.90 (range $70.76 to $95.83 across my discount rate, exit multiple and normalization choices; the price is above all of them)",
+  "teaser": "Twenty years of record revenue are already in the price: $172.22 is 20.9% above my Base of $142.44. Hold, do not add.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $101.18, base $142.44, bull $182.55, current price $172.22, buy zone at or below $81.90\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"101.18\" data-to=\"182.55\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"81.90\"></span>\n        <span class=\"ruler-tick\" data-value=\"101.18\"></span>\n        <span class=\"ruler-tick\" data-value=\"142.44\"></span>\n        <span class=\"ruler-tick\" data-value=\"182.55\"></span>\n        <span class=\"ruler-price\" data-value=\"172.22\"><span>Price $172.22</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"101.18\">Bear<b>$101.18</b></span>\n        <span data-value=\"142.44\">Base<b>$142.44</b></span>\n        <span data-value=\"182.55\">Bull<b>$182.55</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $81.90.</figcaption>\n    </figure>",
+  "llms": "Intercontinental Exchange (ICE): hold, do not add, at $172.22. Base $142.44, Bear $101.18, Bull $182.55. Owner of the NYSE with 20 years of record revenue; the price already assumes a 9% required return. Maximum buy price $81.90."
+}
