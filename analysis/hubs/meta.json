@@ -1,0 +1,20 @@
+{
+  "ticker": "HUBS",
+  "slug": "hubs",
+  "name": "HubSpot (HUBS)",
+  "company": "HubSpot, Inc.",
+  "companyShort": "HubSpot",
+  "date": "2026-11-18",
+  "order": 186,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $216.07",
+  "price": "$216.07",
+  "base": "$233.86",
+  "upside": "8.2",
+  "upsideText": "+8.2%",
+  "maxBuy": "$122.78 (range $107 to $150 across my discount rate and terminal growth choices; the price is above all of them)",
+  "teaser": "HubSpot guides to $720 million of free cash flow, but $502.6 million of stock pay leaves $217 million for owners. A founder is back as CEO.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $100.19, base $233.86, bull $323.36, current price $216.07, buy zone at or below $122.78\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"100.19\" data-to=\"323.36\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"122.78\"></span>\n        <span class=\"ruler-tick\" data-value=\"100.19\"></span>\n        <span class=\"ruler-tick\" data-value=\"233.86\"></span>\n        <span class=\"ruler-tick\" data-value=\"323.36\"></span>\n        <span class=\"ruler-price\" data-value=\"216.07\"><span>Price $216.07</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"100.19\">Bear<b>$100.19</b></span>\n        <span data-value=\"233.86\">Base<b>$233.86</b></span>\n        <span data-value=\"323.36\">Bull<b>$323.36</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $122.78.</figcaption>\n    </figure>",
+  "llms": "HubSpot (HUBS) sells a CRM platform to small and mid-sized businesses, with 311,704 customers and 17% revenue growth in the third quarter of 2026. It guides to about $720 million of free cash flow for 2026 but pays $502.6 million of stock-based compensation, leaving $217 million for owners. It has no debt and $1.31 billion of cash. Bear $100.19, Base $233.86, Bull $323.36. Verdict Hold at $216.07, maximum buy price $122.78."
+}
