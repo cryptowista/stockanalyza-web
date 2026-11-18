@@ -1,0 +1,20 @@
+{
+  "ticker": "FRMI",
+  "slug": "frmi",
+  "name": "Fermi (FRMI)",
+  "company": "Fermi Inc.",
+  "companyShort": "Fermi",
+  "date": "2026-11-18",
+  "order": 185,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $2.48",
+  "price": "$2.48",
+  "base": "$1.52",
+  "upside": "-38.7",
+  "upsideText": "-38.7%",
+  "maxBuy": "$0.61 (range $0.48 to $0.68 across my discount rate and share count choices; the price is above all of them)",
+  "teaser": "Fermi has spent almost $1.7 billion on a power campus and still has no signed lease. The hyperscaler's $200 million is a deposit on a letter of intent.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0.00, base $1.52, bull $5.59, current price $2.48, buy zone at or below $0.61\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0\" data-to=\"5.59\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"0.61\"></span>\n        <span class=\"ruler-tick\" data-value=\"0\"></span>\n        <span class=\"ruler-tick\" data-value=\"1.52\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.59\"></span>\n        <span class=\"ruler-price\" data-value=\"2.48\"><span>Price $2.48</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0\">Bear<b>$0.00</b></span>\n        <span data-value=\"1.52\">Base<b>$1.52</b></span>\n        <span data-value=\"5.59\">Bull<b>$5.59</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $0.61.</figcaption>\n    </figure>",
+  "llms": "Fermi (FRMI) is a pre-revenue developer of the Project Matador private power and data center campus near Amarillo, Texas. It has invested almost $1.7 billion, owes $999.9 million of debt principal and has a non-binding letter of intent with a hyperscaler for about 600 MW, with a $200 million prepayment but no signed lease. Bear $0.00, Base $1.52, Bull $5.59. Verdict Reduce at $2.48, maximum buy price $0.61."
+}
