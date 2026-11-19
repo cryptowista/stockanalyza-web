@@ -1,0 +1,20 @@
+{
+  "ticker": "RPD",
+  "slug": "rpd",
+  "name": "Rapid7 (RPD)",
+  "company": "Rapid7, Inc.",
+  "companyShort": "Rapid7",
+  "date": "2026-11-19",
+  "order": 196,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $16.12",
+  "price": "$16.12",
+  "base": "$14.33",
+  "upside": "-11.1",
+  "upsideText": "-11.1%",
+  "maxBuy": "$8.24",
+  "teaser": "ARR is down 2.2% and guided down 3%, yet adjusted profit beat the guide. The price is 1.1 times my Base value.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $1.82, base $14.33, bull $29.76, current price $16.12, buy zone at or below $8.24\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"1.82\" data-to=\"29.76\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"8.24\"></span>\n        <span class=\"ruler-tick\" data-value=\"1.82\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.33\"></span>\n        <span class=\"ruler-tick\" data-value=\"29.76\"></span>\n        <span class=\"ruler-price\" data-value=\"16.12\"><span>Price $16.12</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"1.82\">Bear<b>$1.82</b></span>\n        <span data-value=\"14.33\">Base<b>$14.33</b></span>\n        <span data-value=\"29.76\">Bull<b>$29.76</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $8.24.</figcaption>\n    </figure>",
+  "llms": "Rapid7 sells detection and response and exposure management security software; ARR is $819.7 million, down 2.2%, and 2026 sales are guided to about $842 million. Valued on owner free cash flow after stock pay, with a ten-year path, a terminal value and an exit multiple. Bear $1.82, Base $14.33, Bull $29.76. Verdict hold at $16.12, maximum buy price $8.24."
+}
