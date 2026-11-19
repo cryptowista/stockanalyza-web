@@ -1,0 +1,20 @@
+{
+ "ticker": "OKTA",
+ "slug": "okta",
+ "name": "Okta (OKTA)",
+ "company": "Okta, Inc.",
+ "companyShort": "Okta",
+ "date": "2026-11-19",
+ "order": 198,
+ "verdict": "sell",
+ "verdictLabel": "Reduce",
+ "call": "<span class=\"call\">Reduce</span> at $213.95",
+ "price": "$213.95",
+ "base": "$69.73",
+ "upside": "-67.4",
+ "upsideText": "-67.4%",
+ "maxBuy": "$40.09",
+ "teaser": "Free cash flow of $920 million, stock pay of about $460 million: the cash is real, but the price is 3.1 times my Base value.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $34.76, base $69.73, bull $114.42, current price $213.95, buy zone at or below $40.09\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"34.76\" data-to=\"114.42\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"40.09\"></span>\n        <span class=\"ruler-tick\" data-value=\"34.76\"></span>\n        <span class=\"ruler-tick\" data-value=\"69.73\"></span>\n        <span class=\"ruler-tick\" data-value=\"114.42\"></span>\n        <span class=\"ruler-price\" data-value=\"213.95\"><span>Price $213.95</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"34.76\">Bear<b>$34.76</b></span>\n        <span data-value=\"69.73\">Base<b>$69.73</b></span>\n        <span data-value=\"114.42\">Bull<b>$114.42</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $40.09.</figcaption>\n    </figure>",
+ "llms": "Okta is an independent identity and access management software company with no debt, $2.3 billion of cash and guided free cash flow of $910 million to $930 million, but stock-based pay of about $460 million a year takes half of it. Weighted valuation Bear $34.76, Base $69.73, Bull $114.42. Verdict Reduce at $213.95, maximum buy price $40.09."
+}
