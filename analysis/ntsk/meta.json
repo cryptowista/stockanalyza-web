@@ -1,0 +1,20 @@
+{
+  "ticker": "NTSK",
+  "slug": "ntsk",
+  "name": "Netskope (NTSK)",
+  "company": "Netskope, Inc.",
+  "companyShort": "Netskope",
+  "date": "2026-11-19",
+  "order": 199,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $25.78",
+  "price": "$25.78",
+  "base": "$4.90",
+  "upside": "-81.0",
+  "upsideText": "-81.0%",
+  "maxBuy": "$2.57",
+  "teaser": "Sales grow 26% and cash flow is near break-even, but after stock pay owners lose cash until about 2030: the price is 5.3 times my Base value.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0.00, base $4.90, bull $16.34, current price $25.78, buy zone at or below $2.57\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0.00\" data-to=\"16.34\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"2.57\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"4.90\"></span>\n        <span class=\"ruler-tick\" data-value=\"16.34\"></span>\n        <span class=\"ruler-price\" data-value=\"25.78\"><span>Price $25.78</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0.00\">Bear<b>$0.00</b></span>\n        <span data-value=\"4.90\">Base<b>$4.90</b></span>\n        <span data-value=\"16.34\">Bull<b>$16.34</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $2.57.</figcaption>\n    </figure>",
+  "llms": "Netskope is a cloud and AI security software company (secure service edge) growing sales about 26% a year, still loss-making after stock pay, with convertible notes of about $698 million at fair value and $1.07 billion of cash. Weighted valuation Bear $0.00, Base $4.90, Bull $16.34. Verdict Reduce at $25.78, maximum buy price $2.57."
+}
