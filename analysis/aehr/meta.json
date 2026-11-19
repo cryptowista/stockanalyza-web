@@ -1,0 +1,20 @@
+{
+  "ticker": "AEHR",
+  "slug": "aehr",
+  "name": "Aehr Test Systems (AEHR)",
+  "company": "Aehr Test Systems",
+  "companyShort": "Aehr Test Systems",
+  "date": "2026-11-19",
+  "order": 190,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $49.74",
+  "price": "$49.74",
+  "base": "$15.34",
+  "upside": "-69.2",
+  "upsideText": "-69.2%",
+  "maxBuy": "$8.82 (range $7.03 to $10.62 across the two valuation methods; the price is above both)",
+  "teaser": "The price needs revenue to triple again after tripling this year: $49.74 is 224.2% above my Base of $15.34. Reduce.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $6.19, base $15.34, bull $41.44, current price $49.74, buy zone at or below $8.82\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"6.19\" data-to=\"41.44\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"8.82\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.19\"></span>\n        <span class=\"ruler-tick\" data-value=\"15.34\"></span>\n        <span class=\"ruler-tick\" data-value=\"41.44\"></span>\n        <span class=\"ruler-price\" data-value=\"49.74\"><span>Price $49.74</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"6.19\">Bear<b>$6.19</b></span>\n        <span data-value=\"15.34\">Base<b>$15.34</b></span>\n        <span data-value=\"41.44\">Bull<b>$41.44</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $8.82.</figcaption>\n    </figure>",
+  "llms": "Aehr Test Systems (AEHR): reduce at $49.74. Base $15.34, Bear $6.19, Bull $41.44. Semiconductor test and burn-in systems for AI chips; revenue is guided to triple to $150 million, but the price needs fiscal 2030 revenue of $430 million to $670 million. Maximum buy price $8.82."
+}
