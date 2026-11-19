@@ -1,0 +1,20 @@
+{
+  "ticker": "VRT",
+  "slug": "vrt",
+  "name": "Vertiv (VRT)",
+  "company": "Vertiv Holdings Co",
+  "companyShort": "Vertiv",
+  "date": "2026-11-19",
+  "order": 192,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $194.54",
+  "price": "$194.54",
+  "base": "$175.00",
+  "upside": "-10.0",
+  "upsideText": "-10.0%",
+  "maxBuy": "$100.62 (range $96.27 to $105.94 across my two valuation methods; the price is above both)",
+  "teaser": "Sales up 61% and shares down 48% from May, yet Vertiv still trades 11.2% above my Base value: $194.54 against $175.00. Hold.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $75.21, base $175.00, bull $291.68, current price $194.54, buy zone at or below $100.62\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"75.21\" data-to=\"291.68\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"100.62\"></span>\n        <span class=\"ruler-tick\" data-value=\"75.21\"></span>\n        <span class=\"ruler-tick\" data-value=\"175.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"291.68\"></span>\n        <span class=\"ruler-price\" data-value=\"194.54\"><span>Price $194.54</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"75.21\">Bear<b>$75.21</b></span>\n        <span data-value=\"175.00\">Base<b>$175.00</b></span>\n        <span data-value=\"291.68\">Bull<b>$291.68</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $100.62.</figcaption>\n    </figure>",
+  "llms": "Vertiv (VRT): hold at $194.54, watchlist for new money. Base $175.00, Bear $75.21, Bull $291.68. Power and cooling equipment for data centers; third-quarter sales up 61% and the shares 48.3% below their May close, but the price is 11.2% above my Base value and about $0.8 billion of guided 2026 free cash flow is not run-rate. Maximum buy price $100.62."
+}
