@@ -1,0 +1,20 @@
+{
+  "ticker": "S",
+  "slug": "s",
+  "name": "SentinelOne (S)",
+  "company": "SentinelOne, Inc.",
+  "companyShort": "SentinelOne",
+  "date": "2026-11-19",
+  "order": 201,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $24.09",
+  "price": "$24.09",
+  "base": "$8.88",
+  "upside": "-63.1",
+  "upsideText": "-63.1%",
+  "maxBuy": "$4.66 (range $3.36 to $5.73 across my two valuation methods)",
+  "teaser": "A record 10% operating margin, but stock pay cost 2.7 times that profit: the price is 2.7 times my Base value.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0.00, base $8.88, bull $22.21, current price $24.09, buy zone at or below $4.66\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0.00\" data-to=\"22.21\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"4.66\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"8.88\"></span>\n        <span class=\"ruler-tick\" data-value=\"22.21\"></span>\n        <span class=\"ruler-price\" data-value=\"24.09\"><span>Price $24.09</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0.00\">Bear<b>$0.00</b></span>\n        <span data-value=\"8.88\">Base<b>$8.88</b></span>\n        <span data-value=\"22.21\">Bull<b>$22.21</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $4.66.</figcaption>\n    </figure>",
+  "llms": "SentinelOne is an AI-powered cybersecurity platform company with revenue growing 21%, stock-based pay of about 28% of sales and $1.4 billion of zero-coupon convertible notes issued in October 2026. Weighted valuation Bear $0.00, Base $8.88, Bull $22.21. Verdict Reduce at $24.09, maximum buy price $4.66."
+}
