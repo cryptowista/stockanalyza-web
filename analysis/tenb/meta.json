@@ -1,0 +1,20 @@
+{
+  "ticker": "TENB",
+  "slug": "tenb",
+  "name": "Tenable (TENB)",
+  "company": "Tenable Holdings, Inc.",
+  "companyShort": "Tenable",
+  "date": "2026-11-19",
+  "order": 195,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $46.75",
+  "price": "$46.75",
+  "base": "$20.79",
+  "upside": "-55.5",
+  "upsideText": "-55.5%",
+  "maxBuy": "$11.96",
+  "teaser": "Q3 GAAP net income was $11 million against $73 million of non-GAAP net income, with $51 million of stock pay. The price is 2.2 times my Base value.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $5.65, base $20.79, bull $38.63, current price $46.75, buy zone at or below $11.96\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"5.65\" data-to=\"38.63\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"11.96\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.65\"></span>\n        <span class=\"ruler-tick\" data-value=\"20.79\"></span>\n        <span class=\"ruler-tick\" data-value=\"38.63\"></span>\n        <span class=\"ruler-price\" data-value=\"46.75\"><span>Price $46.75</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"5.65\">Bear<b>$5.65</b></span>\n        <span data-value=\"20.79\">Base<b>$20.79</b></span>\n        <span data-value=\"38.63\">Bull<b>$38.63</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $11.96.</figcaption>\n    </figure>",
+  "llms": "Tenable sells exposure management software, with 95% recurring revenue and 2026 sales guided to about $1.085 billion, up about 9%. Valued on owner free cash flow after stock pay, with a ten-year path, a terminal value and an exit multiple. Bear $5.65, Base $20.79, Bull $38.63. Verdict reduce at $46.75, maximum buy price $11.96."
+}
