@@ -1,0 +1,20 @@
+{
+ "ticker": "RBRK",
+ "slug": "rbrk",
+ "name": "Rubrik (RBRK)",
+ "company": "Rubrik, Inc.",
+ "companyShort": "Rubrik",
+ "date": "2026-11-19",
+ "order": 197,
+ "verdict": "sell",
+ "verdictLabel": "Reduce",
+ "call": "<span class=\"call\">Reduce</span> at $119.71",
+ "price": "$119.71",
+ "base": "$31.96",
+ "upside": "-73.3",
+ "upsideText": "-73.3%",
+ "maxBuy": "$18.38",
+ "teaser": "Free cash flow of $328 million, stock pay of about $375 million: after that cost the owners keep nothing yet, and the price is 3.7 times my Base value.",
+ "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $2.45, base $31.96, bull $62.28, current price $119.71, buy zone at or below $18.38\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"2.45\" data-to=\"62.28\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"18.38\"></span>\n        <span class=\"ruler-tick\" data-value=\"2.45\"></span>\n        <span class=\"ruler-tick\" data-value=\"31.96\"></span>\n        <span class=\"ruler-tick\" data-value=\"62.28\"></span>\n        <span class=\"ruler-price\" data-value=\"119.71\"><span>Price $119.71</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"2.45\">Bear<b>$2.45</b></span>\n        <span data-value=\"31.96\">Base<b>$31.96</b></span>\n        <span data-value=\"62.28\">Bull<b>$62.28</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $18.38.</figcaption>\n    </figure>",
+ "llms": "Rubrik is a data security and cyber recovery software company growing subscription ARR 33% to $1.66 billion with guided free cash flow of $323 million to $333 million, but stock-based pay of about $375 million a year exceeds that cash flow. Weighted valuation Bear $2.45, Base $31.96, Bull $62.28. Verdict Reduce at $119.71, maximum buy price $18.38."
+}
