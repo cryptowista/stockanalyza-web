@@ -1,0 +1,20 @@
+{
+  "ticker": "PANW",
+  "slug": "panw",
+  "name": "Palo Alto Networks (PANW)",
+  "company": "Palo Alto Networks Inc",
+  "companyShort": "Palo Alto Networks",
+  "date": "2026-11-19",
+  "order": 193,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $352.88",
+  "price": "$352.88",
+  "base": "$90.73",
+  "upside": "-74.3",
+  "upsideText": "-74.3%",
+  "maxBuy": "$52.17 (range $50.37 to $54.37 across my two valuation methods; the price is far above both)",
+  "teaser": "Q1 net income was $482 million on $25 million of pre-tax profit. After $622 million of stock pay, operating profit is 12.7% of sales. The price is 3.9 times my Base value.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $36.35, base $90.73, bull $155.02, current price $352.88, buy zone at or below $52.17\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"36.35\" data-to=\"155.02\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"52.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"36.35\"></span>\n        <span class=\"ruler-tick\" data-value=\"90.73\"></span>\n        <span class=\"ruler-tick\" data-value=\"155.02\"></span>\n        <span class=\"ruler-price\" data-value=\"352.88\"><span>Price $352.88</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"36.35\">Bear<b>$36.35</b></span>\n        <span data-value=\"90.73\">Base<b>$90.73</b></span>\n        <span data-value=\"155.02\">Bull<b>$155.02</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $52.17.</figcaption>\n    </figure>",
+  "llms": "Palo Alto Networks is a cybersecurity platform company with next-generation security ARR of $9.73 billion, up 66%, and fiscal 2027 sales guided to $14.5 billion. Valued on owner free cash flow after stock pay of about 17% of sales, with a ten-year path, a terminal value and an exit multiple. Bear $36.35, Base $90.73, Bull $155.02. Verdict reduce at $352.88, maximum buy price $52.17."
+}
