@@ -1,0 +1,20 @@
+{
+  "ticker": "APP",
+  "slug": "app",
+  "name": "AppLovin (APP)",
+  "company": "AppLovin Corporation",
+  "companyShort": "APP",
+  "date": "2026-11-20",
+  "order": 207,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $358.27, buy at $267.33 or below",
+  "price": "$358.27",
+  "base": "$464.92",
+  "upside": "29.8",
+  "upsideText": "+29.8%",
+  "maxBuy": "$267.33 (range $263.46 to $270.49 across my two valuation methods)",
+  "teaser": "A 78% operating margin and $1.4 billion of quarterly free cash flow, but a very wide range and a price 34% above my buy price. Hold.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $109.85, base $464.92, bull $743.40, current price $358.27, buy zone at or below $267.33\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"109.85\" data-to=\"743.40\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"267.33\"></span>\n        <span class=\"ruler-tick\" data-value=\"109.85\"></span>\n        <span class=\"ruler-tick\" data-value=\"464.92\"></span>\n        <span class=\"ruler-tick\" data-value=\"743.40\"></span>\n        <span class=\"ruler-price\" data-value=\"358.27\"><span>Price $358.27</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"109.85\">Bear<b>$109.85</b></span>\n        <span data-value=\"464.92\">Base<b>$464.92</b></span>\n        <span data-value=\"743.40\">Bull<b>$743.40</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $267.33.</figcaption>\n    </figure>",
+  "llms": "AppLovin, the mobile and e-commerce advertising platform, trades at $358.27, about 52% below its high, after revenue grew 55% in the third quarter. Bear $109.85, Base $464.92, Bull $743.40. Verdict Hold at $358.27, maximum buy price $267.33."
+}
