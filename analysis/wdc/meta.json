@@ -1,0 +1,20 @@
+{
+  "ticker": "WDC",
+  "slug": "wdc",
+  "name": "Western Digital (WDC)",
+  "company": "Western Digital Corporation",
+  "companyShort": "Western Digital",
+  "date": "2026-11-20",
+  "order": 209,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $260.72",
+  "price": "$260.72",
+  "base": "$226.97",
+  "upside": "-12.9",
+  "upsideText": "-12.9%",
+  "maxBuy": "$123.88",
+  "teaser": "Stock at about 11 times annualized earnings looks cheap, but margins are double the fiscal 2025 level. Base value $226.97, entry range $123.88 to $137.13. Hold, do not add.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $80.68, base $226.97, bull $325.40, current price $260.72, buy zone at or below $123.88\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"80.68\" data-to=\"325.40\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"123.88\"></span>\n        <span class=\"ruler-tick\" data-value=\"80.68\"></span>\n        <span class=\"ruler-tick\" data-value=\"226.97\"></span>\n        <span class=\"ruler-tick\" data-value=\"325.40\"></span>\n        <span class=\"ruler-price\" data-value=\"260.72\"><span>Price $260.72</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"80.68\">Bear<b>$80.68</b></span>\n        <span data-value=\"226.97\">Base<b>$226.97</b></span>\n        <span data-value=\"325.40\">Bull<b>$325.40</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $123.88.</figcaption>\n    </figure>",
+  "llms": "Western Digital Corporation: hard disk drive maker supplying cloud data centers, now with record margins. Valued with mid-cycle EBITDA after stock compensation and a six-year cash flow model. Bear $80.68, Base $226.97, Bull $325.40. Verdict hold at $260.72, do not add, maximum buy price $123.88 (entry range $123.88 to $137.13)."
+}
