@@ -1,0 +1,20 @@
+{
+  "ticker": "STX",
+  "slug": "stx",
+  "name": "Seagate (STX)",
+  "company": "Seagate Technology Holdings plc",
+  "companyShort": "STX",
+  "date": "2026-11-20",
+  "order": 204,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $455.76",
+  "price": "$455.76",
+  "base": "$307.74",
+  "upside": "-32.5",
+  "upsideText": "-32.5%",
+  "maxBuy": "$176.95 (range $151.63 to $197.67 across my two valuation methods)",
+  "teaser": "A record 49% operating margin, but at $455.76 the price assumes it barely fades. My Base value is $307.74, 32% below the price.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $99.49, base $307.74, bull $556.82, current price $455.76, buy zone at or below $176.95\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"99.49\" data-to=\"556.82\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"176.95\"></span>\n        <span class=\"ruler-tick\" data-value=\"99.49\"></span>\n        <span class=\"ruler-tick\" data-value=\"307.74\"></span>\n        <span class=\"ruler-tick\" data-value=\"556.82\"></span>\n        <span class=\"ruler-price\" data-value=\"455.76\"><span>Price $455.76</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"99.49\">Bear<b>$99.49</b></span>\n        <span data-value=\"307.74\">Base<b>$307.74</b></span>\n        <span data-value=\"556.82\">Bull<b>$556.82</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $176.95.</figcaption>\n    </figure>",
+  "llms": "Seagate is a maker of high-capacity hard disk drives for data centers, with a record 48.8% operating margin in the September 2026 quarter and long-term supply agreements through 2028. Bear $99.49, Base $307.74, Bull $556.82. Verdict reduce at $455.76, maximum buy price $176.95."
+}
