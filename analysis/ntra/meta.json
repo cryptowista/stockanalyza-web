@@ -1,0 +1,20 @@
+{
+  "ticker": "NTRA",
+  "slug": "ntra",
+  "name": "Natera (NTRA)",
+  "company": "Natera, Inc.",
+  "companyShort": "NTRA",
+  "date": "2026-11-20",
+  "order": 205,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $275.94",
+  "price": "$275.94",
+  "base": "$102.51",
+  "upside": "-62.8",
+  "upsideText": "-62.8%",
+  "maxBuy": "$58.94 (range $56.55 to $60.90 across my two valuation methods)",
+  "teaser": "Revenue up 34%, but the price needs a margin of about 56% after stock pay. My Base value is $102.51, 63% below the price.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $21.66, base $102.51, bull $220.63, current price $275.94, buy zone at or below $58.94\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"21.66\" data-to=\"220.63\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"58.94\"></span>\n        <span class=\"ruler-tick\" data-value=\"21.66\"></span>\n        <span class=\"ruler-tick\" data-value=\"102.51\"></span>\n        <span class=\"ruler-tick\" data-value=\"220.63\"></span>\n        <span class=\"ruler-price\" data-value=\"275.94\"><span>Price $275.94</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"21.66\">Bear<b>$21.66</b></span>\n        <span data-value=\"102.51\">Base<b>$102.51</b></span>\n        <span data-value=\"220.63\">Bull<b>$220.63</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $58.94.</figcaption>\n    </figure>",
+  "llms": "Natera is a cell-free DNA testing company (cancer recurrence, prenatal and transplant tests) with revenue up 34% in the September 2026 quarter and a loss after stock pay. Bear $21.66, Base $102.51, Bull $220.63. Verdict reduce at $275.94, maximum buy price $58.94."
+}
