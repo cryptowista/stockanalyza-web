@@ -1,0 +1,20 @@
+{
+  "ticker": "GME",
+  "slug": "gme",
+  "name": "GameStop (GME)",
+  "company": "GameStop Corp.",
+  "companyShort": "GME",
+  "date": "2026-11-20",
+  "order": 203,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $26.95",
+  "price": "$26.95",
+  "base": "$23.83",
+  "upside": "-11.6",
+  "upsideText": "-11.6%",
+  "maxBuy": "$13.70 (range $13.41 to $13.93 across my two valuation methods)",
+  "teaser": "More than half of the $26.95 share price is cash, eBay shares and bitcoin. My Base value is $23.83, 13% below the price.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $14.91, base $23.83, bull $30.70, current price $26.95, buy zone at or below $13.70\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"14.91\" data-to=\"30.70\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"13.70\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.91\"></span>\n        <span class=\"ruler-tick\" data-value=\"23.83\"></span>\n        <span class=\"ruler-tick\" data-value=\"30.70\"></span>\n        <span class=\"ruler-price\" data-value=\"26.95\"><span>Price $26.95</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"14.91\">Bear<b>$14.91</b></span>\n        <span data-value=\"23.83\">Base<b>$23.83</b></span>\n        <span data-value=\"30.70\">Bull<b>$30.70</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $13.70.</figcaption>\n    </figure>",
+  "llms": "GameStop is a video game and collectibles retailer with 43.4 million eBay shares, about $5.1 billion of cash and securities and $2.8 billion of convertible notes; about $14.69 of each share is net financial assets. Bear $14.91, Base $23.83, Bull $30.70. Verdict hold at $26.95, maximum buy price $13.70."
+}
