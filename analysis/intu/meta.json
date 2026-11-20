@@ -1,0 +1,20 @@
+{
+  "ticker": "INTU",
+  "slug": "intu",
+  "name": "Intuit (INTU)",
+  "company": "Intuit Inc.",
+  "companyShort": "INTU",
+  "date": "2026-11-20",
+  "order": 206,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $282.33, buy at $268.61 or below",
+  "price": "$282.33",
+  "base": "$467.14",
+  "upside": "65.5",
+  "upsideText": "+65.5%",
+  "maxBuy": "$268.61 (range $259.02 to $280.33 across my two valuation methods)",
+  "teaser": "The shares price in a margin about 15 points below my Base after the Credit Karma guidance cut, but sit 5% above my buy price. Hold.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $148.96, base $467.14, bull $660.83, current price $282.33, buy zone at or below $268.61\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"148.96\" data-to=\"660.83\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"268.61\"></span>\n        <span class=\"ruler-tick\" data-value=\"148.96\"></span>\n        <span class=\"ruler-tick\" data-value=\"467.14\"></span>\n        <span class=\"ruler-tick\" data-value=\"660.83\"></span>\n        <span class=\"ruler-price\" data-value=\"282.33\"><span>Price $282.33</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"148.96\">Bear<b>$148.96</b></span>\n        <span data-value=\"467.14\">Base<b>$467.14</b></span>\n        <span data-value=\"660.83\">Bull<b>$660.83</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $268.61.</figcaption>\n    </figure>",
+  "llms": "Intuit, maker of TurboTax, QuickBooks, Credit Karma and Mailchimp, trades at $282.33 after a 57% decline and an 8.8% fall on guidance. Bear $148.96, Base $467.14, Bull $660.83. Verdict Hold at $282.33, maximum buy price $268.61."
+}
