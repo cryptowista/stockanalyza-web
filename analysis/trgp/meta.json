@@ -1,0 +1,20 @@
+{
+  "ticker": "TRGP",
+  "slug": "trgp",
+  "name": "Targa Resources (TRGP)",
+  "company": "Targa Resources Corp.",
+  "companyShort": "Targa Resources",
+  "date": "2026-11-21",
+  "order": 213,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $278.30",
+  "price": "$278.30",
+  "base": "$232.94",
+  "upside": "-16.3",
+  "upsideText": "-16.3%",
+  "maxBuy": "$133.94",
+  "teaser": "Targa paid $13.1 million of cash taxes on a $529.7 million tax bill in 2025, and the price sits above my Base value. Hold, do not add.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $138.20, base $232.94, bull $289.23, current price $278.30, buy zone at or below $133.94\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"138.20\" data-to=\"289.23\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"133.94\"></span>\n        <span class=\"ruler-tick\" data-value=\"138.20\"></span>\n        <span class=\"ruler-tick\" data-value=\"232.94\"></span>\n        <span class=\"ruler-tick\" data-value=\"289.23\"></span>\n        <span class=\"ruler-price\" data-value=\"278.30\"><span>Price $278.30</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"138.20\">Bear<b>$138.20</b></span>\n        <span data-value=\"232.94\">Base<b>$232.94</b></span>\n        <span data-value=\"289.23\">Bull<b>$289.23</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $133.94.</figcaption>\n    </figure>",
+  "llms": "Targa Resources Corp.: Permian natural gas gathering, processing and NGL logistics company, mostly fee-based, with cash taxes far below its tax expense. Valued on forward EBITDA with a ten-year cash flow model. Bear $138.20, Base $232.94, Bull $289.23. Verdict hold at $278.30, do not add, maximum buy price $133.94 (entry range $117.51 to $144.90)."
+}
