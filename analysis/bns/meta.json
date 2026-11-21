@@ -1,0 +1,20 @@
+{
+  "ticker": "BNS",
+  "slug": "bns",
+  "name": "Scotiabank (BNS)",
+  "company": "The Bank of Nova Scotia",
+  "companyShort": "Scotiabank",
+  "date": "2026-11-21",
+  "order": 219,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at C$119.90, watchlist for new money",
+  "price": "C$119.90",
+  "base": "C$116.62",
+  "upside": "-2.7",
+  "upsideText": "-2.7%",
+  "maxBuy": "C$81.63",
+  "teaser": "Scotiabank hit its 14% return target in one quarter, and the price assumes it holds that for ten years.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear C$80.02, base C$116.62, bull C$132.65, current price C$119.90, buy zone at or below C$81.63\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"80.02\" data-to=\"132.65\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"81.63\"></span>\n        <span class=\"ruler-tick\" data-value=\"80.02\"></span>\n        <span class=\"ruler-tick\" data-value=\"116.62\"></span>\n        <span class=\"ruler-tick\" data-value=\"132.65\"></span>\n        <span class=\"ruler-price\" data-value=\"119.90\"><span>Price C$119.90</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"80.02\">Bear<b>C$80.02</b></span>\n        <span data-value=\"116.62\">Base<b>C$116.62</b></span>\n        <span data-value=\"132.65\">Bull<b>C$132.65</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below C$81.63.</figcaption>\n    </figure>",
+  "llms": "Scotiabank (BNS) is a large Canadian bank with a Latin American and Caribbean network. Adjusted ROE was 14.2% in the quarter to July 2026, at its 14% target. Bear C$80.02, Base C$116.62, Bull C$132.65. Verdict hold at C$119.90, watchlist for new money, maximum buy price C$81.63."
+}
