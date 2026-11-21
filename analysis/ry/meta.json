@@ -1,0 +1,20 @@
+{
+  "ticker": "RY",
+  "slug": "ry",
+  "name": "Royal Bank of Canada (RY)",
+  "company": "Royal Bank of Canada",
+  "companyShort": "Royal Bank of Canada",
+  "date": "2026-11-21",
+  "order": 220,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at C$263.05, do not add",
+  "price": "C$263.05",
+  "base": "C$227.09",
+  "upside": "-13.7",
+  "upsideText": "-13.7%",
+  "maxBuy": "C$158.96",
+  "teaser": "Royal Bank earned 18.1% on equity against a 17% objective, and the price needs about 22% for ten years.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear C$155.13, base C$227.09, bull C$260.19, current price C$263.05, buy zone at or below C$158.96\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"155.13\" data-to=\"260.19\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"158.96\"></span>\n        <span class=\"ruler-tick\" data-value=\"155.13\"></span>\n        <span class=\"ruler-tick\" data-value=\"227.09\"></span>\n        <span class=\"ruler-tick\" data-value=\"260.19\"></span>\n        <span class=\"ruler-price\" data-value=\"263.05\"><span>Price C$263.05</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"155.13\">Bear<b>C$155.13</b></span>\n        <span data-value=\"227.09\">Base<b>C$227.09</b></span>\n        <span data-value=\"260.19\">Bull<b>C$260.19</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below C$158.96.</figcaption>\n    </figure>",
+  "llms": "Royal Bank of Canada (RY) is Canada's largest bank, with large wealth, capital markets and insurance businesses. Adjusted ROE was 18.1% in the quarter to July 2026 against a 17% objective. Bear C$155.13, Base C$227.09, Bull C$260.19. Verdict hold at C$263.05, do not add, maximum buy price C$158.96."
+}
