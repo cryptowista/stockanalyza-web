@@ -1,0 +1,20 @@
+{
+  "ticker": "CASY",
+  "slug": "casy",
+  "name": "Casey's General Stores (CASY)",
+  "company": "Casey's General Stores, Inc.",
+  "companyShort": "Casey's",
+  "date": "2026-11-21",
+  "order": 212,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $691.14",
+  "price": "$691.14",
+  "base": "$478.11",
+  "upside": "-30.8",
+  "upsideText": "-30.8%",
+  "maxBuy": "$274.91",
+  "teaser": "Casey's fuel gross profit is larger than its EBITDA, and the price assumes the growth plan works. Hold, do not add.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $264.57, base $478.11, bull $622.87, current price $691.14, buy zone at or below $274.91\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"264.57\" data-to=\"622.87\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"274.91\"></span>\n        <span class=\"ruler-tick\" data-value=\"264.57\"></span>\n        <span class=\"ruler-tick\" data-value=\"478.11\"></span>\n        <span class=\"ruler-tick\" data-value=\"622.87\"></span>\n        <span class=\"ruler-price\" data-value=\"691.14\"><span>Price $691.14</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"264.57\">Bear<b>$264.57</b></span>\n        <span data-value=\"478.11\">Base<b>$478.11</b></span>\n        <span data-value=\"622.87\">Bull<b>$622.87</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $274.91.</figcaption>\n    </figure>",
+  "llms": "Casey's General Stores, Inc.: U.S. convenience store chain earning most of its profit from food, groceries and fuel, where fuel gross profit exceeds EBITDA. Valued on normalized forward EBITDA with a ten-year cash flow model. Bear $264.57, Base $478.11, Bull $622.87. Verdict hold at $691.14, do not add, maximum buy price $274.91 (entry range $214.72 to $315.04)."
+}
