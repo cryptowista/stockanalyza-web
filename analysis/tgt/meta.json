@@ -1,0 +1,20 @@
+{
+  "ticker": "TGT",
+  "slug": "tgt",
+  "name": "Target (TGT)",
+  "company": "Target Corporation",
+  "companyShort": "Target",
+  "date": "2026-11-21",
+  "order": 210,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $165.83",
+  "price": "$165.83",
+  "base": "$147.41",
+  "upside": "-11.1",
+  "upsideText": "-11.1%",
+  "maxBuy": "$81.81",
+  "teaser": "Target screens at 15 times earnings, but $2.14 of the guided $11.03 is tariff refunds. Base value $147.41, entry range $81.81 to $87.72. Hold, do not add.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $104.18, base $147.41, bull $183.05, current price $165.83, buy zone at or below $81.81\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"104.18\" data-to=\"183.05\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"81.81\"></span>\n        <span class=\"ruler-tick\" data-value=\"104.18\"></span>\n        <span class=\"ruler-tick\" data-value=\"147.41\"></span>\n        <span class=\"ruler-tick\" data-value=\"183.05\"></span>\n        <span class=\"ruler-price\" data-value=\"165.83\"><span>Price $165.83</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"104.18\">Bear<b>$104.18</b></span>\n        <span data-value=\"147.41\">Base<b>$147.41</b></span>\n        <span data-value=\"183.05\">Bull<b>$183.05</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $81.81.</figcaption>\n    </figure>",
+  "llms": "Target Corporation: U.S. general merchandise retailer with more than 2,000 stores, in a turnaround under CEO Michael Fiddelke. Valued on EBITDA without one-time tariff refunds and a five-year cash flow model. Bear $104.18, Base $147.41, Bull $183.05. Verdict hold at $165.83, do not add, maximum buy price $81.81 (entry range $81.81 to $87.72)."
+}
