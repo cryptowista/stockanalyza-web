@@ -1,0 +1,20 @@
+{
+  "ticker": "LYB",
+  "slug": "lyb",
+  "name": "LyondellBasell (LYB)",
+  "company": "LyondellBasell Industries N.V.",
+  "companyShort": "LyondellBasell",
+  "date": "2026-11-21",
+  "order": 211,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $55.84",
+  "price": "$55.84",
+  "base": "$75.98",
+  "upside": "36.1",
+  "upsideText": "+36.1%",
+  "maxBuy": "$42.23",
+  "teaser": "LyondellBasell's trailing year mixes two trough and two windfall quarters. Base value $75.98, entry range $42.23 to $45.14. Hold, watchlist for new money.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $42.07, base $75.98, bull $101.03, current price $55.84, buy zone at or below $42.23\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"42.07\" data-to=\"101.03\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"42.23\"></span>\n        <span class=\"ruler-tick\" data-value=\"42.07\"></span>\n        <span class=\"ruler-tick\" data-value=\"75.98\"></span>\n        <span class=\"ruler-tick\" data-value=\"101.03\"></span>\n        <span class=\"ruler-price\" data-value=\"55.84\"><span>Price $55.84</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"42.07\">Bear<b>$42.07</b></span>\n        <span data-value=\"75.98\">Base<b>$75.98</b></span>\n        <span data-value=\"101.03\">Bull<b>$101.03</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $42.23.</figcaption>\n    </figure>",
+  "llms": "LyondellBasell Industries N.V.: global producer of polyethylene, polypropylene, oxyfuels and chemicals, a commodity cyclical business. Valued on mid-cycle EBITDA with a five-year cash flow model. Bear $42.07, Base $75.98, Bull $101.03. Verdict hold at $55.84, watchlist for new money, maximum buy price $42.23 (entry range $42.23 to $45.14)."
+}
