@@ -1,0 +1,20 @@
+{
+  "ticker": "UVV",
+  "slug": "uvv",
+  "name": "Universal Corporation (UVV)",
+  "company": "Universal Corporation",
+  "companyShort": "Universal Corporation",
+  "date": "2026-11-21",
+  "order": 214,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $33.02",
+  "price": "$33.02",
+  "base": "$23.45",
+  "upside": "-29.0",
+  "upsideText": "-29.0%",
+  "maxBuy": "$12.31",
+  "teaser": "Universal has raised its dividend for 56 years, but five years of free cash flow were $130 million against $393 million of dividends, and the bank leverage cap was loosened in October. At $33.02 the shares sit above my Base value. Reduce.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $5.14, base $23.45, bull $42.07, current price $33.02, buy zone at or below $12.31\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"5.14\" data-to=\"42.07\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"12.31\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.14\"></span>\n        <span class=\"ruler-tick\" data-value=\"23.45\"></span>\n        <span class=\"ruler-tick\" data-value=\"42.07\"></span>\n        <span class=\"ruler-price\" data-value=\"33.02\"><span>Price $33.02</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"5.14\">Bear<b>$5.14</b></span>\n        <span data-value=\"23.45\">Base<b>$23.45</b></span>\n        <span data-value=\"42.07\">Bull<b>$42.07</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $12.31.</figcaption>\n    </figure>",
+  "llms": "Universal Corporation: global leaf tobacco merchant with a small ingredients business, valued on forward EBITDA with a ten-year cash flow model; the dividend yields about 10% but free cash flow has not covered it, and the bank leverage cap was loosened in October 2026. Bear $5.14, Base $23.45, Bull $42.07. Verdict REDUCE at $33.02, maximum buy price $12.31 (entry range $12.04 to $12.72)."
+}
