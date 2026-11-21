@@ -1,0 +1,20 @@
+{
+  "ticker": "TD",
+  "slug": "td",
+  "name": "Toronto-Dominion Bank (TD)",
+  "company": "The Toronto-Dominion Bank",
+  "companyShort": "TD Bank",
+  "date": "2026-11-21",
+  "order": 217,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at C$162.05",
+  "price": "C$162.05",
+  "base": "C$129.17",
+  "upside": "-20.3",
+  "upsideText": "-20.3%",
+  "maxBuy": "C$87.19",
+  "teaser": "TD plans C$13 billion of buybacks, but at 2.3 times book the price is above my Bull value. Reduce.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear C$97.26, base C$129.17, bull C$152.16, current price C$162.05, buy zone at or below C$87.19\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"97.26\" data-to=\"152.16\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"87.19\"></span>\n        <span class=\"ruler-tick\" data-value=\"97.26\"></span>\n        <span class=\"ruler-tick\" data-value=\"129.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"152.16\"></span>\n        <span class=\"ruler-price\" data-value=\"162.05\"><span>Price C$162.05</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"97.26\">Bear<b>C$97.26</b></span>\n        <span data-value=\"129.17\">Base<b>C$129.17</b></span>\n        <span data-value=\"152.16\">Bull<b>C$152.16</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below C$87.19.</figcaption>\n    </figure>",
+  "llms": "Toronto-Dominion Bank (TD) is one of Canada's big five banks, with C$2.1 trillion of assets, adjusted ROE of 16.0%, a 14.3% CET1 ratio and a US$434 billion U.S. asset cap. Valued on residual income and forward earnings. Bear C$97.26, Base C$129.17, Bull C$152.16. Reduce at C$162.05, maximum buy price C$87.19."
+}
