@@ -1,0 +1,20 @@
+{
+  "ticker": "CM",
+  "slug": "cm",
+  "name": "CIBC (CM)",
+  "company": "Canadian Imperial Bank of Commerce",
+  "companyShort": "CIBC",
+  "date": "2026-11-21",
+  "order": 216,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at C$147.36, do not add",
+  "price": "C$147.36",
+  "base": "C$131.61",
+  "upside": "-10.7",
+  "upsideText": "-10.7%",
+  "maxBuy": "C$95.42",
+  "teaser": "CIBC earns a 16.9% adjusted return on equity, but the price needs about 17.8% for ten years. Hold, do not add.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear C$96.97, base C$131.61, bull C$156.40, current price C$147.36, buy zone at or below C$95.42\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"96.97\" data-to=\"156.40\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"95.42\"></span>\n        <span class=\"ruler-tick\" data-value=\"96.97\"></span>\n        <span class=\"ruler-tick\" data-value=\"131.61\"></span>\n        <span class=\"ruler-tick\" data-value=\"156.40\"></span>\n        <span class=\"ruler-price\" data-value=\"147.36\"><span>Price C$147.36</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"96.97\">Bear<b>C$96.97</b></span>\n        <span data-value=\"131.61\">Base<b>C$131.61</b></span>\n        <span data-value=\"156.40\">Bull<b>C$156.40</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below C$95.42.</figcaption>\n    </figure>",
+  "llms": "Canadian Imperial Bank of Commerce (CM) is one of Canada's big five banks, with C$1,178 billion of assets, adjusted ROE of 16.9% over nine months and a CET1 ratio of 13.4%. Valued on residual income and forward earnings. Bear C$96.97, Base C$131.61, Bull C$156.40. Hold at C$147.36, do not add, maximum buy price C$95.42."
+}
