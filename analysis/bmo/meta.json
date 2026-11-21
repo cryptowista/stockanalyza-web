@@ -1,0 +1,20 @@
+{
+  "ticker": "BMO",
+  "slug": "bmo",
+  "name": "Bank of Montreal (BMO)",
+  "company": "Bank of Montreal",
+  "companyShort": "Bank of Montreal",
+  "date": "2026-11-21",
+  "order": 218,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at C$224.49, do not add",
+  "price": "C$224.49",
+  "base": "C$206.77",
+  "upside": "-7.9",
+  "upsideText": "-7.9%",
+  "maxBuy": "C$144.74",
+  "teaser": "Reported profit fell 25% on a goodwill charge while adjusted profit rose 19%, but the price already needs the 15% ROE target.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear C$138.93, base C$206.77, bull C$242.00, current price C$224.49, buy zone at or below C$144.74\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"138.93\" data-to=\"242.00\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"144.74\"></span>\n        <span class=\"ruler-tick\" data-value=\"138.93\"></span>\n        <span class=\"ruler-tick\" data-value=\"206.77\"></span>\n        <span class=\"ruler-tick\" data-value=\"242.00\"></span>\n        <span class=\"ruler-price\" data-value=\"224.49\"><span>Price C$224.49</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"138.93\">Bear<b>C$138.93</b></span>\n        <span data-value=\"206.77\">Base<b>C$206.77</b></span>\n        <span data-value=\"242.00\">Bull<b>C$242.00</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below C$144.74.</figcaption>\n    </figure>",
+  "llms": "Bank of Montreal (BMO) is a Canadian bank with large U.S., capital markets and wealth franchises. Adjusted ROE was 14.0% in the quarter to July 2026 against a 15% target. Bear C$138.93, Base C$206.77, Bull C$242.00. Verdict hold at C$224.49, do not add, maximum buy price C$144.74."
+}
