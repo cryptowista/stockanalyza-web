@@ -1,0 +1,20 @@
+{
+  "ticker": "APLD",
+  "slug": "apld",
+  "name": "Applied Digital (APLD)",
+  "company": "Applied Digital Corporation",
+  "companyShort": "Applied Digital",
+  "date": "2026-11-21",
+  "order": 215,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $11.45, watchlist for new money",
+  "price": "$11.45",
+  "base": "$13.66",
+  "upside": "19.3",
+  "upsideText": "+19.3%",
+  "maxBuy": "$5.81",
+  "teaser": "Applied Digital pays $77.4 million of quarterly interest against $65.8 million of base rent, and 800 MW is still unfunded. Hold, watchlist for new money.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $0.06, base $13.66, bull $27.42, current price $11.45, buy zone at or below $5.81\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"0.06\" data-to=\"27.42\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"5.81\"></span>\n        <span class=\"ruler-tick\" data-value=\"0.06\"></span>\n        <span class=\"ruler-tick\" data-value=\"13.66\"></span>\n        <span class=\"ruler-tick\" data-value=\"27.42\"></span>\n        <span class=\"ruler-price\" data-value=\"11.45\"><span>Price $11.45</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"0.06\">Bear<b>$0.06</b></span>\n        <span data-value=\"13.66\">Base<b>$13.66</b></span>\n        <span data-value=\"27.42\">Bull<b>$27.42</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $5.81.</figcaption>\n    </figure>",
+  "llms": "Applied Digital (APLD) develops and leases AI data centers: 1.41 GW under lease, about $36 billion of contracted base-term revenue, 250 MW live, $6.4 billion of debt and about 800 MW still to finance. Bear $0.06, Base $13.66, Bull $27.42. Hold at $11.45, watchlist for new money, maximum buy price $5.81."
+}
