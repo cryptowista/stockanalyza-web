@@ -1,0 +1,20 @@
+{
+  "ticker": "ADC",
+  "slug": "adc",
+  "name": "Agree Realty (ADC)",
+  "company": "Agree Realty Corporation",
+  "companyShort": "Agree Realty",
+  "date": "2026-11-22",
+  "order": 230,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $70.91, do not add",
+  "price": "$70.91",
+  "base": "$63.38",
+  "upside": "-10.6",
+  "upsideText": "-10.6%",
+  "maxBuy": "$44.37",
+  "teaser": "Agree is 99.8% leased and 65% investment grade, but the price implies a 6.0% cap rate, below the 6.5% at which it sold in the third quarter.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $50.34, base $63.38, bull $73.09, current price $70.91, buy zone at or below $44.37\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"50.34\" data-to=\"73.09\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"44.37\"></span>\n        <span class=\"ruler-tick\" data-value=\"50.34\"></span>\n        <span class=\"ruler-tick\" data-value=\"63.38\"></span>\n        <span class=\"ruler-tick\" data-value=\"73.09\"></span>\n        <span class=\"ruler-price\" data-value=\"70.91\"><span>Price $70.91</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"50.34\">Bear<b>$50.34</b></span>\n        <span data-value=\"63.38\">Base<b>$63.38</b></span>\n        <span data-value=\"73.09\">Bull<b>$73.09</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $44.37.</figcaption>\n    </figure>",
+  "llms": "Retail net-lease REIT with 2,888 properties, 99.8% leased. Priced at about a 6.0% implied cap rate against 6.5% sales and 7.3% purchases. Bear $50.34, Base $63.38, Bull $73.09. Verdict Hold at $70.91, do not add, maximum buy price $44.37."
+}
