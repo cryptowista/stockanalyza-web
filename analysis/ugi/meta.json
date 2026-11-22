@@ -1,0 +1,20 @@
+{
+  "ticker": "UGI",
+  "slug": "ugi",
+  "name": "UGI Corporation (UGI)",
+  "company": "UGI Corporation",
+  "companyShort": "UGI",
+  "date": "2026-11-22",
+  "order": 221,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $35.56, watchlist for new money",
+  "price": "$35.56",
+  "base": "$39.17",
+  "upside": "10.1",
+  "upsideText": "+10.1%",
+  "maxBuy": "$22.52",
+  "teaser": "UGI trades 19.5% below a reported $42.50 KKR offer, and my sum of the parts puts it 9.2% below a Base value of $39.17.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $26.13, base $39.17, bull $49.94, current price $35.56, buy zone at or below $22.52\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"26.13\" data-to=\"49.94\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"22.52\"></span>\n        <span class=\"ruler-tick\" data-value=\"26.13\"></span>\n        <span class=\"ruler-tick\" data-value=\"39.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"49.94\"></span>\n        <span class=\"ruler-price\" data-value=\"35.56\"><span>Price $35.56</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"26.13\">Bear<b>$26.13</b></span>\n        <span data-value=\"39.17\">Base<b>$39.17</b></span>\n        <span data-value=\"49.94\">Bull<b>$49.94</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $22.52.</figcaption>\n    </figure>",
+  "llms": "UGI Corporation (UGI) is a hybrid energy distributor with regulated gas utilities, midstream and marketing, and propane businesses in the US and Europe. Adjusted EPS was $3.00 in fiscal 2026. A sum of the parts gives Bear $26.13, Base $39.17, Bull $49.94. Verdict hold at $35.56, watchlist for new money, maximum buy price $22.52."
+}
