@@ -1,0 +1,20 @@
+{
+  "ticker": "NNN",
+  "slug": "nnn",
+  "name": "NNN REIT (NNN)",
+  "company": "NNN REIT, Inc.",
+  "companyShort": "NNN REIT",
+  "date": "2026-11-22",
+  "order": 229,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $40.30, watchlist for new money",
+  "price": "$40.30",
+  "base": "$41.17",
+  "upside": "2.2",
+  "upsideText": "+2.2%",
+  "maxBuy": "$28.82",
+  "teaser": "Record occupancy and AFFO up 5.8%, but the 8.9% AFFO yield is above the 7.3% yield on new properties. Hold at $40.30, Base $41.17.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $31.94, base $41.17, bull $47.93, current price $40.30, buy zone at or below $28.82\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"31.94\" data-to=\"47.93\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"28.82\"></span>\n        <span class=\"ruler-tick\" data-value=\"31.94\"></span>\n        <span class=\"ruler-tick\" data-value=\"41.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"47.93\"></span>\n        <span class=\"ruler-price\" data-value=\"40.3\"><span>Price $40.30</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"31.94\">Bear<b>$31.94</b></span>\n        <span data-value=\"41.17\">Base<b>$41.17</b></span>\n        <span data-value=\"47.93\">Bull<b>$47.93</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $28.82.</figcaption>\n    </figure>",
+  "llms": "NNN REIT owns 3,817 single-tenant net-lease retail properties. Third-quarter 2026 AFFO per share was $0.91, occupancy 99.2%, guidance held at $3.55 to $3.59. Bear $31.94, Base $41.17, Bull $47.93. Verdict Hold at $40.30, watchlist for new money, maximum buy price $28.82."
+}
