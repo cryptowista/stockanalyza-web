@@ -1,0 +1,20 @@
+{
+  "ticker": "ABBV",
+  "slug": "abbv",
+  "name": "AbbVie (ABBV)",
+  "company": "AbbVie Inc.",
+  "companyShort": "AbbVie",
+  "date": "2026-11-22",
+  "order": 235,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $286.20",
+  "price": "$286.20",
+  "base": "$225.59",
+  "upside": "-21.2",
+  "upsideText": "-21.2%",
+  "maxBuy": "$118.44",
+  "teaser": "Skyrizi and Rinvoq are now 48.7% of AbbVie's revenue and Humira only 3.9%, but at $286.20 the shares are near my Bull value.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $132.08, base $225.59, bull $292.00, current price $286.20, buy zone at or below $118.44\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"132.08\" data-to=\"292.00\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"118.44\"></span>\n        <span class=\"ruler-tick\" data-value=\"132.08\"></span>\n        <span class=\"ruler-tick\" data-value=\"225.59\"></span>\n        <span class=\"ruler-tick\" data-value=\"292.00\"></span>\n        <span class=\"ruler-price\" data-value=\"286.2\"><span>Price $286.20</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"132.08\">Bear<b>$132.08</b></span>\n        <span data-value=\"225.59\">Base<b>$225.59</b></span>\n        <span data-value=\"292.00\">Bull<b>$292.00</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $118.44.</figcaption>\n    </figure>",
+  "llms": "AbbVie is a US pharmaceutical company whose Skyrizi and Rinvoq now make up 48.7% of revenue while Humira is 3.9%. Bear $132.08, Base $225.59, Bull $292.00. Verdict: reduce at $286.20, maximum buy price $118.44."
+}
