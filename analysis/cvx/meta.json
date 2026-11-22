@@ -1,0 +1,20 @@
+{
+  "ticker": "CVX",
+  "slug": "cvx",
+  "name": "Chevron (CVX)",
+  "company": "Chevron Corporation",
+  "companyShort": "Chevron",
+  "date": "2026-11-22",
+  "order": 227,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $208.37",
+  "price": "$208.37",
+  "base": "$154.40",
+  "upside": "-25.9",
+  "upsideText": "-25.9%",
+  "maxBuy": "$88.78",
+  "teaser": "Chevron earned $5.28 a share on $97 oil. At $208.37 the shares pay for oil well above the $70 it plans on. Reduce, Base $154.40.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $69.72, base $154.40, bull $234.87, current price $208.37, buy zone at or below $88.78\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"69.72\" data-to=\"234.87\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"88.78\"></span>\n        <span class=\"ruler-tick\" data-value=\"69.72\"></span>\n        <span class=\"ruler-tick\" data-value=\"154.40\"></span>\n        <span class=\"ruler-tick\" data-value=\"234.87\"></span>\n        <span class=\"ruler-price\" data-value=\"208.37\"><span>Price $208.37</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"69.72\">Bear<b>$69.72</b></span>\n        <span data-value=\"154.40\">Base<b>$154.40</b></span>\n        <span data-value=\"234.87\">Bull<b>$234.87</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $88.78.</figcaption>\n    </figure>",
+  "llms": "Chevron produces oil and natural gas and refines fuels. Third-quarter 2026 adjusted EPS was $5.28 with Brent at $97, and net debt fell to $20.7 billion. Bear $69.72, Base $154.40, Bull $234.87. Verdict Reduce at $208.37, maximum buy price $88.78."
+}
