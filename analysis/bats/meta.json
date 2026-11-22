@@ -1,0 +1,20 @@
+{
+  "ticker": "BATS",
+  "slug": "bats",
+  "name": "British American Tobacco (BATS)",
+  "company": "British American Tobacco p.l.c.",
+  "companyShort": "British American Tobacco",
+  "date": "2026-11-22",
+  "order": 231,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at £44.01, do not add",
+  "price": "£44.01",
+  "base": "£39.17",
+  "upside": "-11.0",
+  "upsideText": "-11.0%",
+  "maxBuy": "£22.52",
+  "teaser": "BAT paid shareholders £3.3 billion in the first half on £2.3 billion of free cash; at £44.01 the price is 12% above my Base value.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear £27.28, base £39.17, bull £47.33, current price £44.01, buy zone at or below £22.52\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"27.28\" data-to=\"47.33\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"22.52\"></span>\n        <span class=\"ruler-tick\" data-value=\"27.28\"></span>\n        <span class=\"ruler-tick\" data-value=\"39.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"47.33\"></span>\n        <span class=\"ruler-price\" data-value=\"44.01\"><span>Price £44.01</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"27.28\">Bear<b>£27.28</b></span>\n        <span data-value=\"39.17\">Base<b>£39.17</b></span>\n        <span data-value=\"47.33\">Bull<b>£47.33</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below £22.52.</figcaption>\n    </figure>",
+  "llms": "Global tobacco and nicotine group, third-largest by volume, with smokeless products 19.8% of revenue. Values in pounds sterling. Bear £27.28, Base £39.17, Bull £47.33. Verdict Hold at £44.01, do not add, maximum buy price £22.52. Dividend yield 5.6%."
+}
