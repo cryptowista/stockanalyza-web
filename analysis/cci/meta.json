@@ -1,0 +1,20 @@
+{
+  "ticker": "CCI",
+  "slug": "cci",
+  "name": "Crown Castle (CCI)",
+  "company": "Crown Castle Inc.",
+  "companyShort": "Crown Castle",
+  "date": "2026-11-22",
+  "order": 222,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $82.40, do not add",
+  "price": "$82.40",
+  "base": "$70.06",
+  "upside": "-15.0",
+  "upsideText": "-15.0%",
+  "maxBuy": "$40.28",
+  "teaser": "Crown Castle rose 31% in a month on a SpaceX report, and at $82.40 it trades above my Bull value of $81.71.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $48.63, base $70.06, bull $81.71, current price $82.40, buy zone at or below $40.28\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"48.63\" data-to=\"81.71\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"40.28\"></span>\n        <span class=\"ruler-tick\" data-value=\"48.63\"></span>\n        <span class=\"ruler-tick\" data-value=\"70.06\"></span>\n        <span class=\"ruler-tick\" data-value=\"81.71\"></span>\n        <span class=\"ruler-price\" data-value=\"82.4\"><span>Price $82.40</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"48.63\">Bear<b>$48.63</b></span>\n        <span data-value=\"70.06\">Base<b>$70.06</b></span>\n        <span data-value=\"81.71\">Bull<b>$81.71</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $40.28.</figcaption>\n    </figure>",
+  "llms": "Crown Castle (CCI) is a US tower REIT with about 40,000 towers after selling its fiber and small cell business in 2026. FY26 AFFO outlook is $4.60 per share. Bear $48.63, Base $70.06, Bull $81.71. Verdict hold at $82.40, do not add, maximum buy price $40.28."
+}
