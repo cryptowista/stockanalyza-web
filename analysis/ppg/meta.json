@@ -1,0 +1,20 @@
+{
+  "ticker": "PPG",
+  "slug": "ppg",
+  "name": "PPG Industries (PPG)",
+  "company": "PPG Industries, Inc.",
+  "companyShort": "PPG Industries",
+  "date": "2026-11-22",
+  "order": 226,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $117.12, do not add",
+  "price": "$117.12",
+  "base": "$112.53",
+  "upside": "-3.9",
+  "upsideText": "-3.9%",
+  "maxBuy": "$64.71",
+  "teaser": "A record quarter, while the largest segment lost 260 basis points of margin. Hold at $117.12, Base $112.53, maximum buy $64.71.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $80.65, base $112.53, bull $144.27, current price $117.12, buy zone at or below $64.71\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"80.65\" data-to=\"144.27\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"64.71\"></span>\n        <span class=\"ruler-tick\" data-value=\"80.65\"></span>\n        <span class=\"ruler-tick\" data-value=\"112.53\"></span>\n        <span class=\"ruler-tick\" data-value=\"144.27\"></span>\n        <span class=\"ruler-price\" data-value=\"117.12\"><span>Price $117.12</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"80.65\">Bear<b>$80.65</b></span>\n        <span data-value=\"112.53\">Base<b>$112.53</b></span>\n        <span data-value=\"144.27\">Bull<b>$144.27</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $64.71.</figcaption>\n    </figure>",
+  "llms": "PPG Industries makes paints and coatings in three segments. Third-quarter 2026 earnings were a record, but Industrial Coatings lost 260 basis points of margin. Bear $80.65, Base $112.53, Bull $144.27. Verdict Hold at $117.12, do not add, maximum buy price $64.71."
+}
