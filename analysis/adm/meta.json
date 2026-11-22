@@ -1,0 +1,20 @@
+{
+  "ticker": "ADM",
+  "slug": "adm",
+  "name": "Archer-Daniels-Midland (ADM)",
+  "company": "Archer-Daniels-Midland Company",
+  "companyShort": "Archer-Daniels-Midland",
+  "date": "2026-11-22",
+  "order": 228,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $66.95, do not add",
+  "price": "$66.95",
+  "base": "$59.31",
+  "upside": "-11.4",
+  "upsideText": "-11.4%",
+  "maxBuy": "$34.10",
+  "teaser": "ADM raised 2026 guidance from $3.60 to $4.25 to $5.50 to $5.80 a share. At $66.95 the price already pays for a repeat. Hold, Base $59.31.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $37.62, base $59.31, bull $82.04, current price $66.95, buy zone at or below $34.10\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"37.62\" data-to=\"82.04\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"34.10\"></span>\n        <span class=\"ruler-tick\" data-value=\"37.62\"></span>\n        <span class=\"ruler-tick\" data-value=\"59.31\"></span>\n        <span class=\"ruler-tick\" data-value=\"82.04\"></span>\n        <span class=\"ruler-price\" data-value=\"66.95\"><span>Price $66.95</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"37.62\">Bear<b>$37.62</b></span>\n        <span data-value=\"59.31\">Base<b>$59.31</b></span>\n        <span data-value=\"82.04\">Bull<b>$82.04</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $34.10.</figcaption>\n    </figure>",
+  "llms": "ADM processes crops and runs a global grain network. Third-quarter 2026 adjusted EPS was $1.77 and guidance for 2026 rose to $5.50 to $5.80 on biofuel margins. Bear $37.62, Base $59.31, Bull $82.04. Verdict Hold at $66.95, do not add, maximum buy price $34.10."
+}
