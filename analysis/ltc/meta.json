@@ -1,0 +1,20 @@
+{
+  "ticker": "LTC",
+  "slug": "ltc",
+  "name": "LTC Properties (LTC)",
+  "company": "LTC Properties, Inc.",
+  "companyShort": "LTC Properties",
+  "date": "2026-11-22",
+  "order": 223,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $42.13, watchlist for new money",
+  "price": "$42.13",
+  "base": "$46.12",
+  "upside": "9.5",
+  "upsideText": "+9.5%",
+  "maxBuy": "$26.52",
+  "teaser": "Net income was $6.39 a share, but only $0.71 of Core FFO is recurring; the price is fair, not cheap.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $33.62, base $46.12, bull $55.63, current price $42.13, buy zone at or below $26.52\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"33.62\" data-to=\"55.63\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"26.52\"></span>\n        <span class=\"ruler-tick\" data-value=\"33.62\"></span>\n        <span class=\"ruler-tick\" data-value=\"46.12\"></span>\n        <span class=\"ruler-tick\" data-value=\"55.63\"></span>\n        <span class=\"ruler-price\" data-value=\"42.13\"><span>Price $42.13</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"33.62\">Bear<b>$33.62</b></span>\n        <span data-value=\"46.12\">Base<b>$46.12</b></span>\n        <span data-value=\"55.63\">Bull<b>$55.63</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $26.52.</figcaption>\n    </figure>",
+  "llms": "LTC Properties is a seniors housing and health care REIT moving from skilled nursing leases to operated senior housing (SHOP). Valued on owner cash flow and price to Core FFO. Bear $33.62, Base $46.12, Bull $55.63. Verdict Hold at $42.13, watchlist for new money, maximum buy price $26.52."
+}
