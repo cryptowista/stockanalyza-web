@@ -1,0 +1,20 @@
+{
+  "ticker": "MAIN",
+  "slug": "main",
+  "name": "Main Street Capital (MAIN)",
+  "company": "Main Street Capital Corporation",
+  "companyShort": "Main Street",
+  "date": "2026-11-22",
+  "order": 232,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $55.05",
+  "price": "$55.05",
+  "base": "$42.97",
+  "upside": "-21.9",
+  "upsideText": "-21.9%",
+  "maxBuy": "$24.71",
+  "teaser": "Main Street paid $1.095 a share in Q3 on $0.96 of distributable income and trades at 1.61 times NAV, above my Bull value.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $25.54, base $42.97, bull $54.53, current price $55.05, buy zone at or below $24.71\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"25.54\" data-to=\"54.53\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"24.71\"></span>\n        <span class=\"ruler-tick\" data-value=\"25.54\"></span>\n        <span class=\"ruler-tick\" data-value=\"42.97\"></span>\n        <span class=\"ruler-tick\" data-value=\"54.53\"></span>\n        <span class=\"ruler-price\" data-value=\"55.05\"><span>Price $55.05</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"25.54\">Bear<b>$25.54</b></span>\n        <span data-value=\"42.97\">Base<b>$42.97</b></span>\n        <span data-value=\"54.53\">Bull<b>$54.53</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $24.71.</figcaption>\n    </figure>",
+  "llms": "Main Street Capital is an internally managed business development company holding lower middle market and private loan investments. It trades at 1.61 times NAV. Bear $25.54, Base $42.97, Bull $54.53. Verdict: reduce at $55.05, maximum buy price $24.71."
+}
