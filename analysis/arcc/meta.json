@@ -1,0 +1,20 @@
+{
+  "ticker": "ARCC",
+  "slug": "arcc",
+  "name": "Ares Capital (ARCC)",
+  "company": "Ares Capital Corporation",
+  "companyShort": "Ares Capital",
+  "date": "2026-11-22",
+  "order": 224,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $18.43, do not add",
+  "price": "$18.43",
+  "base": "$17.59",
+  "upside": "-4.5",
+  "upsideText": "-4.5%",
+  "maxBuy": "$10.12",
+  "teaser": "Ares Capital earned $0.46 a share and paid $0.48; the price is close to NAV and slightly above my Base value.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $12.66, base $17.59, bull $20.86, current price $18.43, buy zone at or below $10.12\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"12.66\" data-to=\"20.86\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"10.12\"></span>\n        <span class=\"ruler-tick\" data-value=\"12.66\"></span>\n        <span class=\"ruler-tick\" data-value=\"17.59\"></span>\n        <span class=\"ruler-tick\" data-value=\"20.86\"></span>\n        <span class=\"ruler-price\" data-value=\"18.43\"><span>Price $18.43</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"12.66\">Bear<b>$12.66</b></span>\n        <span data-value=\"17.59\">Base<b>$17.59</b></span>\n        <span data-value=\"20.86\">Bull<b>$20.86</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $10.12.</figcaption>\n    </figure>",
+  "llms": "Ares Capital is the largest listed business development company, a lender to US middle-market companies. Valued on NAV and sustainable net investment income plus normalized earnings. Bear $12.66, Base $17.59, Bull $20.86. Verdict Hold at $18.43, do not add, maximum buy price $10.12."
+}
