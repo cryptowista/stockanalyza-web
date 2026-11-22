@@ -1,0 +1,20 @@
+{
+  "ticker": "TROW",
+  "slug": "trow",
+  "name": "T. Rowe Price (TROW)",
+  "company": "T. Rowe Price Group, Inc.",
+  "companyShort": "T. Rowe Price",
+  "date": "2026-11-22",
+  "order": 234,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $100.99, watchlist for new money",
+  "price": "$100.99",
+  "base": "$112.12",
+  "upside": "11.0",
+  "upsideText": "+11.0%",
+  "maxBuy": "$64.47",
+  "teaser": "T. Rowe Price lost $28.3 billion of client money in Q3 and still raised adjusted EPS. At $100.99 it trades at about 10 times my FY27 earnings.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $74.22, base $112.12, bull $146.67, current price $100.99, buy zone at or below $64.47\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"74.22\" data-to=\"146.67\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"64.47\"></span>\n        <span class=\"ruler-tick\" data-value=\"74.22\"></span>\n        <span class=\"ruler-tick\" data-value=\"112.12\"></span>\n        <span class=\"ruler-tick\" data-value=\"146.67\"></span>\n        <span class=\"ruler-price\" data-value=\"100.99\"><span>Price $100.99</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"74.22\">Bear<b>$74.22</b></span>\n        <span data-value=\"112.12\">Base<b>$112.12</b></span>\n        <span data-value=\"146.67\">Bull<b>$146.67</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $64.47.</figcaption>\n    </figure>",
+  "llms": "T. Rowe Price is a US asset manager with $1.86 trillion of client assets. It lost $28.3 billion to outflows in Q3 2026 while adjusted EPS rose 1.8%. Bear $74.22, Base $112.12, Bull $146.67. Verdict: hold at $100.99, watchlist for new money, maximum buy price $64.47."
+}
