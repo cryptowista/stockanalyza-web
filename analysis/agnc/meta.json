@@ -1,0 +1,20 @@
+{
+  "ticker": "AGNC",
+  "slug": "agnc",
+  "name": "AGNC Investment (AGNC)",
+  "company": "AGNC Investment Corp.",
+  "companyShort": "AGNC Investment",
+  "date": "2026-11-22",
+  "order": 225,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $7.73, do not add",
+  "price": "$7.73",
+  "base": "$6.74",
+  "upside": "-12.8",
+  "upsideText": "-12.8%",
+  "maxBuy": "$3.88",
+  "teaser": "AGNC lost 17% of its book value in a quarter and kept paying $0.12 a month; the price is still above my value.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $5.01, base $6.74, bull $9.06, current price $7.73, buy zone at or below $3.88\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"5.01\" data-to=\"9.06\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"3.88\"></span>\n        <span class=\"ruler-tick\" data-value=\"5.01\"></span>\n        <span class=\"ruler-tick\" data-value=\"6.74\"></span>\n        <span class=\"ruler-tick\" data-value=\"9.06\"></span>\n        <span class=\"ruler-price\" data-value=\"7.73\"><span>Price $7.73</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"5.01\">Bear<b>$5.01</b></span>\n        <span data-value=\"6.74\">Base<b>$6.74</b></span>\n        <span data-value=\"9.06\">Bull<b>$9.06</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $3.88.</figcaption>\n    </figure>",
+  "llms": "AGNC Investment is an agency mortgage REIT that finances US government-backed mortgage bonds with repo. Valued on tangible book value and sustainable spread income. Bear $5.01, Base $6.74, Bull $9.06. Verdict Hold at $7.73, do not add, maximum buy price $3.88."
+}
