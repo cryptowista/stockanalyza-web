@@ -1,0 +1,20 @@
+{
+  "ticker": "STAG",
+  "slug": "stag",
+  "name": "STAG Industrial (STAG)",
+  "company": "STAG Industrial, Inc.",
+  "companyShort": "STAG Industrial",
+  "date": "2026-11-22",
+  "order": 233,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $35.98, do not add",
+  "price": "$35.98",
+  "base": "$35.80",
+  "upside": "-0.5",
+  "upsideText": "-0.5%",
+  "maxBuy": "$20.58",
+  "teaser": "STAG grew cash NOI 10.1% in Q3 but Core FFO per share only 1.5%. At $35.98 it trades at my Base value, so no margin of safety.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $27.17, base $35.80, bull $40.68, current price $35.98, buy zone at or below $20.58\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"27.17\" data-to=\"40.68\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"20.58\"></span>\n        <span class=\"ruler-tick\" data-value=\"27.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"35.80\"></span>\n        <span class=\"ruler-tick\" data-value=\"40.68\"></span>\n        <span class=\"ruler-price\" data-value=\"35.98\"><span>Price $35.98</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"27.17\">Bear<b>$27.17</b></span>\n        <span data-value=\"35.80\">Base<b>$35.80</b></span>\n        <span data-value=\"40.68\">Bull<b>$40.68</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $20.58.</figcaption>\n    </figure>",
+  "llms": "STAG Industrial is a REIT owning single-tenant industrial buildings across the United States. Cash NOI grew 10.1% in Q3 2026 while Core FFO per share grew 1.5%. Bear $27.17, Base $35.80, Bull $40.68. Verdict: hold at $35.98, do not add, maximum buy price $20.58."
+}
