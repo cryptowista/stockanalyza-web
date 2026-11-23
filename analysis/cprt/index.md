@@ -1,353 +1,289 @@
 <!-- Markdown version of https://stockanalyza.com/analysis/cprt/ -->
 
-# Copart: down 40%, but still not cheap
+# Copart earned a 35.4% operating margin on 0.4% revenue growth, then paid $1.9 billion in cash for ACV Auctions
 
-CPRT, NASDAQ. Published October 11, 2026. Price as of the October 9, 2026 regular session close. All figures are in US dollars.
+CPRT, Nasdaq. Published November 23, 2026. Price as of the Friday, November 20, 2026 regular session close ($31.09). Copart runs online auctions for salvage vehicles, mostly cars that an insurer has declared a total loss after an accident. A unit is one vehicle sold. EBITDA is operating profit plus depreciation and amortization. FCF is free cash flow, operating cash flow less capital spending. Free cash flow to the firm is the cash a business generates before paying its lenders and owners. ACV Auctions is a US online wholesale car auction that Copart bought in October 2026. The next results are due on December 1, 2026.
 
-## Verdict: HOLD at $27.32
+## Verdict: HOLD at $31.09
 
-Hold, do not add at this price. Copart is down about 40% from its 52-week high, but the stock still trades 9.6% above my Base value of $24.91, because earnings are falling while the multiple is still high for a business whose margin has slipped for four years. The Bear value of $17.52 is 36% below the price and the Bull value of $32.50 is 19% above it. With a 35% required margin of safety the maximum buy price is $16.19. Red today: U.S. unit volume and operating expense per car.
+The price is 1.1% above my Base value of $30.74, well inside the 15% band where I call a stock fairly valued. It is 47.7% above my Bear value of $21.05 and 26.1% below my Bull value of $42.04. This analysis is conditional: results for the first quarter with ACV are due on December 1 and can move my inputs. My maximum buy price is $17.68.
 
-- Bear value: $17.52
-- Base value: $24.91
-- Bull value: $32.5
-- Upside to base value: -8.8%
-- Maximum buy price: $16.19
-- Required margin of safety: 35%
-- Net cash (no debt): $4.4 billion
-- Enterprise value / FY2026 operating income: 12.7x
-- Owner free cash flow yield on enterprise value: 4.6%
-- Diluted units: 931.4 million
-- Business quality: 76/100
-- Valuation score: 43/100
-- Confidence: 18/25, grade B
+- Bear value: $21.05
+- Base value: $30.74
+- Bull value: $42.04
+- Upside to base value: -1.1%
+- Maximum buy price: $17.68
+- Entry range by method: $16.37 to $19.64
+- Required margin of safety: 42.5%
+- FCF yield, FY26: 4.4%
+- Price to FY26 EPS: 20.1x
+- Core value to FY26 EBITDA: 13.2x
+- Business quality: 77.5/100
+- Valuation score: 37.5/100
+- Confidence: 17.5/25, grade C
 
-Copart is one of the highest-quality businesses I have analyzed, and the share price has fallen from $45.89 to $27.32. The price is still above what I think the business is worth today, because two things happened at the same time: the company bought back $1.6 billion of its own shares at far higher prices, and operating cost per car rose 12.7% in the latest quarter while U.S. volume fell.
+Copart earned a 35.4% operating margin in fiscal 2026 on revenue that grew 0.4%, while it sold 5.5% fewer vehicles. Then it spent $1.9 billion in cash on ACV Auctions, a company expected to report a GAAP net loss this year. At $31.09 the shares sit 1.1% above my Base value of $30.74, which makes this a fairly priced stock with a moving target.
 
-At the October 9, 2026 close of $27.32, the shares trade 9.6% above my triangulated Base value of $24.91. The Bear value is $17.52 and the Bull value is $32.50. The required margin of safety (MOS), the discount to fair value I need before buying, is 35%, so the maximum buy price is **$16.19**. The shares would have to fall 41% to reach it. A 40% drop from the high is not the same as a bargain.
+My Base value is **$30.74**. The Bear value of $21.05 is 32.3% below the price and the Bull value of $42.04 is 35.2% above it. The probability-weighted value, with 25% on Bear, 50% on Base and 25% on Bull, is $31.15. At Confidence C my rules require a 42.5% margin of safety, so the maximum buy price is **$17.68**, or $16.37 to $19.64 depending on the method. The upside to Base is -1.1%, so I call it Hold and treat it as a watchlist name for new money. The share price would need to fall by about 43% before I would call it a Buy.
 
-Valuation route: standard value. The other sector methods do not apply: this is a net cash marketplace with roughly 79% of vehicles from insurance companies, not software and not an industrial. Economic classification: Quality Growth, 6/12 on the sector scorecard, so the engine is GROWTH\_ADJUSTED\_MULTIPLE. Primary method: normalized owner free cash flow times a multiple built from explicit premiums and penalties. Secondary method: a five-year DCF at 10%. Values are present fair-value estimates, not 12-month price targets. Owner free cash flow here excludes interest income on the cash pile, because the cash is valued separately.
+Valuation route: a business with a long record of high returns on capital, so I value it on ten years of discounted free cash flow to the firm as the primary method and on a multiple of FY31 EBITDA as the second. Economic classification: Quality Growth (provisional). ACV Auctions is valued separately as an asset. Values are present fair value estimates, not 12 month price targets.
 
 ## What Copart is
 
-Copart runs online auctions for damaged, salvage and used vehicles, with more than 250 locations in 11 countries and more than 4 million units sold a year. Sellers are mostly insurers (79% of vehicles processed in fiscal 2026), and buyers are dealers, rebuilders and exporters.
+Copart sells wrecked, damaged and surplus vehicles through online auctions, mostly on behalf of insurers, and charges fees to sellers and buyers. In FY26 service revenue was $3,969.5 million and vehicle sales $696.7 million. Insurers supply 79% of the vehicles, down from 81% a year earlier. The United States is 82% of revenue (my arithmetic) and earns a higher margin than the rest of the world.
 
-- The advantage is physical: land, yards and logistics that a rival cannot copy quickly, plus a global buyer base that pays more for each car.
-- No single customer was above 10% of revenue, but sellers can and do leave. Copart lost an insurance customer in the U.S. this year.
-- The company has no debt, $4.49 billion in cash and held-to-maturity securities, and a $1.25 billion revolver that is undrawn.
+| Segment, FY26 | Revenue ($ million) | Change | Operating income ($ million) |
+| --- | --- | --- | --- |
+| United States | 3,807.4 | -1.2% | 1,419.0 (-4.2%) |
+| International | 858.8 | +8.4% | 233.6 |
+| Total | 4,666.2 | +0.4% | 1,652.6 |
 
-## The latest quarter
+Volume is the problem. Global units fell 5.5% in FY26 and 2.9% in the fourth quarter. US units fell 5.7% in the fourth quarter, while international units grew 10%. US insurance units fell 7.5% in the fourth quarter and about 8% over the year, and management said that without one lost customer they would have grown 2.3%. Fewer collision claims explain part of it: claim frequency fell 3.4%. A record 23.3% of claims were total losses in the second quarter, which helps the business, and revenue per unit rose 5.4% in the fourth quarter. Copart Direct units fell 34.5%. A competitor, IAA, now part of RB Global, has priced aggressively, and a national carrier moved volume to it in 2025.
 
-| Copart, fiscal Q4 2026 (quarter ended July 31) | Result | Change |
+## Why some Copart price charts look wrong
+
+Copart split its stock 2 for 1 on November 4, 2022 and again on August 22, 2023, so one old share is now four. Some broker charts mix split-adjusted and unadjusted history, which produces monthly candles that look several times taller than today's price. The adjusted path is simpler: roughly $25 in 2021, a peak of about $55 to $60 at the end of 2024, and $31.09 now. Every price in this article is split-adjusted.
+
+## How this differs from my October 11 analysis
+
+I analyzed Copart on October 11, 2026 and called it Hold at $27.32, with a Bear value of $17.52, a Base value of $24.91, a Bull value of $32.50 and a maximum buy price of $16.19. This analysis replaces it at the same address. The price is up 13.8% since then and my Base value is up 23.4%. I rebuilt this one from the fiscal 2026 filing and the ACV terms and did not carry the earlier inputs over. The margin of safety was 35% then and is 42.5% now, and the verdict is the same.
+
+## The latest results
+
+Fiscal 2026 ended on July 31, 2026. The table shows the fourth quarter against the same quarter a year earlier.
+
+| Item | Q4 FY26 | Change vs Q4 FY25 |
 | --- | --- | --- |
-| Revenue | $1.152 billion | +2.4% |
-| Service revenue / vehicle sales | $969.5M / $182.9M | +1.4% / +8.3% |
-| Gross profit | $481.4M (41.8% margin) | -5.5% |
-| Operating income | $368.9M | -10.6% |
-| Net income / diluted EPS | $327.4M / $0.35 | -17.4% / -14.6% |
-| Global units sold | U.S. -5.7%, international +10% | -2.9% |
-| Revenue per unit | +5.4% |  |
-| Operating expense per car |  | +12.7% |
+| Revenue ($ million) | 1,152.4 | +2.4% |
+| Gross profit ($ million) | 481.4 | -5.5% |
+| Gross margin | 41.8% |  |
+| Operating income ($ million) | 368.9 | -10.6% |
+| Diluted EPS ($) | 0.35 | from 0.41 |
+| US operating income ($ million) | 312.2 | from 357.5 |
 
-Revenue per unit rose 5.4%, but global units fell 2.9% (U.S. insurance units fell 7.5%, and would have risen 2.3% without one lost customer). Operating expense per car rose 12.7%, as U.S. facility costs per unit rose 14.2% on long-haul delivery, Title Express and dedicated wholesale facilities. Total-loss frequency, the share of claims where the insurer writes off the car, reached a record 23.3% for a second quarter.
+Revenue growth held up in the quarter, but profit did not. Gross margin was 41.8%, general and administrative costs rose 16.6%, and long-haul delivery added about $17 million of yard costs. Diluted EPS was $0.35 against $0.41. Management gives no earnings guidance, so I do not have a company figure for FY27.
 
-| Fiscal year ending July 31, $ millions | 2022 | 2023 | 2024 | 2025 | 2026 |
-| --- | --- | --- | --- | --- | --- |
-| Revenue | 3,501 | 3,870 | 4,237 | 4,647 | 4,666 |
-| Operating income | 1,375 | 1,487 | 1,572 | 1,698 | 1,653 |
-| Operating margin | 39.3% | 38.4% | 37.1% | 36.5% | 35.4% |
-| Operating cash flow | 1,177 | 1,364 | 1,473 | 1,800 | 1,604 |
-| Capital expenditure | 337 | 517 | 511 | 569 | 337 |
-| Free cash flow | 839 | 848 | 962 | 1,231 | 1,267 |
-| Stock-based compensation | 39 | 40 | 35 | 38 | 39 |
-
-Over four years revenue grew 7.4% a year and free cash flow 10.8% a year, but operating margin fell every year, from 39.3% to 35.4%. FY2026 free cash flow of $1.27 billion is flattered by capex of $337 million, well under the $450 million five-year average.
-
-## Owner free cash flow, after the cash pile is taken out
-
-Copart earned about $186 million before tax in interest and other income in FY2026. That income comes from $4.49 billion of cash, which I add back at full value, so counting it twice would overstate what the operating business earns. I also normalize capex and deduct stock pay.
-
-| Normalized owner free cash flow, FY2026 | $ millions |
-| --- | --- |
-| Operating cash flow (reported) | 1,604 |
-| Less after-tax interest income on cash (valued separately; pretax about $186M) | -150 |
-| Less normalized capital expenditure (five-year average about $450M, against $337M in FY2026) | -450 |
-| Less stock-based compensation | -39 |
-| Normalized owner free cash flow, excluding cash income | 965 |
-
-Normalized owner free cash flow is about $965 million, or 20.7% of revenue. On the enterprise value of $21.0 billion that is a yield of 4.6%, or 21.8 times. The reported free cash flow of $1.27 billion against the $25.4 billion market value gives a more flattering 5.0%.
-
-## Cash, shares and the ACV deal
-
-| Capital structure at July 31, 2026 | $ billions |
-| --- | --- |
-| Cash, cash equivalents and held-to-maturity securities | 4.49 |
-| Debt (lease liabilities only; revolver of $1.25B undrawn) | -0.09 |
-| Net cash | 4.40 |
-| Shares outstanding (September 25, 2026) / dilutive awards | 926.33M / 5.07M (ESTIMATED) |
-| Diluted units used | 931.40M |
-| Market value at $27.32 | 25.45 |
-| Enterprise value (market value less net cash) | 21.04 |
-
-Copart repurchased $1.63 billion of stock in fiscal 2026, shrinking the Q4 weighted share count 4.7% from a year earlier. The shares retired were roughly 40 million, which implies an average price near $40 (my estimate, because the release does not state the price). At $27.32 those shares are worth less than was paid. The filing does not give the remaining repurchase authorization, which I mark UNAVAILABLE.
-
-In September 2026 Copart agreed to buy ACV Auctions for $10.50 per share in cash, about $1.9 billion, with closing expected by the end of calendar 2026. It needs a majority tender of ACV shares and clearance under the Hart-Scott-Rodino Act. Management expects the deal to be roughly breakeven now and accretive in fiscal 2028. I value ACV at cost, so the $1.9 billion of cash and the $1.9 billion asset cancel, and I show the downside separately: if ACV were worth half its price, each unit would be worth about $1.02 less.
-
-## Primary valuation: owner free cash flow times a multiple
-
-Copart is a Quality Growth company under the framework, so the multiple is built from a base and explicit premiums, not picked. The base for a very stable growing business is 13 times. I add premiums for returns on capital (about 28%), the net cash balance sheet and repeat economics, add a growth premium sized to the per-unit growth I expect, and subtract a risk discount for the lost customer, rising costs and the ACV deal.
-
-| Multiple build (P/FCF on owner cash flow) | Bear | Base | Bull |
+| Item | FY26 | FY25 | Change |
 | --- | --- | --- | --- |
-| Sector base: very stable growing company | 13.0x | 13.0x | 13.0x |
-| Growth premium (FCF per unit growth) | +0.0x | +2.0x | +5.0x |
-| Return on capital premium (ROIC about 28%) | +3.0x | +4.0x | +5.0x |
-| Balance sheet premium (net cash, no debt) | +2.0x | +2.0x | +2.0x |
-| Repeat economics premium | +0.0x | +1.5x | +2.0x |
-| Dilution penalty (share count falling) | 0.0x | 0.0x | 0.0x |
-| Risk discount (customer loss, cost growth, ACV) | -4.0x | -2.0x | -1.0x |
-| Multiple used | 14.0x | 20.5x | 26.0x |
+| Revenue ($ million) | 4,666.2 | 4,647 | +0.4% |
+| Operating income ($ million) | 1,652.6 | 1,696.7 | -2.6% |
+| Operating margin | 35.4% | 36.5% |  |
+| Diluted EPS ($) | 1.55 | 1.59 | -2.5% |
 
-The Base multiple of 20.5 times is 57% above the 13 times sector base, so the framework requires a DCF cross-check, which follows. It is also below the 30 times or more of free cash flow Copart has traded at in recent years (ESTIMATED from public data, not verified here), because the Base growth rate of about 5% a year in owner cash flow is well below the growth that earlier multiples paid for.
+For the year, net income attributable to shareholders was $1,484.3 million. Net interest income of $181.9 million was 11% of operating income (my arithmetic), so earnings lean on the cash pile as well as on the auctions.
 
-| Base case, $ billions | FY2027E | FY2028E | FY2029E | FY2030E | FY2031E |
+## Cash flow, balance sheet and buybacks
+
+Operating cash flow was $1,604.5 million and capital spending was $337.4 million, against $569.0 million a year earlier, which leaves free cash flow of about $1,267 million. That figure is flattered twice: capital spending was well below its five-year average of $454 million, and $181.9 million of it comes from interest. Taking out the interest after tax and spending at the five-year average gives about $1.0 billion, or about $1.08 a share (my arithmetic). At $31.09 that is 28.8 times, against 22.9 times on reported free cash flow.
+
+Copart bought back $1,632.5 million of stock in FY26. I could not verify the average price paid, but my estimate from the share price range during the year is $37 to $41. At today's price the same money would retire about 53 million shares, or 5.7% of the 926.3 million outstanding on September 25, 2026. Diluted shares were 956.9 million for the year and 932.1 million in the fourth quarter.
+
+At July 31 cash and restricted cash were $1,907.9 million and held-to-maturity securities $2,581.9 million, a total of $4,489.8 million. Copart reports no debt line, leases are $88.4 million, and it has a revolving credit line of $1.25 billion to January 2031 whose drawn amount I could not find. ACV closed on October 16 and was paid from cash, so my net cash is $4,489.8 million less $1,900 million for ACV and $88.4 million of leases, or 2,501 million, which is $2.69 a share. I did not adjust for cash generated or spent since July 31, and ACV's own cash and debt at closing are not known to me, which are data gaps.
+
+| Item (fiscal year to July 31) | FY22 | FY23 | FY24 | FY25 | FY26 |
 | --- | --- | --- | --- | --- | --- |
-| Revenue | 4.81 | 5.09 | 5.40 | 5.72 | 6.01 |
-| Revenue growth | 3% | 6% | 6% | 6% | 5% |
-| Operating margin | 34.0% | 34.0% | 34.5% | 34.5% | 34.5% |
-| Operating income | 1.63 | 1.73 | 1.86 | 1.97 | 2.07 |
-| After-tax operating income (19.5% tax) | 1.32 | 1.39 | 1.50 | 1.59 | 1.67 |
-| Owner free cash flow (73% of after-tax operating income) | 0.960 | 1.018 | 1.095 | 1.160 | 1.219 |
+| Revenue ($ million) | 3,501 | 3,870 | 4,237 | 4,647 | 4,666 |
+| Operating income ($ million) | 1,375 | 1,487 | 1,572 | 1,698 | 1,653 |
+| Diluted EPS ($) | 1.13 | 1.28 | 1.40 | 1.59 | 1.55 |
+| Free cash flow ($ million) | 839 | 848 | 962 | 1,231 | 1,267 |
+| Capital spending ($ million) | 337 | 517 | 511 | 569 | 337 |
+| Price to earnings, year end (third party) | 27.9x | 34.1x | 37.0x | 28.2x | 18.2x |
+| Return on invested capital (third party) | 35.2% | 33.3% | 31.3% | 31.6% | 28.9% |
 
-Base assumes the margin falls to 34% in FY2027 and then stabilizes, revenue grows 6% a year from FY2028 as pricing continues and international volume grows, and cash conversion is 73% of after-tax operating income. I do not assume further buybacks, so the unit count stays at 931.4 million.
+The five years show a business that grew revenue 33% and operating income 20% (my arithmetic) while the stock price to earnings multiple fell from 37.0 to 18.2 at year end. The multiple has already come down a long way. Operating income has now slipped for the first time in the five years.
 
-| Primary method | Bear | Base | Bull |
-| --- | --- | --- | --- |
-| FY2028E owner free cash flow | $0.862B | $1.018B | $1.165B |
-| Multiple (growth-adjusted) | 14x | 20.5x | 26x |
-| Value at end of fiscal 2027 | $12.06B | $20.87B | $30.30B |
-| Discounted to today at 10% | $11.18B | $19.33B | $28.08B |
-| Plus FY2027E cash flow still to come, discounted | $0.65B | $0.74B | $0.82B |
-| Plus net cash | $4.40B | $4.40B | $4.40B |
-| Value per diluted unit | $17.43 | $26.28 | $35.75 |
+## The ACV Auctions deal
 
-The primary Base value is **$26.28**.
+Copart announced on September 10, 2026 that it would buy ACV Auctions for $10.50 a share in cash, an equity value of about $1.9 billion, and closed on October 16. ACV guided 2026 revenue of $845 million to $855 million, adjusted EBITDA of $73 million to $77 million and a GAAP net loss of $44 million to $49 million. Copart is therefore paying about 2.2 times revenue and about 25 times adjusted EBITDA (my arithmetic). Management said the deal is neutral to EPS in the first full year and accretive from FY28, and ACV will run as a separate subsidiary.
 
-### Sensitivity: value per unit
+ACV is a wholesale car auction, a different market from salvage. I value it as a separate asset at $1,700 million in Base, below the price paid, because the company is loss-making and its price included a premium. The range is $1,000 million in Bear to $2,600 million in Bull. Each $1 billion of ACV value is $1.07 a share (my arithmetic). Valuing ACV at nothing lowers my triangulated value to $28.92, and valuing it at the full $1.9 billion raises it to $30.96, so the verdict does not depend on it.
 
-| Multiple \ FY2028E owner FCF | $0.85B | $0.95B | $1.02B (Base) | $1.10B | $1.20B |
+## Primary valuation: discounted free cash flow to the firm
+
+I forecast free cash flow to the firm for ten years, FY27 to FY36. It is operating profit after a 20% tax, plus depreciation, less capital spending and a working capital cost of 2% of revenue. I discount it at 9%, which is my estimate of the cost of capital for a net cash company with a long record but falling units. Base revenue grows 3.0% in FY27, 5.5% by FY29 and slows to 3.0% by FY36, a ten-year rate of 4.3% a year, with ACV and international carrying more of the growth than US insurers. The operating margin settles at 35.5%, close to the FY26 level of 35.4%, and capital spending falls from 9% to 7% of revenue.
+
+| Fiscal year | Revenue ($ million) | Growth | Operating margin | Operating profit ($ million) | Free cash flow to the firm ($ million) |
 | --- | --- | --- | --- | --- | --- |
-| 16x | $19.04 | $20.64 | $21.72 | $23.02 | $24.62 |
-| 18x | $20.74 | $22.53 | $23.74 | $25.21 | $27.00 |
-| 20.5x | $22.85 | $24.89 | $26.28 | $27.95 | $29.99 |
-| 23x | $24.96 | $27.25 | $28.81 | $30.68 | $32.97 |
-| 26x | $27.50 | $30.09 | $31.85 | $33.97 | $36.55 |
+| FY27 | 4,806 | 3.0% | 34.0% | 1,634 | 1,019 |
+| FY28 | 5,022 | 4.5% | 34.0% | 1,708 | 1,075 |
+| FY29 | 5,299 | 5.5% | 34.5% | 1,828 | 1,192 |
+| FY30 | 5,590 | 5.5% | 35.0% | 1,957 | 1,319 |
+| FY31 | 5,870 | 5.0% | 35.5% | 2,084 | 1,420 |
+| FY36 | 7,140 | 3.0% | 35.5% | 2,535 | 1,814 |
 
-## Secondary valuation: five-year DCF
+The terminal value assumes 3.0% growth and a 20% return on new capital. It is 58% of the core value, below the 75% level that needs close checking for a ten-year model. The core value is 22,318 million, and the bridge to the equity value uses 931.4 million diluted shares, which is the 926.3 million outstanding plus an estimated 5.1 million for dilution.
 
-| DCF at 10% | Bear | Base | Bull |
-| --- | --- | --- | --- |
-| Terminal growth | 3.0% | 4.0% | 4.5% |
-| Present value of FY2027E-FY2031E owner cash flow | $3.39B | $4.17B | $4.89B |
-| Present value of terminal value | $8.63B | $13.37B | $17.98B |
-| Terminal value share | 72% | 76% | 79% |
-| Plus net cash | $4.40B | $4.40B | $4.40B |
-| Value per diluted unit | $17.63 | $23.56 | $29.27 |
+| Primary valuation bridge | $ million | Per share |
+| --- | --- | --- |
+| Present value of FY27 to FY36 cash flows | 9,480 | $10.18 |
+| Present value of terminal value | 12,838 | $13.78 |
+| Core operating value | 22,318 | $23.96 |
+| Net cash after ACV and leases | 2,501 | $2.69 |
+| ACV Auctions at my Base value | 1,700 | $1.83 |
+| Equity value | 26,519 | $28.47 |
 
-The secondary Base value is **$23.56**. Three quarters of the DCF value sits in the terminal value, so this method is more sensitive to the discount rate than the primary one. It uses the same cash flow path, so it is not fully independent of the primary method. The two differ only in how they turn that path into a value.
+The model gives **$28.47** a share.
 
-| Discount rate \ terminal growth | 3.0% | 3.5% | 4.0% | 4.5% |
-| --- | --- | --- | --- | --- |
-| 9% | $24.15 | $25.58 | $27.29 | $29.39 |
-| 10% | $21.39 | $22.39 | $23.55 | $24.93 |
-| 11% | $19.32 | $20.05 | $20.89 | $21.85 |
+## Secondary valuation: exit multiple on FY31 EBITDA
 
-## History and growth diagnostics
-
-**Valuation history.** At $27.32 the enterprise value is 12.7 times FY2026 operating income and 15.8 times after-tax operating income. Copart has traded at roughly 30 times earnings in recent years (ESTIMATED from public data, not verified here), so today's price is well below its own history, but the earnings growth that justified that history has slowed.
-
-**PEG (diagnostic only).** FY2026 earnings per share fell 2.5%, so the growth denominator is negative and PEG is not meaningful. Flag: PEG\_NOT\_MEANINGFUL. Growth type: NORMALIZING.
-
-**Free cash flow growth quality (diagnostic only).** Free cash flow per diluted share rose from $0.87 in FY2022 to $1.32 in FY2026, a compound growth of 11.1% a year (total free cash flow 10.8% a year, from $839 million to $1,267 million). Free cash flow margin rose from 24.0% to 27.1%, and cash conversion is 85% of net income. The flag is CAPEX\_TIMING\_DISTORTION: FY2026 capex was $337 million against $569 million a year earlier, which lifts the last point. Forward, my Base owner cash flow compounds at 4.8% a year from FY2026 to FY2031, from $0.965 billion to $1.219 billion. Forward free cash flow yield on enterprise value is 4.6% for FY2027E. Forecast reliability: MEDIUM, because volume and margin are both moving. Stress test: FY2028E owner cash flow 20% lower gives a primary value of $22.12, and 40% lower gives $17.97.
+The second method uses the same cash flows for five years, then values the business at 14 times FY31 EBITDA of 2,424 million. Copart traded at 12.3 times at the end of FY26 and at 20.8 to 27.0 times in FY22 to FY25, and the core business at today's price is 13.2 times. I use 14 times, a small premium to today, because Base assumes volumes stabilize and margins hold. The multiple implies perpetual growth of about 4.5% in cash flow after FY31 at a 9% cost of capital (my arithmetic), which is generous, so I give this method 40% of the weight. The exit value is 82% of the core value over five years, high enough that I treat the method as the upper bound. The result is **$34.15**.
 
 ## Valuation triangulation
 
-| Triangulation | Bear | Base | Bull | Weight |
-| --- | --- | --- | --- | --- |
-| Primary: growth-adjusted P/FCF | $17.43 | $26.28 | $35.75 | 50% |
-| Secondary: DCF | $17.63 | $23.56 | $29.27 | 50% |
-| Triangulated value | $17.52 | $24.91 | $32.50 | 100% |
+The two methods give $28.47 and $34.15, a divergence of 18.1%, just under the 20% warning level. Both rest on the same revenue and margin path, so their agreement is partly shared assumptions and not independent confirmation. The gap comes from the terminal assumption: the discounted model implies 11.9 times FY26 EBITDA for the core business, and the exit method implies 14.7 times. I weight the discounted model 60% and the exit multiple 40%, because the first states its growth and cost of capital in the open. The weighted value is $30.74. The table puts both methods on the same basis.
 
-The two methods differ by 10.9% of their midpoint, inside the 20% line where the framework flags a warning, so no divergence penalty applies. I weight them 50/50 because they use one cash flow path and the multiple is a judgment as well. The bias table at the end shows 70/30 and 30/70.
+| Method | Core operating value ($ million) | Value per share | Core value to FY26 EBITDA | Price to FY26 EPS |
+| --- | --- | --- | --- | --- |
+| Primary: discounted cash flow | 22,318 | $28.47 | 11.9x | 18.4x |
+| Secondary: 14x FY31 EBITDA | 27,606 | $34.15 | 14.7x | 22.0x |
+| Weighted Base |  | $30.74 |  | 19.8x |
+| Current price | 24,756 | $31.09 | 13.2x | 20.1x |
+
+The price is 9.2% above the discounted cash flow value and 9.0% below the exit value, so it sits between the two methods. The growth-adjusted check is not helpful: about 20 times earnings for 4% to 5% revenue growth in Base gives a ratio near 3 or higher, and part of the past earnings growth came from the claim cycle, so I treat it as a check and not as a driver.
 
 ## What is the market already pricing in?
 
-Reverse valuation: at $27.32, the market value of $25.4 billion less $4.40 billion of net cash gives an enterprise value of $21.0 billion. Holding my Base cash flow, that price needs a multiple of 21.5 times on FY2028E owner free cash flow, against my 20.5 times. Holding my multiple, it needs FY2028E cash flow of about $1.07 billion, 5% above Base. So the market is pricing in a slightly better outcome than my Base: margin stabilization and revenue growth near 6% a year. It is not pricing in a collapse, and that is the reason the price is not a bargain.
+At $31.09 the equity is worth 28,957 million. After 2,501 million of net cash and 1,700 million for ACV, the market values the core business at 24,756 million: 13.2 times FY26 EBITDA, 20.1 times FY26 EPS and a free cash flow yield of 4.4%. Holding everything else at Base, the price needs revenue growth of 5.7% a year for ten years instead of 4.3%, or a flat operating margin of 38.8% instead of 35.5%, or a cost of capital of 8.4% instead of 9.0%. A buyer at $31.09 earns about 8.4% a year if my Base cash flows are right, slightly below the 9% I require. So the market expects somewhat better than my Base, but not by much.
 
 ## Bear, base and bull scenarios
 
-| Scenario drivers | Bear | Base | Bull |
-| --- | --- | --- | --- |
-| Revenue growth FY2027E, then FY2028E-FY2031E | +1%, then +3% a year | +3%, then +6% (+5% in FY2031E) | +5%, then +8% (+7% in FY2031E) |
-| Operating margin, FY2027E to FY2031E | 32.0% falling to 31.0% | 34.0% rising to 34.5% | 35.5% rising to 37.0% |
-| FY2028E revenue | $4.85B | $5.09B | $5.29B |
-| FY2028E owner free cash flow | $0.862B | $1.018B | $1.165B |
-| Cash conversion of after-tax operating income | 70% | 73% | 76% |
-| Multiple of owner free cash flow | 14x | 20.5x | 26x |
-| Triangulated value per unit | $17.52 | $24.91 | $32.50 |
+Inputs for each case.
 
-**Bear:** volume keeps shrinking, insurers move more volume to rivals, costs per car keep rising and the margin falls to 31%. The multiple falls to 14 times. **Base:** the lost customer is absorbed, pricing offsets volume, the margin settles at 34% to 34.5%, and ACV is neutral. **Bull:** international and non-insurance volume accelerate, costs per unit fall, the margin recovers toward 37% and the market again pays 26 times. Bear and Bull use the same discount rate and cash balance as Base, so each risk is counted once. The price sits closer to the Bull case than the Bear case, which is the wrong asymmetry for a buyer.
+| Input | Bear | Base | Bull |
+| --- | --- | --- | --- |
+| Revenue growth, FY27 | 0.0% | 3.0% | 5.0% |
+| Revenue growth a year, FY26 to FY36 | 2.3% | 4.3% | 6.0% |
+| Operating margin, FY31 | 31.0% | 35.5% | 38.5% |
+| Capital spending, FY31, share of revenue | 7.0% | 8.0% | 8.0% |
+| Terminal growth | 2.5% | 3.0% | 3.5% |
+| Return on new capital in terminal value | 15% | 20% | 25% |
+| EBITDA multiple at exit, FY31 | 10x | 14x | 18x |
+| ACV Auctions value ($ million) | 1,000 | 1,700 | 2,600 |
+
+Value per share by case.
+
+| Scenario | Probability | Discounted cash flow | Exit multiple | Triangulated |
+| --- | --- | --- | --- | --- |
+| Bear | 25% | $20.67 | $21.63 | $21.05 |
+| Base | 50% | $28.47 | $34.15 | $30.74 |
+| Bull | 25% | $37.26 | $49.22 | $42.04 |
+| Probability-weighted |  | $28.72 |  | $31.15 |
+
+In Bear, US insurers keep shifting volume to IAA, revenue grows 0% in FY27 and 2.3% a year over ten years, the margin falls to 31%, the exit multiple is 10 times and ACV is worth $1.0 billion. A buyer at $31.09 would earn 6.5% a year on the discounted flows in that case, and the Bear value is 32% below the price. In Bull, units recover, revenue grows 6.0% a year, the margin rises to 38.5%, the exit multiple is 18 times and ACV reaches $2.6 billion. The Base value of $30.74 is the 60/40 weighted result.
 
 ## How the buy price is set
 
-Confidence is B, which starts the margin of safety at 30%. I add 5 points for terminal value dependence and 5 for the character change from the ACV acquisition, and subtract 5 for the net cash balance sheet and exceptional returns on capital. The result is 35% and the maximum buy price is $24.91 x 65% = **$16.19**.
+Confidence is grade C because FY27 revenue, margin, capital spending, the ACV value and the multiple are my estimates, the company gives no guidance, the revolver and ACV's closing balance sheet are unknown, and the results due on December 1 will update several inputs. The margin of safety is 42.5%, the standard figure for grade C. I add nothing for divergence because it is below 20%, and nothing for leverage because the company holds net cash. The cyclical risk from the claim cycle is already in the Bear case and not in the margin of safety. The maximum buy price is $30.74 times 0.575, or $17.68, with an entry range of $16.37 to $19.64 by method. The price is 76% above the maximum buy price. A cost of capital of 8.0% would raise the maximum buy price to $19.59, still well below the price.
 
-| Required margin of safety | Points |
-| --- | --- |
-| Confidence grade B starting point (range 25% to 35%) | 30% |
-| Terminal value dependence: 76% of Base DCF | +5% |
-| Character change: $1.9 billion cash acquisition of ACV Auctions, outside the core yard model | +5% |
-| Offset: net cash balance sheet and ROIC of about 28% | -5% |
-| Required margin of safety | 35% |
-| Maximum buy price: $24.91 x (1 - 35%) | $16.19 |
+## Dividend and buybacks
 
-| If the required margin of safety were | Maximum buy price |
-| --- | --- |
-| 25% (bottom of Confidence B range) | $18.68 |
-| 35% (used) | $16.19 |
-| 40% (no offset) | $14.95 |
+Copart pays no dividend. It returns cash through buybacks, which were $1,632.5 million in FY26, or 129% of free cash flow (my arithmetic). That pace was funded partly from the balance sheet, and the ACV purchase used $1.9 billion of the same cash. If the new subsidiary absorbs capital and the stock stays near $31, the next round of buybacks becomes the first thing to check. I do not give credit for buybacks in the Base value beyond the share count I use.
 
-Even with the lightest margin of safety in the Confidence B range, the buy price is $18.68, 32% below the current price. This is a quality company that needs a much lower price, or evidence that margins have stopped falling, before the framework says buy.
+## Reasons to own
 
-## Dividend and capital return
-
-Copart pays no regular dividend. It returns cash through buybacks, $1.63 billion in fiscal 2026 and almost none in the prior four years, and the $1.9 billion ACV deal now competes for the same cash. Buying stock at about $40 and then buying a platform business at a premium does not show strong discipline, though both are modest against $4.49 billion of cash.
-
-## Reasons to own CPRT
-
-- **Returns and balance sheet.** ROIC is about 28% with no debt and $4.4 billion of net cash.
-- **Pricing power.** Revenue per unit rose 5.4% in the quarter and about 5.7% for the year, with average selling prices up 5.5%.
-- **International growth.** International revenue rose 11.7% in the quarter at a 25.6% operating margin, and Copart is profitable in every international market.
-- **Structural tailwind in total losses.** More expensive cars with more electronics push insurers to write off more vehicles, which supplies more inventory over time.
-- **Price below its own history.** The enterprise value of 12.7 times operating income is far below recent years.
+- The operating margin was 35.4% and return on invested capital was 28.9% in FY26, with net cash and no debt line.
+- Revenue per unit rose 5.4% in the fourth quarter, and international revenue grew 8.4% in FY26 with units up 10% in the fourth quarter.
+- A record 23.3% of insurance claims were total losses in the second quarter, which feeds the supply of vehicles.
+- The price to earnings multiple has fallen from 37.0 at the end of FY24 to 20.1 now, and Jay Adair, who ran the company from 2010 to 2024, is back as CEO.
 
 ## What could go wrong?
 
-- **Margin keeps falling.** Operating margin has fallen every year since FY2022. Each point of exit margin is worth about $0.61 a unit.
-- **Customer and volume risk.** Insurers supply 79% of vehicles. U.S. insurance units fell 7.5% in the quarter after one customer left.
-- **Competition.** RB Global, through Insurance Auto Auctions, is the main U.S. competitor.
-- **Claims frequency.** Collision claim frequency fell 3.4%. Fewer claims mean fewer cars even as the total-loss share rises.
-- **Capital allocation.** The ACV acquisition, $1.9 billion in cash, is outside the core model and has not closed.
+- Lost volume. US insurance units fell 7.5% in the fourth quarter, and a competitor with aggressive pricing has already won a national carrier. One point less revenue growth every year lowers my Base to $29.16.
+- Margin pressure. Gross margin fell to 41.8% in the fourth quarter and operating income fell 10.6%. A margin two points lower every year lowers my Base to $29.24.
+- Acquisition risk. ACV loses money, and its value is my estimate.
+- Earnings quality. Interest income of $181.9 million and capital spending 26% below the five-year average flatter FY26 free cash flow, which is why I look at about $1.0 billion on a normalized basis.
+- Cycle. Fewer collisions mean fewer vehicles, and the claim frequency fell 3.4% in the latest period.
 
 ## Management execution
 
-Management built a wide moat and grew revenue 7.4% a year over four years. The record is weaker on costs: operating cost per car rose 12.7% in the quarter, and operating margin has fallen each year since FY2022. Management says it is targeting lower facility cost per unit. Management credibility scores **13/20**.
+Jeff Liaw stepped down as CEO on July 31, 2026 and Jay Adair, the executive chairman who ran Copart from 2010 to 2024, took the job back. Jane Pocock became president on August 1. The ACV deal was announced six weeks later. The record before that is strong: five years of growth with high returns on capital. The recent record is mixed: volume loss, margin slippage, a large cash acquisition of an unprofitable company, and a leadership change in the same quarter.
 
 ## Stock Analyza scorecard
 
-| Business quality | Score |
-| --- | --- |
-| Moat and pricing power | 15/20 |
-| Return versus cost of capital | 17/20 |
-| Balance sheet | 14/15 |
-| Cash-flow quality | 11/15 |
-| Growth and runway | 9/15 |
-| Management and capital allocation | 6/10 |
-| Governance and alignment | 4/5 |
-| Total | 76/100 |
+Business quality is 77.5 out of 100 and measures the business, not the price. Copart has high returns, net cash and a network that is hard to copy, and the grade is held back by the growth runway and the recent execution.
 
-Business quality is high because of returns on capital, the balance sheet and the physical moat. Growth and cash-flow quality score lower because volume and margins are both moving the wrong way.
+| Component | Weight | Grade (0 to 4) | Points |
+| --- | --- | --- | --- |
+| Franchise and moat | 20 | 3 | 15.00 |
+| Return versus cost of capital | 20 | 4 | 20.00 |
+| Balance sheet and resilience | 15 | 4 | 15.00 |
+| Earnings and cash flow quality | 15 | 3 | 11.25 |
+| Growth and reinvestment runway | 15 | 2 | 7.50 |
+| Management and capital allocation | 10 | 2 | 5.00 |
+| Dilution, governance and alignment | 5 | 3 | 3.75 |
+| Total | 100 |  | 77.50 |
 
-| Valuation score | Score |
-| --- | --- |
-| Discount to Base value (price is 9.6% above Base) | 12/40 |
-| Protection against Bear (price is 56% above Bear) | 4/20 |
-| Agreement between methods (10.9% apart) | 12/15 |
-| Historical valuation context | 7/10 |
-| Asymmetry of market expectations | 4/10 |
-| Data and model penalty | 4/5 |
-| Total | 43/100 |
+The valuation score is 37.5 out of 100 and measures the price against my values.
 
-The valuation score is low because the price is above Base and well above Bear, even though the two methods agree with each other.
+| Component | Weight | Evidence | Grade (0 to 4) | Points |
+| --- | --- | --- | --- | --- |
+| Discount to central value | 50 | 1.1% above Base | 2 | 25.0 |
+| Price against the adverse case | 30 | 47.7% above the Bear value | 1 | 7.5 |
+| What the price implies | 20 | 5.7% revenue growth a year versus 4.3% in Base | 1 | 5.0 |
+| Total | 100 |  |  | 37.5 |
 
-| Economic classification (sector scorecard) | Points |
-| --- | --- |
-| Normalized ROIC (about 28%) | 2/2 |
-| Revenue CAGR (four years, FY2022 to FY2026: 7.4%) | 0/2 |
-| FCF per unit CAGR (four years: 11.1%) | 1/2 |
-| Balance sheet | 1/1 |
-| Unit economics | 1/1 |
-| Recurring or repeat economics | 1/2 |
-| Reinvestment runway | 1/2 |
-| Total: Quality Growth | 6/12 |
+On the generic growth scorecard Copart reaches roughly 7 to 8 out of 12, which supports the Quality Growth label, but I treat that as provisional because the five-year history comes from a third-party data set.
 
 ## Confidence score
 
-| Confidence | Score |
-| --- | --- |
-| Data quality | 4/5 |
-| Business predictability | 4/5 |
-| Valuation robustness | 3/5 |
-| Accounting transparency | 4/5 |
-| Scenario dispersion | 3/5 |
-| Total | 18/25, grade B |
+Confidence is 17.5 out of 25, grade C. The fiscal 2026 results come from the company's own filing and the price from a verified close. I marked down forward assumptions and the independent challenge because the results due on December 1 will change inputs, and the revolver, ACV's balance sheet and the capital plan for FY27 are unknown to me.
 
-Confidence is B (18/25), at the bottom of the B range. Valuation robustness is 3/5 because three quarters of the DCF is terminal value, and scenario dispersion is 3/5 because Bear and Bull are about $15 apart around a Base of $24.91. Normalized capex and cash conversion are estimates, which under the framework caps Confidence at B in any case.
+| Component | Grade (0 to 4) | Points |
+| --- | --- | --- |
+| Historical data and sources | 4 | 5.00 |
+| Accounting and ownership bridge | 3 | 3.75 |
+| Forward assumptions | 2 | 2.50 |
+| Model construction | 3 | 3.75 |
+| Independent challenge | 2 | 2.50 |
+| Total |  | 17.50 |
 
 ## What I would watch from here
 
-### Green
+The December 1 report should show four things: US insurance units, gross margin and general and administrative costs, the first stub of ACV with a check on the claim of neutral EPS, and the pace of buybacks with lower interest income after the cash outlay. I could not find a verified current options-implied move for the report, so I do not use options pricing. A third-party snapshot put the average one-day move after past reports near 3.7%, which I did not verify.
 
-- Operating expense per car growth falling below revenue per unit growth
-- U.S. insurance units stabilizing after the customer loss
-- Operating margin holding at or above 34%
-- ACV closing with no impairment and no cash call beyond $1.9 billion
+**Green:** US insurance units flat or higher, operating margin back at 35% or more, and the price near the entry range of $16.37 to $19.64.
 
-### Yellow
+**Yellow:** US insurance units down more than 8%, gross margin below 40%, or interest income falling faster than operating income rises.
 
-- Operating margin of 33% to 34%
-- Share repurchases resuming at prices above my Base value
-- Capex returning toward $450 million a year (FY2026: $337 million)
-- Insurance customer concentration at 79% of vehicles
-
-### Red today
-
-- U.S. units sold: -5.7% in Q4 and U.S. insurance units -7.5%
-- Operating expense per car: +12.7% in Q4, against revenue per unit +5.4%
-- Operating margin: 35.4%, down from 39.3% four years ago
-- Net income -17.4% in Q4
-
-Next review: the fiscal first quarter report, expected around late November 2026 (date not confirmed), and the closing of the ACV acquisition, expected by the end of December.
+**Red:** another national insurer moving volume to IAA, an operating margin below 33%, or another large acquisition. I would review any holding above about $42.04, my Bull value.
 
 ## The three most important thesis breakers
 
-1. Operating margin falls below 33% without a clear cost plan, because Base assumes it stabilizes at 34%.
-2. More insurers move volume to a competitor, which turns the lost customer into a trend.
-3. The ACV acquisition needs more capital or is written down, which would show that cash is being deployed outside the core moat.
+1. US insurance volume keeps falling at high single digits, which is a revenue growth one point lower every year and lowers my Base value to $29.16.
+2. The operating margin slips two points below Base, which lowers my Base value to $29.24.
+3. ACV proves to be worth little, which lowers my Base value to $28.92.
 
 ## Stress test and independent check
 
-I recomputed every table from the listed inputs. The arithmetic reconciles. Free cash flow, operating income, shares and cash come from the filing and the earnings release, and the capex normalization, cash conversion, tax rate and the Base paths are my estimates. The strongest bull argument is that Copart is being priced as a broken growth stock when it is still compounding pricing power at 5% a year with a net cash balance sheet, and that today's cost pressure is an investment cycle in long-haul delivery and facilities, not a permanent loss of margin. If the margin returned to 36% and revenue grew 8%, the Bull value of $32.50 is a fair outcome. The strongest bear argument is that insurance volume is shifting, costs are rising faster than revenue and capital is being allocated badly.
+I recomputed the Bear, Base and Bull values with a second model written separately from the first, and all six values matched to the cent. Results, segment figures, cash flow, the balance sheet and share count come from Copart's fiscal 2026 results filing. The ACV terms and guidance come from the announcement, and the close of $31.09 is from stockanalysis.com for November 20, 2026. Growth, margins, capital spending, the 9% cost of capital, the 14 times multiple, the ACV value, the dilution estimate and the weights are my estimates. The table changes one input at a time and recomputes both methods.
 
-| Test | Result |
-| --- | --- |
-| Base value as published | $24.91 |
-| Weights 70% primary / 30% DCF | $25.46 |
-| Weights 30% primary / 70% DCF | $24.37 |
-| FY2028E owner free cash flow 20% lower | $22.12 (primary) |
-| FY2028E owner free cash flow 40% lower | $17.97 (primary) |
-| Each 1 point of operating margin at exit (FY2028E) | about $0.61 a unit |
-| ACV worth half its $1.9B price | about -$1.02 a unit |
+| Robustness check | Primary | Secondary | Triangulated |
+| --- | --- | --- | --- |
+| Base | $28.47 | $34.15 | $30.74 |
+| Cost of capital 8.0% instead of 9.0% | $33.21 | $35.33 | $34.06 |
+| Cost of capital 10.0% instead of 9.0% | $25.09 | $33.03 | $28.27 |
+| Terminal growth 2.0% instead of 3.0% | $27.08 | $34.15 | $29.91 |
+| Terminal growth 3.5% instead of 3.0% | $29.35 | $34.15 | $31.27 |
+| Operating margin 2 points lower every year | $27.01 | $32.59 | $29.24 |
+| Operating margin 2 points higher every year | $29.94 | $35.71 | $32.24 |
+| Revenue growth 1 point lower every year | $26.70 | $32.86 | $29.16 |
+| Revenue growth 1 point higher every year | $30.39 | $35.49 | $32.43 |
+| Exit multiple 12x instead of 14x | $28.47 | $30.68 | $29.35 |
+| Exit multiple 16x instead of 14x | $28.47 | $37.63 | $32.13 |
+| Capex 1 point of revenue higher every year | $28.04 | $33.91 | $30.39 |
+| ACV valued at zero instead of $1.7 billion | $26.65 | $32.33 | $28.92 |
+| ACV valued at its $1.9 billion price | $28.69 | $34.37 | $30.96 |
+| Tax rate 25% instead of 20% | $26.86 | $33.74 | $29.61 |
 
-The choices that lean generous are the 20.5 times multiple, the 6% revenue growth from FY2028 and a stable margin. The ones that lean conservative are the 19.5% tax rate, the capex normalization above FY2026 and excluding interest income from cash flow. I did not tune any of them toward a verdict. Treat the result as conditional, because the multiples are judgments, and the FY2027 capex outlook and the remaining buyback authorization are not available.
+The 14 checks give a triangulated value between $28.27 and $34.06. 5 of the 14 are at or above the $31.09 price, and the largest gap in either direction is 9.6%, so the Hold verdict holds in every case.
 
-**Not available or estimated.** Unavailable: fiscal 2027 capex guidance, the remaining repurchase authorization, ACV financial statements, a verified peer table. Estimated: normalized capex, cash conversion, the tax rate going forward, dilutive awards, the average buyback price, the history of multiples, the whole forward path.
+## Final verdict: hold at $31.09
 
-## Final verdict: hold at $27.32
+Copart is a high-return business whose volumes are falling and whose price now sits almost exactly on my estimate of its value. At $31.09 the shares are 1.1% above my Base value of $30.74, and 76% above the maximum buy price of $17.68. I would not buy for new money here, and I would wait for the December 1 results before changing my inputs.
 
-Copart is a great business at a fair price. It has fallen 40% and the price is still 9.6% above my Base value, with the downside to Bear larger than the upside to Bull. I would want either a price near $16.19 or proof that the cost problem is solved before I called it a buy.
+**Verdict: HOLD at $31.09, watchlist for new money. Triangulated Base value $30.74, upside -1.1%, Confidence C (17.5/25). Required margin of safety 42.5%, entry range by method $16.37 to $19.64, maximum buy price $17.68.**
 
-**VERDICT: HOLD at $27.32; Triangulated Base $24.91; downside to Base 8.8%; required MOS 35%; maximum buy price $16.19.** The main thesis breaker is operating margin that keeps falling instead of stabilizing near 34%.
+The chart on some brokers looks wrong because of two stock splits. The line that deserves the squinting is US insurance units, which fell 7.5% in the fourth quarter.
 
 ## More analyses on Patreon
 
@@ -355,10 +291,10 @@ This analysis is free. Premium members get every in-depth analysis, the full arc
 
 ## Sources
 
-Primary sources include Copart's [fourth quarter fiscal 2026 earnings release](https://www.sec.gov/Archives/edgar/data/0000900075/000119312526387902/cprt-ex99_1.htm) and its [Form 10-K for the year ended July 31, 2026](https://www.sec.gov/Archives/edgar/data/0000900075/000119312526405731/cprt-20260731.htm), the ACV Auctions merger documents filed with the SEC, and the earnings call coverage from fiscal Q4 2026. Financial statement history and the market price come from [stockanalysis.com](https://stockanalysis.com/stocks/cprt/).
+Primary source: Copart's fiscal 2026 results release and annual report for the year ended July 31, 2026, including segment data, cash flow, the balance sheet and the share count of 926,330,452 on September 25, 2026. The ACV Auctions terms and guidance come from the announcement of September 10, 2026 and the closing notice of October 16, 2026. Stock split dates come from Copart's investor relations notices. The close of $31.09 is from stockanalysis.com for November 20, 2026. Five-year multiples and returns on invested capital come from a third-party data set.
 
-The reference market price is the October 9, 2026 close of $27.32. Balance sheet items are as of July 31, 2026 and the share count is the cover page figure of September 25, 2026. The ACV acquisition had not closed. The normalized cash flow, the multiples, the discount rate and the forward path are analytical estimates, not company guidance.
+FY27 forecasts, the cost of capital, the 14 times multiple, the ACV value, the dilution estimate, the normalized free cash flow and the weights are analytical estimates, not company guidance.
 
-**Disclaimer.** This analysis is a structured fundamental research output, not personalized investment advice. It is provided solely for research and educational purposes and is not financial, legal or tax advice. Copart's earnings are falling, it depends on insurance companies for most of its volume, and it is about to make a large acquisition. Its shares can lose value, and investors can lose part or all of their invested capital.
+**Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Copart is exposed to insurer concentration, competition, claim cycle, acquisition and regulatory risk. Investors can lose part or all of their invested capital.
 
-Method: Master Investment Analysis Framework v3.3. Approach: Growth adjusted multiple with a DCF secondary. Confidence: B/18. Data checks: passed with warnings.
+Method: Master Investment Analysis Framework v4.3. Approach: ten years of discounted free cash flow to the firm with an exit multiple on EBITDA as the second method, reconciled on a common basis. Confidence: C/17.5. Data checks: passed with warnings. Conditional research only: results due December 1, 2026 can change the inputs. Open data gaps: the drawn revolver balance, ACV's balance sheet at closing, the FY27 capital spending plan, buybacks and cash flow since July 31, and a current option-implied move.
