@@ -1,257 +1,299 @@
 <!-- Markdown version of https://stockanalyza.com/analysis/vts/ -->
 
-# Vitesse Energy: a 10% yield with thin cover
+# Vitesse Energy pays a 12.2% dividend, and in nine months it paid out $62.7 million against $21.8 million of free cash flow
 
-VTS, NYSE. Published September 28, 2026. Price as of the September 28, 2026 close.
+VTS, New York Stock Exchange. Published November 23, 2026. Price as of the Friday, November 20, 2026 regular session close ($14.29). Vitesse Energy owns minority working interests in oil and gas wells that other companies drill and run, which is called a non-operated business: it pays its share of the costs and receives its share of the output. A Boe is a barrel of oil equivalent, the unit that puts oil and gas on one scale. WTI is the US crude benchmark. EBITDA is operating profit plus depreciation and similar charges. FCF is free cash flow. Free cash flow to the firm is the cash left after operating costs, taxes and investment, before paying lenders and owners. The strip is the futures price curve. A swap fixes a selling price and a collar sets a floor and a ceiling. PV-10 is the company's reserve value discounted at 10% and before taxes.
 
-## Verdict: HOLD at $16.75
+## Verdict: REDUCE at $14.29
 
-Watchlist for new money below $13.98. Vitesse pays a 10.4% dividend yield funded by free cash flow, not borrowed money, which is unusual and to its credit. The catch: at a normal year of production and spending, that free cash flow barely covers the dividend at all.
+The price is 106% above my Base value of $6.94, far outside the 15% band where I call a stock fairly valued, and 7% below my Bull value of $15.42. It is 586% above my Bear value of $2.08. The 12.2% dividend is not covered by free cash flow at current oil futures prices. My maximum buy price is $3.99.
 
-- Bear value: $12.38
-- Base value: $21.50
-- Bull value: $29.39
-- Upside to base value: 28.4%
-- Maximum buy price: $13.98
-- Required margin of safety: 35%
-- Net debt / trailing Adjusted EBITDA: 1.0x
-- Dividend yield: 10.4%
-- Dividend cash cost vs Base FCF: ~98%
-- Business quality: 61/100
-- Confidence: 18/25, grade B
+- Bear value: $2.08
+- Base value: $6.94
+- Bull value: $15.42
+- Upside to base value: -51.4%
+- Maximum buy price: $3.99
+- Entry range by method: $3.11 to $5.32
+- Required margin of safety: 42.5%
+- Dividend yield: 12.2%
+- Enterprise value to FY27 EBITDA: 5.1x
+- Net debt to EBITDA, trailing: 1.3x
+- Business quality: 36.3/100
+- Valuation score: 5.0/100
+- Confidence: 15.0/25, grade C
 
-Vitesse's second-quarter net income was $33.1 million, driven by a $40.2 million non-cash gain on oil hedges that haven't settled yet. Its actual free cash flow, the cash left after paying for wells, was $16.3 million. One of those two numbers pays the dividend. It isn't the first one.
+Vitesse Energy paid $62.7 million of dividends in the first nine months of 2026. Operating cash flow less spending on new wells was $21.8 million. The revolver covered the difference, and the shares now yield 12.2% on a $1.75 annual dividend that was already cut once this year. At $14.29 the stock is priced as if oil stays at $81 a barrel or more for a decade.
 
-Vitesse Energy doesn't drill its own wells. It buys small stakes in wells operated by other companies, mostly in the Bakken formation of North Dakota, and increasingly in the DJ and Powder River basins of Colorado and Wyoming. That model keeps overhead low and lets Vitesse be selective about where it puts capital, but it also means Vitesse doesn't control the pace or timing of its own production.
+My Base value is **$6.94**. The Bear value of $2.08 is 85% below the price and the Bull value of $15.42 is 8% above it. The probability-weighted value, with 25% on Bear, 50% on Base and 25% on Bull, is $7.85. At Confidence C my rules require a 42.5% margin of safety, so the maximum buy price is **$3.99**, or $3.11 to $5.32 depending on the method. The upside to Base is -51.4%. I call it Reduce and I would not add. Even my Bull case earns about 9.4% a year at today's price, which is below the 10% I require.
 
-At $16.75 on September 28, 2026, the shares trade 22.1% below my triangulated Base value of $21.50, an upside of 28.4%. The Bear value of $12.38 is 26.1% below the price and the Bull value of $29.39 is 75.4% above it. The framework's required margin of safety for a Confidence B score with this much commodity and operator dependence is 35%, which puts the maximum buy price at $13.98. The shares would need to fall about 16.6% to get there. Until then this is a hold: the yield is real and the balance sheet is clean, but the price hasn't yet built in enough cushion for an oil producer whose dividend consumes essentially all of its normalized cash flow.
-
-Valuation route: Standard Value, non-operated U.S. oil and gas E&P, with reserve NAV as an independent cross-check. Economic classification: Standard, commodity-sensitive producer (7/12). Primary method: price to normalized owner free cash flow after development capital. Secondary method: reserve net asset value (SEC PV-10 based). Values are present fair-value estimates, not 12-month price targets.
+Valuation route: a non-operated oil and gas producer, so I value it on ten years of discounted free cash flow to the firm as the primary method, with a declining terminal value, and on an exit multiple of FY31 EBITDA as the second. Reported reserve value is a cross-check only. Hedges are counted once, as settlements inside the cash flows. Values are present fair value estimates, not 12 month price targets.
 
 ## What Vitesse is
 
-Vitesse buys non-operated working and royalty interests in producing and development-stage oil and gas wells, primarily in the Bakken and Three Forks formations of North Dakota and Montana, and now also in Colorado's DJ Basin and Wyoming's Powder River Basin. At June 30, it held interests in 305 gross (6.4 net) wells drilling or completing and another 363 gross (13.0 net) locations permitted for development, plus a royalty interest in over 1,200 gross wells.
+Vitesse was spun out of Jefferies in January 2023. It holds interests in 8,732 producing wells, run by other operators, mostly in the Bakken in North Dakota and Montana, with smaller positions in the DJ Basin in Colorado, the Powder River Basin in Wyoming and the Central Rockies. About 96% of year-end 2025 proved reserves were in the Williston Basin, according to a third-party summary of the annual report. The company has 33 full-time employees, and 60% of Q3 production was oil. Vitesse does not choose where or when wells are drilled. It consents or not, and pays its share.
 
-Two acquisitions this year changed the shape of the company. Vitesse closed the Powder River Basin acquisition in April, funded with stock, which drove second-quarter production up 9% sequentially to 17,354 barrels of oil equivalent per day. On September 15 it closed a $26.0 million cash-and-revolver purchase of Chevron-operated DJ Basin assets, expected to add about 900 barrels of oil equivalent a day, only 28% oil, with the acquired production substantially hedged through 2030. Management calls both deals immediately accretive; my valuation treats them as adding scale without yet changing the per-share economics, since only partial-quarter results exist.
-
-Leadership also changed. Founder and long-time CEO Bob Gerrity resigned effective March 26, and Jamie Benard, previously president of Sinclair Oil & Gas, took over as President and CEO on May 1. The company says its strategy hasn't changed, and the numbers since the transition are consistent with that, but a new CEO after 13 years of one leader is still a variable worth watching.
+Founder Bob Gerrity resigned as chief executive and chairman on March 26, 2026, effective immediately. Jamie Benard took over as chief executive on May 1, and lead director Dan O'Leary became chairman. The company also reset its dividend in 2026: it paid $2.25 a share in 2025 and $0.4375 a quarter, or $1.75 a year, since the first quarter of 2026.
 
 ## The latest quarter
 
-| Q2 2026 (quarter ended June 30, 2026) | Result |
-| --- | --- |
-| Production | 17,354 Boe/d, +9% sequentially, 60% oil (95% of oil-and-gas revenue) |
-| Realized prices | Oil $91.98/Bbl before hedging, $71.14/Bbl after; hedges covered 84% of oil production and cost the company $18.2 million of realized derivative losses against $40.2 million of unrealized gains on unsettled contracts |
-| Net income / Adjusted Net Income | $33.1 million GAAP (includes the $40.2 million unrealized derivative gain) versus $1.8 million adjusted, which strips out that gain, equity compensation and taxes |
-| Adjusted EBITDA | $40.2 million; trailing-twelve-month $151.8 million |
-| Free Cash Flow | $16.3 million, after $21.1 million of development capital expenditures |
-| Debt and liquidity | $158.5 million drawn on the revolving credit facility, $0.9 million cash, net debt $157.6 million, net debt / trailing Adjusted EBITDA 1.0x. Total liquidity $117.4 million |
-| 2026 guidance (tightened) | Production 16,300-17,200 Boe/d (60-62% oil), total cash capex $65-80 million (raised from $50-80 million) |
+Figures are for the quarter ended September 30, 2026 against the same quarter a year earlier.
 
-Two things are worth separating here. The revenue swing (oil price up 55% year over year to $91.98/Bbl before hedging, gas down 72% to a de minimis $1.17/Mcf) is a commodity story that GAAP net income mostly captures through realized prices. The derivative marks are a different thing: Vitesse hedges roughly 70% to 84% of near-term production, and when oil prices rise, the value of those hedge contracts falls (a $40.2 million unrealized loss showed up the same way, in reverse, in the first quarter, when a $48.2 million unrealized derivative loss helped drive a $42.3 million net loss). Neither quarter's GAAP number is a good guide to what shareholders can actually take out of the business. Free cash flow is.
-
-## Which numbers matter for Vitesse
-
-The primary metric is normalized owner free cash flow after development capital, what the company itself reports as Free Cash Flow: operating cash flow, adjusted for working-capital swings, minus development spending on oil and gas properties. 2025 produced $48.9 million on that basis; the second quarter of 2026 alone produced $16.3 million.
-
-My estimates for a normal year, reflecting the current production base plus the DJ Basin addition, are Bear **$50 million**, Base **$75 million** and Bull **$100 million**, or Bear **$1.19**, Base **$1.78** and Bull **$2.38** per share on roughly 42.1 million shares outstanding. The Base sits comfortably above the trailing-twelve-month pace ($16.3 million in the second quarter alone, with capital spending typically lighter in some quarters than others) and reflects guided 2026 capex of $65-80 million against 16,300-17,200 Boe/d of production.
-
-## Shares and the balance sheet
-
-Vitesse had 42,802,648 shares issued at June 30, 2026, up from 40,615,302 at the start of the year, largely from the Powder River stock acquisition (about 1.9 million shares issued). All of its debt is a single instrument, the revolving credit facility, at $158.5 million drawn against total liquidity of $117.4 million. There is no bond maturity wall to manage: the debt is revolving, callable and repayable at the company's own pace as free cash flow allows, which is a materially simpler capital structure than a REIT's laddered bond schedule. Net debt to trailing Adjusted EBITDA of 1.0x is conservative for an E&P.
-
-The DJ Basin deal was funded with cash on hand and additional revolver borrowings, meaning leverage likely ticks up modestly from the reported June 30 level once its full effect shows in the third-quarter numbers.
-
-## Primary valuation: price to normalized free cash flow
-
-| Case | FCF/share | Multiple | Value per share |
+| Item ($ million) | Q3 2026 | Q3 2025 | Change |
 | --- | --- | --- | --- |
-| Bear | $1.19 | 10x | $11.90 |
-| Base | $1.78 | 12x | $21.36 |
-| Bull | $2.38 | 13x | $30.94 |
+| Revenue | 83.0 | 67.4 | +23.0% |
+| Lease operating expense | 19.2 | 18.5 | +4.1% |
+| Production taxes | 7.5 | 6.2 | +20.4% |
+| Depreciation, depletion and accretion | 32.8 | 34.2 | -4.2% |
+| General and administrative | 4.9 | 5.7 | -13.9% |
+| Operating income | 16.3 | 0.1 |  |
+| Commodity derivative result | -58.6 | 0.7 |  |
+| Interest expense | 3.3 | 2.4 | +36.6% |
+| Net loss | -36.4 | -1.3 |  |
 
-The multiples reflect a non-operated E&P with commodity exposure and no control over drilling pace: cheap relative to a stable business, appropriate for one whose cash flow moves with oil prices it doesn't set. The primary Base is **$21.36**.
+Production was 16,824 Boe a day, 60% oil, with only a few weeks of the DJ Basin acquisition included. Realized oil was $82.56 a barrel before hedges and $68.33 after, so hedges took $14.23 a barrel off the oil price in a quarter with strong oil. The realized gas price was $1.73 an Mcf. Lease operating costs were $12.42 a Boe against $11.05 a year earlier, which management blamed on mechanical failures and a costly workover rig in July and August. Adjusted EBITDA was $39.3 million, and the net loss of $36.4 million came mostly from a $46.6 million non-cash mark on hedges.
 
-### Sensitivity: FCF per share and multiple
+Guidance was raised after the DJ deal: 2026 production is now 16,600 to 17,200 Boe a day, and well spending is $80 million to $90 million, up from $65 million to $80 million. For 2027 management expects production flat to slightly up and well spending similar to this year at current futures prices, but gave no figures.
 
-| FCF/share \ Multiple | 10x | 12x | 14x |
-| --- | --- | --- | --- |
-| $1.19 | $11.90 | $14.28 | $16.66 |
-| $1.78 | $17.80 | $21.36 | $24.92 |
-| $2.38 | $23.80 | $28.56 | $33.32 |
+## Where the dividend money comes from
 
-## Secondary valuation: reserve net asset value
-
-At December 31, 2025, independent engineers estimated Vitesse's proved reserves at 47.8 MMBoe, up 19% year over year, with a PV-10 (pre-tax present value discounted at 10%) of $472.7 million, 88% proved developed. That figure used SEC-mandated 12-month average pricing of $60.74/Bbl for oil and $1.49/Mcf for natural gas, both well below spot prices for most of 2026, so PV-10 understates what the reserves are worth at today's strip. The after-tax Standardized Measure was $439.0 million.
-
-| Case | Equity NAV/share |
+| First nine months of 2026 | $ million |
 | --- | --- |
-| Bear | $13.25 |
-| Base | $21.70 |
-| Bull | $27.25 |
+| Net cash from operations | 88.8 |
+| Development spending on wells | 67.0 |
+| Operations less development | 21.8 |
+| Dividends paid | 62.7 |
+| Shortfall before acquisitions | 40.9 |
+| Cash paid for the DJ Basin acquisition | 25.9 |
+| Increase in revolver borrowings (December 31 to September 30) | 66.0 |
 
-These adjust the YE2025 PV-10 for commodity-price sensitivity, deduct net debt, and add estimated value for the 2026 acquisitions, which are not yet reflected in a reserve report. They are judgment estimates layered on a real, engineer-certified base, not third-party appraisals in their own right. The secondary Base is **$21.70**.
+The table uses my own arithmetic from the 10-Q cash flow statement, so it differs a little from the company's free cash flow figure, which adjusts for working capital. The point holds on either definition: the dividend of $62.7 million was about three times the $21.8 million left after development spending, and borrowings rose by $66.0 million. All of 2025's dividends were treated as a return of capital for tax purposes, and management expects most 2026 dividends to be the same. In 2025 free cash flow was $48.9 million against dividends of about $85 million (my arithmetic from $2.25 a share and roughly 38 million shares).
 
-## Historical multiples as context
+## Balance sheet and share count
 
-VTS has only traded publicly since January 2023, spun off from Jefferies, which limits how much a historical percentile can say. At $16.75 the shares trade at about 9.4x my Base normalized free cash flow. I give this no formal weight in the triangulation; three and a half years of trading history through one commodity cycle isn't enough to define a fair multiple on its own.
+At September 30 Vitesse had $0.65 million of cash and $190.5 million drawn on its revolver at 6.94%, so net debt was $189.85 million, or 1.3 times trailing adjusted EBITDA of $149.6 million. Management's target is 1.0 times or less and says it expects to reach about 1.0 times with a full quarter of the DJ assets. The facility matures on October 22, 2028. Elected commitments were $275 million at the filing date and were raised to $290 million in October, which management says brings liquidity to about $100 million.
+
+The credit terms matter for the dividend. Distributions are unrestricted only if credit usage is at or below 80% of commitments and the debt to EBITDAX ratio is at or below 1.5 times. Between 1.5 and 2.25 times, distributions need positive free cash flow. Usage is 69% of $275 million today and the ratio is 1.3 times, so the margin is thin. The company was in compliance with all covenants at September 30.
+
+Shares outstanding were 42,131,715 on October 30, 2026. The Powder River acquisition in April 2026 was paid in 1,935,698 shares, worth $36.6 million at closing, or about $18.9 a share. I use 43.0 million economic shares, which adds my estimate of 0.9 million unvested shares. At $14.29 the equity is worth $614 million and the enterprise value is $804 million.
+
+## Hedges
+
+About 64% of remaining 2026 oil and 57% of remaining 2026 gas are hedged, and about 85% of the DJ Basin producing volumes are hedged through 2030. Management says it underwrites acquisitions at the futures strip because it can hedge them. The oil hedges for the following years are below. I count them once, as settlements inside the cash flows, and I do not add their fair value on top.
+
+| Year | Hedged oil volume (million Bbl) | Average swap price | Share of my Base oil volume | Result at my Base oil price ($ million) |
+| --- | --- | --- | --- | --- |
+| 2027 | 2.11 | $68.42 (swaps) | 56% | -14.7 |
+| 2028 | 1.74 | $71.63 | 46% | +4.6 |
+| 2029 | 1.04 | $67.68 | 27% | +1.7 |
+| 2030 | 0.04 | $64.74 | 1% | -0.0 |
+
+The 2027 volume includes two-way collars on 0.345 million barrels with a floor of $56.30 and a ceiling of $66.15, which I treat as capped at the ceiling at my prices. The swaps are in the money in 2028 and 2029 and out of the money in 2027 at my Base prices. At September 30, with oil far higher, the net derivative liability was $40.2 million, and it has probably fallen with the 20% drop in oil since. Hedges protect the price from here but do not raise it.
+
+## Primary valuation: discounted free cash flow to the firm
+
+The oil deck is my estimate of the NYMEX futures strip on November 20, built from curve reports of November 10 to 12 and the fall of the front contract from about $89 to $83 since. It is not a quoted settlement. I use $75 for 2027, $69 for 2028 and $66 for 2029, then $65 from 2030, a normalized price near the long-run cost of supply, which is above the far end of the strip. Realized oil is WTI less $7 a barrel, and gas is $2.00 an Mcf, with 40% of production gas and natural gas liquids.
+
+Production is 17,300 Boe a day through FY31 with well spending of $85 million falling to $77 million, as management says maintenance spending falls about 10% over three to four years because of longer laterals. I then let production fade about 1.5% a year. Lease operating cost is $11.20 a Boe, close to the 2025 level of $10.92, production taxes are 9.0% of revenue, cash general and administrative is $18 million, and I deduct $7.5 million a year of stock compensation as a real cost. Cash taxes were zero in the first nine months of 2026, so I phase them in at 5%, 10% and 15% of pre-interest profit after capital spending, then 23%. I discount at 10%, my estimate for a leveraged small producer and the same convention as the reported reserve value.
+
+| Fiscal year | Oil price ($/Bbl) | Production (Boe/d) | Adjusted EBITDA ($ million) | Capital spending ($ million) | Free cash flow to the firm ($ million) |
+| --- | --- | --- | --- | --- | --- |
+| FY27 | 75 | 17,300 | 159 | 85 | 63 |
+| FY28 | 69 | 17,300 | 157 | 83 | 60 |
+| FY29 | 66 | 17,300 | 144 | 81 | 47 |
+| FY30 | 65 | 17,300 | 139 | 79 | 40 |
+| FY31 | 65 | 17,300 | 139 | 77 | 42 |
+| FY36 | 65 | 16,040 | 127 | 70 | 39 |
+
+The terminal value assumes cash flow falls 2% a year after FY36, which fits a finite reserve base better than a perpetuity. It is 29% of the enterprise value, well below the 75% level that needs close checking. The bridge to equity uses net debt at September 30. I leave out Q4 2026 cash flow and the December dividend of $18.4 million, which I estimate roughly offset each other.
+
+| Primary valuation bridge | $ million | Per share |
+| --- | --- | --- |
+| Present value of FY27 to FY36 cash flows | 301 | $7.01 |
+| Present value of terminal value | 121 | $2.81 |
+| Enterprise value | 422 | $9.82 |
+| Net debt at September 30, 2026 | -190 | $-4.42 |
+| Equity value | 232 | $5.40 |
+
+The model gives **$5.40** a share.
+
+## Secondary valuation: exit multiple on FY31 EBITDA
+
+The second method keeps the cash flows for five years and then values the business at 4.5 times FY31 EBITDA of $139 million. Vitesse traded at about 4.8 times 2025 EBITDA in January and trades at 5.4 times trailing EBITDA now (third-party data for January, my arithmetic for now), so 4.5 times is a small discount to the market because production fades and well spending takes 55% of FY31 EBITDA. The exit value is 65% of the enterprise value over five years, which is below the 85% mark that needs close checking. The result is **$9.25**.
 
 ## Valuation triangulation
 
-| Method | Base value | Weight |
-| --- | --- | --- |
-| Price / normalized free cash flow | $21.36 | 60% |
-| Reserve net asset value | $21.70 | 40% |
-| Triangulated Base | $21.50 | 100% |
+The two methods give $5.40 and $9.25, a divergence of 52%, above the 30% level that triggers an expanded review. The review is simple. Both use the same oil deck, costs and capital spending, so the difference is entirely the terminal assumption. The discounted model's own cash flows after FY31 are worth 2.6 times FY31 EBITDA at a 10% discount rate, while the exit method uses 4.5 times, the kind of multiple the market pays. I treat that gap as observed and not as an error in either model. I weight the discounted model 60% and the exit multiple 40%, because the first states its growth and its discount rate and the second borrows the market's. The weighted value is $6.94, a point inside a range, not a narrowing of it. The table puts both on the same basis.
 
-The weighted result is $21.496, and I use it without rounding. The two methods differ by only 1.6%, well under the 20% warning threshold: a cash-flow multiple and an engineer-certified reserve value landing in the same place is a genuine cross-check, not a coincidence of rounding.
+| Method | Enterprise value ($ million) | Value per share | Enterprise value to FY27 EBITDA | Value from terminal or exit |
+| --- | --- | --- | --- | --- |
+| Primary: discounted cash flow | 422 | $5.40 | 2.7x | 29% |
+| Secondary: 4.5x FY31 EBITDA | 587 | $9.25 | 3.7x | 65% |
+| Weighted Base |  | $6.94 |  |  |
+| Current price | 804 | $14.29 | 5.1x |  |
+
+The price is 55% above even the exit value, so the decision does not depend on which method is right. Only my Bull case, at $15.42, is above the price.
+
+## Reserve value as a cross-check
+
+At December 31, 2025 proved reserves were 47.8 million Boe, 71% developed, with a PV-10 of $472.7 million. That value uses a flat WTI price of $66.01 and Henry Hub gas of $3.39, before taxes and before general and administrative costs. Subtracting $190 million of net debt gives $283 million, or $6.58 a share. The Powder River and DJ acquisitions, which cost about $62.6 million, were not in those reserves, and adding them at cost gives about $8.03 a share. This is a disclosed measure and not a floor: it is before about $25 million a year of overhead and before taxes, and it excludes new wells on unproved locations. It does show that the proved reserves alone do not support a price anywhere near $14.29.
 
 ## What is the market already pricing in?
 
-At $16.75 the shares trade at 9.4x my Base free cash flow of $1.78 per share. Turned around: at the Base multiple of 12x, the price implies sustainable free cash flow of only **$1.40 per share**, about 22% below my Base and still 18% above my Bear. So the market isn't pricing collapse, it's pricing meaningfully weaker economics than a normal year should deliver, consistent with skepticism about hedge roll-off, capital intensity, or the durability of the dividend once favorable hedges expire.
+At $14.29 the enterprise value is $804 million, which is 5.1 times my FY27 EBITDA and 5.4 times trailing EBITDA. Holding everything else at Base, the price needs oil about $16 a barrel above my deck in every year, which is roughly $81 a barrel from 2030 on, against a futures curve that falls to the low $60s by 2032. The cash flows I model would earn only about 4% a year at today's price, against the 10% I use to discount them. The dividend tells the same story. In FY27 my Base free cash flow after interest is $50 million, or $1.15 a share, which covers 67% of the $74 million dividend. Oil would need to average about $94 in 2027, with the hedges as they are, to cover it.
 
 ## Bear, base and bull scenarios
 
-|  | Bear | Base | Bull |
-| --- | --- | --- | --- |
-| Main assumptions | Weaker oil prices, elevated capex, slower reserve replacement as new-well economics tighten | Guidance-level production, disciplined hedging, about $75M of normalized free cash flow | Strong oil economics, productive third-party drilling, about $100M of free cash flow |
-| FCF/share | $1.19 | $1.78 | $2.38 |
-| Value per share | $12.38 | $21.50 | $29.39 |
-| Versus $16.75 | -26.1% | +28.4% | +75.4% |
+Inputs for each case.
 
-Bear and Bull blend the primary and secondary methods at their 60% and 40% weights. I assign no probabilities to the scenarios. A quarter of the Bull case's upside comes from the reserve NAV agreeing with the cash-flow multiple at a high oil price; a third of the Bear case's downside comes from the two methods agreeing at a low one. That symmetry is the point of running both.
+| Input | Bear | Base | Bull |
+| --- | --- | --- | --- |
+| Oil price, FY27 ($/Bbl) | 68 | 75 | 82 |
+| Oil price from FY30 ($/Bbl) | 60 | 65 | 75 |
+| Production, FY27 (Boe/d) | 16,900 | 17,300 | 17,800 |
+| Production, FY36 (Boe/d) | 11,700 | 16,040 | 16,800 |
+| Capital spending, FY27 ($ million) | 80 | 85 | 90 |
+| Lease operating cost ($/Boe) | 11.60 | 11.20 | 10.80 |
+| Terminal change in cash flow | -4% | -2% | -1% |
+| Exit multiple, FY31 EBITDA | 3.8x | 4.5x | 5.5x |
+
+Value per share by case.
+
+| Scenario | Probability | Discounted cash flow | Exit multiple | Triangulated |
+| --- | --- | --- | --- | --- |
+| Bear | 25% | $0.88 | $3.89 | $2.08 |
+| Base | 50% | $5.40 | $9.25 | $6.94 |
+| Bull | 25% | $13.39 | $18.46 | $15.42 |
+| Probability-weighted |  |  |  | $7.85 |
+
+In Bear oil falls to $60 by 2029 and stays there, production declines by about 4% a year as operators cut activity, the dividend is cut, and a buyer at $14.29 earns about -1% a year. In Bull oil is $82 in 2027 and $75 from 2029, production grows to 18,200 Boe a day, costs fall to $10.80 a Boe and the exit multiple is 5.5 times. Even then the return at today's price is about 9.4% a year. The Base value of $6.94 is the 60/40 weighted result.
 
 ## How the buy price is set
 
-For a Confidence B score, the framework's base margin of safety is 25% to 35%. Commodity exposure, dependence on third-party operators for drilling pace, and reserve depletion risk push this to the top of that range: **35%**. Applied to the $21.50 Base, the **maximum buy price is $13.98**. The preferred accumulation zone runs from the $12.38 Bear value to $13.98. The shares would need to fall about 16.6% from $16.75 to get there.
+Confidence is grade C because the oil deck, the 2027 production and spending, the share count and the production taxes and costs are my estimates, the company gave no 2027 figures, I had no annual reserve schedule, and the two methods differ by 52%. The margin of safety is the standard 42.5% for grade C, and I add nothing for the method gap because the entry range already shows it, or for oil prices because they are in the scenarios. The maximum buy price is $6.94 times 0.575, or $3.99, with an entry range of $3.11 to $5.32 by method. The price is 258% above the maximum buy price. At a cost of capital of 9% the maximum buy price would be $4.39.
 
-## Dividend
+## Dividend and payout
 
-The quarterly dividend is $0.4375, or $1.75 a year, a yield of 10.4% at $16.75. On about 42.1 million shares the annual cash cost is roughly $73.7 million, against my Base normalized free cash flow of about $75 million: coverage of roughly 0.98x. Vitesse has paid a dividend for fifteen consecutive quarters since going public and funds it from cash flow rather than debt, which is the right instinct for a commodity producer. But a payout that consumes essentially all of a normal year's free cash flow leaves no margin if oil prices soften, hedges roll off less favorably, or reserve-replacement capital needs to rise. This is a real income stock, not a safe one.
+The $1.75 dividend costs about $74 million a year. My Base free cash flow after interest is $50 million in FY27, and it falls to about $29 million by FY31 as the oil deck eases, so the dividend is not covered in Base and the revolver, now at 1.3 times EBITDA, is the difference. Management says it can hedge above its dividend breakeven into 2028 and 2029, but it gave no breakeven figure. On my Base numbers the choice is a lower dividend or more borrowing. Part of what a holder receives is a return of capital from a reserve base that declines, which is why the yield is not a return.
 
-## Reasons to own VTS
+## Reasons to own
 
-- **A genuine 10.4% yield**, funded by cash flow rather than borrowing, with fifteen consecutive quarters of payments.
-- **Conservative leverage.** Net debt to Adjusted EBITDA of 1.0x, and the only debt instrument is a revolver with no bond maturity wall.
-- **Substantial hedging.** Roughly 70% of remaining 2026 oil production and 48% of gas are hedged, which smooths near-term cash flow even if it caps the upside from higher prices.
-- **Low corporate overhead.** The non-operated model avoids the fixed costs of running a drilling program directly.
-- **Reserve base largely developed.** 88% of YE2025 PV-10 came from proved-developed reserves, not speculative undeveloped locations.
-- **Track record of accretive deals.** Both 2026 acquisitions were structured as immediately accretive per share, and management has a long history of sourcing off-market non-operated packages.
+- Oil is still high. WTI was $83.26 on November 18, and the company has hedged about 56% of my 2027 oil volume, mostly with swaps at $68.42.
+- Leverage is 1.3 times EBITDA, below the 3.0 times covenant, and management aims for 1.0 times.
+- The DJ Basin acquisition cost only $26 million, about 85% of its producing volumes are hedged through 2030, and its first full quarter is still to come.
+- Longer wells, with 70% of 2026 well approvals for laterals of three miles or more, should lower maintenance spending.
 
 ## What could go wrong?
 
-- **Thesis breaker: commodity prices.** A prolonged period of lower oil compresses free cash flow, reserve NAV and dividend coverage at the same time, since both valuation legs move together with price.
-- **Operator dependence.** Vitesse cannot control when or how fast the operators of its wells choose to drill.
-- **Reserve depletion.** Oil and gas production declines by nature; replacing it economically, whether by drilling on existing acreage or further acquisitions, is a continuous requirement, not a one-time event.
-- **Acquisition risk.** Growth by acquisition can require debt or dilution, and not every deal will be as clean as the two closed in 2026.
-- **Dividend coverage is thin.** Coverage near 1.0x on Base free cash flow means almost any shortfall shows up directly in the payout ratio.
-- **New CEO.** Jamie Benard took over in May 2026 after 13 years under founder Bob Gerrity; the strategy is unchanged so far, but leadership transitions carry execution risk.
+- Oil. Oil fell about 20% in November on rising US inventories and Middle East exports, even with the US and Iran conflict still supporting prices. Oil $5 lower in every year takes my Base to $4.63.
+- The dividend. It is not covered at the futures strip, and the credit agreement can restrict it if leverage passes 1.5 times or usage passes 80% of commitments.
+- No control. Operators decide drilling, and the 2026 spending guidance was first set low because operators slowed activity. A third-party summary says 2.3 million Boe of reserves were removed in 2025 under the SEC five-year development rule.
+- Costs. Lease operating cost rose to $12.42 a Boe in Q3. Another $1 a Boe takes my Base to $5.93.
+- Concentration. About 96% of proved reserves are in the Williston Basin.
+- Leadership. The founder left suddenly in March and the new chief executive has been in place for under seven months.
 
 ## Management execution
 
-Fifteen consecutive quarterly dividends, 1.0x leverage, a successful Powder River integration that drove 9% sequential production growth, and disciplined hedging into 2030 on the newest acquisition all support credibility. Offsetting that: a CEO transition mid-year, an accelerating acquisition cadence that has yet to prove its per-share value over a full cycle, and a dividend payout still running close to 100% of normalized cash flow. **Assessment: 15/20, good. The next test is demonstrating that the growing acquisition pace adds per-share value rather than just replacing depleting production.**
+Management raised 2026 guidance after the DJ deal, hedged about 85% of its producing volumes through 2030, and said it would hedge the Powder River purchase above its underwriting prices, which it did. The record on money is mixed. It paid $2.25 a share in 2025, cut to $1.75 in 2026, borrowed for the dividend and an acquisition in the same nine months, and issued shares for Powder River at about $18.9 when the stock is $14.29. The founder chief executive left abruptly in March and the president moved to an advisory role.
 
 ## Stock Analyza scorecard
 
-| Economic classification | Score |
-| --- | --- |
-| Economic return | 1/2 |
-| Per-share cash flow growth | 1/2 |
-| Reserve / NAV growth | 1/2 |
-| Balance sheet | 1/1 |
-| Asset economics | 1/1 |
-| Recurring production quality | 1/2 |
-| Reinvestment runway | 1/2 |
-| Total: Standard, commodity-sensitive producer | 7/12 |
+Business quality is 36.3 out of 100 and measures the business, not the price. Vitesse is a price taker with no operating control, a thin and declining reserve base, and leverage that has just risen. The grades reflect that, and not the quality of its people.
 
-The mechanical score borders Quality growth, but commodity cyclicality and depletion argue against a growth-premium multiple, so the standard engine applies with a reserve-NAV cross-check instead. Business quality is **61/100**: asset and model quality 13/20, return versus cost of capital 12/20, balance sheet 11/15, cash-flow quality 10/15, growth and reserve runway 7/15, management 6/10, dilution and governance 2/5. The low-overhead non-operated model and conservative leverage are the strengths; commodity exposure and the growing dilution from stock-funded deals are the constraints.
+| Component | Weight | Grade (0 to 4) | Points |
+| --- | --- | --- | --- |
+| Franchise and moat | 20 | 1 | 5.00 |
+| Return versus cost of capital | 20 | 1 | 5.00 |
+| Balance sheet and resilience | 15 | 2 | 7.50 |
+| Earnings and cash flow quality | 15 | 2 | 7.50 |
+| Growth and reinvestment runway | 15 | 1 | 3.75 |
+| Management and capital allocation | 10 | 2 | 5.00 |
+| Dilution, governance and alignment | 5 | 2 | 2.50 |
+| Total | 100 |  | 36.25 |
+
+The valuation score is 5.0 out of 100 and measures the price against my values.
+
+| Component | Weight | Evidence | Grade (0 to 4) | Points |
+| --- | --- | --- | --- | --- |
+| Discount to central value | 50 | 106% above Base | 0 | 0.0 |
+| Price against the adverse case | 30 | 586% above the Bear value | 0 | 0.0 |
+| What the price implies | 20 | Oil near $81 for a decade, close to my Bull case | 1 | 5.0 |
+| Total | 100 |  |  | 5.0 |
+
+I could not verify enough history to fill the sector scorecard for oil and gas producers, so I do not show it.
 
 ## Confidence score
 
-| Confidence | Score |
-| --- | --- |
-| Data quality / source provenance | 5/5 |
-| Predictability | 3/5 |
-| Valuation robustness | 4/5 |
-| Accounting transparency | 4/5 |
-| Scenario dispersion | 2/5 |
-| Total | 18/25, grade B |
+Confidence is 15.0 out of 25, grade C. The quarter, the balance sheet and the credit terms come straight from the filings. The oil deck, the 2027 plan, the share count and the terminal assumptions are my estimates, and the two methods differ by a wide margin.
 
-Company filings, the independent reserve report and the quarterly non-GAAP reconciliations are detailed and current. Confidence is limited by oil-price predictability, which is inherently modest for any producer, and by the wide dispersion between the Bear and Bull scenarios that commodity exposure creates.
+| Component | Grade (0 to 4) | Points |
+| --- | --- | --- |
+| Historical data and sources | 3 | 3.75 |
+| Accounting and ownership bridge | 3 | 3.75 |
+| Forward assumptions | 2 | 2.50 |
+| Model construction | 2 | 2.50 |
+| Independent challenge | 2 | 2.50 |
+| Total |  | 15.00 |
 
 ## What I would watch from here
 
-### Green
+The fourth quarter report, is likely in early March, as last year's came on March 2, and should show a full quarter of the DJ Basin, the 2027 production and spending plan with figures, and any change to the dividend. I could not find a verified options-implied move for it, so I do not use options pricing.
 
-- Production above 17,000 Boe/d
-- Net debt to Adjusted EBITDA below 1.0x
-- Annual free cash flow above $90 million
-- Dividend coverage above 1.3x on normalized free cash flow
-- Reserve replacement above 100% of production
-- New acquisitions clearly accretive per share once fully reported
+**Green:** net debt to EBITDA at or below 1.0 times, 2027 spending below $80 million with production at 17,000 Boe a day or more, and the price in the entry range of $3.11 to $5.32.
 
-### Yellow
+**Yellow:** lease operating cost above $12 a Boe again, leverage above 1.3 times at year end, or elected commitments cut below $275 million.
 
-- Production 15,000-17,000 Boe/d
-- Net debt to Adjusted EBITDA 1.0-1.5x
-- Annual free cash flow $70-90 million
-- Dividend coverage 1.0-1.3x
-- Reserve replacement 75-100% of production
-- Acquisition accretion uncertain until proven over a full year
-
-### Red
-
-- Production below 15,000 Boe/d
-- Net debt to Adjusted EBITDA above 1.5x
-- Annual free cash flow below $70 million
-- Dividend coverage below 1.0x, persistently
-- Reserve replacement below 75% of production
-- An acquisition that destroys per-share value or requires dilutive equity
-
-Review with the third-quarter report, expected around early November, which should show the first partial-quarter contribution from the DJ Basin acquisition.
+**Red:** a dividend paid while usage of the facility is above 80%, leverage above 1.5 times, or another acquisition paid with the revolver.
 
 ## The three most important thesis breakers
 
-1. Normalized free cash flow persistently below the dividend's cash requirement, from weak commodity prices, excessive capex or poor reserve replacement.
-2. Net debt to Adjusted EBITDA sustained above 1.5x.
-3. Reserve replacement persistently below production for more than a year or two.
+1. Oil stays near $80 or higher for years, which is what the price already assumes. At oil $10 higher in every year my Base is $11.56, still below the price.
+2. Spending falls with no loss of production, for example capital spending 10% lower, which lifts my Base to $8.01.
+3. Production holds flat forever with no decline in cash flow, which lifts my Base to $7.96.
+
+## How this differs from my September 28 analysis
+
+I published an earlier analysis of Vitesse on September 28, 2026. It said Hold at $16.75, with a Base value of $21.50, a Bear of $12.38, a Bull of $29.39 and a maximum buy price of $13.98. This one says Reduce at $14.29, with a Base of $6.94. The difference is a change in method, a change in the oil price, and new information from the third quarter.
+
+- Method. The September article valued the stock at 12 times a normalized free cash flow of $75 million, or $1.78 a share. This one models ten years of cash flow year by year, with production fading, spending falling and the oil price following the futures curve, and it discounts them at 10%. A flat $75 million a year is well above the $49.6 million my Base model gives for FY27 after interest.
+- Oil. The September article was written when Vitesse was realizing $91.98 a barrel before hedges, and the Q2 numbers carried that price. The curve I use now is $75 for 2027, $69 for 2028 and $66 for 2029, because oil has fallen about 20% in November.
+- Dividend. In September I wrote that the dividend was funded by free cash flow and not by borrowing, on the strength of second quarter free cash flow of $16.3 million. The nine month figures I now have show $21.8 million of cash flow after well spending against $62.7 million of dividends, with borrowings up $66.0 million. That sentence does not hold for the first nine months, and I no longer believe the dividend is covered.
+- Margin of safety. Confidence was B (18 out of 25) with a 35% margin of safety in September. It is C (15.0 out of 25) with 42.5% now, because the oil deck, the 2027 plan and the share count are my estimates and the two methods differ by 52%.
+
+Part of the $14.56 gap in Base value comes from the lower oil price and part from the way I model a business whose wells decline. I did not split the gap between them. The September value was also built on a different cash flow definition, so the two Base values are not a like for like comparison. If you held on the September call, the fall in oil and the dividend finding above are the two things that changed my answer.
 
 ## Stress test and independent check
 
-The first draft's core arithmetic mostly reconciled, and its reported operating figures matched Vitesse's own filings closely. But checking it against the second-quarter earnings release and the 2025 10-K found two things worth correcting.
+I recomputed the Bear, Base and Bull values with a second model written separately from the first, and all six values matched to the cent. Results, balance sheet, hedges, credit terms, share count and guidance come from the Q3 2026 release and 10-Q. Reserves and 2025 figures come from the 2025 results release and call. The close of $14.29 is from FinancialContent for November 20, 2026. The oil deck, production and spending paths, costs, the 10% discount rate, the 4.5 times multiple, the share count and the weights are my estimates. The table changes one input at a time and recomputes both methods.
 
-| Issue in the first draft | Correction |
-| --- | --- |
-| Bull value of $29.00 did not match a 60/40 blend of the two methods ($30.81 primary, $27.25 secondary) | Recomputed blend: $29.39. Upside to Bull revised from 72.5% to 75.4% |
-| Bear value of $12.50 likewise sat closer to a simple average of the two legs than to the stated 60/40 weighting | Recomputed blend: $12.38. Downside to Bear revised from -25.6% to -26.1% |
-| SEC reserve pricing was stated as ~$66.01/bbl oil and $3.39/MMBtu gas | The FY2025 release states $60.74/Bbl oil and $1.49/Mcf gas; corrected in the text. This doesn't change the PV-10 figure itself, which was already stated correctly |
-| Reference price used the intraday quote from earlier in the trading session ($16.81 at 12:59 PM ET) | Updated to the verified regular-session close of $16.75 |
-| The all-revolver nature of the debt, with no bond maturity schedule, wasn't highlighted as a structural positive | Added: unlike a bond-financed balance sheet, the debt is repayable at the company's own pace |
-| The first-quarter derivative-driven net loss wasn't mentioned as the mirror image of the second-quarter derivative-driven net income | Added, to make clear that GAAP net income swings both ways on hedge marks and isn't the number to anchor a valuation to in either direction |
+| Robustness check | Primary | Secondary | Triangulated |
+| --- | --- | --- | --- |
+| Base | $5.40 | $9.25 | $6.94 |
+| Cost of capital 9% instead of 10% | $6.21 | $9.77 | $7.63 |
+| Cost of capital 11% instead of 10% | $4.72 | $8.75 | $6.33 |
+| Oil price $5 higher every year | $7.92 | $11.25 | $9.25 |
+| Oil price $5 lower every year | $2.89 | $7.24 | $4.63 |
+| Oil price $10 higher every year | $10.43 | $13.26 | $11.56 |
+| Oil price flat at $65 after 2027 | $5.24 | $9.09 | $6.78 |
+| Lease operating cost $1 per Boe lower | $6.49 | $10.15 | $7.96 |
+| Lease operating cost $1 per Boe higher | $4.32 | $8.34 | $5.93 |
+| Capital spending 10% lower, same production | $6.75 | $9.89 | $8.01 |
+| Capital spending 10% higher, same production | $4.06 | $8.61 | $5.88 |
+| Production flat, no decline after 2031 (terminal growth 0%) | $7.10 | $9.25 | $7.96 |
+| Stock compensation not deducted | $6.74 | $9.84 | $7.98 |
+| No cash taxes through 2030 | $5.96 | $9.80 | $7.50 |
+| Hedges ignored (unhedged) | $5.60 | $9.44 | $7.14 |
+| Exit multiple 5.5x instead of 4.5x | $5.40 | $11.23 | $7.74 |
+| Exit multiple 3.5x instead of 4.5x | $5.40 | $7.26 | $6.15 |
 
-Net effect: the Base value is unchanged at $21.50 and the Hold/Watchlist verdict is unchanged, but the Bear and Bull values both moved a little, and the reference price and reserve-pricing figures are now tied to verified sources.
+The 16 checks give a triangulated value between $4.63 and $11.56. 0 of the 16 are at or above the $14.29 price, so the price is above the range of my own checks. That is why the verdict is Reduce and not Hold.
 
-The strongest counter-thesis, for the bulls: hedging locks in returns on a large share of production through 2030 on the newest deal alone, leverage is genuinely low, and two accretive acquisitions in one year without meaningful dilution or debt stress suggest management can keep growing per-share value even in a flat commodity environment. The strongest counter-thesis, for the bears: a dividend that consumes essentially all of Base free cash flow has no room for error, hedges eventually roll off at whatever price is available then, and reserve depletion is a treadmill that requires continuous capital just to stand still. Both readings are reasonable; the 35% margin of safety exists because commodity businesses can move from one to the other faster than most.
+## Final verdict: reduce at $14.29
 
-| Robustness check | Result |
-| --- | --- |
-| Bear FCF ($1.19/share) at 10x | $11.90 (primary leg) |
-| Base FCF ($1.78/share) at only 10x | $17.80 |
-| Base FCF ($1.78/share) at 12x | $21.36 |
-| Bull FCF ($2.38/share) at 13x | $30.94 (primary leg) |
-| Reserve NAV, Base | $21.70 |
-| Price / Base free cash flow | 9.4x |
-| Price implies FCF of (at 12x) | $1.40/share, between Bear and Base |
+Vitesse is a competent small non-operator with a reasonable balance sheet and a high yield. At $14.29 the shares are 106% above my Base value of $6.94 and 258% above the maximum buy price of $3.99, and a buyer is paid a dividend that the company is borrowing to fund. I would not add, and a holder who owns it for the yield should know where the cash comes from.
 
-Audit flags: the Base, Bear and Bull free-cash-flow figures are analytical estimates for a normalized year, not company guidance; the NAV range builds on a real, engineer-certified PV-10 but the adjustments for 2026 acquisitions and commodity sensitivity are my own. No unresolved arithmetic error remains.
+**Verdict: REDUCE at $14.29, do not add. Triangulated Base value $6.94, upside -51.4%, Confidence C (15.0/25). Required margin of safety 42.5%, entry range by method $3.11 to $5.32, maximum buy price $3.99.**
 
-## Final verdict: hold at $16.75, watchlist for new money below $13.98
-
-Vitesse is a genuinely disciplined operator in a genuinely hard business. Low leverage, a fully cash-funded dividend and two clean acquisitions in one year are real accomplishments. None of that changes the arithmetic of a payout that eats almost everything the company generates in a normal year, or a valuation that still needs a real discount to compensate for that.
-
-**Verdict: WATCHLIST at $16.75. Triangulated Base value $21.50, upside 28.4%, Confidence B (18/25). Required margin of safety 35%, maximum buy price $13.98.**
-
-The case improves if dividend coverage climbs above 1.3x on normalized free cash flow, if reserve replacement stays above 100% through the acquisition cycle, or if the price falls into the buy zone with the fundamentals intact.
+A 12.2% yield and a 20% fall in oil in one month make a poor pairing for a stock that already needs oil at $81 a barrel.
 
 ## More analyses on Patreon
 
@@ -259,10 +301,10 @@ This analysis is free. Premium members get every in-depth analysis, the full arc
 
 ## Sources
 
-Primary sources include Vitesse Energy's second-quarter 2026 earnings release and Form 10-Q for the quarter ended June 30, 2026, its fourth-quarter and full-year 2025 earnings release, its FY2025 Form 10-K (including the independent reserve engineering report), its March 26, 2026 leadership-transition announcement, and its September 2026 DJ Basin acquisition announcements. Market-price verification is drawn from Yahoo Finance's regular-session close.
+Primary sources: Vitesse Energy's third quarter 2026 earnings release and 10-Q, both filed on November 2, 2026, and the call of that date. The 2025 results, reserves, PV-10 and 2026 guidance come from the release of March 2, 2026 and its call. The leadership change comes from the 8-K of March 26, 2026. The DJ Basin purchase price comes from the 10-Q and trade press. Oil prices and the futures curve come from market reports of November 10 to 18, 2026. The close of $14.29 is from FinancialContent for November 20, 2026. Earlier price history comes from stockanalysis.com. The January 2026 enterprise value multiple and the reserve removals under the SEC five-year rule come from third-party data sites.
 
-The reference market price is $16.75, the September 28, 2026 close. Balance sheet figures are as of June 30, 2026. Normalized free cash flow, reserve NAV adjustments and scenario values are analytical estimates, not company guidance.
+The oil deck, production and spending paths, costs, the 10% discount rate, the 4.5 times multiple, the share count and the normalized cash taxes are analytical estimates, not company guidance.
 
-**Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Vitesse Energy is exposed to volatile commodity prices, depends on third-party operators for drilling decisions, and pays a dividend that consumes nearly all of its normalized free cash flow. Investors can lose part or all of their invested capital.
+**Disclaimer.** This analysis is provided solely for research and educational purposes. It is not personalized investment, financial, legal or tax advice. Vitesse Energy is exposed to commodity price, operator, reserve, credit, hedging and dividend risk. Investors can lose part or all of their invested capital.
 
-Method: Master Investment Analysis Framework v3.1. Confidence: B/18. Data checks: passed with warnings.
+Method: Master Investment Analysis Framework v4.3. Approach: ten years of discounted free cash flow to the firm on a futures-based oil deck, an exit multiple on EBITDA as the second method, and reported reserve value as a cross-check. Confidence: C/15.0. Data checks: passed with warnings. Open data gaps: the current fair value of the hedges, an annual reserve schedule, the DJ Basin production and reserves, the 2027 plan with figures, the oil futures settlement for November 20 and a current option-implied move.
