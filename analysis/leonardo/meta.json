@@ -1,0 +1,20 @@
+{
+  "ticker": "LDO",
+  "slug": "leonardo",
+  "name": "Leonardo (LDO)",
+  "company": "Leonardo S.p.A.",
+  "companyShort": "Leonardo",
+  "date": "2026-11-24",
+  "order": 240,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at €47.83",
+  "price": "€47.83",
+  "base": "€50.35",
+  "upside": "5.3",
+  "upsideText": "+5.3%",
+  "maxBuy": "€28.95",
+  "teaser": "The price is 5% below my Base value of €50.35, which is fair value and no discount. It is 65% above my maximum buy price of €28.95 at Confidence C, so I would not add new money here.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €27.36, base €50.35, bull €79.96, current price €47.83, buy zone at or below €28.95\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"27.36\" data-to=\"79.96\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"28.95\"></span>\n        <span class=\"ruler-tick\" data-value=\"27.36\"></span>\n        <span class=\"ruler-tick\" data-value=\"50.35\"></span>\n        <span class=\"ruler-tick\" data-value=\"79.96\"></span>\n        <span class=\"ruler-price\" data-value=\"47.83\"><span>Price €47.83</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"27.36\">Bear<b>€27.36</b></span>\n        <span data-value=\"50.35\">Base<b>€50.35</b></span>\n        <span data-value=\"79.96\">Bull<b>€79.96</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €28.95.</figcaption>\n    </figure>",
+  "llms": "Leonardo is an Italian defence and aerospace group (helicopters, military aircraft, defence electronics, cyber security, space) that owns about 71% of Leonardo DRS and bought Iveco Defence Vehicles in 2026. Nine-month EBITA rose 37.7% but free operational cash flow was minus EUR 68 million, so guided 2026 cash flow needs about EUR 1.44 billion in the fourth quarter. Bear EUR 27.36, Base EUR 50.35, Bull EUR 79.96. Verdict Hold at EUR 47.83, maximum buy price EUR 28.95."
+}
