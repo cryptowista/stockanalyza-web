@@ -1,0 +1,20 @@
+{
+  "ticker": "RHM",
+  "slug": "rhm",
+  "name": "Rheinmetall (RHM)",
+  "company": "Rheinmetall AG",
+  "companyShort": "Rheinmetall",
+  "date": "2026-11-24",
+  "order": 238,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at €725.20, watchlist for new money below €535",
+  "price": "€725.20, watchlist for new money below €535",
+  "base": "€931",
+  "upside": "28.4",
+  "upsideText": "+28.4%",
+  "maxBuy": "€535",
+  "teaser": "Rheinmetall grew sales 38% in nine months but its operating free cash flow was minus €1.7 billion. At €725.20 the shares sit 22% below my Base value of €931, but above my maximum buy price of €535, so I call it Hold.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear €375, base €931, bull €1,756, current price €725.20, buy zone at or below €535\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"374.76\" data-to=\"1755.56\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"535.37\"></span>\n        <span class=\"ruler-tick\" data-value=\"374.76\"></span>\n        <span class=\"ruler-tick\" data-value=\"931.07\"></span>\n        <span class=\"ruler-tick\" data-value=\"1755.56\"></span>\n        <span class=\"ruler-price\" data-value=\"725.2\"><span>Price €725.20</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"374.76\">Bear<b>€375</b></span>\n        <span data-value=\"931.07\">Base<b>€931</b></span>\n        <span data-value=\"1755.56\">Bull<b>€1,756</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below €535.</figcaption>\n    </figure>",
+  "llms": "Rheinmetall (RHM) makes armoured vehicles, ammunition, air defence and naval systems. Valued on ten years of discounted free cash flow to the firm and an exit multiple on EBITDA. Bear €375, Base €931, Bull €1,756. Verdict: hold at €725.20, maximum buy price €535. Conditional on the November 25 to 27 capital markets day."
+}
