@@ -1,0 +1,20 @@
+{
+  "ticker": "NKE",
+  "slug": "nke",
+  "name": "Nike (NKE)",
+  "company": "NIKE, Inc.",
+  "companyShort": "Nike",
+  "date": "2026-11-24",
+  "order": 242,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $35.76",
+  "price": "$35.76",
+  "base": "$24.90",
+  "upside": "-30.4",
+  "upsideText": "-30.4%",
+  "maxBuy": "$14.32",
+  "teaser": "Nike is cutting costs and its balance sheet is sound, but the price is 44% above my Base value of $24.90 and 185% above my Bear value of $12.53. It needs an operating margin of about 13% by fiscal 2031, the middle of management's own 12% to 14% target, while fiscal 2028 earnings are guided down. My maximum buy price is $14.32.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $12.53, base $24.90, bull $42.79, current price $35.76, buy zone at or below $14.32\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"12.53\" data-to=\"42.79\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"14.32\"></span>\n        <span class=\"ruler-tick\" data-value=\"12.53\"></span>\n        <span class=\"ruler-tick\" data-value=\"24.90\"></span>\n        <span class=\"ruler-tick\" data-value=\"42.79\"></span>\n        <span class=\"ruler-price\" data-value=\"35.76\"><span>Price $35.76</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"12.53\">Bear<b>$12.53</b></span>\n        <span data-value=\"24.90\">Base<b>$24.90</b></span>\n        <span data-value=\"42.79\">Bull<b>$42.79</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $14.32.</figcaption>\n    </figure>",
+  "llms": "Nike designs and sells Nike, Jordan and Converse footwear and apparel. Its dividend of about $2.4 billion exceeds guided fiscal 2027 earnings of about $1.9 billion, and the price needs a 13% operating margin by fiscal 2031. Bear $12.53, Base $24.90, Bull $42.79. Verdict Reduce at $35.76, maximum buy price $14.32."
+}
