@@ -1,0 +1,20 @@
+{
+  "ticker": "SAAB",
+  "slug": "saab",
+  "name": "Saab (SAAB B)",
+  "company": "Saab AB",
+  "companyShort": "Saab",
+  "date": "2026-11-24",
+  "order": 239,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at SEK 599.60",
+  "price": "SEK 599.60",
+  "base": "SEK 360",
+  "upside": "-39.9",
+  "upsideText": "-39.9%",
+  "maxBuy": "SEK 207",
+  "teaser": "The price is 66% above my Base value of SEK 360 and 189% above my maximum buy price of SEK 207 at Confidence C. It sits just above my Bull value of SEK 594, so the market is already paying for the best case I can build from the numbers Saab has reported.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear SEK 193, base SEK 360, bull SEK 594, current price SEK 599.60, buy zone at or below SEK 207\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"193.21\" data-to=\"594.12\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"207.28\"></span>\n        <span class=\"ruler-tick\" data-value=\"193.21\"></span>\n        <span class=\"ruler-tick\" data-value=\"360.49\"></span>\n        <span class=\"ruler-tick\" data-value=\"594.12\"></span>\n        <span class=\"ruler-price\" data-value=\"599.6\"><span>Price SEK 599.60</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"193.21\">Bear<b>SEK 193</b></span>\n        <span data-value=\"360.49\">Base<b>SEK 360</b></span>\n        <span data-value=\"594.12\">Bull<b>SEK 594</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below SEK 207.</figcaption>\n    </figure>",
+  "llms": "Saab (SAAB B) makes Gripen fighters, radar and airborne surveillance, missiles and ground weapons, submarines and ship systems. Valued on ten years of discounted free cash flow to the firm and an exit multiple on EBITDA. Bear SEK 193, Base SEK 360, Bull SEK 594. Verdict: reduce at SEK 599.60, maximum buy price SEK 207."
+}
