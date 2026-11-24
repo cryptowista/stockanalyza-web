@@ -1,0 +1,20 @@
+{
+  "ticker": "THC",
+  "slug": "thc",
+  "name": "Tenet Healthcare (THC)",
+  "company": "Tenet Healthcare Corporation",
+  "companyShort": "Tenet Healthcare",
+  "date": "2026-11-24",
+  "order": 241,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $275.44, do not add",
+  "price": "$275.44",
+  "base": "$241.53",
+  "upside": "-12.3",
+  "upsideText": "-12.3%",
+  "maxBuy": "$138.88",
+  "teaser": "The price is 14.0% above my Base value of $241.53, inside the 15% band where I call a stock fairly valued, and 126% above my Bear value of $121.72. It is 19.5% below my Bull value of $341.95. Tenet is running well, but after the surgery center partners are paid and the Conifer one-offs fall away, the shareholder cash yield is about 5.1%, and the price leaves no margin of safety. My maximum buy price is $138.88.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $121.72, base $241.53, bull $341.95, current price $275.44, buy zone at or below $138.88\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"121.72\" data-to=\"341.95\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"138.88\"></span>\n        <span class=\"ruler-tick\" data-value=\"121.72\"></span>\n        <span class=\"ruler-tick\" data-value=\"241.53\"></span>\n        <span class=\"ruler-tick\" data-value=\"341.95\"></span>\n        <span class=\"ruler-price\" data-value=\"275.44\"><span>Price $275.44</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"121.72\">Bear<b>$121.72</b></span>\n        <span data-value=\"241.53\">Base<b>$241.53</b></span>\n        <span data-value=\"341.95\">Bull<b>$341.95</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $138.88.</figcaption>\n    </figure>",
+  "llms": "Tenet Healthcare operates hospitals and USPI surgery centers. Headline 2026 adjusted free cash flow is about 13% of market value, but shareholders keep about 5% in 2027 after surgery center partners and Conifer one-offs. Bear $121.72, Base $241.53, Bull $341.95. Verdict Hold at $275.44, do not add, maximum buy price $138.88."
+}
