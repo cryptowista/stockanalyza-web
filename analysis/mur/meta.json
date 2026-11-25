@@ -1,0 +1,20 @@
+{
+  "ticker": "MUR",
+  "slug": "mur",
+  "name": "Murapol (MUR)",
+  "company": "Murapol",
+  "companyShort": "Murapol",
+  "date": "2026-11-25",
+  "order": 245,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at PLN 35.90",
+  "price": "PLN 35.90",
+  "base": "PLN 42.59",
+  "upside": "18.6",
+  "upsideText": "+18.6%",
+  "maxBuy": "PLN 24.49",
+  "teaser": "At PLN 35.90 Murapol trades 15.7% below a Base value of PLN 42.59, but the buy price is PLN 24.49 and the PLN 2.94 advance dividend is already gone from the price.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear PLN 21.33, base PLN 42.59, bull PLN 62.26, current price PLN 35.90, buy zone at or below PLN 24.49\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"21.33\" data-to=\"62.26\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"24.49\"></span>\n        <span class=\"ruler-tick\" data-value=\"21.33\"></span>\n        <span class=\"ruler-tick\" data-value=\"42.59\"></span>\n        <span class=\"ruler-tick\" data-value=\"62.26\"></span>\n        <span class=\"ruler-price\" data-value=\"35.90\"><span>Price PLN 35.90</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"21.33\">Bear<b>PLN 21.33</b></span>\n        <span data-value=\"42.59\">Base<b>PLN 42.59</b></span>\n        <span data-value=\"62.26\">Bull<b>PLN 62.26</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below PLN 24.49.</figcaption>\n    </figure>",
+  "llms": "Murapol is a Polish residential developer (Warsaw Stock Exchange: MUR) selling apartments in large cities. Valued on discounted dividends plus an earnings-multiple exit, with a cash-flow exit cross-check. Bear PLN 21.33, Base PLN 42.59, Bull PLN 62.26. Verdict Hold at PLN 35.90, maximum buy price PLN 24.49."
+}
