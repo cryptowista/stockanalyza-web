@@ -1,0 +1,20 @@
+{
+  "ticker": "CVEO",
+  "slug": "cveo",
+  "name": "Civeo (CVEO)",
+  "company": "Civeo Corporation",
+  "companyShort": "Civeo",
+  "date": "2026-11-25",
+  "order": 250,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $32.24",
+  "price": "$32.24",
+  "base": "$33.76",
+  "upside": "4.7",
+  "upsideText": "+4.7%",
+  "maxBuy": "$19.41",
+  "teaser": "Operating cash flow rose ninefold in nine months, but part of that was cash taxes and working capital timing. On a full tax bill the shares trade just under Base value.",
+  "ruler": "<figure aria-label=\"Valuation range: bear $14.64, base $33.76, bull $50.82, current price $32.24, buy zone at or below $19.41\" class=\"ruler\">\n<div class=\"ruler-track\">\n<span class=\"ruler-range\" data-from=\"14.64\" data-to=\"50.82\"></span>\n<span class=\"ruler-zone\" data-from=\"start\" data-to=\"19.41\"></span>\n<span class=\"ruler-tick\" data-value=\"14.64\"></span>\n<span class=\"ruler-tick\" data-value=\"33.76\"></span>\n<span class=\"ruler-tick\" data-value=\"50.82\"></span>\n<span class=\"ruler-price\" data-value=\"32.24\"><span>Price $32.24</span></span>\n</div>\n<div aria-hidden=\"true\" class=\"ruler-labels\">\n<span data-value=\"14.64\">Bear<b>$14.64</b></span>\n<span data-value=\"33.76\">Base<b>$33.76</b></span>\n<span data-value=\"50.82\">Bull<b>$50.82</b></span>\n</div>\n<figcaption>Hatched area: buy zone at or below $19.41.</figcaption>\n</figure>",
+  "llms": "Civeo owns workforce lodges and villages in Australia's Bowen Basin and Canada's oil sands and sells catering and facility services. At $32.24 it trades at 5.9x 2026 EBITDA guidance and a 9.4% yield on normalized cash flow to shareholders. Bear $14.64, Base $33.76, Bull $50.82. Verdict Hold at $32.24, maximum buy price $19.41."
+}
