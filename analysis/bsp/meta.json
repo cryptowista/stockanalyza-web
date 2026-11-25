@@ -1,0 +1,20 @@
+{
+  "ticker": "BSP",
+  "slug": "bsp",
+  "name": "Bending Spoons (BSP)",
+  "company": "Bending Spoons S.p.A.",
+  "companyShort": "Bending Spoons",
+  "date": "2026-11-25",
+  "order": 251,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $45.25",
+  "price": "$45.25",
+  "base": "$22.29",
+  "upside": "-50.7",
+  "upsideText": "-50.7%",
+  "maxBuy": "$12.82",
+  "teaser": "Revenue grew 125% in the third quarter, but organic growth was 3%. At $45.25 the shares trade above my Bull value, so the deal machine has to keep running for a decade.",
+  "ruler": "<figure aria-label=\"Valuation range: bear $9.09, base $22.29, bull $39.68, current price $45.25, buy zone at or below $12.82\" class=\"ruler\">\n<div class=\"ruler-track\">\n<span class=\"ruler-range\" data-from=\"9.09\" data-to=\"39.68\"></span>\n<span class=\"ruler-zone\" data-from=\"start\" data-to=\"12.82\"></span>\n<span class=\"ruler-tick\" data-value=\"9.09\"></span>\n<span class=\"ruler-tick\" data-value=\"22.29\"></span>\n<span class=\"ruler-tick\" data-value=\"39.68\"></span>\n<span class=\"ruler-price\" data-value=\"45.25\"><span>Price $45.25</span></span>\n</div>\n<div aria-hidden=\"true\" class=\"ruler-labels\">\n<span data-value=\"9.09\">Bear<b>$9.09</b></span>\n<span data-value=\"22.29\">Base<b>$22.29</b></span>\n<span data-value=\"39.68\">Bull<b>$39.68</b></span>\n</div>\n<figcaption>Hatched area: buy zone at or below $12.82.</figcaption>\n</figure>",
+  "llms": "Bending Spoons buys and runs digital brands such as AOL, Eventbrite, Vimeo, WeTransfer, Airtable and Miro. Q3 2026 revenue rose 125% but organic growth was 3%. Net debt is about $3.5 billion pro forma. Bear $9.09, Base $22.29, Bull $39.68. Verdict Reduce at $45.25, maximum buy price $12.82."
+}
