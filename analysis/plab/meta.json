@@ -1,0 +1,20 @@
+{
+  "ticker": "PLAB",
+  "slug": "plab",
+  "name": "Photronics (PLAB)",
+  "company": "Photronics",
+  "companyShort": "Photronics",
+  "date": "2026-11-25",
+  "order": 246,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $24.04",
+  "price": "$24.04",
+  "base": "$24.39",
+  "upside": "1.5",
+  "upsideText": "+1.5%",
+  "maxBuy": "$14.02",
+  "teaser": "Down 56% from its May high, Photronics now trades almost exactly at Base value, so the verdict is Hold.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $14.33, base $24.39, bull $33.01, current price $24.04, buy zone at or below $14.02\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"14.33\" data-to=\"33.01\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"14.02\"></span>\n        <span class=\"ruler-tick\" data-value=\"14.33\"></span>\n        <span class=\"ruler-tick\" data-value=\"24.39\"></span>\n        <span class=\"ruler-tick\" data-value=\"33.01\"></span>\n        <span class=\"ruler-price\" data-value=\"24.04\"><span>Price $24.04</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"14.33\">Bear<b>$14.33</b></span>\n        <span data-value=\"24.39\">Base<b>$24.39</b></span>\n        <span data-value=\"33.01\">Bull<b>$33.01</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $14.02.</figcaption>\n    </figure>",
+  "llms": "Photronics (PLAB), a photomask maker valued on free cash flow to shareholders after joint venture partners. Bear $14.33, Base $24.39, Bull $33.01. Verdict hold at $24.04, maximum buy price $14.02."
+}
