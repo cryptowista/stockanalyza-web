@@ -1,0 +1,20 @@
+{
+  "ticker": "ADT",
+  "slug": "adt",
+  "name": "ADT (ADT)",
+  "company": "ADT Inc.",
+  "companyShort": "ADT",
+  "date": "2026-11-26",
+  "order": 254,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $9.88",
+  "price": "$9.88",
+  "base": "$10.99",
+  "upside": "11.2",
+  "upsideText": "+11.2%",
+  "maxBuy": "$6.32",
+  "teaser": "Thrive Holdings has agreed to buy ADT for $10.00 in cash. At $9.88 the market pays 12 cents for the wait, and a failed deal could cost 30% or more.",
+  "ruler": "<figure aria-label=\"Valuation range: bear $5.29, base $10.99, bull $15.87, current price $9.88, buy zone at or below $6.32\" class=\"ruler\">\n<div class=\"ruler-track\">\n<span class=\"ruler-range\" data-from=\"5.29\" data-to=\"15.87\"></span>\n<span class=\"ruler-zone\" data-from=\"start\" data-to=\"6.32\"></span>\n<span class=\"ruler-tick\" data-value=\"5.29\"></span>\n<span class=\"ruler-tick\" data-value=\"10.99\"></span>\n<span class=\"ruler-tick\" data-value=\"15.87\"></span>\n<span class=\"ruler-price\" data-value=\"9.88\"><span>Price $9.88</span></span>\n</div>\n<div aria-hidden=\"true\" class=\"ruler-labels\">\n<span data-value=\"5.29\">Bear<b>$5.29</b></span>\n<span data-value=\"10.99\">Base<b>$10.99</b></span>\n<span data-value=\"15.87\">Bull<b>$15.87</b></span>\n</div>\n<figcaption>Hatched area: buy zone at or below $6.32. Values are standalone, before the $10.00 cash offer.</figcaption>\n</figure>",
+  "llms": "ADT is a US home and small-business security and monitoring company with $360 million of monthly recurring revenue, being acquired by Thrive Holdings for $10.00 a share in cash (about $15.3 billion enterprise value, closing expected in the first quarter of 2027). Standalone Bear $5.29, Base $10.99, Bull $15.87. Verdict Hold at $9.88, do not add, maximum buy price $6.32."
+}
