@@ -1,0 +1,20 @@
+{
+  "ticker": "BKE",
+  "slug": "bke",
+  "name": "Buckle (BKE)",
+  "company": "The Buckle, Inc.",
+  "companyShort": "Buckle",
+  "date": "2026-11-26",
+  "order": 255,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $43.24",
+  "price": "$43.24",
+  "base": "$45.79",
+  "upside": "5.9",
+  "upsideText": "+5.9%",
+  "maxBuy": "$26.33",
+  "teaser": "Debt-free Buckle yields 8.5% in owner free cash flow, but comparable sales slowed from +8.3% to +0.6% in a year. Fairly valued at $43.24.",
+  "ruler": "<figure aria-label=\"Valuation range: bear $29.31, base $45.79, bull $57.70, current price $43.24, buy zone at or below $26.33\" class=\"ruler\">\n<div class=\"ruler-track\">\n<span class=\"ruler-range\" data-from=\"29.31\" data-to=\"57.70\"></span>\n<span class=\"ruler-zone\" data-from=\"start\" data-to=\"26.33\"></span>\n<span class=\"ruler-tick\" data-value=\"29.31\"></span>\n<span class=\"ruler-tick\" data-value=\"45.79\"></span>\n<span class=\"ruler-tick\" data-value=\"57.70\"></span>\n<span class=\"ruler-price\" data-value=\"43.24\"><span>Price $43.24</span></span>\n</div>\n<div aria-hidden=\"true\" class=\"ruler-labels\">\n<span data-value=\"29.31\">Bear<b>$29.31</b></span>\n<span data-value=\"45.79\">Base<b>$45.79</b></span>\n<span data-value=\"57.70\">Bull<b>$57.70</b></span>\n</div>\n<figcaption>Hatched area: buy zone at or below $26.33.</figcaption>\n</figure>",
+  "llms": "Buckle is a US mall and outlet apparel retailer with 450 stores, no debt and $332 million of cash and investments. At $43.24 it trades at about 10x trailing earnings and an 8.5% owner free cash flow yield. Bear $29.31, Base $45.79, Bull $57.70. Verdict Hold at $43.24, maximum buy price $26.33."
+}
