@@ -1,0 +1,20 @@
+{
+  "ticker": "GIB",
+  "slug": "cgi",
+  "name": "CGI (GIB)",
+  "company": "CGI Inc.",
+  "companyShort": "CGI",
+  "date": "2026-11-26",
+  "order": 253,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $83.36",
+  "price": "$83.36",
+  "base": "$81.66",
+  "upside": "-2.0",
+  "upsideText": "-2.0%",
+  "maxBuy": "$46.95",
+  "teaser": "Adjusted EPS rose 8.2% in fiscal 2026 while adjusted net earnings rose 1.4%: buybacks did the work, and organic growth is near zero. Fairly valued at $83.36.",
+  "ruler": "<figure aria-label=\"Valuation range: bear $46.84, base $81.66, bull $100.46, current price $83.36, buy zone at or below $46.95\" class=\"ruler\">\n<div class=\"ruler-track\">\n<span class=\"ruler-range\" data-from=\"46.84\" data-to=\"100.46\"></span>\n<span class=\"ruler-zone\" data-from=\"start\" data-to=\"46.95\"></span>\n<span class=\"ruler-tick\" data-value=\"46.84\"></span>\n<span class=\"ruler-tick\" data-value=\"81.66\"></span>\n<span class=\"ruler-tick\" data-value=\"100.46\"></span>\n<span class=\"ruler-price\" data-value=\"83.36\"><span>Price $83.36</span></span>\n</div>\n<div aria-hidden=\"true\" class=\"ruler-labels\">\n<span data-value=\"46.84\">Bear<b>$46.84</b></span>\n<span data-value=\"81.66\">Base<b>$81.66</b></span>\n<span data-value=\"100.46\">Bull<b>$100.46</b></span>\n</div>\n<figcaption>Hatched area: buy zone at or below $46.95.</figcaption>\n</figure>",
+  "llms": "CGI is a Canadian IT and business consulting firm with about 94,000 consultants and a C$32.1 billion backlog. At $83.36 it trades at about 13.2x adjusted earnings and a 7.3% owner free cash flow yield after stock compensation. Bear $46.84, Base $81.66, Bull $100.46. Verdict Hold at $83.36, maximum buy price $46.95."
+}
