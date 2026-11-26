@@ -1,0 +1,20 @@
+{
+  "ticker": "FNF",
+  "slug": "fnf",
+  "name": "Fidelity National Financial (FNF)",
+  "company": "Fidelity National Financial, Inc.",
+  "companyShort": "Fidelity National",
+  "date": "2026-11-26",
+  "order": 252,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $45.13",
+  "price": "$45.13",
+  "base": "$58.68",
+  "upside": "30.0",
+  "upsideText": "+30.0%",
+  "maxBuy": "$33.74",
+  "teaser": "GAAP profit rose 77% in the third quarter while adjusted earnings fell 19%. The title business is priced for a downturn, but my margin of safety is not met at $45.13.",
+  "ruler": "<figure aria-label=\"Valuation range: bear $38.52, base $58.68, bull $79.24, current price $45.13, buy zone at or below $33.74\" class=\"ruler\">\n<div class=\"ruler-track\">\n<span class=\"ruler-range\" data-from=\"38.52\" data-to=\"79.24\"></span>\n<span class=\"ruler-zone\" data-from=\"start\" data-to=\"33.74\"></span>\n<span class=\"ruler-tick\" data-value=\"38.52\"></span>\n<span class=\"ruler-tick\" data-value=\"58.68\"></span>\n<span class=\"ruler-tick\" data-value=\"79.24\"></span>\n<span class=\"ruler-price\" data-value=\"45.13\"><span>Price $45.13</span></span>\n</div>\n<div aria-hidden=\"true\" class=\"ruler-labels\">\n<span data-value=\"38.52\">Bear<b>$38.52</b></span>\n<span data-value=\"58.68\">Base<b>$58.68</b></span>\n<span data-value=\"79.24\">Bull<b>$79.24</b></span>\n</div>\n<figcaption>Hatched area: buy zone at or below $33.74.</figcaption>\n</figure>",
+  "llms": "Fidelity National Financial is a leading US title insurer and owns about 72% of F&G Annuities & Life. At $45.13 it trades at about 9x annualized adjusted earnings with a 4.6% dividend yield. Bear $38.52, Base $58.68, Bull $79.24. Verdict Hold at $45.13, maximum buy price $33.74."
+}
