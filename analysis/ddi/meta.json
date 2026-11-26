@@ -1,0 +1,20 @@
+{
+  "ticker": "DDI",
+  "slug": "ddi",
+  "name": "DoubleDown Interactive (DDI)",
+  "company": "DoubleDown Interactive Co., Ltd.",
+  "companyShort": "DoubleDown Interactive",
+  "date": "2026-11-26",
+  "order": 256,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $15.08",
+  "price": "$15.08",
+  "base": "$24.96",
+  "upside": "65.5",
+  "upsideText": "+65.5%",
+  "maxBuy": "$14.35",
+  "teaser": "A $16.25 cash tender from the 67% owner is pending, and $10.90 of each ADS is net cash. Hold at $15.08 while the 95% minimum decides the outcome.",
+  "ruler": "<figure aria-label=\"Valuation range: bear $15.80, base $24.96, bull $32.69, current price $15.08, buy zone at or below $14.35\" class=\"ruler\">\n<div class=\"ruler-track\">\n<span class=\"ruler-range\" data-from=\"15.80\" data-to=\"32.69\"></span>\n<span class=\"ruler-zone\" data-from=\"start\" data-to=\"14.35\"></span>\n<span class=\"ruler-tick\" data-value=\"15.80\"></span>\n<span class=\"ruler-tick\" data-value=\"24.96\"></span>\n<span class=\"ruler-tick\" data-value=\"32.69\"></span>\n<span class=\"ruler-price\" data-value=\"15.08\"><span>Price $15.08</span></span>\n</div>\n<div aria-hidden=\"true\" class=\"ruler-labels\">\n<span data-value=\"15.80\">Bear<b>$15.80</b></span>\n<span data-value=\"24.96\">Base<b>$24.96</b></span>\n<span data-value=\"32.69\">Bull<b>$32.69</b></span>\n</div>\n<figcaption>Hatched area: buy zone at or below $14.35. The tender offer is $16.25.</figcaption>\n</figure>",
+  "llms": "DoubleDown Interactive is a Seoul-based social casino and iGaming company, 67% owned by DoubleU Games, with about $540 million of net cash. DoubleU Games has a pending $16.25 per ADS cash tender offer that expires December 10, 2026 and needs 95% of shares. At $15.08 the ADS trades at about 6.7x trailing earnings. Standalone Bear $15.80, Base $24.96, Bull $32.69. Verdict Hold at $15.08, maximum buy price $14.35."
+}
