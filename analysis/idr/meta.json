@@ -1,0 +1,20 @@
+{
+  "ticker": "IDR",
+  "slug": "idr",
+  "name": "Idaho Strategic Resources (IDR)",
+  "company": "Idaho Strategic Resources, Inc.",
+  "companyShort": "Idaho Strategic",
+  "date": "2026-11-27",
+  "order": 263,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $14.61",
+  "price": "$14.61",
+  "base": "$11.63",
+  "upside": "-20.4",
+  "upsideText": "-20.4%",
+  "maxBuy": "$6.69",
+  "teaser": "Hold, do not add. At $14.61 the shares trade 25.6% above my Base value of $11.63, and the maximum buy price is $6.69. The required margin of safety is 42.5% because Confidence is C (15/25). The Bear value is $4.75, 67.5% below the price, and the Bull value is $22.50. About $4.20 of the Base is net cash, so what you pay for the mine itself is roughly $10.40 a share. At today's spot gold price of about $3,476 the Base would be $9.83 and the verdict would be Reduce.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $4.75, base $11.63, bull $22.50, current price $14.61, buy zone at or below $6.69\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"4.75\" data-to=\"22.50\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"6.69\"></span>\n        <span class=\"ruler-tick\" data-value=\"4.75\"></span>\n        <span class=\"ruler-tick\" data-value=\"11.63\"></span>\n        <span class=\"ruler-tick\" data-value=\"22.50\"></span>\n        <span class=\"ruler-price\" data-value=\"14.61\"><span>Price $14.61</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"4.75\">Bear<b>$4.75</b></span>\n        <span data-value=\"11.63\">Base<b>$11.63</b></span>\n        <span data-value=\"22.50\">Bull<b>$22.50</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $6.69.</figcaption>\n    </figure>",
+  "llms": "Idaho Strategic Resources (IDR) is a small gold producer with the Golden Chest mine in Idaho and rare earth exploration. Valued on ten years of owner free cash flow with an exit-multiple cross-check. Bear $4.75, Base $11.63, Bull $22.50. Verdict hold, do not add, at $14.61, maximum buy price $6.69."
+}
