@@ -1,0 +1,20 @@
+{
+  "ticker": "CRS",
+  "slug": "crs",
+  "name": "Carpenter Technology (CRS)",
+  "company": "Carpenter Technology Corporation",
+  "companyShort": "Carpenter Technology",
+  "date": "2026-11-27",
+  "order": 262,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $258.78",
+  "price": "$258.78",
+  "base": "$228.02",
+  "upside": "-11.9",
+  "upsideText": "-11.9%",
+  "maxBuy": "$159.62",
+  "teaser": "Hold, watchlist for new money. At $258.78 the shares trade 13.5% above my Base value of $228.02, and the maximum buy price is $159.62. The required margin of safety is 30% because Confidence is B (20.0/25). The Bear value is $119.77, 53.7% below the price, and the Bull value is $300.30. The price has fallen from $625.99 in August, yet it still equals what the company's own fiscal 2029 profit target is worth.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $119.77, base $228.02, bull $300.30, current price $258.78, buy zone at or below $159.62\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"119.77\" data-to=\"300.30\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"159.62\"></span>\n        <span class=\"ruler-tick\" data-value=\"119.77\"></span>\n        <span class=\"ruler-tick\" data-value=\"228.02\"></span>\n        <span class=\"ruler-tick\" data-value=\"300.30\"></span>\n        <span class=\"ruler-price\" data-value=\"258.78\"><span>Price $258.78</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"119.77\">Bear<b>$119.77</b></span>\n        <span data-value=\"228.02\">Base<b>$228.02</b></span>\n        <span data-value=\"300.30\">Bull<b>$300.30</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $159.62.</figcaption>\n    </figure>",
+  "llms": "Carpenter Technology (CRS) makes specialty alloys for aerospace, defense, medical and industrial customers. Valued on ten years of owner free cash flow with an exit-multiple cross-check. Bear $119.77, Base $228.02, Bull $300.30. Verdict hold at $258.78, maximum buy price $159.62."
+}
