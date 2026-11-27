@@ -1,0 +1,20 @@
+{
+  "ticker": "WPM",
+  "slug": "wpm",
+  "name": "Wheaton Precious Metals (WPM)",
+  "company": "Wheaton Precious Metals Corp.",
+  "companyShort": "Wheaton Precious",
+  "date": "2026-11-27",
+  "order": 261,
+  "verdict": "sell",
+  "verdictLabel": "Reduce",
+  "call": "<span class=\"call\">Reduce</span> at $122.63",
+  "price": "$122.63",
+  "base": "$50.51",
+  "upside": "-58.8",
+  "upsideText": "-58.8%",
+  "maxBuy": "$29.04",
+  "teaser": "Wheaton is a very good streaming business, but at $122.63 the shares trade 143% above the Base value of $50.51 and need gold near $7,750 at a 10% required return. Maximum buy price $29.04.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $24.17, base $50.51, bull $80.07, current price $122.63, buy zone at or below $29.04\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"24.17\" data-to=\"80.07\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"29.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"24.17\"></span>\n        <span class=\"ruler-tick\" data-value=\"50.51\"></span>\n        <span class=\"ruler-tick\" data-value=\"80.07\"></span>\n        <span class=\"ruler-price\" data-value=\"122.63\"><span>Price $122.63</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"24.17\">Bear<b>$24.17</b></span>\n        <span data-value=\"50.51\">Base<b>$50.51</b></span>\n        <span data-value=\"80.07\">Bull<b>$80.07</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $29.04.</figcaption>\n    </figure>",
+  "llms": "Wheaton Precious Metals is a precious metals streaming company that pays miners up front for the right to buy gold and silver at a low fixed price. Third quarter 2026 revenue rose 62% to $772 million, but gold and silver have fallen to 15-month lows. The price of $122.63 needs gold near $7,750 at a 10% return. Bear $24.17, Base $50.51, Bull $80.07. Verdict: reduce at $122.63, maximum buy price $29.04."
+}
