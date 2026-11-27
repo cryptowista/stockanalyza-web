@@ -1,0 +1,20 @@
+{
+  "ticker": "U",
+  "slug": "u",
+  "name": "Unity Software (U)",
+  "company": "Unity Software Inc.",
+  "companyShort": "Unity Software",
+  "date": "2026-11-27",
+  "order": 260,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $48.24",
+  "price": "$48.24",
+  "base": "$44.41",
+  "upside": "-7.9",
+  "upsideText": "-7.9%",
+  "maxBuy": "$25.53",
+  "teaser": "Hold, watchlist for new money. At $48.24 the shares trade 8.6% above my standalone Base value of $44.41, and the maximum buy price is $25.53. The required margin of safety is 42.5% because Confidence is C (16.3/25): Unity's new advertising product is young and management gives no guidance beyond this quarter. The Bear value is $16.78, 65.2% below the price. Reported takeover talks at about $25 billion are not in my Base, but they are the main reason a holder might wait.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $16.78, base $44.41, bull $71.28, current price $48.24, buy zone at or below $25.53\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"16.78\" data-to=\"71.28\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"25.53\"></span>\n        <span class=\"ruler-tick\" data-value=\"16.78\"></span>\n        <span class=\"ruler-tick\" data-value=\"44.41\"></span>\n        <span class=\"ruler-tick\" data-value=\"71.28\"></span>\n        <span class=\"ruler-price\" data-value=\"48.24\"><span>Price $48.24</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"16.78\">Bear<b>$16.78</b></span>\n        <span data-value=\"44.41\">Base<b>$44.41</b></span>\n        <span data-value=\"71.28\">Bull<b>$71.28</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $25.53.</figcaption>\n    </figure>",
+  "llms": "Unity builds the game engine behind much of mobile gaming and sells advertising through its Vector system, valued on ten years of owner free cash flow after stock compensation with an exit-multiple cross-check. Reported $25B Silver Lake and PIF takeover talks are not in the Base. Bear $16.78, Base $44.41, Bull $71.28. Verdict hold at $48.24 (watchlist for new money), maximum buy price $25.53."
+}
