@@ -1,0 +1,20 @@
+{
+  "ticker": "MMS",
+  "slug": "mms",
+  "name": "Maximus (MMS)",
+  "company": "Maximus, Inc.",
+  "companyShort": "Maximus",
+  "date": "2026-11-27",
+  "order": 257,
+  "verdict": "hold",
+  "verdictLabel": "Hold",
+  "call": "<span class=\"call\">Hold</span> at $61.17",
+  "price": "$61.17",
+  "base": "$79.00",
+  "upside": "29.2",
+  "upsideText": "+29.2%",
+  "maxBuy": "$45.43",
+  "teaser": "The $700 to $800 million free cash flow guide includes about $330 million of delayed collections. Normalized owner cash flow is $417 million, a 12.9% yield, but Agile Defense and the lost VA incentive change the company. Hold at $61.17.",
+  "ruler": "<figure class=\"ruler\" aria-label=\"Valuation range: bear $49.04, base $79.00, bull $119.38, current price $61.17, buy zone at or below $45.43\">\n      <div class=\"ruler-track\">\n        <span class=\"ruler-range\" data-from=\"49.04\" data-to=\"119.38\"></span>\n        <span class=\"ruler-zone\" data-from=\"start\" data-to=\"45.43\"></span>\n        <span class=\"ruler-tick\" data-value=\"49.04\"></span>\n        <span class=\"ruler-tick\" data-value=\"79.00\"></span>\n        <span class=\"ruler-tick\" data-value=\"119.38\"></span>\n        <span class=\"ruler-price\" data-value=\"61.17\"><span>Price $61.17</span></span>\n      </div>\n      <div class=\"ruler-labels\" aria-hidden=\"true\">\n        <span data-value=\"49.04\">Bear<b>$49.04</b></span>\n        <span data-value=\"79.00\">Base<b>$79.00</b></span>\n        <span data-value=\"119.38\">Bull<b>$119.38</b></span>\n      </div>\n      <figcaption>Hatched area: buy zone at or below $45.43.</figcaption>\n    </figure>",
+  "llms": "Maximus is a U.S. government services contractor (Medicaid and benefits programs, VA medical exams, federal technology) that closed the $660 million Agile Defense acquisition on November 18, 2026. Fiscal 2027 free cash flow is guided at $700 to $800 million, but about $330 million is catch-up of delayed collections; my normalized owner free cash flow is $417 million, a 12.9% yield. Bear $49.04, Base $79.00, Bull $119.38. Verdict Hold at $61.17, maximum buy price $45.43."
+}
